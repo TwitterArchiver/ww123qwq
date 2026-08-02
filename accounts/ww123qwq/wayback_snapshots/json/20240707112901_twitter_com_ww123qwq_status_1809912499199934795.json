@@ -1,0 +1,210 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1809829220941775049",
+    "created_at": "2024-07-07T11:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T12:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809912499199934795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1410889891618062340",
+          "start": 0,
+          "username": "Hui_2003"
+        },
+        {
+          "end": 22,
+          "id": "1760312154203557888",
+          "start": 10,
+          "username": "YuiSato2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809912499199934795",
+    "in_reply_to_user_id": "1410889891618062340",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809863626851024954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hui_2003 @YuiSato2007 未成年晶哥管不了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1809829220941775049",
+        "created_at": "2024-07-07T11:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T12:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809912499199934795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1410889891618062340",
+              "start": 0,
+              "username": "Hui_2003"
+            },
+            {
+              "end": 22,
+              "id": "1760312154203557888",
+              "start": 10,
+              "username": "YuiSato2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809912499199934795",
+        "in_reply_to_user_id": "1410889891618062340",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809863626851024954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hui_2003 @YuiSato2007 未成年晶哥管不了🤣"
+      },
+      {
+        "attachments": {},
+        "author_id": "1410889891618062340",
+        "conversation_id": "1809829220941775049",
+        "created_at": "2024-07-07T08:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T09:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809863626851024954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1760312154203557888",
+              "start": 0,
+              "username": "YuiSato2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809863626851024954",
+        "in_reply_to_user_id": "1760312154203557888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 793,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809829220941775049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuiSato2007 肉身在墙内还敢公开冲塔？鉴定为嗑药嗑的😅👉🤡（且八成未成年）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 109,
+          "like_count": 40323,
+          "listed_count": 0,
+          "tweet_count": 10308
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T09:15:44.000Z",
+        "description": "Chinese🇨🇳\naviation geek✈️ & auto fan🚗",
+        "id": "1410889891618062340",
+        "location": "People's Republic of China",
+        "name": "Hui.",
+        "pinned_tweet_id": "1596874447126167552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1483465009393029138/7vFs4Voi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 949,
+          "like_count": 4730,
+          "listed_count": 27,
+          "tweet_count": 3224
+        },
+        "username": "Hui_2003",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T14:35:11.000Z",
+        "description": "日中🇯🇵🇨🇳混血~凉宫ハルヒBack~ 友好/全年无休 私営製図工場の本社年中無休/ ハルヒ是世界的主宰者/川崎/喜欢看乐子/亚空间宇宙新闻播报人/超监制/ 母语：CN/不喜欢支黑/JP CN EN",
+        "id": "1760312154203557888",
+        "name": "凉宫ハルヒSOS制图厂",
+        "pinned_tweet_id": "1805575639925469386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779388772867883008/IFo57-1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 8,
+          "like_count": 830,
+          "listed_count": 2,
+          "tweet_count": 424
+        },
+        "username": "YuiSato2007",
+        "verified": false
+      }
+    ]
+  }
+}

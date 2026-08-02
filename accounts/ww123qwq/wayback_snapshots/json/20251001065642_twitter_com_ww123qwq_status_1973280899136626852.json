@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1973280899136626852",
+    "created_at": "2025-10-01T06:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T07:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973280899136626852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "961832160377282560",
+          "start": 3,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973280899136626852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972316616475152637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iMoeAya: 不知道什么时间，不知道过了多久，只知道萌绫应该已经失禁5次了，全身都要变成敏感带了。获得主人赋予的称号\n名称：绫 \n职业：跳蛋收纳袋\n容量：10/10\n等级：Lv 3 （距离升级还差 6 次高潮）\n装备：水手服（上衣） 百褶裙（腰） 白色丝袜（足）\n道…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1973280899136626852].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1973280899136626852",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1973280899136626852"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1972315856681271296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18S0mZbgAARzFn.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972315856681271296"
+          ]
+        },
+        "author_id": "961832160377282560",
+        "conversation_id": "1972316616475152637",
+        "created_at": "2025-09-28T15:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T16:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972316616475152637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQaec37qKA",
+              "end": 170,
+              "expanded_url": "https://x.com/iMoeAya/status/1972316616475152637/photo/1",
+              "media_key": "3_1972315856681271296",
+              "start": 147,
+              "url": "https://t.co/PQaec37qKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972316616475152637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 13120,
+          "like_count": 415,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "不知道什么时间，不知道过了多久，只知道萌绫应该已经失禁5次了，全身都要变成敏感带了。获得主人赋予的称号\n名称：绫 \n职业：跳蛋收纳袋\n容量：10/10\n等级：Lv 3 （距离升级还差 6 次高潮）\n装备：水手服（上衣） 百褶裙（腰） 白色丝袜（足）\n道具栏：备用跳蛋 x10 备用电池 x20 https://t.co/PQaec37qKA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 199,
+          "like_count": 39794,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 10649
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951641714483183616/OGRyh4_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38579,
+          "following_count": 4272,
+          "like_count": 166173,
+          "listed_count": 137,
+          "media_count": 1101,
+          "tweet_count": 34644
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

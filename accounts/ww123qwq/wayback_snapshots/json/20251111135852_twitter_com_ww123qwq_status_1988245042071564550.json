@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1988244899427479553"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1988245042071564550",
+    "created_at": "2025-11-11T13:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T14:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988245042071564550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tPr7MAPcdh",
+          "end": 41,
+          "expanded_url": "https://x.com/ww123qwq/status/1988245042071564550/video/1",
+          "media_key": "7_1988244899427479553",
+          "start": 18,
+          "url": "https://t.co/tPr7MAPcdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988245042071564550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "地铁上自伤，之牢岚地铁送去w600 https://t.co/tPr7MAPcdh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988245042071564550].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988245042071564550",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988245042071564550"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7609,
+        "height": 1280,
+        "media_key": "7_1988244899427479553",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1988244899427479553/pu/img/G2wMh2miYgeqBTAR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988244899427479553/pu/vid/avc1/320x568/FVuYe5Iq3I7AOZce.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988244899427479553/pu/vid/avc1/480x852/HrDDzgc0NHKu5ml4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988244899427479553/pu/vid/avc1/720x1280/xmRqgCegk5b__yJL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1988244899427479553/pu/pl/zYX55ebXEcCAVfn0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴休学圆角攒钱中/地雷系/欢迎扩列加好友w唯一电报  非本，注意防骗\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1051287723置顶tg非本人推广自辨，出原味私信，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 232,
+          "like_count": 40585,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 11317
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

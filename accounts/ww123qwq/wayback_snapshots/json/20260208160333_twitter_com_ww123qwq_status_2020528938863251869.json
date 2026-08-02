@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2020520653019893969",
+    "created_at": "2026-02-08T16:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T17:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020528938863251869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1967887882384965632",
+          "start": 0,
+          "username": "111q_a54867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020528938863251869",
+    "in_reply_to_user_id": "1967887882384965632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020520653019893969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@111q_a54867 不怕药效里干惊恐了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24366,
+        "height": 1280,
+        "media_key": "13_2020520448765898752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020520448765898752/img/9aRuOJ2eV46B2_T2.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020520448765898752/vid/avc1/320x568/QufFXLJIboj_r5YI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020520448765898752/vid/avc1/480x852/akM3gNmJXIlkJUV4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020520448765898752/vid/avc1/720x1280/VvKidZ9h0KozLk7W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020520448765898752/pl/8VhEu_qyZ7T2qFQZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2020520653019893969",
+        "created_at": "2026-02-08T16:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020528938863251869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020528938863251869",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020520653019893969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 不怕药效里干惊恐了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020520448765898752"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2020520653019893969",
+        "created_at": "2026-02-08T15:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020520653019893969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSHny8fgRH",
+              "end": 30,
+              "expanded_url": "https://x.com/111q_a54867/status/2020520653019893969/video/1",
+              "media_key": "13_2020520448765898752",
+              "start": 7,
+              "url": "https://t.co/QSHny8fgRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020520653019893969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药效中刷视频 https://t.co/QSHny8fgRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 263,
+          "like_count": 41475,
+          "listed_count": 5,
+          "media_count": 594,
+          "tweet_count": 12249
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "od日记",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 1119,
+          "like_count": 5241,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067568331629240321",
+        "3_2067568331637604352",
+        "3_2067568331708833792",
+        "3_2067568331629228032"
+      ],
+      "media_source_tweet_id": [
+        "2067568337358651811",
+        "2067568337358651811",
+        "2067568337358651811",
+        "2067568337358651811"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067645398160912735",
+    "created_at": "2026-06-18T16:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067645398160912735"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 15,
+          "tag": "2026年自分が選ぶ今年上半期の4枚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1510030638610493442",
+          "start": 3,
+          "username": "jinbaRTA2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pZTEm8SbW0",
+          "end": 83,
+          "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+          "media_key": "3_2067568331629240321",
+          "start": 60,
+          "url": "https://t.co/pZTEm8SbW0"
+        },
+        {
+          "display_url": "pic.x.com/pZTEm8SbW0",
+          "end": 83,
+          "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+          "media_key": "3_2067568331637604352",
+          "start": 60,
+          "url": "https://t.co/pZTEm8SbW0"
+        },
+        {
+          "display_url": "pic.x.com/pZTEm8SbW0",
+          "end": 83,
+          "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+          "media_key": "3_2067568331708833792",
+          "start": 60,
+          "url": "https://t.co/pZTEm8SbW0"
+        },
+        {
+          "display_url": "pic.x.com/pZTEm8SbW0",
+          "end": 83,
+          "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+          "media_key": "3_2067568331629228032",
+          "start": 60,
+          "url": "https://t.co/pZTEm8SbW0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067645398160912735",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067568337358651811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinbaRTA2: #2026年自分が選ぶ今年上半期の4枚\n今年の上半期でワシは覚醒した\n止まるんじゃねえぞ https://t.co/pZTEm8SbW0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067568331629240321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF6cXOboAEClew.jpg",
+        "width": 1444
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067568331637604352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF6cXQbQAA0L1G.jpg",
+        "width": 1444
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067568331708833792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF6cXhaIAAAhxR.jpg",
+        "width": 1443
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067568331629228032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF6cXObcAABxdb.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067568331629240321",
+            "3_2067568331637604352",
+            "3_2067568331708833792",
+            "3_2067568331629228032"
+          ],
+          "media_source_tweet_id": [
+            "2067568337358651811",
+            "2067568337358651811",
+            "2067568337358651811",
+            "2067568337358651811"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067645398160912735",
+        "created_at": "2026-06-18T16:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067645398160912735"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 15,
+              "tag": "2026年自分が選ぶ今年上半期の4枚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1510030638610493442",
+              "start": 3,
+              "username": "jinbaRTA2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZTEm8SbW0",
+              "end": 83,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+              "media_key": "3_2067568331629240321",
+              "start": 60,
+              "url": "https://t.co/pZTEm8SbW0"
+            },
+            {
+              "display_url": "pic.x.com/pZTEm8SbW0",
+              "end": 83,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+              "media_key": "3_2067568331637604352",
+              "start": 60,
+              "url": "https://t.co/pZTEm8SbW0"
+            },
+            {
+              "display_url": "pic.x.com/pZTEm8SbW0",
+              "end": 83,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+              "media_key": "3_2067568331708833792",
+              "start": 60,
+              "url": "https://t.co/pZTEm8SbW0"
+            },
+            {
+              "display_url": "pic.x.com/pZTEm8SbW0",
+              "end": 83,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+              "media_key": "3_2067568331629228032",
+              "start": 60,
+              "url": "https://t.co/pZTEm8SbW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067645398160912735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067568337358651811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinbaRTA2: #2026年自分が選ぶ今年上半期の4枚\n今年の上半期でワシは覚醒した\n止まるんじゃねえぞ https://t.co/pZTEm8SbW0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067568331629240321",
+            "3_2067568331637604352",
+            "3_2067568331708833792",
+            "3_2067568331629228032"
+          ]
+        },
+        "author_id": "1510030638610493442",
+        "conversation_id": "2067568337358651811",
+        "created_at": "2026-06-18T11:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067568337358651811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "2026年自分が選ぶ今年上半期の4枚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZTEm8SbW0",
+              "end": 68,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+              "media_key": "3_2067568331629240321",
+              "start": 45,
+              "url": "https://t.co/pZTEm8SbW0"
+            },
+            {
+              "display_url": "pic.x.com/pZTEm8SbW0",
+              "end": 68,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+              "media_key": "3_2067568331637604352",
+              "start": 45,
+              "url": "https://t.co/pZTEm8SbW0"
+            },
+            {
+              "display_url": "pic.x.com/pZTEm8SbW0",
+              "end": 68,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+              "media_key": "3_2067568331708833792",
+              "start": 45,
+              "url": "https://t.co/pZTEm8SbW0"
+            },
+            {
+              "display_url": "pic.x.com/pZTEm8SbW0",
+              "end": 68,
+              "expanded_url": "https://x.com/jinbaRTA2/status/2067568337358651811/photo/1",
+              "media_key": "3_2067568331629228032",
+              "start": 45,
+              "url": "https://t.co/pZTEm8SbW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067568337358651811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 11751,
+          "like_count": 459,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "#2026年自分が選ぶ今年上半期の4枚\n今年の上半期でワシは覚醒した\n止まるんじゃねえぞ https://t.co/pZTEm8SbW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 271,
+          "like_count": 42830,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12965
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T23:05:48.000Z",
+        "description": "@jinba123456のサブ。アイコン→ @faoru_ofuton。ショタお嬢様です。お絵描きはカルマ。AI❌自作発言❌\nスケブ始めました👉 https://t.co/h2mqeE86h2 / お仕事依頼先👉tetuo8988@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "jinba123456"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "username": "faoru_ofuton"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@jinbaRTA2",
+                "end": 96,
+                "expanded_url": "https://skeb.jp/@jinbaRTA2",
+                "start": 73,
+                "url": "https://t.co/h2mqeE86h2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/92380601",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/92380601",
+                "start": 0,
+                "url": "https://t.co/sOEN2Bi07L"
+              }
+            ]
+          }
+        },
+        "id": "1510030638610493442",
+        "location": "闇空間",
+        "name": "じんばちゃん",
+        "pinned_tweet_id": "2052946911687213137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010254495398461440/XHR9Z2q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13382,
+          "following_count": 771,
+          "like_count": 54598,
+          "listed_count": 55,
+          "media_count": 971,
+          "tweet_count": 20673
+        },
+        "url": "https://t.co/sOEN2Bi07L",
+        "username": "jinbaRTA2",
+        "verified": false
+      }
+    ]
+  }
+}

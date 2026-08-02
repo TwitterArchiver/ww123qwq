@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067201091419389952"
+      ],
+      "media_source_tweet_id": [
+        "2067201100810498146"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067274195021816036",
+    "created_at": "2026-06-17T15:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067274195021816036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980358607599464451",
+          "start": 3,
+          "username": "_yesm4n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F3jX183ST0",
+          "end": 40,
+          "expanded_url": "https://x.com/_yesm4n/status/2067201100810498146/photo/1",
+          "media_key": "3_2067201091419389952",
+          "start": 17,
+          "url": "https://t.co/F3jX183ST0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067274195021816036",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067201100810498146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @_yesm4n: cms https://t.co/F3jX183ST0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2067201091419389952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAscK1aQAAB4Jk.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067201091419389952"
+          ],
+          "media_source_tweet_id": [
+            "2067201100810498146"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067274195021816036",
+        "created_at": "2026-06-17T15:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067274195021816036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980358607599464451",
+              "start": 3,
+              "username": "_yesm4n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3jX183ST0",
+              "end": 40,
+              "expanded_url": "https://x.com/_yesm4n/status/2067201100810498146/photo/1",
+              "media_key": "3_2067201091419389952",
+              "start": 17,
+              "url": "https://t.co/F3jX183ST0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067274195021816036",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067201100810498146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @_yesm4n: cms https://t.co/F3jX183ST0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067201091419389952"
+          ]
+        },
+        "author_id": "1980358607599464451",
+        "conversation_id": "2067201100810498146",
+        "created_at": "2026-06-17T11:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067201100810498146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3jX183ST0",
+              "end": 27,
+              "expanded_url": "https://x.com/_yesm4n/status/2067201100810498146/photo/1",
+              "media_key": "3_2067201091419389952",
+              "start": 4,
+              "url": "https://t.co/F3jX183ST0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067201100810498146",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 2903,
+          "like_count": 332,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "reply_settings": "following",
+        "text": "cms https://t.co/F3jX183ST0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 271,
+          "like_count": 42784,
+          "listed_count": 4,
+          "media_count": 704,
+          "tweet_count": 12940
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T19:41:08.000Z",
+        "description": "創作/依頼 絵置き場 sub▶︎@save1oad 🔕No use, repost, AI training",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "save1oad"
+              }
+            ]
+          }
+        },
+        "id": "1980358607599464451",
+        "name": "valentine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067270958445187072/Ez_mLUhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2572,
+          "following_count": 35,
+          "like_count": 55,
+          "listed_count": 10,
+          "media_count": 26,
+          "tweet_count": 35
+        },
+        "username": "_yesm4n",
+        "verified": false
+      }
+    ]
+  }
+}

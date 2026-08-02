@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1878476937120870400"
+      ],
+      "media_source_tweet_id": [
+        "1878477840532078628"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1879858349090668792",
+    "created_at": "2025-01-16T11:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T12:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879858349090668792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "手冲"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "男娘"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "ts"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "sm"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "龟头责"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1538414470157856768",
+          "start": 3,
+          "username": "Sennsui_233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UjDMOwDMPv",
+          "end": 103,
+          "expanded_url": "https://x.com/Sennsui_233/status/1878477840532078628/video/1",
+          "media_key": "7_1878476937120870400",
+          "start": 80,
+          "url": "https://t.co/UjDMOwDMPv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879858349090668792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878477840532078628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sennsui_233: 终于要冲出来了，虽然还差一点点……\n室友打游戏好大声，不小心被发现的话就死定了吧😇\n#手冲 #男娘 #ts #sm #龟头责 https://t.co/UjDMOwDMPv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1879858349090668792].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1879858349090668792",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1879858349090668792"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62833,
+        "height": 1280,
+        "media_key": "7_1878476937120870400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1878476937120870400/pu/img/raUl9xg4yu6faZDB.jpg",
+        "public_metrics": {
+          "view_count": 152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878476937120870400/pu/vid/avc1/320x568/oN0vgaAx5TnADmJK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878476937120870400/pu/vid/avc1/480x852/uyBypinBeCN9W_0b.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1878476937120870400/pu/vid/avc1/720x1280/yt5sktRRKHduweVC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1878476937120870400/pu/pl/_EfvyxGbUDDE_KlR.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1878476937120870400"
+          ]
+        },
+        "author_id": "1538414470157856768",
+        "conversation_id": "1878477840532078628",
+        "created_at": "2025-01-12T16:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T17:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878477840532078628"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "手冲"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "男娘"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "ts"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "sm"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "龟头责"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjDMOwDMPv",
+              "end": 86,
+              "expanded_url": "https://x.com/Sennsui_233/status/1878477840532078628/video/1",
+              "media_key": "7_1878476937120870400",
+              "start": 63,
+              "url": "https://t.co/UjDMOwDMPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878477840532078628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 452,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "终于要冲出来了，虽然还差一点点……\n室友打游戏好大声，不小心被发现的话就死定了吧😇\n#手冲 #男娘 #ts #sm #龟头责 https://t.co/UjDMOwDMPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "冰棍好快喵🍥🌶️🍆🍡🍢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 142,
+          "like_count": 39917,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 10275
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T06:52:58.000Z",
+        "description": "含糖少女🍥丨坐标 #南京丨老婆@qOp619 丨不键政 不od 不自残丨🏳️‍⚧️ #HRT 起始日2023.1.1丨170cm 丨 54kg ｜ #门槛 🚪🚪🚪➡️68r⬅️发 #口令红包 长三角次日达，全国可飞~ 欢迎私信扩列哦 #南京 #TS #男娘 #接线下 #sm",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 9,
+                "tag": "南京丨老婆"
+              },
+              {
+                "end": 46,
+                "start": 42,
+                "tag": "HRT"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "门槛"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "口令红包"
+              },
+              {
+                "end": 120,
+                "start": 117,
+                "tag": "南京"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "TS"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "男娘"
+              },
+              {
+                "end": 133,
+                "start": 129,
+                "tag": "接线下"
+              },
+              {
+                "end": 137,
+                "start": 134,
+                "tag": "sm"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qOp619"
+              }
+            ]
+          }
+        },
+        "id": "1538414470157856768",
+        "location": "中華民國🇹🇼 南京市",
+        "name": "泉水🌸",
+        "pinned_tweet_id": "1879405687366918659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858192537321914368/s0a5wOjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 289,
+          "like_count": 207,
+          "listed_count": 9,
+          "media_count": 106,
+          "tweet_count": 290
+        },
+        "username": "Sennsui_233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002116779070668800"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2001523867794420126",
+    "created_at": "2025-12-19T20:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T21:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002116782031839591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1970072992010084352",
+          "start": 0,
+          "username": "imawa1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0BmzGWqFSL",
+          "end": 45,
+          "expanded_url": "https://x.com/ww123qwq/status/2002116782031839591/photo/1",
+          "media_key": "3_2002116779070668800",
+          "start": 22,
+          "url": "https://t.co/0BmzGWqFSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002116782031839591",
+    "in_reply_to_user_id": "1970072992010084352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001523867794420126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imawa1111 中国的思诺思才7片😭 https://t.co/0BmzGWqFSL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_2002116779070668800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8jymldbQAAY64o.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2001523861872087045",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bXWQxakAU2g54.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002116779070668800"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2001523867794420126",
+        "created_at": "2025-12-19T20:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T21:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002116782031839591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1970072992010084352",
+              "start": 0,
+              "username": "imawa1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0BmzGWqFSL",
+              "end": 45,
+              "expanded_url": "https://x.com/ww123qwq/status/2002116782031839591/photo/1",
+              "media_key": "3_2002116779070668800",
+              "start": 22,
+              "url": "https://t.co/0BmzGWqFSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002116782031839591",
+        "in_reply_to_user_id": "1970072992010084352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001523867794420126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imawa1111 中国的思诺思才7片😭 https://t.co/0BmzGWqFSL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001523861872087045"
+          ]
+        },
+        "author_id": "1970072992010084352",
+        "conversation_id": "2001523867794420126",
+        "created_at": "2025-12-18T05:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T06:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001523867794420126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRnhiUmbxU",
+              "end": 38,
+              "expanded_url": "https://x.com/imawa1111/status/2001523867794420126/photo/1",
+              "media_key": "3_2001523861872087045",
+              "start": 15,
+              "url": "https://t.co/dRnhiUmbxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001523867794420126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 12968,
+          "like_count": 558,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "甘い夢見させて\"ゾルピデム\" https://t.co/dRnhiUmbxU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，赞助支付宝口令红包52/188/过门有福利/，也支持usdt。/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2000481810934108586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 266,
+          "like_count": 40891,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 11855
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T10:30:01.000Z",
+        "description": "09サブ▶︎ @wdga96 自我垢▶︎ @saki1233214 ファンアートタグ▶︎#ささきのさきのアート",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 44,
+                "tag": "ささきのさきのアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "wdga96"
+              },
+              {
+                "end": 33,
+                "start": 21,
+                "username": "saki1233214"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sasakihagomi",
+                "end": 23,
+                "expanded_url": "https://lit.link/sasakihagomi",
+                "start": 0,
+                "url": "https://t.co/IipOPO7A8e"
+              }
+            ]
+          }
+        },
+        "id": "1970072992010084352",
+        "location": "凍結9回目",
+        "name": "ささきかも",
+        "pinned_tweet_id": "1997252176792650035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000868848858488843/XeZuiMe9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2763,
+          "following_count": 759,
+          "like_count": 1982,
+          "listed_count": 11,
+          "media_count": 129,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/IipOPO7A8e",
+        "username": "imawa1111",
+        "verified": false
+      }
+    ]
+  }
+}

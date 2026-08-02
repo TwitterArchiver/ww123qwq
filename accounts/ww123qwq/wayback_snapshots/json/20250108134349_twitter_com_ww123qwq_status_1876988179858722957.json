@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1876008973935255922",
+    "created_at": "2025-01-08T13:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T14:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876988179858722957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490670069877252101",
+          "start": 0,
+          "username": "Sww2080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876988179858722957",
+    "in_reply_to_user_id": "1490670069877252101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876008973935255922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sww2080 这玩意，早该上山下乡，劳动改造了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1876008973935255922",
+        "created_at": "2025-01-08T13:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T14:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876988179858722957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490670069877252101",
+              "start": 0,
+              "username": "Sww2080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876988179858722957",
+        "in_reply_to_user_id": "1490670069877252101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876008973935255922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sww2080 这玩意，早该上山下乡，劳动改造了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876008970344919040"
+          ]
+        },
+        "author_id": "1490670069877252101",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Greta Thunberg",
+              "id": "1118130254759915520",
+              "name": "Greta Thunberg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Greta Thunberg",
+              "id": "1118130254759915520",
+              "name": "Greta Thunberg"
+            }
+          }
+        ],
+        "conversation_id": "1876008973935255922",
+        "created_at": "2025-01-05T20:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T21:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876008973935255922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qg3SeAb8YW",
+              "end": 23,
+              "expanded_url": "https://x.com/Sww2080/status/1876008973935255922/photo/1",
+              "media_key": "3_1876008970344919040",
+              "start": 0,
+              "url": "https://t.co/qg3SeAb8YW"
+            },
+            {
+              "display_url": "x.com/SaraReyi/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/SaraReyi/status/1875652932236108211",
+              "start": 24,
+              "url": "https://t.co/NKYR6K6YU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876008973935255922",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 65168,
+          "like_count": 410,
+          "quote_count": 16,
+          "reply_count": 38,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875652932236108211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/qg3SeAb8YW https://t.co/NKYR6K6YU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 124,
+          "like_count": 39722,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 10210
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T12:53:44.000Z",
+        "description": "粤/普/Eng\n☭🇨🇳🇵🇸\n包蜜\n小号指路：@Sww1980",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 22,
+                "username": "Sww1980"
+              }
+            ]
+          }
+        },
+        "id": "1490670069877252101",
+        "location": "朝鲜民主主义人民共和国🇰🇵",
+        "name": "SWSWSW☭🇨🇳🇵🇸🔻",
+        "pinned_tweet_id": "1715195016287752650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869131229402189825/yr1fNtjK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1132,
+          "like_count": 177434,
+          "listed_count": 10,
+          "media_count": 823,
+          "tweet_count": 25199
+        },
+        "username": "Sww2080",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051099531610357760"
+      ],
+      "media_source_tweet_id": [
+        "2051099534298874058"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2051118309777760294",
+    "created_at": "2026-05-04T01:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T02:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051118309777760294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1155245932121743360",
+          "start": 3,
+          "username": "kuma_yuka___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UB5F6TPnLn",
+          "end": 41,
+          "expanded_url": "https://x.com/kuma_yuka___/status/2051099534298874058/photo/1",
+          "media_key": "3_2051099531610357760",
+          "start": 18,
+          "url": "https://t.co/UB5F6TPnLn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051118309777760294",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051099534298874058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuma_yuka___: https://t.co/UB5F6TPnLn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051099531610357760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHb4KCSbAAAipG_.jpg",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051099531610357760"
+          ],
+          "media_source_tweet_id": [
+            "2051099534298874058"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2051118309777760294",
+        "created_at": "2026-05-04T01:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051118309777760294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1155245932121743360",
+              "start": 3,
+              "username": "kuma_yuka___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UB5F6TPnLn",
+              "end": 41,
+              "expanded_url": "https://x.com/kuma_yuka___/status/2051099534298874058/photo/1",
+              "media_key": "3_2051099531610357760",
+              "start": 18,
+              "url": "https://t.co/UB5F6TPnLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051118309777760294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051099534298874058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuma_yuka___: https://t.co/UB5F6TPnLn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051099531610357760"
+          ]
+        },
+        "author_id": "1155245932121743360",
+        "conversation_id": "2051099534298874058",
+        "created_at": "2026-05-04T00:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T01:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051099534298874058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UB5F6TPnLn",
+              "end": 23,
+              "expanded_url": "https://x.com/kuma_yuka___/status/2051099534298874058/photo/1",
+              "media_key": "3_2051099531610357760",
+              "start": 0,
+              "url": "https://t.co/UB5F6TPnLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051099534298874058",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 5344,
+          "like_count": 587,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UB5F6TPnLn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 276,
+          "like_count": 42496,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 12734
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-27T22:37:48.000Z",
+        "description": "𝑖𝑙𝑙𝑢𝑠𝑡𝑟𝑎𝑡𝑜𝑟｜\n創作  #天使組曲｜ #月白のウォーリア /FA #月白便 \nｻﾌﾞ▹@___angle_km\n\n現在新規ご依頼を停止中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 17,
+                "tag": "天使組曲"
+              },
+              {
+                "end": 33,
+                "start": 24,
+                "tag": "月白のウォーリア"
+              },
+              {
+                "end": 42,
+                "start": 38,
+                "tag": "月白便"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "___angle_km"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yukakumagai",
+                "end": 23,
+                "expanded_url": "https://lit.link/yukakumagai",
+                "start": 0,
+                "url": "https://t.co/Y1DCRu2i5j"
+              }
+            ]
+          }
+        },
+        "id": "1155245932121743360",
+        "location": "連絡先｜他SNSなど▽",
+        "name": "熊谷ユカ",
+        "pinned_tweet_id": "2026252954798608667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041699377769779200/-D40464Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79575,
+          "following_count": 728,
+          "like_count": 60586,
+          "listed_count": 545,
+          "media_count": 264,
+          "tweet_count": 7636
+        },
+        "url": "https://t.co/Y1DCRu2i5j",
+        "username": "kuma_yuka___",
+        "verified": false
+      }
+    ]
+  }
+}

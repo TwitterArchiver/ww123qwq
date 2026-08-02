@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1997497619405516871",
+    "created_at": "2025-12-08T13:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T14:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998014926531752264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2371098181",
+          "start": 0,
+          "username": "Natie2Natie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998014926531752264",
+    "in_reply_to_user_id": "2371098181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997497619405516871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natie2Natie 外宣收收味😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42119,
+        "height": 960,
+        "media_key": "13_1997497420490682368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1997497420490682368/img/V1IaKTT1Z_2Nc7Bf.jpg",
+        "public_metrics": {
+          "view_count": 3324546
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997497420490682368/vid/avc1/320x426/slJwSBNGzszIw9ge.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997497420490682368/vid/avc1/480x640/i5WuLNZ_FMHN4rky.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1997497420490682368/vid/avc1/720x960/FbyaKsho9zz7rnxk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1997497420490682368/pl/9ERH_6FbXKKAMc5-.m3u8?tag=14&v=a5e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1997497619405516871",
+        "created_at": "2025-12-08T13:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998014926531752264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2371098181",
+              "start": 0,
+              "username": "Natie2Natie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998014926531752264",
+        "in_reply_to_user_id": "2371098181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997497619405516871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natie2Natie 外宣收收味😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1997497420490682368"
+          ]
+        },
+        "author_id": "2371098181",
+        "conversation_id": "1997497619405516871",
+        "created_at": "2025-12-07T02:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997497619405516871"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 277,
+              "normalized_text": "realtimechina",
+              "probability": 0.7579,
+              "start": 265,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysYDmt8Jg6",
+              "end": 302,
+              "expanded_url": "https://x.com/Natie2Natie/status/1997497619405516871/video/1",
+              "media_key": "13_1997497420490682368",
+              "start": 279,
+              "url": "https://t.co/ysYDmt8Jg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997497619405516871",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2531,
+          "impression_count": 3214911,
+          "like_count": 39006,
+          "quote_count": 104,
+          "reply_count": 219,
+          "retweet_count": 2331
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳 A mother's instinctive trust wasn't in a stranger, but in the police officers who serve her community. They became temporary guardians. This is what it means when those who serve are seen as part of the family—a bond built on daily protection and respect. 🤗🍼\n📽️ realtimechina https://t.co/ysYDmt8Jg6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，支持支付宝口令红包，usdt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1997666501986312595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 266,
+          "like_count": 40772,
+          "listed_count": 3,
+          "media_count": 420,
+          "tweet_count": 11714
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-03T23:49:49.000Z",
+        "description": "Professional passport-stamper 🌍❤️ 🇨🇳 Opinions are my own. RT are not endorsements.  🚫DM",
+        "id": "2371098181",
+        "location": "Planet Earth",
+        "name": "Natie🇨🇳🇷🇺🇵🇸",
+        "pinned_tweet_id": "1997497619405516871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743732982563905536/GP6PP5PM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12100,
+          "following_count": 4418,
+          "like_count": 267250,
+          "listed_count": 57,
+          "media_count": 1432,
+          "tweet_count": 22046
+        },
+        "username": "Natie2Natie",
+        "verified": false
+      }
+    ]
+  }
+}

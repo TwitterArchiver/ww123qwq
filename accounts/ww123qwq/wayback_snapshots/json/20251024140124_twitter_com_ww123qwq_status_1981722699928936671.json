@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981434801732173824"
+      ],
+      "media_source_tweet_id": [
+        "1981434804655837226"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1981722699928936671",
+    "created_at": "2025-10-24T14:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T15:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981722699928936671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1779921577213337601",
+          "start": 3,
+          "username": "TROWGGG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mSzkGwYKjc",
+          "end": 36,
+          "expanded_url": "https://x.com/TROWGGG/status/1981434804655837226/photo/1",
+          "media_key": "3_1981434801732173824",
+          "start": 13,
+          "url": "https://t.co/mSzkGwYKjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981722699928936671",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981434804655837226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TROWGGG: https://t.co/mSzkGwYKjc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981434801732173824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G394dD7XwAAeO9_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981434801732173824"
+          ],
+          "media_source_tweet_id": [
+            "1981434804655837226"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1981722699928936671",
+        "created_at": "2025-10-24T14:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T15:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981722699928936671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1779921577213337601",
+              "start": 3,
+              "username": "TROWGGG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSzkGwYKjc",
+              "end": 36,
+              "expanded_url": "https://x.com/TROWGGG/status/1981434804655837226/photo/1",
+              "media_key": "3_1981434801732173824",
+              "start": 13,
+              "url": "https://t.co/mSzkGwYKjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981722699928936671",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981434804655837226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TROWGGG: https://t.co/mSzkGwYKjc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981434801732173824"
+          ]
+        },
+        "author_id": "1779921577213337601",
+        "conversation_id": "1981434804655837226",
+        "created_at": "2025-10-23T18:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T19:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981434804655837226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSzkGwYKjc",
+              "end": 23,
+              "expanded_url": "https://x.com/TROWGGG/status/1981434804655837226/photo/1",
+              "media_key": "3_1981434801732173824",
+              "start": 0,
+              "url": "https://t.co/mSzkGwYKjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981434804655837226",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mSzkGwYKjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 211,
+          "like_count": 39963,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 10715
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T17:16:12.000Z",
+        "description": "我无处不在✟                                                                     \n✟不要攻击只是一个不存在的实体                                     只对药物科研有兴趣",
+        "id": "1779921577213337601",
+        "name": "我叫某小花",
+        "pinned_tweet_id": "1836628809971560716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779922488182583296/kIMH2qk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 55,
+          "like_count": 821,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 111
+        },
+        "username": "TROWGGG",
+        "verified": false
+      }
+    ]
+  }
+}

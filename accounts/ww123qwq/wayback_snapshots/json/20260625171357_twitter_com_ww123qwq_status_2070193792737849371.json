@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070088062038839296"
+      ],
+      "media_source_tweet_id": [
+        "2070088074005209505"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2070193792737849371",
+    "created_at": "2026-06-25T17:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070193792737849371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1266206715839606784",
+          "start": 3,
+          "username": "hanabitaminc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mxkKCMH90Y",
+          "end": 55,
+          "expanded_url": "https://x.com/hanabitaminc/status/2070088074005209505/photo/1",
+          "media_key": "3_2070088062038839296",
+          "start": 32,
+          "url": "https://t.co/mxkKCMH90Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070193792737849371",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070088074005209505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanabitaminc: 汚いものは綺麗にしなきゃね https://t.co/mxkKCMH90Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2070088062038839296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpuH-eaEAA8XSI.jpg",
+        "width": 3146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070088062038839296"
+          ],
+          "media_source_tweet_id": [
+            "2070088074005209505"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2070193792737849371",
+        "created_at": "2026-06-25T17:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070193792737849371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1266206715839606784",
+              "start": 3,
+              "username": "hanabitaminc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxkKCMH90Y",
+              "end": 55,
+              "expanded_url": "https://x.com/hanabitaminc/status/2070088074005209505/photo/1",
+              "media_key": "3_2070088062038839296",
+              "start": 32,
+              "url": "https://t.co/mxkKCMH90Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070193792737849371",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070088074005209505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanabitaminc: 汚いものは綺麗にしなきゃね https://t.co/mxkKCMH90Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070088062038839296"
+          ]
+        },
+        "author_id": "1266206715839606784",
+        "conversation_id": "2070088074005209505",
+        "created_at": "2026-06-25T10:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070088074005209505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mxkKCMH90Y",
+              "end": 37,
+              "expanded_url": "https://x.com/hanabitaminc/status/2070088074005209505/photo/1",
+              "media_key": "3_2070088062038839296",
+              "start": 14,
+              "url": "https://t.co/mxkKCMH90Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070088074005209505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 18386,
+          "like_count": 1791,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "汚いものは綺麗にしなきゃね https://t.co/mxkKCMH90Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 278,
+          "like_count": 43076,
+          "listed_count": 4,
+          "media_count": 707,
+          "tweet_count": 13040
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T03:17:22.000Z",
+        "description": "人間が好きです \n (現在、ご依頼とDMでのお返事できかねます)\n🐶→@hanabitaminb\nインスタ→ https://t.co/AmlunMW4by",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "hanabitaminb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hanabitaminc?i…",
+                "end": 78,
+                "expanded_url": "https://www.instagram.com/hanabitaminc?igsh=MWRicWF1YzZuMGN6MA%3D%3D&utm_source=qr",
+                "start": 55,
+                "url": "https://t.co/AmlunMW4by"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53144689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53144689",
+                "start": 0,
+                "url": "https://t.co/72PdX51Udv"
+              }
+            ]
+          }
+        },
+        "id": "1266206715839606784",
+        "location": "ぽかぽかホットカーペットランド",
+        "name": "花巻 花郎",
+        "pinned_tweet_id": "2070088074005209505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610904608439959553/GjAHGmmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131140,
+          "following_count": 143,
+          "like_count": 55871,
+          "listed_count": 800,
+          "media_count": 288,
+          "tweet_count": 39022
+        },
+        "url": "https://t.co/72PdX51Udv",
+        "username": "hanabitaminc",
+        "verified": false
+      }
+    ]
+  }
+}

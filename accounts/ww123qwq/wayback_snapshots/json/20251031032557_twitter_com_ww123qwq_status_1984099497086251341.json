@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1984099497086251341",
+    "created_at": "2025-10-31T03:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T04:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984099497086251341"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 103,
+          "tag": "DMS年会2025"
+        },
+        {
+          "end": 124,
+          "start": 114,
+          "tag": "DMS蔷薇女仆庄园"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1460603099488284680",
+          "start": 3,
+          "username": "LQqCYT4uLfFFstL"
+        },
+        {
+          "end": 100,
+          "id": "1648926600334024705",
+          "start": 87,
+          "username": "CatsFish_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "🫠 Tweep 2010 – 2021 🦣 https://t.co/KuAtJkryhw 🧵https://t.co/1WZzdUtUPy",
+          "display_url": "x.com/bhaggs",
+          "end": 139,
+          "expanded_url": "https://x.com/bhaggs",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/1977819208550363136/rjYQyryG?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1977819208550363136/rjYQyryG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "Bryan Haggerty (@bhaggs) on X",
+          "unwound_url": "https://twitter.com/bhaggs",
+          "url": "https://t.co/b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984099497086251341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983424583073202263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LQqCYT4uLfFFstL: 萌妹子与萌妹子贴贴拥抱💕💕嘻嘻没想到还能再次相遇!!!真是太惊喜太开心啦！猫猫鱼依旧还是这么可爱！这次旅程有很大收获大家都好棒😋💕\n@CatsFish_ovo \n #DMS年会2025 #DMS蔷薇女仆庄园 https://t.co/b…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984099497086251341].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984099497086251341",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984099497086251341"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8433,
+        "height": 720,
+        "media_key": "13_1983424510545272832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983424510545272832/img/jSFroP2noVP9oEVI.jpg",
+        "public_metrics": {
+          "view_count": 13587
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983424510545272832/vid/avc1/480x270/JAjxAEkh0LnjWbjO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983424510545272832/vid/avc1/640x360/z54uQAW2FYpf7r8M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983424510545272832/vid/avc1/1280x720/RNele1Dsw9zSjQFs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983424510545272832/pl/cFJJr4_H4-tQGf3t.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983424510545272832"
+          ]
+        },
+        "author_id": "1460603099488284680",
+        "conversation_id": "1983424583073202263",
+        "created_at": "2025-10-29T06:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T07:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983424583073202263"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 82,
+              "tag": "DMS年会2025"
+            },
+            {
+              "end": 103,
+              "start": 93,
+              "tag": "DMS蔷薇女仆庄园"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 79,
+              "id": "1648926600334024705",
+              "start": 66,
+              "username": "CatsFish_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVLf7BWWcu",
+              "end": 127,
+              "expanded_url": "https://x.com/LQqCYT4uLfFFstL/status/1983424583073202263/video/1",
+              "media_key": "13_1983424510545272832",
+              "start": 104,
+              "url": "https://t.co/bVLf7BWWcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983424583073202263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 31238,
+          "like_count": 583,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "萌妹子与萌妹子贴贴拥抱💕💕嘻嘻没想到还能再次相遇!!!真是太惊喜太开心啦！猫猫鱼依旧还是这么可爱！这次旅程有很大收获大家都好棒😋💕\n@CatsFish_ovo \n #DMS年会2025 #DMS蔷薇女仆庄园 https://t.co/bVLf7BWWcu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1060531885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 216,
+          "like_count": 40223,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 10871
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T13:38:27.000Z",
+        "description": "cn：沅沅｜想成为卡哇伊萌妹捏o(｀ω´ )o 只扩列有营业的同好爱好者欢迎🐧扩列",
+        "id": "1460603099488284680",
+        "name": "yuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968311667382689792/07FZfmQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 143,
+          "like_count": 166,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 53
+        },
+        "username": "LQqCYT4uLfFFstL",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T05:48:48.000Z",
+        "description": "/ᐠ - ˕ -マ Ⳋ 魚尋貓｜サーモンが食べたい！—————💗 & 📷：@Blank_qwq 🐱 : @FishCat_ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "Blank_qwq"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "FishCat_ovo"
+              }
+            ]
+          }
+        },
+        "id": "1648926600334024705",
+        "location": "広州",
+        "name": "鯨御傾貓",
+        "pinned_tweet_id": "1968257777543020725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922006437905018880/Z-GyDpV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44064,
+          "following_count": 726,
+          "like_count": 4666,
+          "listed_count": 140,
+          "media_count": 376,
+          "tweet_count": 1482
+        },
+        "username": "CatsFish_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

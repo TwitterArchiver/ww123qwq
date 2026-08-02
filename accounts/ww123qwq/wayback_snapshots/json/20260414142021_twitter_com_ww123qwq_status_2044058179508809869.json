@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044058175733891072"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2044058179508809869",
+    "created_at": "2026-04-14T14:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044058179508809869"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DyI83fAf1q",
+          "end": 30,
+          "expanded_url": "https://x.com/ww123qwq/status/2044058179508809869/photo/1",
+          "media_key": "3_2044058175733891072",
+          "start": 7,
+          "url": "https://t.co/DyI83fAf1q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044058179508809869",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唑吡坦小饮料 https://t.co/DyI83fAf1q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2044058175733891072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF30FLjaAAACqOF.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044058175733891072"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2044058179508809869",
+        "created_at": "2026-04-14T14:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044058179508809869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DyI83fAf1q",
+              "end": 30,
+              "expanded_url": "https://x.com/ww123qwq/status/2044058179508809869/photo/1",
+              "media_key": "3_2044058175733891072",
+              "start": 7,
+              "url": "https://t.co/DyI83fAf1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044058179508809869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唑吡坦小饮料 https://t.co/DyI83fAf1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 274,
+          "like_count": 42139,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 12613
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1799679795640532992",
+        "3_1799679795951022080"
+      ],
+      "media_source_tweet_id": [
+        "1799679802485670193",
+        "1799679802485670193"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1800084833022128635",
+    "created_at": "2024-06-10T08:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T09:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800084833022128635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "ShimonaChan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Ix2hvCcnPs",
+          "end": 48,
+          "expanded_url": "https://twitter.com/ShimonaChan/status/1799679802485670193/photo/1",
+          "media_key": "3_1799679795640532992",
+          "start": 25,
+          "url": "https://t.co/Ix2hvCcnPs"
+        },
+        {
+          "display_url": "pic.twitter.com/Ix2hvCcnPs",
+          "end": 48,
+          "expanded_url": "https://twitter.com/ShimonaChan/status/1799679802485670193/photo/1",
+          "media_key": "3_1799679795951022080",
+          "start": 25,
+          "url": "https://t.co/Ix2hvCcnPs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800084833022128635",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799679802485670193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShimonaChan: 多少带点癖好了 https://t.co/Ix2hvCcnPs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1799679795640532992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPm_PTCaAAA5EQe.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1799679795951022080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPm_PUMbsAA5ZpA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799679795640532992",
+            "3_1799679795951022080"
+          ],
+          "media_source_tweet_id": [
+            "1799679802485670193",
+            "1799679802485670193"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1800084833022128635",
+        "created_at": "2024-06-10T08:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T09:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800084833022128635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "ShimonaChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Ix2hvCcnPs",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ShimonaChan/status/1799679802485670193/photo/1",
+              "media_key": "3_1799679795640532992",
+              "start": 25,
+              "url": "https://t.co/Ix2hvCcnPs"
+            },
+            {
+              "display_url": "pic.twitter.com/Ix2hvCcnPs",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ShimonaChan/status/1799679802485670193/photo/1",
+              "media_key": "3_1799679795951022080",
+              "start": 25,
+              "url": "https://t.co/Ix2hvCcnPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800084833022128635",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799679802485670193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShimonaChan: 多少带点癖好了 https://t.co/Ix2hvCcnPs"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799679795640532992",
+            "3_1799679795951022080"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1799679802485670193",
+        "created_at": "2024-06-09T05:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T06:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799679802485670193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Ix2hvCcnPs",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ShimonaChan/status/1799679802485670193/photo/1",
+              "media_key": "3_1799679795640532992",
+              "start": 8,
+              "url": "https://t.co/Ix2hvCcnPs"
+            },
+            {
+              "display_url": "pic.twitter.com/Ix2hvCcnPs",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ShimonaChan/status/1799679802485670193/photo/1",
+              "media_key": "3_1799679795951022080",
+              "start": 8,
+              "url": "https://t.co/Ix2hvCcnPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799679802485670193",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多少带点癖好了 https://t.co/Ix2hvCcnPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 106,
+          "like_count": 41067,
+          "listed_count": 0,
+          "tweet_count": 10305
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "OMG Kawaii Shimona/ Do not use my oc for AI training! / overdose tweet💊OvO💊/ 程度不深的直觉系地雷/ 门槛50",
+        "id": "758296624875446272",
+        "location": "別看，看了會死",
+        "name": "Shimona@UyukiStudio",
+        "pinned_tweet_id": "1799438183098368369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781211787503054848/Z8nFP986_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23345,
+          "following_count": 3356,
+          "like_count": 8836,
+          "listed_count": 33,
+          "tweet_count": 24310
+        },
+        "username": "ShimonaChan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067084559238463488"
+      ],
+      "media_source_tweet_id": [
+        "2067084625433030787"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067270343094681701",
+    "created_at": "2026-06-17T15:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067270343094681701"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 13,
+          "tag": "魔法少女ノ魔女裁判"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "まのさば"
+        },
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "まのさば二次创作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877308862648430594",
+          "start": 3,
+          "username": "siickuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FJTKNqOpkV",
+          "end": 64,
+          "expanded_url": "https://x.com/siickuu/status/2067084625433030787/photo/1",
+          "media_key": "3_2067084559238463488",
+          "start": 41,
+          "url": "https://t.co/FJTKNqOpkV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067270343094681701",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067084625433030787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siickuu: #魔法少女ノ魔女裁判 \n#まのさば\n#まのさば二次创作 https://t.co/FJTKNqOpkV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067084559238463488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_CdGoagAAg3uo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067084559238463488"
+          ],
+          "media_source_tweet_id": [
+            "2067084625433030787"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067270343094681701",
+        "created_at": "2026-06-17T15:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067270343094681701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 13,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "まのさば"
+            },
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "まのさば二次创作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877308862648430594",
+              "start": 3,
+              "username": "siickuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FJTKNqOpkV",
+              "end": 64,
+              "expanded_url": "https://x.com/siickuu/status/2067084625433030787/photo/1",
+              "media_key": "3_2067084559238463488",
+              "start": 41,
+              "url": "https://t.co/FJTKNqOpkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067270343094681701",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067084625433030787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siickuu: #魔法少女ノ魔女裁判 \n#まのさば\n#まのさば二次创作 https://t.co/FJTKNqOpkV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067084559238463488"
+          ]
+        },
+        "author_id": "1877308862648430594",
+        "conversation_id": "2067084625433030787",
+        "created_at": "2026-06-17T03:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067084625433030787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "魔法少女ノ魔女裁判"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "まのさば"
+            },
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "まのさば二次创作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FJTKNqOpkV",
+              "end": 51,
+              "expanded_url": "https://x.com/siickuu/status/2067084625433030787/photo/1",
+              "media_key": "3_2067084559238463488",
+              "start": 28,
+              "url": "https://t.co/FJTKNqOpkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067084625433030787",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 16624,
+          "like_count": 1519,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "#魔法少女ノ魔女裁判 \n#まのさば\n#まのさば二次创作 https://t.co/FJTKNqOpkV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 270,
+          "like_count": 42777,
+          "listed_count": 4,
+          "media_count": 704,
+          "tweet_count": 12934
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T10:58:14.000Z",
+        "description": "皆さんが私を好きになってくれてありがとうございます、私もあなたたちが好きです！ヾ( 〃∇〃)ﾂ ｷｬｰｰｰｯ♪ *⭐︎ꜝꜝฅ",
+        "id": "1877308862648430594",
+        "location": "好友位66 只回口令 ",
+        "name": "iouoki",
+        "pinned_tweet_id": "2049261840912241104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084872863350784/PjwIrCOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11032,
+          "following_count": 15,
+          "like_count": 1210,
+          "listed_count": 36,
+          "media_count": 183,
+          "tweet_count": 506
+        },
+        "url": "",
+        "username": "siickuu",
+        "verified": false
+      }
+    ]
+  }
+}

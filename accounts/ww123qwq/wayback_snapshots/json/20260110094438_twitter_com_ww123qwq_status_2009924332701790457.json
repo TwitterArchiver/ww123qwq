@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2009768398880976954",
+    "created_at": "2026-01-10T09:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T10:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009924332701790457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1912227512362717184",
+          "start": 0,
+          "username": "kusur_tu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009924332701790457",
+    "in_reply_to_user_id": "1912227512362717184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009768398880976954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusur_tu 换个医生不就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2009768398880976954",
+        "created_at": "2026-01-10T09:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T10:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009924332701790457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1912227512362717184",
+              "start": 0,
+              "username": "kusur_tu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009924332701790457",
+        "in_reply_to_user_id": "1912227512362717184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009768398880976954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusur_tu 换个医生不就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912227512362717184",
+        "conversation_id": "2009768398880976954",
+        "created_at": "2026-01-09T23:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T00:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009768398880976954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009768398880976954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 453,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今まで主治医に0d暴露して特定の薬出されなくなったりした事ありますか…❔🥲\n依存やめたくて、相談したいんですけど…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 266,
+          "like_count": 40968,
+          "listed_count": 5,
+          "media_count": 532,
+          "tweet_count": 12013
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T19:33:20.000Z",
+        "description": "薬を愛し、薬に愛されたかった人間",
+        "id": "1912227512362717184",
+        "location": "お薬友達募集中",
+        "name": "つじ",
+        "pinned_tweet_id": "1956645630853681177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995319333988577280/8XyTxuka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 90,
+          "like_count": 1400,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1563
+        },
+        "username": "kusur_tu",
+        "verified": false
+      }
+    ]
+  }
+}

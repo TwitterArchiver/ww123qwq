@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1984289627688386787",
+    "created_at": "2025-10-31T16:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T17:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984289627688386787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882936483662663680",
+          "start": 3,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984289627688386787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984111370091294834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jngyn298282: 作为小县城唯一喝过死藤水的人，我的眼神里总是透着同龄人不懂的瞳孔放大。每次入夜后变形突然剧烈，我都会望向黑暗低语：“20:11 剧烈变形”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1984289627688386787",
+        "created_at": "2025-10-31T16:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984289627688386787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882936483662663680",
+              "start": 3,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984289627688386787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984111370091294834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jngyn298282: 作为小县城唯一喝过死藤水的人，我的眼神里总是透着同龄人不懂的瞳孔放大。每次入夜后变形突然剧烈，我都会望向黑暗低语：“20:11 剧烈变形”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882936483662663680",
+        "conversation_id": "1984111370091294834",
+        "created_at": "2025-10-31T04:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T05:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984111370091294834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984111370091294834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2485,
+          "like_count": 62,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "作为小县城唯一喝过死藤水的人，我的眼神里总是透着同龄人不懂的瞳孔放大。每次入夜后变形突然剧烈，我都会望向黑暗低语：“20:11 剧烈变形”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1060531885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 219,
+          "like_count": 40239,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 10891
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼",
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1983521365727891517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 151,
+          "like_count": 12178,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1423
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1900508111724765480",
+    "created_at": "2025-03-14T12:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T13:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900523491709112401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893026488662007810",
+          "start": 0,
+          "username": "AnoSoy0rin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900523491709112401",
+    "in_reply_to_user_id": "1893026488662007810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900508744447840592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnoSoy0rin 青团（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1900508111724765480",
+        "created_at": "2025-03-14T12:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T13:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900523491709112401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893026488662007810",
+              "start": 0,
+              "username": "AnoSoy0rin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900523491709112401",
+        "in_reply_to_user_id": "1893026488662007810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900508744447840592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnoSoy0rin 青团（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893026488662007810",
+        "conversation_id": "1900508111724765480",
+        "created_at": "2025-03-14T11:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T12:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900508744447840592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900508744447840592",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900508111724765480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 下面绿色的加的是哪种小料呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "重度抑郁/中度焦虑/日常/碎碎念/社恐/od/家暴/欢迎扩列",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 180,
+          "like_count": 40000,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 10574
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T19:54:32.000Z",
+        "description": "社交用（存疑）账号，主要用于人类观察，可能不定期存放点每日随笔。",
+        "id": "1893026488662007810",
+        "location": "武汉",
+        "name": "幽沐",
+        "pinned_tweet_id": "1893036569738780980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895516629334941696/OFBQQUM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 297,
+          "like_count": 2155,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1091
+        },
+        "username": "AnoSoy0rin",
+        "verified": false
+      }
+    ]
+  }
+}

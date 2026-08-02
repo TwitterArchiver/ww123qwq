@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976222595151503360"
+      ],
+      "media_source_tweet_id": [
+        "1976222604747997458"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1977170790346027381",
+    "created_at": "2025-10-12T00:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T01:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977170790346027381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1594011092270780416",
+          "start": 3,
+          "username": "1_0xll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ACElKBK16",
+          "end": 35,
+          "expanded_url": "https://x.com/1_0xll/status/1976222604747997458/photo/1",
+          "media_key": "3_1976222595151503360",
+          "start": 12,
+          "url": "https://t.co/7ACElKBK16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977170790346027381",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976222604747997458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1_0xll: https://t.co/7ACElKBK16"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3783,
+        "media_key": "3_1976222595151503360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2zz-tUbIAAMYvL.jpg",
+        "width": 2838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976222595151503360"
+          ],
+          "media_source_tweet_id": [
+            "1976222604747997458"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1977170790346027381",
+        "created_at": "2025-10-12T00:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T01:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977170790346027381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1594011092270780416",
+              "start": 3,
+              "username": "1_0xll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ACElKBK16",
+              "end": 35,
+              "expanded_url": "https://x.com/1_0xll/status/1976222604747997458/photo/1",
+              "media_key": "3_1976222595151503360",
+              "start": 12,
+              "url": "https://t.co/7ACElKBK16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977170790346027381",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976222604747997458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1_0xll: https://t.co/7ACElKBK16"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976222595151503360"
+          ]
+        },
+        "author_id": "1594011092270780416",
+        "conversation_id": "1976222604747997458",
+        "created_at": "2025-10-09T09:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976222604747997458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ACElKBK16",
+              "end": 23,
+              "expanded_url": "https://x.com/1_0xll/status/1976222604747997458/photo/1",
+              "media_key": "3_1976222595151503360",
+              "start": 0,
+              "url": "https://t.co/7ACElKBK16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976222604747997458",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 24268,
+          "like_count": 2597,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7ACElKBK16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 206,
+          "like_count": 39861,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 10687
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T16:54:08.000Z",
+        "description": "05｜摂食｜自傷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10796777…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/107967779/illustrations",
+                "start": 0,
+                "url": "https://t.co/a4r3lrBVoL"
+              }
+            ]
+          }
+        },
+        "id": "1594011092270780416",
+        "name": "吐瀉",
+        "pinned_tweet_id": "1966694332733272570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974134178242572297/z5npgp4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 68,
+          "like_count": 6409,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 1686
+        },
+        "url": "https://t.co/a4r3lrBVoL",
+        "username": "1_0xll",
+        "verified": false
+      }
+    ]
+  }
+}

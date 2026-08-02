@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071298579583668469",
+    "created_at": "2026-06-29T10:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T11:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071535445712761010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1966125907602743296",
+          "start": 0,
+          "username": "0amiqe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071535445712761010",
+    "in_reply_to_user_id": "1966125907602743296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071298579583668469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0amiqe 唑吡坦？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2071298575112527872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL67FHFa4AAEmU9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071298579583668469",
+        "created_at": "2026-06-29T10:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071535445712761010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1966125907602743296",
+              "start": 0,
+              "username": "0amiqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071535445712761010",
+        "in_reply_to_user_id": "1966125907602743296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071298579583668469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0amiqe 唑吡坦？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071298575112527872"
+          ]
+        },
+        "author_id": "1966125907602743296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071298579583668469",
+        "created_at": "2026-06-28T18:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071298579583668469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ngfi6EoPbA",
+              "end": 31,
+              "expanded_url": "https://x.com/0amiqe/status/2071298579583668469/photo/1",
+              "media_key": "3_2071298575112527872",
+              "start": 8,
+              "url": "https://t.co/ngfi6EoPbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071298579583668469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ゾルピ30mg https://t.co/ngfi6EoPbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 284,
+          "like_count": 43275,
+          "listed_count": 4,
+          "media_count": 713,
+          "tweet_count": 13141
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T13:06:24.000Z",
+        "description": "バーンアウトした眠れない夜の住人\n音楽とODで延命中\n※自撮りはアバターで実在しないよ！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dxm.tripsit.me",
+                "end": 23,
+                "expanded_url": "https://dxm.tripsit.me/",
+                "start": 0,
+                "url": "https://t.co/utLffhhy4y"
+              }
+            ]
+          }
+        },
+        "id": "1966125907602743296",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "ゆる",
+        "pinned_tweet_id": "2063943616960372822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067933684691529728/HB-cQfuf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 117,
+          "like_count": 1302,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/utLffhhy4y",
+        "username": "0amiqe",
+        "verified": false
+      }
+    ]
+  }
+}

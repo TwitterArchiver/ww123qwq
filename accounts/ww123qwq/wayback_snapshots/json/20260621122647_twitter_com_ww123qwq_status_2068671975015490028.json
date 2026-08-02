@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2068593268347289885",
+    "created_at": "2026-06-21T12:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068671975015490028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699107168807706625",
+          "start": 0,
+          "username": "yueqingzou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068671975015490028",
+    "in_reply_to_user_id": "1699107168807706625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068593268347289885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueqingzou 摸摸你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96640,
+        "height": 720,
+        "media_key": "13_2068593195467132928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068593195467132928/img/luph7r3-WNHOKr7d.jpg",
+        "public_metrics": {
+          "view_count": 73
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068593195467132928/vid/avc1/480x270/ha3LQNnJlTrgF39H.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068593195467132928/vid/avc1/640x360/3pDshecKPunIqAsZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068593195467132928/vid/avc1/1280x720/kxZFQu2XTdOqZVpX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068593195467132928/pl/jVPpkkoYhVEYqymz.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2068593268347289885",
+        "created_at": "2026-06-21T12:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068671975015490028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699107168807706625",
+              "start": 0,
+              "username": "yueqingzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068671975015490028",
+        "in_reply_to_user_id": "1699107168807706625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068593268347289885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueqingzou 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068593195467132928"
+          ]
+        },
+        "author_id": "1699107168807706625",
+        "conversation_id": "2068593268347289885",
+        "created_at": "2026-06-21T07:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068593268347289885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2UdC655L4",
+              "end": 57,
+              "expanded_url": "https://x.com/yueqingzou/status/2068593268347289885/video/1",
+              "media_key": "13_2068593195467132928",
+              "start": 34,
+              "url": "https://t.co/s2UdC655L4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068593268347289885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不够爽呢，……晓乐有1.4了为什么喵……为什么喵，……为什么为什么 https://t.co/s2UdC655L4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 277,
+          "like_count": 42941,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12996
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T17:09:03.000Z",
+        "description": "音游账号@leqingzou/hrt2022.12.2🏳️‍⚧️/🈚证/some blood/大学生 休学ing~/熬夜党/家暴党/179cm/60kg/地址:成都/oopz频道：782238569/bilibili直播间:12808097（已封禁）/匿名提问箱:https://t.co/0c8hOkT4Nq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/leqingzou",
+                "end": 155,
+                "expanded_url": "https://ngl.link/leqingzou",
+                "start": 132,
+                "url": "https://t.co/0c8hOkT4Nq"
+              }
+            ]
+          }
+        },
+        "id": "1699107168807706625",
+        "name": "晓乐\\🍥/",
+        "pinned_tweet_id": "2068414749558366221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004207120267595778/erS2uxRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1977,
+          "like_count": 6779,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 2920
+        },
+        "url": "",
+        "username": "yueqingzou",
+        "verified": false
+      }
+    ]
+  }
+}

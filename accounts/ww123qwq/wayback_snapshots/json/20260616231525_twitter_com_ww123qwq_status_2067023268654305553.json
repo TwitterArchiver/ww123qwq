@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066883001808773120"
+      ],
+      "media_source_tweet_id": [
+        "2066883004535025960"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067023268654305553",
+    "created_at": "2026-06-16T23:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T00:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067023268654305553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5uEctCUeRg",
+          "end": 61,
+          "expanded_url": "https://x.com/Dormicumproject/status/2066883004535025960/photo/1",
+          "media_key": "3_2066883001808773120",
+          "start": 38,
+          "url": "https://t.co/5uEctCUeRg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067023268654305553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 202
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066883004535025960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: 友達が欲しいパス〇ァインダーくん https://t.co/5uEctCUeRg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2066883001808773120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8LI6sa4AA8GzN.jpg",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066883001808773120"
+          ],
+          "media_source_tweet_id": [
+            "2066883004535025960"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067023268654305553",
+        "created_at": "2026-06-16T23:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067023268654305553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uEctCUeRg",
+              "end": 61,
+              "expanded_url": "https://x.com/Dormicumproject/status/2066883004535025960/photo/1",
+              "media_key": "3_2066883001808773120",
+              "start": 38,
+              "url": "https://t.co/5uEctCUeRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067023268654305553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066883004535025960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: 友達が欲しいパス〇ァインダーくん https://t.co/5uEctCUeRg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066883001808773120"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "2066883004535025960",
+        "created_at": "2026-06-16T13:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066883004535025960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uEctCUeRg",
+              "end": 40,
+              "expanded_url": "https://x.com/Dormicumproject/status/2066883004535025960/photo/1",
+              "media_key": "3_2066883001808773120",
+              "start": 17,
+              "url": "https://t.co/5uEctCUeRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066883004535025960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 605,
+          "impression_count": 125627,
+          "like_count": 3994,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "友達が欲しいパス〇ァインダーくん https://t.co/5uEctCUeRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 268,
+          "like_count": 42748,
+          "listed_count": 4,
+          "media_count": 703,
+          "tweet_count": 12917
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n漫画はここから読めますhttps://t.co/SB66qxPOdk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxPOdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLjTn"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "2051168562988151084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167839,
+          "following_count": 0,
+          "like_count": 4054,
+          "listed_count": 662,
+          "media_count": 1201,
+          "tweet_count": 2544
+        },
+        "url": "https://t.co/CtEGqQLjTn",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

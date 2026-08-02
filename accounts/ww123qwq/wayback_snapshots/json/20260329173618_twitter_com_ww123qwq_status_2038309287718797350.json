@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2038309287718797350",
+    "created_at": "2026-03-29T17:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038309287718797350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dnfpkwang888/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/dnfpkwang888/status/2037884454761640085",
+          "start": 8,
+          "url": "https://t.co/ASplgIdDHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038309287718797350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037884454761640085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃替来他明了? https://t.co/ASplgIdDHQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26218,
+        "height": 1280,
+        "media_key": "13_2037884289585762304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037884289585762304/img/JDTHhHYOgCkyx_OD.jpg",
+        "public_metrics": {
+          "view_count": 3676771
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037884289585762304/vid/avc1/320x568/_i0wVP0CEL5ovU2W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037884289585762304/vid/avc1/480x852/aihXi3JHiS90CsHQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037884289585762304/vid/avc1/720x1280/rjOVSrDLoP8VGGUn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037884289585762304/pl/PAwqJJ9jp1UvmFHt.m3u8?v=f03"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2038309287718797350",
+        "created_at": "2026-03-29T17:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038309287718797350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dnfpkwang888/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/dnfpkwang888/status/2037884454761640085",
+              "start": 8,
+              "url": "https://t.co/ASplgIdDHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038309287718797350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037884454761640085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃替来他明了? https://t.co/ASplgIdDHQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037884289585762304"
+          ]
+        },
+        "author_id": "924198786",
+        "conversation_id": "2037884454761640085",
+        "created_at": "2026-03-28T13:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037884454761640085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fby06gxIZo",
+              "end": 41,
+              "expanded_url": "https://x.com/dnfpkwang888/status/2037884454761640085/video/1",
+              "media_key": "13_2037884289585762304",
+              "start": 18,
+              "url": "https://t.co/fby06gxIZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037884454761640085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4552,
+          "impression_count": 6928257,
+          "like_count": 12112,
+          "quote_count": 57,
+          "reply_count": 1813,
+          "retweet_count": 576
+        },
+        "reply_settings": "everyone",
+        "text": "这是拍电视吗？\n不是的话，远离黄毛 https://t.co/fby06gxIZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "策划药薄荷糖，彩虹糖，飘\n飘糖，模拟ald-52物质：rush，类\nGHB,DBT,MiPT,苄达明hrt药物：泰补，土色，日雌，推特私聊",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 268,
+          "like_count": 42040,
+          "listed_count": 4,
+          "media_count": 666,
+          "tweet_count": 12559
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-03T23:04:37.000Z",
+        "description": "#Arbitrum 大使|链游老鸟|资深老韭菜茬子【残血版】|#BTC #SOL   #Binance \n合作请DM TG:@dnfpkwang888\n #sunperp 为链上合约而生：https://t.co/pmiMCeQjPl",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "Arbitrum"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "BTC"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "SOL"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "Binance"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "tag": "sunperp"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "dnfpkwang888"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/3MqN2V",
+                "end": 117,
+                "expanded_url": "https://reurl.cc/3MqN2V",
+                "start": 94,
+                "url": "https://t.co/pmiMCeQjPl"
+              }
+            ]
+          }
+        },
+        "id": "924198786",
+        "location": "Science Park，Hong Kong",
+        "name": "Captain Jim | MemeMax⚡️",
+        "pinned_tweet_id": "1859527652350271568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991727874995318784/_VcndHkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49226,
+          "following_count": 9901,
+          "like_count": 45361,
+          "listed_count": 91,
+          "media_count": 1527,
+          "tweet_count": 49866
+        },
+        "username": "dnfpkwang888",
+        "verified": true
+      }
+    ]
+  }
+}

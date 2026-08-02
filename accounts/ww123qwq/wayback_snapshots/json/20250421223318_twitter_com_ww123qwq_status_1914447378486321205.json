@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1914447378486321205",
+    "created_at": "2025-04-21T22:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T23:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914447378486321205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867639848569372672",
+          "start": 3,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914447378486321205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914255502210654523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_day: 你永远不会被爱，陪伴你的只有刀片和右美沙芬，你现实中的朋友看见你的阴森打扮全都害怕你，你的父母天天为你的状态唉声叹气\n你网上的粉丝看上去很多，但是他们十个有八个都是想看你的批，你得到的关心多是虚伪和半心半意，人们对你四肢上的条形码笑个不停"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1914447378486321205",
+        "created_at": "2025-04-21T22:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T23:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914447378486321205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867639848569372672",
+              "start": 3,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914447378486321205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914255502210654523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_day: 你永远不会被爱，陪伴你的只有刀片和右美沙芬，你现实中的朋友看见你的阴森打扮全都害怕你，你的父母天天为你的状态唉声叹气\n你网上的粉丝看上去很多，但是他们十个有八个都是想看你的批，你得到的关心多是虚伪和半心半意，人们对你四肢上的条形码笑个不停"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867639848569372672",
+        "conversation_id": "1914255502210654523",
+        "created_at": "2025-04-21T09:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T10:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914255502210654523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914255502210654523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1257,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你永远不会被爱，陪伴你的只有刀片和右美沙芬，你现实中的朋友看见你的阴森打扮全都害怕你，你的父母天天为你的状态唉声叹气\n你网上的粉丝看上去很多，但是他们十个有八个都是想看你的批，你得到的关心多是虚伪和半心半意，人们对你四肢上的条形码笑个不停"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 188,
+          "like_count": 40134,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 10607
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "化学极乐百科🧪 未来可能会倒闭，但绝不会变味",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1911617640910688727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 524,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

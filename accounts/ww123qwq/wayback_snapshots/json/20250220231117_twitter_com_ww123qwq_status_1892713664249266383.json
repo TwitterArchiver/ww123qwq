@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892389948868665345",
+        "3_1892389949703327744",
+        "3_1892389994288865280",
+        "3_1892389950689067008"
+      ],
+      "media_source_tweet_id": [
+        "1892390471437082785",
+        "1892390471437082785",
+        "1892390471437082785",
+        "1892390471437082785"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1892713664249266383",
+    "created_at": "2025-02-20T23:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T00:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892713664249266383"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "圆角日记"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873875830750806017",
+          "start": 3,
+          "username": "ypx2025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z96aftQMai",
+          "end": 90,
+          "expanded_url": "https://x.com/ypx2025/status/1892390471437082785/photo/1",
+          "media_key": "3_1892389948868665345",
+          "start": 67,
+          "url": "https://t.co/z96aftQMai"
+        },
+        {
+          "display_url": "pic.x.com/z96aftQMai",
+          "end": 90,
+          "expanded_url": "https://x.com/ypx2025/status/1892390471437082785/photo/1",
+          "media_key": "3_1892389949703327744",
+          "start": 67,
+          "url": "https://t.co/z96aftQMai"
+        },
+        {
+          "display_url": "pic.x.com/z96aftQMai",
+          "end": 90,
+          "expanded_url": "https://x.com/ypx2025/status/1892390471437082785/photo/1",
+          "media_key": "3_1892389994288865280",
+          "start": 67,
+          "url": "https://t.co/z96aftQMai"
+        },
+        {
+          "display_url": "pic.x.com/z96aftQMai",
+          "end": 90,
+          "expanded_url": "https://x.com/ypx2025/status/1892390471437082785/photo/1",
+          "media_key": "3_1892389950689067008",
+          "start": 67,
+          "url": "https://t.co/z96aftQMai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892713664249266383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892390471437082785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ypx2025: #圆角日记 第四章\n\n仅仅活着是不够的，还需要有阳光，自由，和一点花的芬香。         ——安徒生… https://t.co/z96aftQMai"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892713664249266383].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892713664249266383",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892713664249266383"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892389948868665345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkMeodbWIAE6-L4.jpg",
+        "width": 1066
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1892389949703327744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkMeogiWEAAwk4A.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1892389994288865280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkMerGoXYAAviPa.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1134,
+        "media_key": "3_1892389950689067008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkMeokNXQAAr0dc.jpg",
+        "width": 2022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892389948868665345",
+            "3_1892389949703327744",
+            "3_1892389994288865280",
+            "3_1892389950689067008"
+          ]
+        },
+        "author_id": "1873875830750806017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1892390471437082785",
+        "created_at": "2025-02-20T01:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T02:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892390471437082785"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "圆角日记"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z96aftQMai",
+              "end": 77,
+              "expanded_url": "https://x.com/ypx2025/status/1892390471437082785/photo/1",
+              "media_key": "3_1892389948868665345",
+              "start": 54,
+              "url": "https://t.co/z96aftQMai"
+            },
+            {
+              "display_url": "pic.x.com/z96aftQMai",
+              "end": 77,
+              "expanded_url": "https://x.com/ypx2025/status/1892390471437082785/photo/1",
+              "media_key": "3_1892389949703327744",
+              "start": 54,
+              "url": "https://t.co/z96aftQMai"
+            },
+            {
+              "display_url": "pic.x.com/z96aftQMai",
+              "end": 77,
+              "expanded_url": "https://x.com/ypx2025/status/1892390471437082785/photo/1",
+              "media_key": "3_1892389994288865280",
+              "start": 54,
+              "url": "https://t.co/z96aftQMai"
+            },
+            {
+              "display_url": "pic.x.com/z96aftQMai",
+              "end": 77,
+              "expanded_url": "https://x.com/ypx2025/status/1892390471437082785/photo/1",
+              "media_key": "3_1892389950689067008",
+              "start": 54,
+              "url": "https://t.co/z96aftQMai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892390471437082785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "圆角日记"
+              }
+            ]
+          },
+          "text": "#圆角日记 第四章\n\n仅仅活着是不够的，还需要有阳光，自由，和一点花的芬香。         ——安徒生\n\n逛街时一人买一杯奶茶，热乎乎的，甜腻腻的，不可以和我买一样的哦，我还想和你换着喝呢。我们一起拍照，并肩的，拥抱的，亲吻的，我会仔仔细细地挑出最好看的，装作不经意地发出来，等着称赞和羡慕，我是个像羽毛一样容易飘飘然的小孩，也许会兴奋到转头压你在床铺上接吻，笑着和你说，好开心，和你在一起好幸福。\n\n蝉鸣被消毒水的气味刺破的瞬间，输液管正匀速滴落着时间。当第三十七颗水珠下坠时，母亲的高跟鞋恰在走廊尽头叩出空旷回响。门框边忽然掠过白大褂的衣角，恍若半片被风揉皱的云。\n\n我好想你。你不在的时候我总要乱想的，是在忙吗，在吃饭还是睡觉？然后陷入幼稚的胡思乱想和绵长的想念中。被时时牵着思绪的感觉让我既充实又害怕，我的玻璃罐里装着亮晶晶的糖果，我常常怕它打碎，只敢自己抱着它。现在玻璃罐要交给你了，里面装着我用糖纸包裹起来的所有美好，就算习惯性的害怕它被摔疼，也想把那些五彩斑斓的缤纷梦境给你看，想和你分享并让你成为我的一切美好。\n\n阁楼在暮色中悬起摇晃的鱼缸。数学作业本上的铅笔字在汗渍里分散成游动的蝌蚪。他手背浮起青苔纹路时，玻璃曲面骤然折射出猩红的裙摆——那些金鱼正以虹色气泡为节拍，在渐暗的水体中跳着倒数的探戈。\n\n釉面在钟摆锈死的两点爆裂，那是皮带抽出的金属弧线在瓷砖上篆刻年轮。姑父的酒瓶晃动着倒悬的星空，裂纹如黑潮漫过天花板，我正蜕变成寄居蟹的虚壳。满地玻璃碎渣在月光下绽放血色昙花，酒精混合铁锈的味道弥漫鼻腔。\n\n你不在的时候时时想你，睡前不和你讲话就无法安眠，有些好笑，我又变成离开妈妈上幼儿园都要哭鼻子的小朋友了。\n\n便利店加热灯在午夜发出低频蜂鸣，关东煮格栅腾起的热气将玻璃窗蚀成白内障。貂皮大衣裹着香水味递来名片时，腐烂的栀子气息正在暖气出风口发酵——那些镀金指甲掐住的所谓捷径，正在我皮肤下层孵出透明丝线。\n\n休息区的霓虹灯管突发癫痫，蓝紫色血管在墙壁痉挛。我看见客人们的瞳孔变成旋转的万花筒，有人用我童年日记残页卷成吸管，啜饮着银河系边缘坍缩的虹光。\n\n收银机持续呕吐着沾满唾液的星屑，过期饭团在微波炉里膨胀。它们褶皱的塑料包装正在模拟子宫蠕动，而我的脊背隆起某种昆虫的鞘翅结构，在每一次呼吸中剥落更多名为“自我”的角质层。\n\n有多喜欢你，喜欢到想和你接吻拥抱，十指相扣，连入睡都要挨着肩膀。喜欢到迫不及待想不讲理地占据你生活的每一处，让你时时想我，最好再也离不开我。喜欢到希望此刻时光飞逝，尘埃落定，在喧嚣中独独与你安然。\n\n父亲的身影在昏黄灯光的映照下显得怪异而陌生，他的笑容犹如一把寒光凛冽的利刃，无情地划破了时间的帷幕。\n\n每当那扇门缓缓合上，空气中便弥漫起一股令人窒息的甜腻气息，恰似腐烂的花朵在黑暗中悄然绽放，散发着诡异而令人作呕的芬芳。我躲在阴暗的角落，耳边萦绕着那些低语与呻吟，它们仿佛是从地狱的最深处传来的呼唤，让我感到呼吸困难。父亲的笑声犹如金属摩擦声，冷酷地穿透了我的耳膜，震得我心神不宁。\n\n她们的面容在我脑海中不断交织变幻，那一双双空洞而深邃的眼眸，宛如无尽的黑暗深渊。她们的嘴唇微微蠕动，吐出一些晦涩难懂的音节，那些语言如同毒蛇般紧紧缠绕在我的心头，令我心生寒意，难以摆脱。我感到自己的意识正在逐渐模糊，仿佛被某种神秘而强大的力量拉扯着，坠入一个无尽的梦境。\n\n在梦境的深处，父亲与她们的身影变得扭曲而庞大，他们的身体犹如融化的蜡像，彼此交融纠缠，最终形成了一团混沌不清、难以辨认的肉块。那肉块在黑暗中缓缓蠕动，发出令人毛骨悚然的声音，仿佛无数只虫子在贪婪地啃食着什么，令人不寒而栗。我感到自己的灵魂被无情地撕裂、吞噬，最终被融入那团诡异的肉块之中，成为它不可分割的一部分，与那噩梦般的存在合为一体。\n\n当我从这场噩梦中猛然惊醒，发现自己依旧蜷缩在那个阴暗的角落，四周一片死寂，唯有自己的心跳声在耳边轰鸣。父亲的那扇门紧闭着，她们的影子早已消逝无踪。然而，那股令人窒息的甜腻气息依旧在空气中弥漫徘徊，如影随形。\n\n那天，原本一切计划都井井有条，我们手提四杯奶茶，满心期待地踏入电影院，准备享受一场视听盛宴。然而，天不遂人愿，电影放映突发故障，让我们的期待瞬间落空。但幸运的是，或许是因为奶茶的滋润，体内涌起了一股难以抑制的“冲动”，这突如其来的生理反应竟意外地缓解了因电影故障带来的些许失落，让我们在无奈中寻得一丝别样的乐趣。这场意外，虽非我们所愿，却也让我们以另一种方式，铭记了那个独特的午后。\n\n在凌晨的天桥上，星空崩解成坠入深海的玻璃。我数着绒毛状的蒲公英路灯，每团光晕里都悬浮着窒息的鳞片，鱼尾划开凝固的琥珀。风掠过耳后的伤痕，带来消毒水与栀子花纠缠的气息。\n\n生活寡淡如一杯白水，你是一勺甜度超标的蜜糖，化不开的甜沉淀在杯底，我原本平凡无趣的日子因你变得甜蜜。\n\n你是人间不可得，亦是人间不可失。"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 20734,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "#圆角日记 第四章\n\n仅仅活着是不够的，还需要有阳光，自由，和一点花的芬香。         ——安徒生… https://t.co/z96aftQMai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 164,
+          "like_count": 40003,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 10508
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T23:36:42.000Z",
+        "description": "🐱xyn🏳️‍⚧️hrt 2023.9.9🍥170cm/60kg🍥重度失眠🍥热爱贴贴🍥文学少女🍥永不言弃🍥点赞互推🍥可以线下🍥门槛88🍥小说在亮点，不定时更新🍥",
+        "id": "1873875830750806017",
+        "location": "广东 全国飞",
+        "name": "伊飘雪🍥",
+        "pinned_tweet_id": "1891459328701304914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873875982727200768/_MTDhotU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4191,
+          "following_count": 341,
+          "like_count": 2873,
+          "listed_count": 22,
+          "media_count": 32,
+          "tweet_count": 1073
+        },
+        "username": "ypx2025",
+        "verified": false
+      }
+    ]
+  }
+}

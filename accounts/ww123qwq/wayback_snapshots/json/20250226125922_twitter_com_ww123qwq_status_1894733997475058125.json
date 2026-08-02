@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894725371905413120"
+      ],
+      "media_source_tweet_id": [
+        "1894725386912870686"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1894733997475058125",
+    "created_at": "2025-02-26T12:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T13:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894733997475058125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817584080437014528",
+          "start": 3,
+          "username": "N552AA"
+        },
+        {
+          "end": 29,
+          "id": "1603904249649188864",
+          "start": 16,
+          "username": "maomaoServer"
+        },
+        {
+          "end": 39,
+          "id": "1521553831775158273",
+          "start": 30,
+          "username": "ww123qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1vmdk4YNUS",
+          "end": 63,
+          "expanded_url": "https://x.com/N552AA/status/1894725386912870686/photo/1",
+          "media_key": "3_1894725371905413120",
+          "start": 40,
+          "url": "https://t.co/1vmdk4YNUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894733997475058125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894725386912870686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N552AA: 贴贴~\n@maomaoserver\n@ww123qwq https://t.co/1vmdk4YNUS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1894725371905413120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gktqr-NXkAAP0-g.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894725371905413120"
+          ],
+          "media_source_tweet_id": [
+            "1894725386912870686"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1894733997475058125",
+        "created_at": "2025-02-26T12:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T13:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894733997475058125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817584080437014528",
+              "start": 3,
+              "username": "N552AA"
+            },
+            {
+              "end": 29,
+              "id": "1603904249649188864",
+              "start": 16,
+              "username": "maomaoServer"
+            },
+            {
+              "end": 39,
+              "id": "1521553831775158273",
+              "start": 30,
+              "username": "ww123qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vmdk4YNUS",
+              "end": 63,
+              "expanded_url": "https://x.com/N552AA/status/1894725386912870686/photo/1",
+              "media_key": "3_1894725371905413120",
+              "start": 40,
+              "url": "https://t.co/1vmdk4YNUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894733997475058125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894725386912870686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N552AA: 贴贴~\n@maomaoserver\n@ww123qwq https://t.co/1vmdk4YNUS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894725371905413120"
+          ]
+        },
+        "author_id": "1817584080437014528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1894725386912870686",
+        "created_at": "2025-02-26T12:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T13:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894725386912870686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1603904249649188864",
+              "start": 4,
+              "username": "maomaoServer"
+            },
+            {
+              "end": 27,
+              "id": "1521553831775158273",
+              "start": 18,
+              "username": "ww123qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vmdk4YNUS",
+              "end": 51,
+              "expanded_url": "https://x.com/N552AA/status/1894725386912870686/photo/1",
+              "media_key": "3_1894725371905413120",
+              "start": 28,
+              "url": "https://t.co/1vmdk4YNUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894725386912870686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴~\n@maomaoserver\n@ww123qwq https://t.co/1vmdk4YNUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "重度抑郁/中度焦虑/日常/碎碎念/社恐/欧迪/欢迎扩列",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 172,
+          "like_count": 40015,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 10532
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/家长吓坏党/ADHD/10年级/HRT:2024/8/25/坐标上海/有小证/QQ:234559943/抱抱最最可爱的姐姐: @yizhikapaiqaq\n猫猫： @AGeSang2008\n妈妈：@bolichara0\n主人：@yumekaayumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "bolichara0"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "yumekaayumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
+        "pinned_tweet_id": "1874706282789433484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861222486119211008/acVum9Tu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 828,
+          "like_count": 2643,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T00:06:06.000Z",
+        "description": "重度抑郁 | 中度焦虑 | UE5游戏开发（放弃了） | 互联网 | 含糖MTF | 喵喵~ | 全国不可飞 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xnm.maoyuna.love",
+                "end": 23,
+                "expanded_url": "https://xnm.maoyuna.love",
+                "start": 0,
+                "url": "https://t.co/krHThqPpiF"
+              }
+            ]
+          }
+        },
+        "id": "1603904249649188864",
+        "location": "/data/local/tmp",
+        "name": "不穿胖次の小奶猫🏳️‍⚧️🍥🍔🍭🍬🍣🥫🍲🍛🥪🥞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890722217224519680/TCFiQ89r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 59,
+          "like_count": 708,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 1345
+        },
+        "url": "https://t.co/krHThqPpiF",
+        "username": "maomaoServer",
+        "verified": false
+      }
+    ]
+  }
+}

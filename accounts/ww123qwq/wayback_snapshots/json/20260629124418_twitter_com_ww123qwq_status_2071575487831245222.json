@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071575476473409536"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071575487831245222",
+    "created_at": "2026-06-29T12:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071575487831245222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1780369819310981120",
+          "start": 13,
+          "username": "520illusion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aC6tx9a9OH",
+          "end": 49,
+          "expanded_url": "https://x.com/ww123qwq/status/2071575487831245222/photo/1",
+          "media_key": "3_2071575476473409536",
+          "start": 26,
+          "url": "https://t.co/aC6tx9a9OH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071575487831245222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蓝请我吃的巧克力，好好吃😋@520illusion https://t.co/aC6tx9a9OH"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [520illusion].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "520illusion",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "520illusion"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071575476473409536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-265CbsAAPtNy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071575476473409536"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071575487831245222",
+        "created_at": "2026-06-29T12:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071575487831245222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1780369819310981120",
+              "start": 13,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aC6tx9a9OH",
+              "end": 49,
+              "expanded_url": "https://x.com/ww123qwq/status/2071575487831245222/photo/1",
+              "media_key": "3_2071575476473409536",
+              "start": 26,
+              "url": "https://t.co/aC6tx9a9OH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071575487831245222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝请我吃的巧克力，好好吃😋@520illusion https://t.co/aC6tx9a9OH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 285,
+          "like_count": 43303,
+          "listed_count": 4,
+          "media_count": 715,
+          "tweet_count": 13155
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

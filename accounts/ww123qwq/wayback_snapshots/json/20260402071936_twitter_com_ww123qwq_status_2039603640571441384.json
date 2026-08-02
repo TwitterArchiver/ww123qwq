@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2039190418643124693",
+    "created_at": "2026-04-02T07:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T08:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039603640571441384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039603640571441384",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039190418643124693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 窝都要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2039190416571199489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyo4TkbcAEF-6S.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2039190418643124693",
+        "created_at": "2026-04-02T07:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039603640571441384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039603640571441384",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039190418643124693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 窝都要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039190416571199489"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2039190418643124693",
+        "created_at": "2026-04-01T03:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039190418643124693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DR7KF92OzJ",
+              "end": 50,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2039190418643124693/photo/1",
+              "media_key": "3_2039190416571199489",
+              "start": 27,
+              "url": "https://t.co/DR7KF92OzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039190418643124693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5063,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你想要这个75mg的pr\n还是这个150mg的pr？ https://t.co/DR7KF92OzJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "策划药薄荷糖，彩虹糖，飘\n飘糖，模拟ald-52物质：rush，类\nGHB,DBT,MiPT,苄达明hrt药物：泰补，土色，日雌，推特私聊",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 270,
+          "like_count": 42052,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 12578
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 405,
+          "like_count": 9204,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1331
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

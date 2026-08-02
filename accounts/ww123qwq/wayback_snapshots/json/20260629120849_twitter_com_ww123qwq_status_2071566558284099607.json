@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071214951147220992"
+      ],
+      "media_source_tweet_id": [
+        "2071214956910104717"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2071566558284099607",
+    "created_at": "2026-06-29T12:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071566558284099607"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 23,
+          "tag": "アコスタ池袋ㅤㅤㅤ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1984277293611839488",
+          "start": 3,
+          "username": "nl0nlp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GNDo5MgEcs",
+          "end": 135,
+          "expanded_url": "https://x.com/nl0nlp/status/2071214956910104717/photo/1",
+          "media_key": "3_2071214951147220992",
+          "start": 112,
+          "url": "https://t.co/GNDo5MgEcs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071566558284099607",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071214956910104717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nl0nlp: Cos / コスプレ #アコスタ池袋ㅤㅤㅤ\n\n     ❤︎__NEEDY GIRL OVERDOSE ___❤︎\n                 &gt;&gt; あめちゃん / Amechan https://t.co/GNDo5MgEcs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071214951147220992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5vBjibsAAjbqQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071214951147220992"
+          ],
+          "media_source_tweet_id": [
+            "2071214956910104717"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2071566558284099607",
+        "created_at": "2026-06-29T12:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071566558284099607"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "アコスタ池袋ㅤㅤㅤ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984277293611839488",
+              "start": 3,
+              "username": "nl0nlp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNDo5MgEcs",
+              "end": 135,
+              "expanded_url": "https://x.com/nl0nlp/status/2071214956910104717/photo/1",
+              "media_key": "3_2071214951147220992",
+              "start": 112,
+              "url": "https://t.co/GNDo5MgEcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071566558284099607",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071214956910104717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nl0nlp: Cos / コスプレ #アコスタ池袋ㅤㅤㅤ\n\n     ❤︎__NEEDY GIRL OVERDOSE ___❤︎\n                 &gt;&gt; あめちゃん / Amechan https://t.co/GNDo5MgEcs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071214951147220992"
+          ]
+        },
+        "author_id": "1984277293611839488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2071214956910104717",
+        "created_at": "2026-06-28T12:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071214956910104717"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 11,
+              "tag": "アコスタ池袋ㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNDo5MgEcs",
+              "end": 123,
+              "expanded_url": "https://x.com/nl0nlp/status/2071214956910104717/photo/1",
+              "media_key": "3_2071214951147220992",
+              "start": 100,
+              "url": "https://t.co/GNDo5MgEcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071214956910104717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 3371,
+          "like_count": 356,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "Cos / コスプレ #アコスタ池袋ㅤㅤㅤ\n\n     ❤︎__NEEDY GIRL OVERDOSE ___❤︎\n                 &gt;&gt; あめちゃん / Amechan https://t.co/GNDo5MgEcs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 285,
+          "like_count": 43300,
+          "listed_count": 4,
+          "media_count": 714,
+          "tweet_count": 13153
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T15:12:42.000Z",
+        "description": "🇯🇵cosplay♥おたく。 / ⚠︎︎nail / sub▷▶@nl2nlp / Litlink↓(tiktokとXのid同じです)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "nl2nlp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nl0nlp",
+                "end": 23,
+                "expanded_url": "https://lit.link/nl0nlp",
+                "start": 0,
+                "url": "https://t.co/hIEKjOmjSj"
+              }
+            ]
+          }
+        },
+        "id": "1984277293611839488",
+        "name": "🎀ユン",
+        "pinned_tweet_id": "2061818935029514565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051690598609137664/Mb078P84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 80,
+          "like_count": 856,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 557
+        },
+        "url": "https://t.co/hIEKjOmjSj",
+        "username": "nl0nlp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884536688694972416"
+      ],
+      "media_source_tweet_id": [
+        "1884536694684467534"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1884804898531033453",
+    "created_at": "2025-01-30T03:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T04:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884804898531033453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1410537517233803265",
+          "start": 3,
+          "username": "northicewolf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFqyxu67zD",
+          "end": 56,
+          "expanded_url": "https://x.com/northicewolf/status/1884536694684467534/photo/1",
+          "media_key": "3_1884536688694972416",
+          "start": 33,
+          "url": "https://t.co/rFqyxu67zD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884804898531033453",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 700
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884536694684467534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @northicewolf: 我的ChatGPT 生氣了😡 https://t.co/rFqyxu67zD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_1884536688694972416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gic4Ijfa0AApgO5.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884536688694972416"
+          ],
+          "media_source_tweet_id": [
+            "1884536694684467534"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1884804898531033453",
+        "created_at": "2025-01-30T03:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T04:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884804898531033453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1410537517233803265",
+              "start": 3,
+              "username": "northicewolf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFqyxu67zD",
+              "end": 56,
+              "expanded_url": "https://x.com/northicewolf/status/1884536694684467534/photo/1",
+              "media_key": "3_1884536688694972416",
+              "start": 33,
+              "url": "https://t.co/rFqyxu67zD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884804898531033453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 700
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884536694684467534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @northicewolf: 我的ChatGPT 生氣了😡 https://t.co/rFqyxu67zD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884536688694972416"
+          ]
+        },
+        "author_id": "1410537517233803265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1884536694684467534",
+        "created_at": "2025-01-29T09:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T10:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884536694684467534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFqyxu67zD",
+              "end": 38,
+              "expanded_url": "https://x.com/northicewolf/status/1884536694684467534/photo/1",
+              "media_key": "3_1884536688694972416",
+              "start": 15,
+              "url": "https://t.co/rFqyxu67zD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884536694684467534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 542,
+          "impression_count": 1072842,
+          "like_count": 6817,
+          "quote_count": 62,
+          "reply_count": 448,
+          "retweet_count": 700
+        },
+        "reply_settings": "everyone",
+        "text": "我的ChatGPT 生氣了😡 https://t.co/rFqyxu67zD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 160,
+          "like_count": 40078,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 10391
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-01T09:55:33.000Z",
+        "description": "aespa #Winter Le sserafim #YunJin            Babymonster #Asa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 6,
+                "tag": "Winter"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "YunJin"
+              },
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "Asa"
+              }
+            ]
+          }
+        },
+        "id": "1410537517233803265",
+        "location": "Taipei City, Taiwan",
+        "name": "Northicewolf脫北者冰狼",
+        "pinned_tweet_id": "1869219939930063294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747928851437805568/ro14CZ7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52445,
+          "following_count": 241,
+          "like_count": 3557,
+          "listed_count": 162,
+          "media_count": 2805,
+          "tweet_count": 7555
+        },
+        "username": "northicewolf",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2011815844528242862",
+    "created_at": "2026-01-16T07:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T08:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012067188820132091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1867271919390904320",
+          "start": 0,
+          "username": "av_cnz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012067188820132091",
+    "in_reply_to_user_id": "1867271919390904320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011987400076247147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@av_cnz 绿的是新的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2011815844528242862",
+        "created_at": "2026-01-16T07:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T08:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012067188820132091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1867271919390904320",
+              "start": 0,
+              "username": "av_cnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012067188820132091",
+        "in_reply_to_user_id": "1867271919390904320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011987400076247147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@av_cnz 绿的是新的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867271919390904320",
+        "conversation_id": "2011815844528242862",
+        "created_at": "2026-01-16T02:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T03:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011987400076247147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011987400076247147",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011815844528242862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 一个新包装一个旧包装😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 267,
+          "like_count": 41021,
+          "listed_count": 5,
+          "media_count": 546,
+          "tweet_count": 12080
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T18:15:10.000Z",
+        "description": "一个阴晴不定的小淵💭",
+        "id": "1867271919390904320",
+        "location": "Edogawa-ku, Tokyo",
+        "name": "小陽不吃🐏っ ̫ -⸝⸝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905475239368425472/THu9Ga2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 185,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 59
+        },
+        "username": "av_cnz",
+        "verified": false
+      }
+    ]
+  }
+}

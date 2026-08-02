@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1986004754015936613",
+    "created_at": "2025-11-05T15:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T16:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986091501643026448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986091501643026448",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986004754015936613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelyshuimao 能瘦回去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1388,
+        "media_key": "3_1986004747388862464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-0y6JaQAAdf3x.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1986004754015936613",
+        "created_at": "2025-11-05T15:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T16:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986091501643026448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986091501643026448",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986004754015936613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 能瘦回去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986004747388862464"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "1986004754015936613",
+        "created_at": "2025-11-05T09:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T10:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986004754015936613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhkVJREDaq",
+              "end": 46,
+              "expanded_url": "https://x.com/lovelyshuimao/status/1986004754015936613/photo/1",
+              "media_key": "3_1986004747388862464",
+              "start": 23,
+              "url": "https://t.co/YhkVJREDaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986004754015936613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 24163,
+          "like_count": 183,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这是大部分男娘（仅女装不包含跨等）的结局吗？ https://t.co/YhkVJREDaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1048726302",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1985946207982965207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 224,
+          "like_count": 40382,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 11061
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 1122,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2232,
+          "tweet_count": 11046
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

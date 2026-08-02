@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066759772867796993",
+        "3_2066759772851109888"
+      ],
+      "media_source_tweet_id": [
+        "2066759780631494970",
+        "2066759780631494970"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067026151802110002",
+    "created_at": "2026-06-16T23:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T00:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067026151802110002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "951930939248082944",
+          "start": 3,
+          "username": "Love_OXYcontin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KnDW7kvfbx",
+          "end": 47,
+          "expanded_url": "https://x.com/Love_OXYcontin/status/2066759780631494970/photo/1",
+          "media_key": "3_2066759772867796993",
+          "start": 24,
+          "url": "https://t.co/KnDW7kvfbx"
+        },
+        {
+          "display_url": "pic.x.com/KnDW7kvfbx",
+          "end": 47,
+          "expanded_url": "https://x.com/Love_OXYcontin/status/2066759780631494970/photo/1",
+          "media_key": "3_2066759772851109888",
+          "start": 24,
+          "url": "https://t.co/KnDW7kvfbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067026151802110002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066759780631494970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Love_OXYcontin: 喵喵喵 https://t.co/KnDW7kvfbx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066759772867796993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6bEDHaIAEOrTF.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2066759772851109888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6bEDDbgAA9q_P.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066759772867796993",
+            "3_2066759772851109888"
+          ],
+          "media_source_tweet_id": [
+            "2066759780631494970",
+            "2066759780631494970"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067026151802110002",
+        "created_at": "2026-06-16T23:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067026151802110002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "951930939248082944",
+              "start": 3,
+              "username": "Love_OXYcontin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnDW7kvfbx",
+              "end": 47,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2066759780631494970/photo/1",
+              "media_key": "3_2066759772867796993",
+              "start": 24,
+              "url": "https://t.co/KnDW7kvfbx"
+            },
+            {
+              "display_url": "pic.x.com/KnDW7kvfbx",
+              "end": 47,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2066759780631494970/photo/1",
+              "media_key": "3_2066759772851109888",
+              "start": 24,
+              "url": "https://t.co/KnDW7kvfbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067026151802110002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066759780631494970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Love_OXYcontin: 喵喵喵 https://t.co/KnDW7kvfbx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066759772867796993",
+            "3_2066759772851109888"
+          ]
+        },
+        "author_id": "951930939248082944",
+        "conversation_id": "2066759780631494970",
+        "created_at": "2026-06-16T05:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066759780631494970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnDW7kvfbx",
+              "end": 27,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2066759780631494970/photo/1",
+              "media_key": "3_2066759772867796993",
+              "start": 4,
+              "url": "https://t.co/KnDW7kvfbx"
+            },
+            {
+              "display_url": "pic.x.com/KnDW7kvfbx",
+              "end": 27,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2066759780631494970/photo/1",
+              "media_key": "3_2066759772851109888",
+              "start": 4,
+              "url": "https://t.co/KnDW7kvfbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066759780631494970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2871,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵 https://t.co/KnDW7kvfbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 269,
+          "like_count": 42761,
+          "listed_count": 4,
+          "media_count": 703,
+          "tweet_count": 12925
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-12T21:36:36.000Z",
+        "description": "MTF🏳️‍⚧️ 已术后 10年 ADHD 环形心境障碍 BZD/Zdrug/Opioids-重度依赖 不经常上X 有急事尽量TG联系喔\n\n-活着就是为了药物 没有药物我会死-",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Da_i_su_ki_da_…",
+                "end": 23,
+                "expanded_url": "https://t.me/Da_i_su_ki_da_yo",
+                "start": 0,
+                "url": "https://t.co/jrNU36WaHn"
+              }
+            ]
+          }
+        },
+        "id": "951930939248082944",
+        "location": "天国",
+        "name": "呓语🍥",
+        "pinned_tweet_id": "2066839838385713344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064279049204273152/CEHlbdok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 316,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/jrNU36WaHn",
+        "username": "Love_OXYcontin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019703682418212865"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2019665379078099231",
+    "created_at": "2026-02-06T09:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019703693420163519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VZIq7P2POl",
+          "end": 44,
+          "expanded_url": "https://x.com/ww123qwq/status/2019703693420163519/photo/1",
+          "media_key": "3_2019703682418212865",
+          "start": 21,
+          "url": "https://t.co/VZIq7P2POl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019703693420163519",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019665379078099231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 还可以联用伊曲康唑 https://t.co/VZIq7P2POl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019703682418212865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdtzF4WAAENkdk.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019703682418212865"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2019665379078099231",
+        "created_at": "2026-02-06T09:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019703693420163519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZIq7P2POl",
+              "end": 44,
+              "expanded_url": "https://x.com/ww123qwq/status/2019703693420163519/photo/1",
+              "media_key": "3_2019703682418212865",
+              "start": 21,
+              "url": "https://t.co/VZIq7P2POl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019703693420163519",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019665379078099231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 还可以联用伊曲康唑 https://t.co/VZIq7P2POl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2019665379078099231",
+        "created_at": "2026-02-06T06:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T07:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019665379078099231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki, 人人都可以编辑的OD百科全书. Contribute to SalviaSWC/FreeODwiki development by creating an account on GitHub.",
+              "display_url": "github.com/SalviaSWC/Free…",
+              "end": 164,
+              "expanded_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%96%87%E6%A1%A3/%E5%8F%B3%E7%BE%8E%E6%B2%99%E8%8A%ACFAQ/dxm_faq.md",
+              "images": [
+                {
+                  "height": 615,
+                  "url": "https://pbs.twimg.com/news_img/2019665383675031552/R8c7WkFb?format=png&name=orig",
+                  "width": 686
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019665383675031552/R8c7WkFb?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 141,
+              "status": 200,
+              "title": "FreeODwiki/文档/右美沙芬FAQ/dxm_faq.md at main · SalviaSWC/FreeODwiki",
+              "unwound_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%96%87%E6%A1%A3/%E5%8F%B3%E7%BE%8E%E6%B2%99%E8%8A%ACFAQ/dxm_faq.md",
+              "url": "https://t.co/PxLroVoAis"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1985326185690112050",
+              "start": 165,
+              "url": "https://t.co/dGi5EJvP5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019665379078099231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 358,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985326185690112050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已将该文档重新翻译并上传至Github，无需下载，可以在线阅读哦🥺\n\n30年过去了，人们除了知道联用西柚汁之外，没有什么新进展，只会装模作样模仿这篇文档中的结论，却把这篇文档里的许多精神抛弃了\n\n简直是搞笑......简直是搞笑......这就是原作者过了几年就退圈了的原因吧\n\nhttps://t.co/PxLroVoAis https://t.co/dGi5EJvP5e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 262,
+          "like_count": 41329,
+          "listed_count": 5,
+          "media_count": 583,
+          "tweet_count": 12187
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 792,
+          "like_count": 18575,
+          "listed_count": 9,
+          "media_count": 259,
+          "tweet_count": 5240
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

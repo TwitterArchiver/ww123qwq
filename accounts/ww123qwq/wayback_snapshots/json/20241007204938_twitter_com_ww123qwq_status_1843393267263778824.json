@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1843174824249860097"
+      ],
+      "media_source_tweet_id": [
+        "1843174841178062996"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1843393267263778824",
+    "created_at": "2024-10-07T20:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T21:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843393267263778824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "991568730785103872",
+          "start": 3,
+          "username": "C1_S2_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G1GSIWhfKD",
+          "end": 35,
+          "expanded_url": "https://x.com/C1_S2_/status/1843174841178062996/photo/1",
+          "media_key": "3_1843174824249860097",
+          "start": 12,
+          "url": "https://t.co/G1GSIWhfKD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843393267263778824",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 551
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843174841178062996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @C1_S2_: https://t.co/G1GSIWhfKD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2300,
+        "media_key": "3_1843174824249860097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZRFvLJbIAEFTVH.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843174824249860097"
+          ],
+          "media_source_tweet_id": [
+            "1843174841178062996"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1843393267263778824",
+        "created_at": "2024-10-07T20:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T21:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843393267263778824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "991568730785103872",
+              "start": 3,
+              "username": "C1_S2_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1GSIWhfKD",
+              "end": 35,
+              "expanded_url": "https://x.com/C1_S2_/status/1843174841178062996/photo/1",
+              "media_key": "3_1843174824249860097",
+              "start": 12,
+              "url": "https://t.co/G1GSIWhfKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843393267263778824",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 551
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843174841178062996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @C1_S2_: https://t.co/G1GSIWhfKD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843174824249860097"
+          ]
+        },
+        "author_id": "991568730785103872",
+        "conversation_id": "1843174841178062996",
+        "created_at": "2024-10-07T06:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T07:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843174841178062996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1GSIWhfKD",
+              "end": 23,
+              "expanded_url": "https://x.com/C1_S2_/status/1843174841178062996/photo/1",
+              "media_key": "3_1843174824249860097",
+              "start": 0,
+              "url": "https://t.co/G1GSIWhfKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843174841178062996",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 324,
+          "impression_count": 92468,
+          "like_count": 6310,
+          "quote_count": 15,
+          "reply_count": 0,
+          "retweet_count": 551
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/G1GSIWhfKD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 111,
+          "like_count": 40326,
+          "listed_count": 0,
+          "tweet_count": 10269
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-02T06:43:02.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "♡໒꒱˖.lrl.kr",
+                "end": 23,
+                "expanded_url": "https://xn--dra942d64sup9i.lrl.kr/",
+                "start": 0,
+                "url": "https://t.co/HNMeRfzA75"
+              }
+            ]
+          }
+        },
+        "id": "991568730785103872",
+        "location": "元病み垢・自撮り垢してた精神病持ちのあるイラストレーター",
+        "name": "死",
+        "pinned_tweet_id": "1842134125534474452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834108685951680512/KzExcdys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57464,
+          "following_count": 39,
+          "like_count": 11899,
+          "listed_count": 261,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/HNMeRfzA75",
+        "username": "C1_S2_",
+        "verified": false
+      }
+    ]
+  }
+}

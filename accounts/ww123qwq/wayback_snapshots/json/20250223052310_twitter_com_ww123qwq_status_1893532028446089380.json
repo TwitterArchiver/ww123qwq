@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1893020079283204188",
+    "created_at": "2025-02-23T05:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T06:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893532028446089380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 27,
+          "id": "1030494763550560256",
+          "start": 14,
+          "username": "hanzhhao1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893532028446089380",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893530263558238712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 @hanzhhao1999 为啥要赶人走啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1893020079283204188",
+        "created_at": "2025-02-23T05:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T06:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893532028446089380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 27,
+              "id": "1030494763550560256",
+              "start": 14,
+              "username": "hanzhhao1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893532028446089380",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893530263558238712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @hanzhhao1999 为啥要赶人走啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1893020079283204188",
+        "created_at": "2025-02-23T05:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T06:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893530263558238712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1030494763550560256",
+              "start": 0,
+              "username": "hanzhhao1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893530263558238712",
+        "in_reply_to_user_id": "1030494763550560256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893528968181227652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanzhhao1999 走法律程序的结果就是我可以正常住满合同的三年，房东现在想赶人，但是没有任何办法赶人。哪怕起诉到法院也是败诉。\n\n之所以开投票，是因为有人认为我按照合同坚持居住的做法“不好”。\n\n那很显然，这个投票只是用来判断“好不好”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "重度抑郁/中度焦虑/日常/碎碎念/社恐/欧迪/欢迎扩列",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 167,
+          "like_count": 40014,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 10528
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询｜语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883897989900701855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35968,
+          "following_count": 3570,
+          "like_count": 560,
+          "listed_count": 59,
+          "media_count": 307,
+          "tweet_count": 2222
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-17T16:41:12.000Z",
+        "description": "相看两不厌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "adult.noodlemagazine.com/new-video",
+                "end": 23,
+                "expanded_url": "https://adult.noodlemagazine.com/new-video",
+                "start": 0,
+                "url": "https://t.co/bzSJqhHp6f"
+              }
+            ]
+          }
+        },
+        "id": "1030494763550560256",
+        "location": "People's Republic of China",
+        "name": "欣欢",
+        "pinned_tweet_id": "1571355284064604162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570436400218275842/_fTcfPhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 2653,
+          "like_count": 1023,
+          "listed_count": 5,
+          "media_count": 201,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/bzSJqhHp6f",
+        "username": "hanzhhao1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051111947140263936"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051111949992177953",
+    "created_at": "2026-05-04T01:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T02:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051111949992177953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3fa2PHAW0v",
+          "end": 103,
+          "expanded_url": "https://x.com/ww123qwq/status/2051111949992177953/photo/1",
+          "media_key": "3_2051111947140263936",
+          "start": 80,
+          "url": "https://t.co/3fa2PHAW0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051111949992177953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白兔bron，有效成分二氢可待因不容易有呕吐感，价格比较贵。\n相对哮喘片价格便宜，含罂粟壳，服用过量可能出现呕吐感。两种药物均可以用伊曲康唑或红霉素提升药效。 https://t.co/3fa2PHAW0v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 481,
+        "media_key": "3_2051111947140263936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcDctva8AAbfN2.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051111947140263936"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051111949992177953",
+        "created_at": "2026-05-04T01:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051111949992177953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fa2PHAW0v",
+              "end": 103,
+              "expanded_url": "https://x.com/ww123qwq/status/2051111949992177953/photo/1",
+              "media_key": "3_2051111947140263936",
+              "start": 80,
+              "url": "https://t.co/3fa2PHAW0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051111949992177953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白兔bron，有效成分二氢可待因不容易有呕吐感，价格比较贵。\n相对哮喘片价格便宜，含罂粟壳，服用过量可能出现呕吐感。两种药物均可以用伊曲康唑或红霉素提升药效。 https://t.co/3fa2PHAW0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 276,
+          "like_count": 42492,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 12731
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

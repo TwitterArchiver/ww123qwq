@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031131172886204416"
+      ],
+      "media_source_tweet_id": [
+        "2031131180356219039"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2031144226352951403",
+    "created_at": "2026-03-09T23:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T00:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031144226352951403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804798191940124673",
+          "start": 3,
+          "username": "Rin1732996"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7U3YD4b6Fu",
+          "end": 58,
+          "expanded_url": "https://x.com/Rin1732996/status/2031131180356219039/photo/1",
+          "media_key": "3_2031131172886204416",
+          "start": 35,
+          "url": "https://t.co/7U3YD4b6Fu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031144226352951403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031131180356219039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rin1732996: ｢生に希薄なら、死に執着しとけば？｣ https://t.co/7U3YD4b6Fu"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "AI Illust",
+        "height": 2464,
+        "media_key": "3_2031131172886204416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDAHClQa0AAaneF.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031131172886204416"
+          ],
+          "media_source_tweet_id": [
+            "2031131180356219039"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2031144226352951403",
+        "created_at": "2026-03-09T23:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T00:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031144226352951403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804798191940124673",
+              "start": 3,
+              "username": "Rin1732996"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7U3YD4b6Fu",
+              "end": 58,
+              "expanded_url": "https://x.com/Rin1732996/status/2031131180356219039/photo/1",
+              "media_key": "3_2031131172886204416",
+              "start": 35,
+              "url": "https://t.co/7U3YD4b6Fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031144226352951403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031131180356219039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rin1732996: ｢生に希薄なら、死に執着しとけば？｣ https://t.co/7U3YD4b6Fu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031131172886204416"
+          ]
+        },
+        "author_id": "1804798191940124673",
+        "conversation_id": "2031131180356219039",
+        "created_at": "2026-03-09T22:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T23:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031131180356219039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7U3YD4b6Fu",
+              "end": 42,
+              "expanded_url": "https://x.com/Rin1732996/status/2031131180356219039/photo/1",
+              "media_key": "3_2031131172886204416",
+              "start": 19,
+              "url": "https://t.co/7U3YD4b6Fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031131180356219039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 529,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "｢生に希薄なら、死に執着しとけば？｣ https://t.co/7U3YD4b6Fu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图/药物咨询/支持usdt。/上海/日本/匿名提问https://t.co/yODqqgeu12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/yinai",
+                "end": 128,
+                "expanded_url": "https://miyu.link/yinai",
+                "start": 105,
+                "url": "https://t.co/yODqqgeu12"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 258,
+          "like_count": 41813,
+          "listed_count": 4,
+          "media_count": 635,
+          "tweet_count": 12416
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T08:47:01.000Z",
+        "description": "趣味でAIイラストを載せてるただの病み散らかしてる人。│H▶八朔さん  @tiksca2299 │弟子▶ふじ○さん  @fujimaru_niji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "tiksca2299"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "fujimaru_niji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RinAiIllust",
+                "end": 23,
+                "expanded_url": "https://lit.link/RinAiIllust",
+                "start": 0,
+                "url": "https://t.co/RkWva4KWVT"
+              }
+            ]
+          }
+        },
+        "id": "1804798191940124673",
+        "location": "-143",
+        "name": "Rin_981",
+        "pinned_tweet_id": "2027324517325197749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027176610399657984/Ha8W8WFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61504,
+          "following_count": 296,
+          "like_count": 116023,
+          "listed_count": 217,
+          "media_count": 3609,
+          "tweet_count": 37593
+        },
+        "url": "https://t.co/RkWva4KWVT",
+        "username": "Rin1732996",
+        "verified": true
+      }
+    ]
+  }
+}

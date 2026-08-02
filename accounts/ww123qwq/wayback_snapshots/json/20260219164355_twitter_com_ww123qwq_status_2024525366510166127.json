@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2024225673275912417",
+    "created_at": "2026-02-19T16:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024525366510166127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2006867593810849793",
+          "start": 0,
+          "username": "zerosugarrcoke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024525366510166127",
+    "in_reply_to_user_id": "2006867593810849793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024225673275912417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zerosugarrcoke 味道怎么样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024225668276404224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBd-hT7XwAAIPpv.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2024225673275912417",
+        "created_at": "2026-02-19T16:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024525366510166127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2006867593810849793",
+              "start": 0,
+              "username": "zerosugarrcoke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024525366510166127",
+        "in_reply_to_user_id": "2006867593810849793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024225673275912417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zerosugarrcoke 味道怎么样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024225668276404224"
+          ]
+        },
+        "author_id": "2006867593810849793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024225673275912417",
+        "created_at": "2026-02-18T20:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024225673275912417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgFqTOqujT",
+              "end": 55,
+              "expanded_url": "https://x.com/zerosugarrcoke/status/2024225673275912417/photo/1",
+              "media_key": "3_2024225668276404224",
+              "start": 32,
+              "url": "https://t.co/AgFqTOqujT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024225673275912417",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 420,
+          "impression_count": 127040,
+          "like_count": 5981,
+          "quote_count": 61,
+          "reply_count": 143,
+          "retweet_count": 208
+        },
+        "reply_settings": "everyone",
+        "text": "LOOK WHAT JUST DELIVERED OUUUGH https://t.co/AgFqTOqujT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本，纸烟代购/电子烟代购",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 259,
+          "like_count": 41685,
+          "listed_count": 5,
+          "media_count": 617,
+          "tweet_count": 12377
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-01T23:19:33.000Z",
+        "description": "𝒂𝒍𝒍 𝒚𝒐𝒖 𝒏𝒆𝒆𝒅 𝒊𝒔 𝒍𝒐𝒗𝒆 — ꣑ৎ { #shedtwt . ✦ ݁ bmi 17s ,, ugw :: 90 lbs ⋆.° she/they 𓈒ㅤׂㅤ sapphic 𐙚 ࣪backup : @_jellyouscals",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 28,
+                "tag": "shedtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "_jellyouscals"
+              }
+            ]
+          }
+        },
+        "id": "2006867593810849793",
+        "location": "latina ʚɞ 6teen ",
+        "name": "𝘿𝙖𝙣𝙞 𝜗𝜚",
+        "pinned_tweet_id": "2024390032040100346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024391050886819840/JTthNc4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 371,
+          "like_count": 1567,
+          "listed_count": 5,
+          "media_count": 376,
+          "tweet_count": 922
+        },
+        "username": "zerosugarrcoke",
+        "verified": false
+      }
+    ]
+  }
+}

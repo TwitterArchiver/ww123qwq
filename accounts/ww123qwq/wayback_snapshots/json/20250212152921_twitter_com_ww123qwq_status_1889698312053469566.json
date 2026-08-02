@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889698309457190913"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1889698312053469566",
+    "created_at": "2025-02-12T15:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T16:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889698312053469566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PeHUABnXaU",
+          "end": 161,
+          "expanded_url": "https://x.com/ww123qwq/status/1889698312053469566/photo/1",
+          "media_key": "3_1889698309457190913",
+          "start": 138,
+          "url": "https://t.co/PeHUABnXaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889698312053469566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有中学在坚持让学生剪头发吗\n偶然路过一个中学，发现学生还是那种短发，校门口还在挂着剪发标准，上面的发型也很奇怪，弯弯的，两侧不盖耳朵，前面不盖眉毛，后面的长度还要怎样怎样详细罗列了一堆。\n忽然想起曾经的学校，这么多年过去了，中学还在坚持这些？这些发型不知规则制定者愿剪吗？ https://t.co/PeHUABnXaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_1889698309457190913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjmOmbPaIAE4Iux.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889698309457190913"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1889698312053469566",
+        "created_at": "2025-02-12T15:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T16:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889698312053469566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PeHUABnXaU",
+              "end": 161,
+              "expanded_url": "https://x.com/ww123qwq/status/1889698312053469566/photo/1",
+              "media_key": "3_1889698309457190913",
+              "start": 138,
+              "url": "https://t.co/PeHUABnXaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889698312053469566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有中学在坚持让学生剪头发吗\n偶然路过一个中学，发现学生还是那种短发，校门口还在挂着剪发标准，上面的发型也很奇怪，弯弯的，两侧不盖耳朵，前面不盖眉毛，后面的长度还要怎样怎样详细罗列了一堆。\n忽然想起曾经的学校，这么多年过去了，中学还在坚持这些？这些发型不知规则制定者愿剪吗？ https://t.co/PeHUABnXaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左转安",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 163,
+          "like_count": 40112,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 10467
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

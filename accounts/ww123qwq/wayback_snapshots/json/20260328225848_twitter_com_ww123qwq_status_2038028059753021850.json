@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037844389507317760"
+      ],
+      "media_source_tweet_id": [
+        "2037844404673958361"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2038028059753021850",
+    "created_at": "2026-03-28T22:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T23:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038028059753021850"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "まのさば"
+        },
+        {
+          "end": 33,
+          "start": 24,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1509922974119657475",
+          "start": 3,
+          "username": "Amiamzk827"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JHBvJjJbAx",
+          "end": 57,
+          "expanded_url": "https://x.com/Amiamzk827/status/2037844404673958361/photo/1",
+          "media_key": "3_2037844389507317760",
+          "start": 34,
+          "url": "https://t.co/JHBvJjJbAx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038028059753021850",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 573
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037844404673958361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amiamzk827: 🌸🐕#まのさば #まのさば二次創作 https://t.co/JHBvJjJbAx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_2037844389507317760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfgrOAbQAAXXWr.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037844389507317760"
+          ],
+          "media_source_tweet_id": [
+            "2037844404673958361"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2038028059753021850",
+        "created_at": "2026-03-28T22:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T23:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038028059753021850"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "まのさば"
+            },
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1509922974119657475",
+              "start": 3,
+              "username": "Amiamzk827"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHBvJjJbAx",
+              "end": 57,
+              "expanded_url": "https://x.com/Amiamzk827/status/2037844404673958361/photo/1",
+              "media_key": "3_2037844389507317760",
+              "start": 34,
+              "url": "https://t.co/JHBvJjJbAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038028059753021850",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 573
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037844404673958361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amiamzk827: 🌸🐕#まのさば #まのさば二次創作 https://t.co/JHBvJjJbAx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037844389507317760"
+          ]
+        },
+        "author_id": "1509922974119657475",
+        "conversation_id": "2037844404673958361",
+        "created_at": "2026-03-28T10:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037844404673958361"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "まのさば"
+            },
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHBvJjJbAx",
+              "end": 41,
+              "expanded_url": "https://x.com/Amiamzk827/status/2037844404673958361/photo/1",
+              "media_key": "3_2037844389507317760",
+              "start": 18,
+              "url": "https://t.co/JHBvJjJbAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037844404673958361",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 453,
+          "impression_count": 52142,
+          "like_count": 4953,
+          "quote_count": 11,
+          "reply_count": 4,
+          "retweet_count": 573
+        },
+        "reply_settings": "everyone",
+        "text": "🌸🐕#まのさば #まのさば二次創作 https://t.co/JHBvJjJbAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "策划药薄荷糖，彩虹糖，飘\n飘糖，模拟ald-52物质：rush，类\nGHB,DBT,MiPT,苄达明hrt药物：泰补，土色，日雌，推特私聊",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 267,
+          "like_count": 42041,
+          "listed_count": 4,
+          "media_count": 666,
+          "tweet_count": 12556
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T15:57:58.000Z",
+        "description": "絵とアニメーションの初心者です。好きで見たいの絵を描くだけ。\nAI🚫\nhttps://t.co/fVfLzMFsI8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/35619031",
+                "end": 58,
+                "expanded_url": "http://pixiv.net/users/35619031",
+                "start": 35,
+                "url": "https://t.co/fVfLzMFsI8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@Amiamzk827?it…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@Amiamzk827?itct=CHUQ6p4EGAIiEwjSqaCcgMH7AhV7TA8CHa9RC_E%3D",
+                "start": 0,
+                "url": "https://t.co/2RI1W4JcH3"
+              }
+            ]
+          }
+        },
+        "id": "1509922974119657475",
+        "name": "アミア",
+        "pinned_tweet_id": "2022482679166570805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910372308117839875/xZxdultB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3102,
+          "following_count": 5,
+          "like_count": 262,
+          "listed_count": 16,
+          "media_count": 139,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/2RI1W4JcH3",
+        "username": "Amiamzk827",
+        "verified": false
+      }
+    ]
+  }
+}

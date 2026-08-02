@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1974984110155440633",
+    "created_at": "2025-10-06T23:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T00:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975344405210083780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1703066493519626240",
+          "start": 0,
+          "username": "kirifuji00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975344405210083780",
+    "in_reply_to_user_id": "1703066493519626240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975306333936312354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirifuji00 嗯呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1974984110155440633",
+        "created_at": "2025-10-06T23:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T00:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975344405210083780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1703066493519626240",
+              "start": 0,
+              "username": "kirifuji00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975344405210083780",
+        "in_reply_to_user_id": "1703066493519626240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975306333936312354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirifuji00 嗯呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703066493519626240",
+        "conversation_id": "1974984110155440633",
+        "created_at": "2025-10-06T21:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T22:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975306333936312354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975306333936312354",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974984110155440633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 好东西喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 202,
+          "like_count": 39903,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 10678
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T15:21:18.000Z",
+        "description": "",
+        "id": "1703066493519626240",
+        "location": "高市",
+        "name": "早苗",
+        "pinned_tweet_id": "1901657744274280720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974824324935901184/UID0fZcW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 216,
+          "like_count": 362,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 267
+        },
+        "username": "kirifuji00",
+        "verified": false
+      }
+    ]
+  }
+}

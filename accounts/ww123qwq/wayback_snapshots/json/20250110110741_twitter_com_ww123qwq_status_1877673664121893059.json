@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1877324268008067152",
+    "created_at": "2025-01-10T11:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T12:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877673664121893059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1760996307705982976",
+          "start": 0,
+          "username": "OvO_Qian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877673664121893059",
+    "in_reply_to_user_id": "1760996307705982976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877324268008067152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO_Qian 往我嘴里打😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1877324268008067152",
+        "created_at": "2025-01-10T11:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T12:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877673664121893059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760996307705982976",
+              "start": 0,
+              "username": "OvO_Qian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877673664121893059",
+        "in_reply_to_user_id": "1760996307705982976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877324268008067152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO_Qian 往我嘴里打😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877324263490990080"
+          ]
+        },
+        "author_id": "1760996307705982976",
+        "conversation_id": "1877324268008067152",
+        "created_at": "2025-01-09T11:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T12:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877324268008067152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdH9j5VUYf",
+              "end": 43,
+              "expanded_url": "https://x.com/OvO_Qian/status/1877324268008067152/photo/1",
+              "media_key": "3_1877324263490990080",
+              "start": 20,
+              "url": "https://t.co/jdH9j5VUYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877324268008067152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 90093,
+          "like_count": 555,
+          "quote_count": 5,
+          "reply_count": 122,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "同学：你怎么又轻了\n我：天天打胶打的😣 https://t.co/jdH9j5VUYf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 128,
+          "like_count": 39834,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 10239
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:54:22.000Z",
+        "description": "含糖🍥♂丨无聊上来玩玩推丨H内容都在门槛内丨🚪198＝vx好友位（朋友圈有脸照）+涩涩福利（视蘋群+🐰包+定制）丨全国✈️过门咨询线下",
+        "id": "1760996307705982976",
+        "location": "随机刷新",
+        "name": "铃木 花音🍥",
+        "pinned_tweet_id": "1807744637500850302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785920004632039424/jlwAGGKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43578,
+          "following_count": 315,
+          "like_count": 2454,
+          "listed_count": 92,
+          "media_count": 132,
+          "tweet_count": 2946
+        },
+        "username": "OvO_Qian",
+        "verified": false
+      }
+    ]
+  }
+}

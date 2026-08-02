@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2006763896661835781",
+    "created_at": "2026-01-02T18:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T19:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007150138306039952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678171777409875968",
+          "start": 0,
+          "username": "420420420CTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007150138306039952",
+    "in_reply_to_user_id": "1678171777409875968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006763896661835781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420420420CTL 我想要🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_2006763815153836032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9l1Dr5aIAAPqcP.jpg",
+        "width": 700
+      },
+      {
+        "height": 782,
+        "media_key": "3_2006763816533766148",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9l1DxCaMAQBpM2.jpg",
+        "width": 699
+      },
+      {
+        "height": 499,
+        "media_key": "3_2006763816533766151",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9l1DxCaMAcASWG.jpg",
+        "width": 500
+      },
+      {
+        "height": 700,
+        "media_key": "3_2006763815153840128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9l1Dr5aMAAEpfU.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2006763896661835781",
+        "created_at": "2026-01-02T18:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T19:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007150138306039952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678171777409875968",
+              "start": 0,
+              "username": "420420420CTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007150138306039952",
+        "in_reply_to_user_id": "1678171777409875968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006763896661835781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420420420CTL 我想要🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006763815153836032",
+            "3_2006763816533766148",
+            "3_2006763816533766151",
+            "3_2006763815153840128"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2006763896661835781",
+        "created_at": "2026-01-01T16:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006763896661835781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 104,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763815153836032",
+              "start": 81,
+              "url": "https://t.co/B8ymdZu6WX"
+            },
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 104,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763816533766148",
+              "start": 81,
+              "url": "https://t.co/B8ymdZu6WX"
+            },
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 104,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763816533766151",
+              "start": 81,
+              "url": "https://t.co/B8ymdZu6WX"
+            },
+            {
+              "display_url": "pic.x.com/B8ymdZu6WX",
+              "end": 104,
+              "expanded_url": "https://x.com/420420420CTL/status/2006763896661835781/photo/1",
+              "media_key": "3_2006763815153840128",
+              "start": 81,
+              "url": "https://t.co/B8ymdZu6WX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006763896661835781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8258,
+          "like_count": 75,
+          "quote_count": 3,
+          "reply_count": 48,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo抽奖开启，今年第一条抽奖，给大家抽5g装菠萝快车，地区：成都 贵阳 重庆 深圳 广州，关注我 并评论 转发 此条推文，截图发给我，开奖日期：1月9日 https://t.co/B8ymdZu6WX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 268,
+          "like_count": 40944,
+          "listed_count": 5,
+          "media_count": 520,
+          "tweet_count": 11968
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "pinned_tweet_id": "1994233157906788612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997869953601712128/tL9oqeh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 596,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 763
+        },
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

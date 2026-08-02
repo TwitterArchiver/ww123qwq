@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1877479317095014490",
+    "created_at": "2025-01-10T07:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T08:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877615856735437088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1598723832230998016",
+          "start": 0,
+          "username": "Kotorixxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877615856735437088",
+    "in_reply_to_user_id": "1598723832230998016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877479317095014490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kotorixxxxxx 好萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1877479317095014490",
+        "created_at": "2025-01-10T07:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T08:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877615856735437088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598723832230998016",
+              "start": 0,
+              "username": "Kotorixxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877615856735437088",
+        "in_reply_to_user_id": "1598723832230998016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877479317095014490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kotorixxxxxx 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877475796971040771"
+          ]
+        },
+        "author_id": "1598723832230998016",
+        "conversation_id": "1877479317095014490",
+        "created_at": "2025-01-09T22:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T23:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877479317095014490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gT2AyZNgmA",
+              "end": 125,
+              "expanded_url": "https://x.com/Kotorixxxxxx/status/1877479317095014490/photo/1",
+              "media_key": "3_1877475796971040771",
+              "start": 102,
+              "url": "https://t.co/gT2AyZNgmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877479317095014490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2949,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最近会发的多一些 攒了很多都没发233 之前真的是太忙了诶吃饭都是忙完别的坐着和客人一起玩的时候吃 中午买的红薯吃的时候经常都不怎么热了QAQ 诶诶这两天大家的关心支持真的谢谢了爱你们哦(^^ʃ♡ƪ)\" https://t.co/gT2AyZNgmA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 127,
+          "like_count": 39828,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 10236
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T17:00:54.000Z",
+        "description": "希望大家都能开心呢",
+        "id": "1598723832230998016",
+        "location": "成都",
+        "name": "南小彩🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787455166813544448/EdRCLjMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7823,
+          "following_count": 589,
+          "like_count": 3920,
+          "listed_count": 20,
+          "media_count": 411,
+          "tweet_count": 3895
+        },
+        "username": "Kotorixxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2021932826669863114",
+    "created_at": "2026-02-12T13:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021932826669863114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/N552AAN552AA/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/N552AAN552AA/status/2021899251975065661",
+          "start": 21,
+          "url": "https://t.co/L9CUKQoRPg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021932826669863114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021899251975065661",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好想永远睡着，求你了，请让我永远安眠吧 https://t.co/L9CUKQoRPg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2021932826669863114",
+        "created_at": "2026-02-12T13:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021932826669863114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N552AAN552AA/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/N552AAN552AA/status/2021899251975065661",
+              "start": 21,
+              "url": "https://t.co/L9CUKQoRPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021932826669863114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021899251975065661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好想永远睡着，求你了，请让我永远安眠吧 https://t.co/L9CUKQoRPg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011805883937013766",
+        "conversation_id": "2021899251975065661",
+        "created_at": "2026-02-12T10:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021899251975065661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rinko_zero8964…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Rinko_zero8964/status/2021819490984657184",
+              "start": 21,
+              "url": "https://t.co/nbBm0FYRFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021899251975065661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021819490984657184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好想永远睡着，求你了，请让我永远安眠吧 https://t.co/nbBm0FYRFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 263,
+          "like_count": 41597,
+          "listed_count": 5,
+          "media_count": 603,
+          "tweet_count": 12299
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T14:21:29.000Z",
+        "description": "08/MTX（f?/ENTP-T/双相/ADHD/BPD/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/imSQNaNGBG"
+              }
+            ]
+          }
+        },
+        "id": "2011805883937013766",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（五代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011806091517313029/rq4MKgBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 84,
+          "like_count": 78,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/imSQNaNGBG",
+        "username": "N552AAN552AA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2003842398590574753",
+    "created_at": "2025-12-24T14:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T15:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003842398590574753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1129959919212421121",
+          "start": 3,
+          "username": "NEKOJIRUBRON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003842398590574753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003800658710090069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NEKOJIRUBRON: 自殺は大抵何かしらの精神病を患っての末\nつまり病死なのでそれに良いも悪いも無い"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2003842398590574753",
+        "created_at": "2025-12-24T14:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T15:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003842398590574753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1129959919212421121",
+              "start": 3,
+              "username": "NEKOJIRUBRON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003842398590574753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003800658710090069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NEKOJIRUBRON: 自殺は大抵何かしらの精神病を患っての末\nつまり病死なのでそれに良いも悪いも無い"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1129959919212421121",
+        "conversation_id": "2003800658710090069",
+        "created_at": "2025-12-24T12:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003800658710090069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003800658710090069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "自殺は大抵何かしらの精神病を患っての末\nつまり病死なのでそれに良いも悪いも無い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/，也支持usdt。/上海/日本",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 266,
+          "like_count": 40916,
+          "listed_count": 5,
+          "media_count": 496,
+          "tweet_count": 11915
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-19T04:00:13.000Z",
+        "description": "躁鬱とお薬と死生観のおはなし",
+        "id": "1129959919212421121",
+        "location": "メンタルクリニック",
+        "name": "ねこぢるぶろん",
+        "pinned_tweet_id": "1989983992012210189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973152453798535172/s0j63UJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 375,
+          "like_count": 62060,
+          "listed_count": 10,
+          "media_count": 55,
+          "tweet_count": 1343
+        },
+        "username": "NEKOJIRUBRON",
+        "verified": false
+      }
+    ]
+  }
+}

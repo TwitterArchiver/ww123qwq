@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2035756699756253636",
+    "created_at": "2026-03-22T16:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035760020810600881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1917890381104271361",
+          "start": 0,
+          "username": "AV1O492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035760020810600881",
+    "in_reply_to_user_id": "1917890381104271361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035756699756253636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AV1O492 消肿逼（确信"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035756696937586688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEB17hIWYAA-3iA.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2035756699756253636",
+        "created_at": "2026-03-22T16:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035760020810600881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035760020810600881",
+        "in_reply_to_user_id": "1917890381104271361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035756699756253636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492 消肿逼（确信"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035756696937586688"
+          ]
+        },
+        "author_id": "1917890381104271361",
+        "conversation_id": "2035756699756253636",
+        "created_at": "2026-03-22T16:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035756699756253636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GkWrTo4FDj",
+              "end": 33,
+              "expanded_url": "https://x.com/AV1O492/status/2035756699756253636/photo/1",
+              "media_key": "3_2035756696937586688",
+              "start": 10,
+              "url": "https://t.co/GkWrTo4FDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035756699756253636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "枭哥笑传之蜜蜂老猪 https://t.co/GkWrTo4FDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图/药物咨询/支持usdt。/上海/日本/匿名提问https://t.co/yODqqgeu12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/yinai",
+                "end": 128,
+                "expanded_url": "https://miyu.link/yinai",
+                "start": 105,
+                "url": "https://t.co/yODqqgeu12"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 266,
+          "like_count": 41980,
+          "listed_count": 4,
+          "media_count": 651,
+          "tweet_count": 12498
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️别用女性代词称呼我 感谢 ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/FE6zEQL",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/FE6zEQL",
+                "start": 0,
+                "url": "https://t.co/S24FLluxcp"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2035738063138181412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035743386192269312/LTdTBjch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 62,
+          "like_count": 2659,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/S24FLluxcp",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

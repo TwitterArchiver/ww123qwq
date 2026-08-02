@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2020453370583028123",
+    "created_at": "2026-02-09T06:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T07:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020746950069645697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1674780264504098826",
+          "start": 0,
+          "username": "genpatsu_mania"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020746950069645697",
+    "in_reply_to_user_id": "1674780264504098826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020453370583028123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genpatsu_mania 药好吃，酒难喝。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2020453365621415936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoXoZcbYAACl8X.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2020453370583028123",
+        "created_at": "2026-02-09T06:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020746950069645697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1674780264504098826",
+              "start": 0,
+              "username": "genpatsu_mania"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020746950069645697",
+        "in_reply_to_user_id": "1674780264504098826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020453370583028123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genpatsu_mania 药好吃，酒难喝。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020453365621415936"
+          ]
+        },
+        "author_id": "1674780264504098826",
+        "conversation_id": "2020453370583028123",
+        "created_at": "2026-02-08T11:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T12:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020453370583028123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/axLxpTpW96",
+              "end": 31,
+              "expanded_url": "https://x.com/genpatsu_mania/status/2020453370583028123/photo/1",
+              "media_key": "3_2020453365621415936",
+              "start": 8,
+              "url": "https://t.co/axLxpTpW96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020453370583028123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 323055,
+          "like_count": 6393,
+          "quote_count": 45,
+          "reply_count": 33,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "僕の親大体これ https://t.co/axLxpTpW96"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 263,
+          "like_count": 41515,
+          "listed_count": 5,
+          "media_count": 596,
+          "tweet_count": 12262
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T14:02:11.000Z",
+        "description": "開發光さん、開發聖也さん、マスオTVさん、デカキンさん、福島県を応援しております🦪ヒカマーフォロバ100、成人済みヒカマー リスペクト→おすすめ@45Rhodium1804",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "45Rhodium1804"
+              }
+            ]
+          }
+        },
+        "id": "1674780264504098826",
+        "location": "福島原發零号機",
+        "name": "にぎり_mania(原發　光)",
+        "pinned_tweet_id": "1990730462445384182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007794670001364993/U22bL9WY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 2734,
+          "like_count": 72862,
+          "listed_count": 7,
+          "media_count": 2034,
+          "tweet_count": 25681
+        },
+        "username": "genpatsu_mania",
+        "verified": false
+      }
+    ]
+  }
+}

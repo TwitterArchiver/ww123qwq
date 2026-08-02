@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014835793894760448"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2014835809556598831",
+    "created_at": "2026-01-23T23:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T00:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014835809556598831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vqUgOiUr4E",
+          "end": 50,
+          "expanded_url": "https://x.com/ww123qwq/status/2014835809556598831/photo/1",
+          "media_key": "3_2014835793894760448",
+          "start": 27,
+          "url": "https://t.co/vqUgOiUr4E"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "0c262786a342420a"
+    },
+    "id": "2014835809556598831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "单方右美沙芬要2200日元，你们买一盒要带大概多少钱 https://t.co/vqUgOiUr4E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014835793894760448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Yier_W4AAmay3.jpg",
+        "width": 921
+      }
+    ],
+    "places": [
+      {
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Kizugawa-shi, Kyoto",
+        "geo": {
+          "bbox": [
+            135.773925,
+            34.705722,
+            135.922244,
+            34.804122
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "0c262786a342420a",
+        "name": "Kizugawa-shi",
+        "place_type": "city"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014835793894760448"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2014835809556598831",
+        "created_at": "2026-01-23T23:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T00:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014835809556598831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vqUgOiUr4E",
+              "end": 50,
+              "expanded_url": "https://x.com/ww123qwq/status/2014835809556598831/photo/1",
+              "media_key": "3_2014835793894760448",
+              "start": 27,
+              "url": "https://t.co/vqUgOiUr4E"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0c262786a342420a"
+        },
+        "id": "2014835809556598831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "单方右美沙芬要2200日元，你们买一盒要带大概多少钱 https://t.co/vqUgOiUr4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 262,
+          "like_count": 41014,
+          "listed_count": 5,
+          "media_count": 553,
+          "tweet_count": 12087
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

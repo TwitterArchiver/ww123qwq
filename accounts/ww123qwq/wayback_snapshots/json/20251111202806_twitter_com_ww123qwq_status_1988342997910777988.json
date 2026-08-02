@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1988342952784261121"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1988342997910777988",
+    "created_at": "2025-11-11T20:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T21:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988342997910777988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tXd9QgMfN8",
+          "end": 31,
+          "expanded_url": "https://x.com/ww123qwq/status/1988342997910777988/video/1",
+          "media_key": "7_1988342952784261121",
+          "start": 8,
+          "url": "https://t.co/tXd9QgMfN8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988342997910777988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自残，自我伤害 https://t.co/tXd9QgMfN8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988342997910777988].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988342997910777988",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988342997910777988"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6022,
+        "height": 1280,
+        "media_key": "7_1988342952784261121",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1988342952784261121/pu/img/0F5R3Qa9m0bXnLaY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988342952784261121/pu/vid/avc1/320x568/EqNJZ_KIm9YhoUBh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988342952784261121/pu/vid/avc1/480x852/pSF2-yf_JL_qWGt1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988342952784261121/pu/vid/avc1/720x1280/P0lzfyyqrGU7RT1g.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1988342952784261121/pu/pl/OcuZ7p2DJuyjS6HK.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴休学圆角攒钱中/地雷系/欢迎扩列加好友w唯一电报  非本，注意防骗\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1051287723置顶tg非本人推广自辨，出原味私信，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 232,
+          "like_count": 40585,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 11321
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

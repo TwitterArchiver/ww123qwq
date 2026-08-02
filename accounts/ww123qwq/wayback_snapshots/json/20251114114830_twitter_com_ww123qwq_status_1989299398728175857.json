@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1989299398728175857",
+    "created_at": "2025-11-14T11:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989299398728175857"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "男の娘"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "雌堕"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "娼年"
+        },
+        {
+          "end": 110,
+          "start": 102,
+          "tag": "cosplay"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "援交"
+        },
+        {
+          "end": 119,
+          "start": 115,
+          "tag": "小男孩"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "逆兔女郎"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1640593018666332161",
+          "start": 3,
+          "username": "yaoyaoliusama"
+        },
+        {
+          "end": 43,
+          "id": "1970765590404218880",
+          "start": 29,
+          "username": "illusionclub_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "s.tb.cn/c.0DtUPv",
+          "end": 88,
+          "expanded_url": "https://s.tb.cn/c.0DtUPv",
+          "start": 65,
+          "status": 200,
+          "unwound_url": "https://s.tb.cn/c.0DtUPv",
+          "url": "https://t.co/UzFIwgBR7r"
+        },
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989299398728175857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989237058809000304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaoyaoliusama: ic社软萌的青柠小鬼@illusionclub_，新手宝子们锻炼的慢玩杯\n我的专属福利优惠：https://t.co/UzFIwgBR7r\n#男の娘 #雌堕 #娼年 #cosplay #援交 #小男孩 #逆兔女郎 https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989299398728175857].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989299398728175857",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989299398728175857"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 153391,
+        "height": 1920,
+        "media_key": "13_1989236004545576960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989236004545576960/img/YBuIxw80xjNFCBnd.jpg",
+        "public_metrics": {
+          "view_count": 1845
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989236004545576960/vid/avc1/320x568/ekmn2Dq5vK6G6GLO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989236004545576960/vid/avc1/480x852/ULjytYiY7au30Z2k.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989236004545576960/vid/avc1/720x1280/peGApWq1aYgNvCR8.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989236004545576960/pl/3dTQOgVhUQdrRKK_.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989236004545576960"
+          ]
+        },
+        "author_id": "1640593018666332161",
+        "conversation_id": "1989237058809000304",
+        "created_at": "2025-11-14T07:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989237058809000304"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "男の娘"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "雌堕"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "娼年"
+            },
+            {
+              "end": 91,
+              "start": 83,
+              "tag": "cosplay"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "援交"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "小男孩"
+            },
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "逆兔女郎"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1970765590404218880",
+              "start": 10,
+              "username": "illusionclub_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "s.tb.cn/c.0DtUPv",
+              "end": 69,
+              "expanded_url": "https://s.tb.cn/c.0DtUPv",
+              "start": 46,
+              "status": 200,
+              "unwound_url": "https://s.tb.cn/c.0DtUPv",
+              "url": "https://t.co/UzFIwgBR7r"
+            },
+            {
+              "display_url": "pic.x.com/YkydmqbABv",
+              "end": 130,
+              "expanded_url": "https://x.com/yaoyaoliusama/status/1989237058809000304/video/1",
+              "media_key": "13_1989236004545576960",
+              "start": 107,
+              "url": "https://t.co/YkydmqbABv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989237058809000304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 5664,
+          "like_count": 237,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "ic社软萌的青柠小鬼@illusionclub_，新手宝子们锻炼的慢玩杯\n我的专属福利优惠：https://t.co/UzFIwgBR7r\n#男の娘 #雌堕 #娼年 #cosplay #援交 #小男孩 #逆兔女郎 https://t.co/YkydmqbABv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴休学圆角攒钱中/地雷系/欢迎扩列加好友w唯一电报  非本，注意防骗\n@kirifuji00🚪88/188/520/1314，个人群欢迎来玩1051287723置顶tg非本人推广自辨，出原味私信，接线下上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 233,
+          "like_count": 40606,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 11379
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T05:54:01.000Z",
+        "description": "#男娘，可以寄拍，低质量coser（在学了）可以接cos视频，infp，求互fo互推，想和小可爱扩列🙏🙏\n\n求画师关注，想约稿🥹🥹🥹\n\n不接置顶链接，不卖号，🚪66只接纯绿cos委托",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1640593018666332161",
+        "location": "被窝",
+        "name": "幺幺六（求互推",
+        "pinned_tweet_id": "1989237058809000304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788625359124168706/9phEIc6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29453,
+          "following_count": 806,
+          "like_count": 4603,
+          "listed_count": 139,
+          "media_count": 152,
+          "tweet_count": 1239
+        },
+        "username": "yaoyaoliusama",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T08:24:45.000Z",
+        "description": "IC社满足你的一切幻想👅 🐈‍⬛店：【纵意成人用品旗舰店】 欢迎进电报群福利多多https://t.co/rVujcAjQSS 🍑宝大鹅福利券👉🏻：https://t.co/CfFVPSE4nM 抖🎵：【SECWELL计生用品旗舰店 】购买或寄拍合作私小助理 @icicicshe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 130,
+                "username": "icicicshe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/illusionclubgf…",
+                "end": 63,
+                "expanded_url": "https://t.me/illusionclubgfjd1",
+                "start": 40,
+                "url": "https://t.co/rVujcAjQSS"
+              },
+              {
+                "display_url": "s.tb.cn/c.0DoQHD",
+                "end": 97,
+                "expanded_url": "https://s.tb.cn/c.0DoQHD",
+                "start": 74,
+                "url": "https://t.co/CfFVPSE4nM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IllusionClub11",
+                "end": 23,
+                "expanded_url": "https://t.me/IllusionClub11",
+                "start": 0,
+                "url": "https://t.co/iEjZc8Hnl6"
+              }
+            ]
+          }
+        },
+        "id": "1970765590404218880",
+        "name": "IllusionClub幻想社团（官方）",
+        "pinned_tweet_id": "1985698591231656416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972960061342597120/_THlz1dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3572,
+          "following_count": 27,
+          "like_count": 112,
+          "listed_count": 14,
+          "media_count": 18,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/iEjZc8Hnl6",
+        "username": "illusionclub_",
+        "verified": true
+      }
+    ]
+  }
+}

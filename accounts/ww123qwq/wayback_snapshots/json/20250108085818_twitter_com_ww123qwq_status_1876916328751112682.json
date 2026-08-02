@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876884325473615872"
+      ],
+      "media_source_tweet_id": [
+        "1876884331018305898"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1876916328751112682",
+    "created_at": "2025-01-08T08:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T09:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876916328751112682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "991568730785103872",
+          "start": 3,
+          "username": "C1_S2_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rfgsIHnK38",
+          "end": 35,
+          "expanded_url": "https://x.com/C1_S2_/status/1876884331018305898/photo/1",
+          "media_key": "3_1876884325473615872",
+          "start": 12,
+          "url": "https://t.co/rfgsIHnK38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876916328751112682",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876884331018305898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @C1_S2_: https://t.co/rfgsIHnK38"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876884325473615872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwIWZBagAAswYo.jpg",
+        "width": 1529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876884325473615872"
+          ],
+          "media_source_tweet_id": [
+            "1876884331018305898"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1876916328751112682",
+        "created_at": "2025-01-08T08:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T09:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876916328751112682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "991568730785103872",
+              "start": 3,
+              "username": "C1_S2_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfgsIHnK38",
+              "end": 35,
+              "expanded_url": "https://x.com/C1_S2_/status/1876884331018305898/photo/1",
+              "media_key": "3_1876884325473615872",
+              "start": 12,
+              "url": "https://t.co/rfgsIHnK38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876916328751112682",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876884331018305898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @C1_S2_: https://t.co/rfgsIHnK38"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876884325473615872"
+          ]
+        },
+        "author_id": "991568730785103872",
+        "conversation_id": "1876884331018305898",
+        "created_at": "2025-01-08T06:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T07:43:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876882411528560871",
+          "1876884331018305898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfgsIHnK38",
+              "end": 23,
+              "expanded_url": "https://x.com/C1_S2_/status/1876884331018305898/photo/1",
+              "media_key": "3_1876884325473615872",
+              "start": 0,
+              "url": "https://t.co/rfgsIHnK38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876884331018305898",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 12131,
+          "like_count": 1070,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/rfgsIHnK38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 126,
+          "like_count": 39672,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 10202
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-02T06:43:02.000Z",
+        "description": "ʚɞ@C13S2 @V43Ep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "C13S2"
+              },
+              {
+                "end": 15,
+                "start": 9,
+                "username": "V43Ep"
+              }
+            ]
+          }
+        },
+        "id": "991568730785103872",
+        "name": "ねぇ",
+        "pinned_tweet_id": "1828342634840293802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876416235992412160/U4eoDHhg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69078,
+          "following_count": 86,
+          "like_count": 12814,
+          "listed_count": 265,
+          "media_count": 248,
+          "tweet_count": 811
+        },
+        "username": "C1_S2_",
+        "verified": false
+      }
+    ]
+  }
+}

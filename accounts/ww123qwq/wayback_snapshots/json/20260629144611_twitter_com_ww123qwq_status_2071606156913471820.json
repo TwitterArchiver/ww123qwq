@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071564069904011565",
+    "created_at": "2026-06-29T14:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071606156913471820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815649539057201152",
+          "start": 0,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071606156913471820",
+    "in_reply_to_user_id": "1815649539057201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071564069904011565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NankyuSeiichi 黑丝白运动鞋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071564069904011565",
+        "created_at": "2026-06-29T14:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071606156913471820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815649539057201152",
+              "start": 0,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071606156913471820",
+        "in_reply_to_user_id": "1815649539057201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071564069904011565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NankyuSeiichi 黑丝白运动鞋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "2071564069904011565",
+        "created_at": "2026-06-29T11:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071564069904011565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071564069904011565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2814,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得男娘穿黑丝皮鞋是一种很丑的搭配，我每次刷到都要大加批斗一番"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 285,
+          "like_count": 43307,
+          "listed_count": 4,
+          "media_count": 715,
+          "tweet_count": 13156
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 1428,
+          "like_count": 37714,
+          "listed_count": 3,
+          "media_count": 768,
+          "tweet_count": 10250
+        },
+        "url": "",
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

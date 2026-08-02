@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1876150226496651264"
+      ],
+      "media_source_tweet_id": [
+        "1876150292355662323"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1876784262059331637",
+    "created_at": "2025-01-08T00:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T01:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876784262059331637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "307353701",
+          "start": 3,
+          "username": "askaiwy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4lNaNv52VO",
+          "end": 58,
+          "expanded_url": "https://x.com/askaiwy/status/1876150292355662323/video/1",
+          "media_key": "13_1876150226496651264",
+          "start": 35,
+          "url": "https://t.co/4lNaNv52VO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876784262059331637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 468
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876150292355662323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @askaiwy: 今日份的开心\n大家一起来笑一笑！🤪🤪🤪🤪🤪 https://t.co/4lNaNv52VO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 212183,
+        "height": 1280,
+        "media_key": "13_1876150226496651264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1876150226496651264/img/9K4frKPZt_rrpzwm.jpg",
+        "public_metrics": {
+          "view_count": 306400
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1876150226496651264/vid/avc1/320x694/du5svn_ee8Jxbuj7.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1876150226496651264/vid/avc1/480x1040/sRbvyP94J-L2aTvP.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1876150226496651264/vid/avc1/590x1280/MvCnBjJPKTp_6uNZ.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1876150226496651264/pl/geFVPsVoEu3m3QF2.m3u8?tag=16&v=8d1"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1876150226496651264"
+          ],
+          "media_source_tweet_id": [
+            "1876150292355662323"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876784262059331637",
+        "created_at": "2025-01-08T00:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T01:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876784262059331637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "307353701",
+              "start": 3,
+              "username": "askaiwy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lNaNv52VO",
+              "end": 58,
+              "expanded_url": "https://x.com/askaiwy/status/1876150292355662323/video/1",
+              "media_key": "13_1876150226496651264",
+              "start": 35,
+              "url": "https://t.co/4lNaNv52VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876784262059331637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 468
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876150292355662323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @askaiwy: 今日份的开心\n大家一起来笑一笑！🤪🤪🤪🤪🤪 https://t.co/4lNaNv52VO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1876150226496651264"
+          ]
+        },
+        "author_id": "307353701",
+        "conversation_id": "1876150292355662323",
+        "created_at": "2025-01-06T06:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T07:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876150292355662323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lNaNv52VO",
+              "end": 45,
+              "expanded_url": "https://x.com/askaiwy/status/1876150292355662323/video/1",
+              "media_key": "13_1876150226496651264",
+              "start": 22,
+              "url": "https://t.co/4lNaNv52VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876150292355662323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 853,
+          "impression_count": 843357,
+          "like_count": 4455,
+          "quote_count": 192,
+          "reply_count": 309,
+          "retweet_count": 468
+        },
+        "reply_settings": "everyone",
+        "text": "今日份的开心\n大家一起来笑一笑！🤪🤪🤪🤪🤪 https://t.co/4lNaNv52VO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 125,
+          "like_count": 39639,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 10192
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-29T13:51:12.000Z",
+        "description": "瓜田里上蹿下跳东奔西走的猹；牙尖嘴利古灵精怪的前白大褂 ；原教旨中医；",
+        "id": "307353701",
+        "location": "日本 神奈川",
+        "name": "飛鳥",
+        "pinned_tweet_id": "1788840262141374875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757782766920568832/Bs8jvrDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19510,
+          "following_count": 335,
+          "like_count": 36156,
+          "listed_count": 65,
+          "media_count": 3396,
+          "tweet_count": 12155
+        },
+        "username": "askaiwy",
+        "verified": true
+      }
+    ]
+  }
+}

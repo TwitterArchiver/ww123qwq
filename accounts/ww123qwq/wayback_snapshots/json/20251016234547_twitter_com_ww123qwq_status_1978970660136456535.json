@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1978633743129518584",
+    "created_at": "2025-10-16T23:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T00:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978970660136456535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1555235772462428160",
+          "start": 0,
+          "username": "yunochan1016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978970660136456535",
+    "in_reply_to_user_id": "1555235772462428160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978633743129518584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunochan1016 生日快乐哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 622,
+        "media_key": "3_1934301830085021696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtgFRB6bEAA96hu.jpg",
+        "width": 893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1978633743129518584",
+        "created_at": "2025-10-16T23:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T00:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978970660136456535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1555235772462428160",
+              "start": 0,
+              "username": "yunochan1016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978970660136456535",
+        "in_reply_to_user_id": "1555235772462428160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978633743129518584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunochan1016 生日快乐哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934301830085021696"
+          ]
+        },
+        "author_id": "1555235772462428160",
+        "conversation_id": "1978633743129518584",
+        "created_at": "2025-10-16T01:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978633743129518584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DyTahq7x6",
+              "end": 43,
+              "expanded_url": "https://x.com/yunochan1016/status/1978633743129518584/photo/1",
+              "media_key": "3_1934301830085021696",
+              "start": 20,
+              "url": "https://t.co/5DyTahq7x6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978633743129518584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14485,
+          "like_count": 597,
+          "quote_count": 0,
+          "reply_count": 184,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的生日 \n希望可以開心過每一天 https://t.co/5DyTahq7x6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 203,
+          "like_count": 39869,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 10697
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T16:54:52.000Z",
+        "description": "我是乃乃 打工族貓咪女僕 主要是唱歌+雜談+雜七雜八 中文O/日語O/英文△/台語△ YouTube https://t.co/9eBZRXEZMe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/NGp409",
+                "end": 74,
+                "expanded_url": "http://reurl.cc/NGp409",
+                "start": 51,
+                "url": "https://t.co/9eBZRXEZMe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/yunochan1016",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/yunochan1016",
+                "start": 0,
+                "url": "https://t.co/fl8KeRemv0"
+              }
+            ]
+          }
+        },
+        "id": "1555235772462428160",
+        "name": "貓宮結乃Vtuber 10/16生日+新衣裝2.0",
+        "pinned_tweet_id": "1922253790113149414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637674797248413698/xGA44HCN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 442,
+          "like_count": 22904,
+          "listed_count": 14,
+          "media_count": 1913,
+          "tweet_count": 12922
+        },
+        "url": "https://t.co/fl8KeRemv0",
+        "username": "yunochan1016",
+        "verified": false
+      }
+    ]
+  }
+}

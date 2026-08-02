@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992269656539975680"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1992269659635363893",
+    "created_at": "2025-11-22T16:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992269659635363893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1603904249649188864",
+          "start": 0,
+          "username": "maomaoServer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mZ8kp2tmrd",
+          "end": 61,
+          "expanded_url": "https://x.com/ww123qwq/status/1992269659635363893/photo/1",
+          "media_key": "3_1992269656539975680",
+          "start": 38,
+          "url": "https://t.co/mZ8kp2tmrd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992269659635363893",
+    "in_reply_to_user_id": "1603904249649188864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@maomaoServer \n原神ID520302200802210016 https://t.co/mZ8kp2tmrd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 586,
+        "media_key": "3_1992269656539975680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6X2snba0AAw54Q.jpg",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992269656539975680"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1992269659635363893",
+        "created_at": "2025-11-22T16:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992269659635363893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1603904249649188864",
+              "start": 0,
+              "username": "maomaoServer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZ8kp2tmrd",
+              "end": 61,
+              "expanded_url": "https://x.com/ww123qwq/status/1992269659635363893/photo/1",
+              "media_key": "3_1992269656539975680",
+              "start": 38,
+              "url": "https://t.co/mZ8kp2tmrd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992269659635363893",
+        "in_reply_to_user_id": "1603904249649188864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@maomaoServer \n原神ID520302200802210016 https://t.co/mZ8kp2tmrd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "躯体化/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴党/地雷系/自伤/欢迎扩列加好友w唯一电报  非本，注意防骗\n🚪88/188/520/1314，女生免费，解锁色图置顶tg非本人推广自辨，出原味，接线下圆角，接露出，接任务，找金主，比较负能\n备用号@QwqQwe88396 坐标上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1219,
+          "following_count": 256,
+          "like_count": 40703,
+          "listed_count": 3,
+          "media_count": 366,
+          "tweet_count": 11549
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T00:06:06.000Z",
+        "description": "🚪 64 魅魔。vrchat资深老登 ERP（企业资源管理大佬）耐操王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnmsb.xin",
+                "end": 23,
+                "expanded_url": "https://cnmsb.xin",
+                "start": 0,
+                "url": "https://t.co/4NyBNrsox2"
+              }
+            ]
+          }
+        },
+        "id": "1603904249649188864",
+        "location": "/data/local/tmp",
+        "name": "你是要气死小奶猫吗？",
+        "pinned_tweet_id": "1957147231989248327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969495127338205187/WgOPDQ-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 52,
+          "like_count": 709,
+          "listed_count": 4,
+          "media_count": 394,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/4NyBNrsox2",
+        "username": "maomaoServer",
+        "verified": false
+      }
+    ]
+  }
+}

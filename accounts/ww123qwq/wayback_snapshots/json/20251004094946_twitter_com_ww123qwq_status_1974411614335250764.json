@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974185783474204672"
+      ],
+      "media_source_tweet_id": [
+        "1974185791808286956"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1974411614335250764",
+    "created_at": "2025-10-04T09:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T10:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974411614335250764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816964589910659073",
+          "start": 3,
+          "username": "HK3024L"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3NvyGOICiX",
+          "end": 36,
+          "expanded_url": "https://x.com/HK3024L/status/1974185791808286956/photo/1",
+          "media_key": "3_1974185783474204672",
+          "start": 13,
+          "url": "https://t.co/3NvyGOICiX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974411614335250764",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 268
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974185791808286956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HK3024L: https://t.co/3NvyGOICiX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1093,
+        "media_key": "3_1974185783474204672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2W3gqibMAAq_pJ.jpg",
+        "width": 1093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974185783474204672"
+          ],
+          "media_source_tweet_id": [
+            "1974185791808286956"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1974411614335250764",
+        "created_at": "2025-10-04T09:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974411614335250764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816964589910659073",
+              "start": 3,
+              "username": "HK3024L"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NvyGOICiX",
+              "end": 36,
+              "expanded_url": "https://x.com/HK3024L/status/1974185791808286956/photo/1",
+              "media_key": "3_1974185783474204672",
+              "start": 13,
+              "url": "https://t.co/3NvyGOICiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974411614335250764",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 268
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974185791808286956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HK3024L: https://t.co/3NvyGOICiX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974185783474204672"
+          ]
+        },
+        "author_id": "1816964589910659073",
+        "conversation_id": "1974185791808286956",
+        "created_at": "2025-10-03T18:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974185791808286956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NvyGOICiX",
+              "end": 23,
+              "expanded_url": "https://x.com/HK3024L/status/1974185791808286956/photo/1",
+              "media_key": "3_1974185783474204672",
+              "start": 0,
+              "url": "https://t.co/3NvyGOICiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974185791808286956",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 12240,
+          "like_count": 2104,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3NvyGOICiX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 202,
+          "like_count": 39839,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 10659
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T22:31:42.000Z",
+        "description": "@00cj0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "00cj0"
+              }
+            ]
+          }
+        },
+        "id": "1816964589910659073",
+        "name": "蛾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906281482399920128/vLs6pgCN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 17,
+          "like_count": 117,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 138
+        },
+        "username": "HK3024L",
+        "verified": false
+      }
+    ]
+  }
+}

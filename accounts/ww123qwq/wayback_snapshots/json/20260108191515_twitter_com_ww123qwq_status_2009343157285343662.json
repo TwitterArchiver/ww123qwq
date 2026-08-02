@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004602780871524356"
+      ],
+      "media_source_tweet_id": [
+        "2008818387183653031"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2009343157285343662",
+    "created_at": "2026-01-08T19:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T20:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009343157285343662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771867187512594432",
+          "start": 3,
+          "username": "mnhr_hkmn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i2kTdqaAMi",
+          "end": 38,
+          "expanded_url": "https://x.com/mnhr_hkmn/status/2008818387183653031/photo/1",
+          "media_key": "3_2004602780871524356",
+          "start": 15,
+          "url": "https://t.co/i2kTdqaAMi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009343157285343662",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008818387183653031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnhr_hkmn: https://t.co/i2kTdqaAMi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 294,
+        "media_key": "3_2004602780871524356",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HHm72bgAQkiQK.png",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004602780871524356"
+          ],
+          "media_source_tweet_id": [
+            "2008818387183653031"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2009343157285343662",
+        "created_at": "2026-01-08T19:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T20:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009343157285343662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771867187512594432",
+              "start": 3,
+              "username": "mnhr_hkmn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2kTdqaAMi",
+              "end": 38,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2008818387183653031/photo/1",
+              "media_key": "3_2004602780871524356",
+              "start": 15,
+              "url": "https://t.co/i2kTdqaAMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009343157285343662",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008818387183653031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnhr_hkmn: https://t.co/i2kTdqaAMi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004602780871524356"
+          ]
+        },
+        "author_id": "1771867187512594432",
+        "conversation_id": "2008818387183653031",
+        "created_at": "2026-01-07T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008818387183653031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i2kTdqaAMi",
+              "end": 23,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2008818387183653031/photo/1",
+              "media_key": "3_2004602780871524356",
+              "start": 0,
+              "url": "https://t.co/i2kTdqaAMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008818387183653031",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 14111,
+          "like_count": 1108,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/i2kTdqaAMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 265,
+          "like_count": 40961,
+          "listed_count": 5,
+          "media_count": 530,
+          "tweet_count": 11997
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T11:51:07.000Z",
+        "description": "※オ一バ一ド一ズを推奨する目的はありません Discord鯖:https://t.co/3O01i9Pa4Gサブ垢@ODdaisukinTV 自我垢@the_last09s コラ画像のリクエスト、提供受け付けてます🦪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "ODdaisukinTV"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "the_last09s"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Tyfp7DryE2",
+                "end": 54,
+                "expanded_url": "https://discord.gg/Tyfp7DryE2",
+                "start": 31,
+                "url": "https://t.co/3O01i9Pa4G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/132701830…",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/132701830?ref=nicoiphone_other",
+                "start": 0,
+                "url": "https://t.co/ebgFGJNDCO"
+              }
+            ]
+          }
+        },
+        "id": "1771867187512594432",
+        "location": "投稿してる画像はほぼコラ画像、改変動画です。",
+        "name": "オ一バ一ド一ズキン",
+        "pinned_tweet_id": "1885310578090230113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998670028359766016/b2oikpSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4218,
+          "following_count": 2620,
+          "like_count": 516,
+          "listed_count": 8,
+          "media_count": 687,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/ebgFGJNDCO",
+        "username": "mnhr_hkmn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887372483206266880"
+      ],
+      "media_source_tweet_id": [
+        "1887372489304465764"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1887646860590129296",
+    "created_at": "2025-02-06T23:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T00:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887646860590129296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1550476340142682112",
+          "start": 3,
+          "username": "Bipolar_xxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q6AZE5Z4eU",
+          "end": 40,
+          "expanded_url": "https://x.com/Bipolar_xxx/status/1887372489304465764/photo/1",
+          "media_key": "3_1887372483206266880",
+          "start": 17,
+          "url": "https://t.co/q6AZE5Z4eU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887646860590129296",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1015
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887372489304465764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bipolar_xxx: https://t.co/q6AZE5Z4eU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1887372483206266880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjFLRhRbQAAUoIM.jpg",
+        "width": 1696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887372483206266880"
+          ],
+          "media_source_tweet_id": [
+            "1887372489304465764"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1887646860590129296",
+        "created_at": "2025-02-06T23:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T00:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887646860590129296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1550476340142682112",
+              "start": 3,
+              "username": "Bipolar_xxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6AZE5Z4eU",
+              "end": 40,
+              "expanded_url": "https://x.com/Bipolar_xxx/status/1887372489304465764/photo/1",
+              "media_key": "3_1887372483206266880",
+              "start": 17,
+              "url": "https://t.co/q6AZE5Z4eU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887646860590129296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1015
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887372489304465764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bipolar_xxx: https://t.co/q6AZE5Z4eU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887372483206266880"
+          ]
+        },
+        "author_id": "1550476340142682112",
+        "conversation_id": "1887372489304465764",
+        "created_at": "2025-02-06T05:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T06:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887372489304465764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6AZE5Z4eU",
+              "end": 23,
+              "expanded_url": "https://x.com/Bipolar_xxx/status/1887372489304465764/photo/1",
+              "media_key": "3_1887372483206266880",
+              "start": 0,
+              "url": "https://t.co/q6AZE5Z4eU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887372489304465764",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1020,
+          "impression_count": 160192,
+          "like_count": 11271,
+          "quote_count": 34,
+          "reply_count": 5,
+          "retweet_count": 1015
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/q6AZE5Z4eU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 163,
+          "like_count": 40118,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 10437
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T13:42:40.000Z",
+        "description": "@kurushimichan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "kurushimichan_"
+              }
+            ]
+          }
+        },
+        "id": "1550476340142682112",
+        "name": "現実味のある苦しみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861666514740617217/6aA8Kt73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3888,
+          "following_count": 95,
+          "like_count": 3179,
+          "listed_count": 21,
+          "media_count": 41,
+          "tweet_count": 300
+        },
+        "username": "Bipolar_xxx",
+        "verified": false
+      }
+    ]
+  }
+}

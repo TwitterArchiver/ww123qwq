@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1801474372839919667",
+    "created_at": "2024-06-14T07:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T08:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801513071883784701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1760996307705982976",
+          "start": 0,
+          "username": "OvO_Qian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801513071883784701",
+    "in_reply_to_user_id": "1760996307705982976",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801474372839919667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO_Qian 现在戴围巾不热吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1801474372839919667",
+        "created_at": "2024-06-14T07:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T08:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801513071883784701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760996307705982976",
+              "start": 0,
+              "username": "OvO_Qian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801513071883784701",
+        "in_reply_to_user_id": "1760996307705982976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801474372839919667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO_Qian 现在戴围巾不热吗"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801474368733855744"
+          ]
+        },
+        "author_id": "1760996307705982976",
+        "conversation_id": "1801474372839919667",
+        "created_at": "2024-06-14T04:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T05:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801474372839919667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/GyttYDgXXs",
+              "end": 31,
+              "expanded_url": "https://twitter.com/OvO_Qian/status/1801474372839919667/photo/1",
+              "media_key": "3_1801474368733855744",
+              "start": 8,
+              "url": "https://t.co/GyttYDgXXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801474372839919667",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2546,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我在看着你👁️ https://t.co/GyttYDgXXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 107,
+          "like_count": 40262,
+          "listed_count": 0,
+          "tweet_count": 10284
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:54:22.000Z",
+        "description": "含糖少女🍥🍥那些爱过的感觉都太深刻  我都还记得🍂丨🚪148好友位+小涩涩福利丨计划手术中（ffs已完成90％）",
+        "id": "1760996307705982976",
+        "location": "轮回地狱",
+        "name": "铃木 花音",
+        "pinned_tweet_id": "1790684929887809726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785920004632039424/jlwAGGKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 91,
+          "like_count": 274,
+          "listed_count": 7,
+          "tweet_count": 271
+        },
+        "username": "OvO_Qian",
+        "verified": false
+      }
+    ]
+  }
+}

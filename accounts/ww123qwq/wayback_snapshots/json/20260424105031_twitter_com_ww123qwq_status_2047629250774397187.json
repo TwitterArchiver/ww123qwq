@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2047623716985823522",
+    "created_at": "2026-04-24T10:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047629250774397187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1807430850637963264",
+          "start": 0,
+          "username": "hugeFSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047629250774397187",
+    "in_reply_to_user_id": "1807430850637963264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047623716985823522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hugeFSG 切的🥚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2047623716985823522",
+        "created_at": "2026-04-24T10:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047629250774397187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1807430850637963264",
+              "start": 0,
+              "username": "hugeFSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047629250774397187",
+        "in_reply_to_user_id": "1807430850637963264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047623716985823522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hugeFSG 切的🥚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807430850637963264",
+        "conversation_id": "2047623716985823522",
+        "created_at": "2026-04-24T10:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047623716985823522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ww123qwq/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/ww123qwq/status/2047607880296304680",
+              "start": 21,
+              "url": "https://t.co/StCGvQRSjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047623716985823522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047607880296304680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这照片看着怎么不像切牛牛啊，有没有人解惑 https://t.co/StCGvQRSjX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 279,
+          "like_count": 42292,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 12679
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T15:08:10.000Z",
+        "description": "人在南京、广州，快要无聊死了/工科药娘🍥/老登/讨厌数学/最爱的猪猪@LalshCat/建议重要的私信发到gsfeguh@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "LalshCat"
+              }
+            ]
+          }
+        },
+        "id": "1807430850637963264",
+        "name": "罗莎",
+        "pinned_tweet_id": "2046979714003464602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986781957259239424/6VlvJSmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 164,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 776
+        },
+        "username": "hugeFSG",
+        "verified": false
+      }
+    ]
+  }
+}

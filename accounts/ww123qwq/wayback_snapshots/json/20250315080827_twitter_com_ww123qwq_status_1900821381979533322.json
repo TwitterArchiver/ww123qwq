@@ -1,0 +1,561 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900478630783791104"
+      ],
+      "media_source_tweet_id": [
+        "1900481428024181144"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1900821381979533322",
+    "created_at": "2025-03-15T08:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T09:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900821381979533322"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "ブルーアーカイブ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "884008981601046528",
+          "start": 3,
+          "username": "tukiman02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6qWT48BbDr",
+          "end": 60,
+          "expanded_url": "https://x.com/tukiman02/status/1900481428024181144/photo/1",
+          "media_key": "3_1900478630783791104",
+          "start": 37,
+          "url": "https://t.co/6qWT48BbDr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900821381979533322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900481428024181144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tukiman02: い、いつからそこに！？\n#ブルーアーカイブ https://t.co/6qWT48BbDr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_1900478630783791104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_bPtsWsAAA5Ti.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900478630783791104"
+          ],
+          "media_source_tweet_id": [
+            "1900481428024181144"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1900821381979533322",
+        "created_at": "2025-03-15T08:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T09:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900821381979533322"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "ブルーアーカイブ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "884008981601046528",
+              "start": 3,
+              "username": "tukiman02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qWT48BbDr",
+              "end": 60,
+              "expanded_url": "https://x.com/tukiman02/status/1900481428024181144/photo/1",
+              "media_key": "3_1900478630783791104",
+              "start": 37,
+              "url": "https://t.co/6qWT48BbDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900821381979533322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900481428024181144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tukiman02: い、いつからそこに！？\n#ブルーアーカイブ https://t.co/6qWT48BbDr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900478630783791104"
+          ]
+        },
+        "author_id": "884008981601046528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1900481428024181144",
+        "created_at": "2025-03-14T09:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T10:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900481428024181144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "ブルーアーカイブ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qWT48BbDr",
+              "end": 45,
+              "expanded_url": "https://x.com/tukiman02/status/1900481428024181144/photo/1",
+              "media_key": "3_1900478630783791104",
+              "start": 22,
+              "url": "https://t.co/6qWT48BbDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900481428024181144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 12321,
+          "like_count": 1103,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "い、いつからそこに！？\n#ブルーアーカイブ https://t.co/6qWT48BbDr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "重度抑郁/中度焦虑/日常/碎碎念/社恐/od/家暴/欢迎扩列",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 184,
+          "like_count": 40011,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 10579
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-09T11:19:00.000Z",
+        "description": "★イラストレーター★\n可愛い！癒されると思ってもらえる絵を目指して頑張ってます！！\n●skeb https://t.co/hGvium1WZT\n●FANBOX https://t.co/QQ3pmDe7X0\n●pixiv https://t.co/ZRDgy6WH8N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tukiman02",
+                "end": 71,
+                "expanded_url": "http://skeb.jp/@tukiman02",
+                "start": 48,
+                "url": "https://t.co/hGvium1WZT"
+              },
+              {
+                "display_url": "tukiusa00.fanbox.cc",
+                "end": 103,
+                "expanded_url": "http://tukiusa00.fanbox.cc",
+                "start": 80,
+                "url": "https://t.co/QQ3pmDe7X0"
+              },
+              {
+                "display_url": "pixiv.net/users/3440024",
+                "end": 134,
+                "expanded_url": "https://www.pixiv.net/users/3440024",
+                "start": 111,
+                "url": "https://t.co/ZRDgy6WH8N"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tukiusa00.com/about",
+                "end": 23,
+                "expanded_url": "http://tukiusa00.com/about",
+                "start": 0,
+                "url": "https://t.co/hLVSvjxbdY"
+              }
+            ]
+          }
+        },
+        "id": "884008981601046528",
+        "location": "🔻お仕事募集中！詳しくはHPまでお願いします🔻",
+        "name": "月うさぎ＠『俺の彼女はめんど可愛い…』毎週月曜更新",
+        "pinned_tweet_id": "1826914852629299684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1531090993080303616/evfZw4Vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203069,
+          "following_count": 991,
+          "like_count": 14122,
+          "listed_count": 1178,
+          "media_count": 675,
+          "tweet_count": 13995
+        },
+        "url": "https://t.co/hLVSvjxbdY",
+        "username": "tukiman02",
+        "verified": true
+      }
+    ]
+  }
+}

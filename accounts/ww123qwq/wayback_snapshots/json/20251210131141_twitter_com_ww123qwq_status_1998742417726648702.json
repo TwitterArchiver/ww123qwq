@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998742405630316544"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1998674118649295275",
+    "created_at": "2025-12-10T13:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T14:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998742417726648702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1601735483901751296",
+          "start": 0,
+          "username": "_kaname_03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8bGpGQpzCO",
+          "end": 40,
+          "expanded_url": "https://x.com/ww123qwq/status/1998742417726648702/photo/1",
+          "media_key": "3_1998742405630316544",
+          "start": 17,
+          "url": "https://t.co/8bGpGQpzCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998742417726648702",
+    "in_reply_to_user_id": "1601735483901751296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998674118649295275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_kaname_03 好贵。。 https://t.co/8bGpGQpzCO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998742405630316544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7z1oM0a0AArNq3.jpg",
+        "width": 921
+      },
+      {
+        "height": 656,
+        "media_key": "3_1998674112932360192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7y3hCsaMAA03GW.jpg",
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998742405630316544"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998674118649295275",
+        "created_at": "2025-12-10T13:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998742417726648702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1601735483901751296",
+              "start": 0,
+              "username": "_kaname_03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8bGpGQpzCO",
+              "end": 40,
+              "expanded_url": "https://x.com/ww123qwq/status/1998742417726648702/photo/1",
+              "media_key": "3_1998742405630316544",
+              "start": 17,
+              "url": "https://t.co/8bGpGQpzCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998742417726648702",
+        "in_reply_to_user_id": "1601735483901751296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998674118649295275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_kaname_03 好贵。。 https://t.co/8bGpGQpzCO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998674112932360192"
+          ]
+        },
+        "author_id": "1601735483901751296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998674118649295275",
+        "created_at": "2025-12-10T08:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998674118649295275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lAevNb9uEb",
+              "end": 43,
+              "expanded_url": "https://x.com/_kaname_03/status/1998674118649295275/photo/1",
+              "media_key": "3_1998674112932360192",
+              "start": 20,
+              "url": "https://t.co/lAevNb9uEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998674118649295275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 22513,
+          "like_count": 467,
+          "quote_count": 17,
+          "reply_count": 10,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "おーのー🙀\n問題です。どこでしょーか？ https://t.co/lAevNb9uEb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，支持支付宝口令红包，usdt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1998095512386601453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 266,
+          "like_count": 40786,
+          "listed_count": 3,
+          "media_count": 425,
+          "tweet_count": 11731
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T00:28:03.000Z",
+        "description": "@_kaname_2 ↩︎鍵垢人選ぶ/@_kaname_12 ↩︎サブ垢/ほむらちゃんを愛してます😻/ツイ消し常習犯/あいどるです/下のリンクからTikTokフォローして😿😿😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "_kaname_2"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_kaname_12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@__kaname__03?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@__kaname__03?_t=ZS-8xHbaeN8iuW&_r=1",
+                "start": 0,
+                "url": "https://t.co/B4IofS0S0w"
+              }
+            ]
+          }
+        },
+        "id": "1601735483901751296",
+        "location": "見滝原⇔風見野",
+        "name": "かなめ",
+        "pinned_tweet_id": "1891318708607361134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774095561496707072/_O5OTRC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21879,
+          "following_count": 126,
+          "like_count": 6075,
+          "listed_count": 43,
+          "media_count": 726,
+          "tweet_count": 3137
+        },
+        "url": "https://t.co/B4IofS0S0w",
+        "username": "_kaname_03",
+        "verified": false
+      }
+    ]
+  }
+}

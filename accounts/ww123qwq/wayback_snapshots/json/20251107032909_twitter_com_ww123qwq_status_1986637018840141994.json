@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1986447999233581088",
+    "created_at": "2025-11-07T03:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T04:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986637018840141994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "344165300",
+          "start": 0,
+          "username": "senchannya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986637018840141994",
+    "in_reply_to_user_id": "344165300",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986611674875572423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senchannya 1041546504"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1986447999233581088",
+        "created_at": "2025-11-07T03:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T04:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986637018840141994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "344165300",
+              "start": 0,
+              "username": "senchannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986637018840141994",
+        "in_reply_to_user_id": "344165300",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986611674875572423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senchannya 1041546504"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "344165300",
+        "conversation_id": "1986447999233581088",
+        "created_at": "2025-11-07T01:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T02:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986611674875572423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986611674875572423",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986447999233581088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 哪里去着地雷女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w唯一电报  https://t.co/7z9W9wVbK1非本，注意防骗\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1048726302置顶tg非本人推广自辨，出原味",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "kirifuji00"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ww123qwq6",
+                "end": 72,
+                "expanded_url": "http://t.me/ww123qwq6",
+                "start": 49,
+                "url": "https://t.co/7z9W9wVbK1"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986097091161280725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 223,
+          "like_count": 40439,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 11150
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-28T16:55:59.000Z",
+        "description": "",
+        "id": "344165300",
+        "name": "🍥传说中的小仙酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986602034980921346/1ztrZ5E__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 109,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 90
+        },
+        "username": "senchannya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984821782151417857"
+      ],
+      "media_source_tweet_id": [
+        "1984821785137688603"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985372661141377170",
+    "created_at": "2025-11-03T15:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985372661141377170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919620979413659648",
+          "start": 3,
+          "username": "wak_060"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2MOZArU1Kf",
+          "end": 53,
+          "expanded_url": "https://x.com/wak_060/status/1984821785137688603/photo/1",
+          "media_key": "3_1984821782151417857",
+          "start": 30,
+          "url": "https://t.co/2MOZArU1Kf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985372661141377170",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 794
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984821785137688603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wak_060: \"( – ⌓ – ) ᶻ 𝗓 𐰁 https://t.co/2MOZArU1Kf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1804,
+        "media_key": "3_1984821782151417857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4uA5ROX0AEjRCw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984821782151417857"
+          ],
+          "media_source_tweet_id": [
+            "1984821785137688603"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985372661141377170",
+        "created_at": "2025-11-03T15:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985372661141377170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919620979413659648",
+              "start": 3,
+              "username": "wak_060"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2MOZArU1Kf",
+              "end": 53,
+              "expanded_url": "https://x.com/wak_060/status/1984821785137688603/photo/1",
+              "media_key": "3_1984821782151417857",
+              "start": 30,
+              "url": "https://t.co/2MOZArU1Kf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985372661141377170",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 794
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984821785137688603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wak_060: \"( – ⌓ – ) ᶻ 𝗓 𐰁 https://t.co/2MOZArU1Kf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984821782151417857"
+          ]
+        },
+        "author_id": "1919620979413659648",
+        "conversation_id": "1984821785137688603",
+        "created_at": "2025-11-02T03:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984821785137688603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2MOZArU1Kf",
+              "end": 40,
+              "expanded_url": "https://x.com/wak_060/status/1984821785137688603/photo/1",
+              "media_key": "3_1984821782151417857",
+              "start": 17,
+              "url": "https://t.co/2MOZArU1Kf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984821785137688603",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 370,
+          "impression_count": 45032,
+          "like_count": 7660,
+          "quote_count": 11,
+          "reply_count": 23,
+          "retweet_count": 794
+        },
+        "reply_settings": "everyone",
+        "text": "\"( – ⌓ – ) ᶻ 𝗓 𐰁 https://t.co/2MOZArU1Kf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1063487741",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 220,
+          "like_count": 40267,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 10934
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-06T05:11:37.000Z",
+        "description": "gorda come pene (más lesbiana que la palabra LPM)",
+        "id": "1919620979413659648",
+        "name": "wac_o",
+        "pinned_tweet_id": "1970160485958811661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925567587087212544/vyu5eeKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 36,
+          "like_count": 2176,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 199
+        },
+        "username": "wak_060",
+        "verified": false
+      }
+    ]
+  }
+}

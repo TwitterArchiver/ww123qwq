@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2010427646044463104"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2010427671222837494",
+    "created_at": "2026-01-11T19:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T20:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010427671222837494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QG0I4MYLRN",
+          "end": 33,
+          "expanded_url": "https://x.com/ww123qwq/status/2010427671222837494/video/1",
+          "media_key": "7_2010427646044463104",
+          "start": 10,
+          "url": "https://t.co/QG0I4MYLRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010427671222837494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "广州某个快递分拣站 https://t.co/QG0I4MYLRN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10641,
+        "height": 1280,
+        "media_key": "7_2010427646044463104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2010427646044463104/pu/img/A-IZgRcweltOe6iG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010427646044463104/pu/vid/avc1/320x568/mOK5fR3WYilwjuRJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010427646044463104/pu/vid/avc1/480x852/CtdbAg8KHjg0UTGk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010427646044463104/pu/vid/avc1/720x1280/aj27jjNSvtUBZNHH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2010427646044463104/pu/pl/jWpjJuDbAeo7acgJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010427646044463104"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2010427671222837494",
+        "created_at": "2026-01-11T19:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T20:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010427671222837494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QG0I4MYLRN",
+              "end": 33,
+              "expanded_url": "https://x.com/ww123qwq/status/2010427671222837494/video/1",
+              "media_key": "7_2010427646044463104",
+              "start": 10,
+              "url": "https://t.co/QG0I4MYLRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010427671222837494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州某个快递分拣站 https://t.co/QG0I4MYLRN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 267,
+          "like_count": 41011,
+          "listed_count": 5,
+          "media_count": 540,
+          "tweet_count": 12046
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

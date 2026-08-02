@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2055694998629437885",
+    "created_at": "2026-05-16T17:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055694998629437885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753293214826848256",
+          "start": 3,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055694998629437885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055364047709888939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatanakots: 宅在家里很容易抑郁 多出去走走 可以跳跳楼 跳跳海 撞撞汽车 人生有很多种选择"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2055694998629437885",
+        "created_at": "2026-05-16T17:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055694998629437885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753293214826848256",
+              "start": 3,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055694998629437885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055364047709888939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatanakots: 宅在家里很容易抑郁 多出去走走 可以跳跳楼 跳跳海 撞撞汽车 人生有很多种选择"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2055364047709888939",
+        "created_at": "2026-05-15T19:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055364047709888939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055364047709888939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 28150,
+          "like_count": 1225,
+          "quote_count": 9,
+          "reply_count": 40,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "宅在家里很容易抑郁 多出去走走 可以跳跳楼 跳跳海 撞撞汽车 人生有很多种选择"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 279,
+          "like_count": 42757,
+          "listed_count": 4,
+          "media_count": 694,
+          "tweet_count": 12843
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3792,
+          "following_count": 415,
+          "like_count": 29118,
+          "listed_count": 7,
+          "media_count": 1732,
+          "tweet_count": 12877
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false
+      }
+    ]
+  }
+}

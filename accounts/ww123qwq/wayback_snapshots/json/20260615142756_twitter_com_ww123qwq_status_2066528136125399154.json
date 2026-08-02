@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2066408908491800787",
+    "created_at": "2026-06-15T14:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066528136125399154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2065496308291428352",
+          "start": 0,
+          "username": "tangangqinmao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066528136125399154",
+    "in_reply_to_user_id": "2065496308291428352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066522746881028414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangangqinmao2 晶哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2066408908491800787",
+        "created_at": "2026-06-15T14:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066528136125399154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2065496308291428352",
+              "start": 0,
+              "username": "tangangqinmao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066528136125399154",
+        "in_reply_to_user_id": "2065496308291428352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066522746881028414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangangqinmao2 晶哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065496308291428352",
+        "conversation_id": "2066408908491800787",
+        "created_at": "2026-06-15T14:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066522746881028414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066522746881028414",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066408908491800787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 为啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 266,
+          "like_count": 42696,
+          "listed_count": 4,
+          "media_count": 699,
+          "tweet_count": 12880
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T18:08:25.000Z",
+        "description": "伟大的无产阶级文化大革命万岁\n大号@tangangqinmao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "tangangqinmao"
+              }
+            ]
+          }
+        },
+        "id": "2065496308291428352",
+        "name": "弹钢琴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066112468599136256/0XtPIQif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 1,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 78
+        },
+        "username": "tangangqinmao2",
+        "verified": false
+      }
+    ]
+  }
+}

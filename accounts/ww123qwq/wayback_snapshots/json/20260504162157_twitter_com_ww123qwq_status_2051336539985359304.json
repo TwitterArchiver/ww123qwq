@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2051111949992177953",
+    "created_at": "2026-05-04T16:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051336539985359304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992506703678705664",
+          "start": 0,
+          "username": "jingqngyng64121"
+        },
+        {
+          "end": 31,
+          "id": "1937073350750466048",
+          "start": 17,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051336539985359304",
+    "in_reply_to_user_id": "1992506703678705664",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051327767124533312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingqngyng64121 @karo269640607 30t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2051111949992177953",
+        "created_at": "2026-05-04T16:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051336539985359304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992506703678705664",
+              "start": 0,
+              "username": "jingqngyng64121"
+            },
+            {
+              "end": 31,
+              "id": "1937073350750466048",
+              "start": 17,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051336539985359304",
+        "in_reply_to_user_id": "1992506703678705664",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051327767124533312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingqngyng64121 @karo269640607 30t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992506703678705664",
+        "conversation_id": "2051111949992177953",
+        "created_at": "2026-05-04T15:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051327767124533312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 24,
+              "id": "1937073350750466048",
+              "start": 10,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051327767124533312",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051111949992177953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq @karo269640607 所以哮喘片一次要o多少 我上次o了24t没感觉。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 276,
+          "like_count": 42542,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12763
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 445,
+          "like_count": 7363,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1456
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 435,
+          "like_count": 22709,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3978
+        },
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

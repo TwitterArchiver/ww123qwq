@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2022620946054734321",
+    "created_at": "2026-02-15T17:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023085823449817539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1049304820987781120",
+          "start": 0,
+          "username": "madashachiku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023085823449817539",
+    "in_reply_to_user_id": "1049304820987781120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022620946054734321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@madashachiku 小池跳科目三还可以w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13491,
+        "height": 1280,
+        "media_key": "13_1951979967635677185",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951979967635677185/img/iS_niP2d9JNJjS4K.jpg",
+        "public_metrics": {
+          "view_count": 12838511
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951979967635677185/vid/avc1/320x568/tEBjPX0nYRVxSesn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951979967635677185/vid/avc1/480x852/jz0pqs1vJ2_lK8T4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951979967635677185/vid/avc1/720x1280/z5p9CtjQfSHnqhPn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951979967635677185/pl/XOUB5LRRq4wFhEpz.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2022620946054734321",
+        "created_at": "2026-02-15T17:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023085823449817539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1049304820987781120",
+              "start": 0,
+              "username": "madashachiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023085823449817539",
+        "in_reply_to_user_id": "1049304820987781120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022620946054734321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@madashachiku 小池跳科目三还可以w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951979967635677185"
+          ],
+          "media_source_tweet_id": [
+            "1951980111932293189"
+          ]
+        },
+        "author_id": "1049304820987781120",
+        "conversation_id": "2022620946054734321",
+        "created_at": "2026-02-14T10:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T11:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022620946054734321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2R8iP0HPTt",
+              "end": 58,
+              "expanded_url": "https://x.com/_kaname_03/status/1951980111932293189/video/1",
+              "media_key": "13_1951979967635677185",
+              "start": 35,
+              "url": "https://t.co/2R8iP0HPTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022620946054734321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 665,
+          "impression_count": 1024909,
+          "like_count": 3378,
+          "quote_count": 251,
+          "reply_count": 750,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "トー横のリアル\n\nこれは義務教育の敗北だと\n\n①思う\n②思わない\n\n https://t.co/2R8iP0HPTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本，外烟代购需要私聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 260,
+          "like_count": 41649,
+          "listed_count": 5,
+          "media_count": 614,
+          "tweet_count": 12348
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-08T14:25:39.000Z",
+        "description": "インターネットの歴史を面白い画像や動画を交えて紹介",
+        "id": "1049304820987781120",
+        "name": "ネットの歴史bot",
+        "pinned_tweet_id": "2000940692349313060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738410277438382080/_od5qf1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49833,
+          "following_count": 39,
+          "like_count": 6,
+          "listed_count": 6,
+          "media_count": 6647,
+          "tweet_count": 49506
+        },
+        "username": "madashachiku",
+        "verified": true
+      }
+    ]
+  }
+}

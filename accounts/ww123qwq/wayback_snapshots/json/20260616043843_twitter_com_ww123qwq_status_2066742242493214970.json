@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066096515647713280"
+      ],
+      "media_source_tweet_id": [
+        "2066096526905258015"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2066742242493214970",
+    "created_at": "2026-06-16T04:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066742242493214970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750586680158076928",
+          "start": 3,
+          "username": "uuni666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fMgEYymAN2",
+          "end": 36,
+          "expanded_url": "https://x.com/uuni666/status/2066096526905258015/photo/1",
+          "media_key": "3_2066096515647713280",
+          "start": 13,
+          "url": "https://t.co/fMgEYymAN2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066742242493214970",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 371
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066096526905258015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @uuni666: https://t.co/fMgEYymAN2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2298,
+        "media_key": "3_2066096515647713280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw_1ZbasAALcj3.jpg",
+        "width": 1838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066096515647713280"
+          ],
+          "media_source_tweet_id": [
+            "2066096526905258015"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2066742242493214970",
+        "created_at": "2026-06-16T04:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066742242493214970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750586680158076928",
+              "start": 3,
+              "username": "uuni666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fMgEYymAN2",
+              "end": 36,
+              "expanded_url": "https://x.com/uuni666/status/2066096526905258015/photo/1",
+              "media_key": "3_2066096515647713280",
+              "start": 13,
+              "url": "https://t.co/fMgEYymAN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066742242493214970",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 371
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066096526905258015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @uuni666: https://t.co/fMgEYymAN2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066096515647713280"
+          ]
+        },
+        "author_id": "1750586680158076928",
+        "conversation_id": "2066096526905258015",
+        "created_at": "2026-06-14T09:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066096526905258015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fMgEYymAN2",
+              "end": 23,
+              "expanded_url": "https://x.com/uuni666/status/2066096526905258015/photo/1",
+              "media_key": "3_2066096515647713280",
+              "start": 0,
+              "url": "https://t.co/fMgEYymAN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066096526905258015",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 568,
+          "impression_count": 41599,
+          "like_count": 4531,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 371
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/fMgEYymAN2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 266,
+          "like_count": 42715,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 12890
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T18:29:31.000Z",
+        "description": "sub:@uuni999",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "uuni999"
+              }
+            ]
+          }
+        },
+        "id": "1750586680158076928",
+        "name": "ウニ໒꒱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957940518480146433/TZdqWjnr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3491,
+          "following_count": 33,
+          "like_count": 578,
+          "listed_count": 22,
+          "media_count": 10,
+          "tweet_count": 38
+        },
+        "username": "uuni666",
+        "verified": false
+      }
+    ]
+  }
+}

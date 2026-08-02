@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983061265280053497",
+    "created_at": "2025-10-28T15:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T16:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983194295281778776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227603655903399936",
+          "start": 0,
+          "username": "K66cheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983194295281778776",
+    "in_reply_to_user_id": "1227603655903399936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983061265280053497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K66cheng 养我🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1983061265280053497].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1983061265280053497",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1983061265280053497"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983061265280053497",
+        "created_at": "2025-10-28T15:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983194295281778776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227603655903399936",
+              "start": 0,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983194295281778776",
+        "in_reply_to_user_id": "1227603655903399936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983061265280053497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K66cheng 养我🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 210,
+          "like_count": 40156,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 10797
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜\nMtX HRT 天残党｜\n厨娘女仆 | \n瑶瑶@GK98815227｜\n迪迪@Curandro｜\n皮肤饥渴症终末期患者｜\n缺爱｜\n喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "GK98815227"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "Curandro"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "location": "北京",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5703,
+          "following_count": 2560,
+          "like_count": 20063,
+          "listed_count": 27,
+          "media_count": 1114,
+          "tweet_count": 15780
+        },
+        "username": "K66cheng",
+        "verified": false
+      }
+    ]
+  }
+}

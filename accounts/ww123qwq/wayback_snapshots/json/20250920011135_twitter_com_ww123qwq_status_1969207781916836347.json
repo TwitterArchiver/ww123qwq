@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969013620022575104",
+        "3_1969013621285150720",
+        "3_1969013622644092928",
+        "3_1969013620555337728"
+      ],
+      "media_source_tweet_id": [
+        "1969013626351878538",
+        "1969013626351878538",
+        "1969013626351878538",
+        "1969013626351878538"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1969207781916836347",
+    "created_at": "2025-09-20T01:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T02:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969207781916836347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R0ezBSJEx7",
+          "end": 55,
+          "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+          "media_key": "3_1969013620022575104",
+          "start": 32,
+          "url": "https://t.co/R0ezBSJEx7"
+        },
+        {
+          "display_url": "pic.x.com/R0ezBSJEx7",
+          "end": 55,
+          "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+          "media_key": "3_1969013621285150720",
+          "start": 32,
+          "url": "https://t.co/R0ezBSJEx7"
+        },
+        {
+          "display_url": "pic.x.com/R0ezBSJEx7",
+          "end": 55,
+          "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+          "media_key": "3_1969013622644092928",
+          "start": 32,
+          "url": "https://t.co/R0ezBSJEx7"
+        },
+        {
+          "display_url": "pic.x.com/R0ezBSJEx7",
+          "end": 55,
+          "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+          "media_key": "3_1969013620555337728",
+          "start": 32,
+          "url": "https://t.co/R0ezBSJEx7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969207781916836347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969013626351878538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 我只想说在外面od的都该死 https://t.co/R0ezBSJEx7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_1969013620022575104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1NXdINaAAAdizm.jpg",
+        "width": 844
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1969013621285150720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1NXdM6bYAA_P32.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1969013622644092928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1NXdR-bMAAeW3P.jpg",
+        "width": 1280
+      },
+      {
+        "height": 960,
+        "media_key": "3_1969013620555337728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1NXdKMbUAAj0w4.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969013620022575104",
+            "3_1969013621285150720",
+            "3_1969013622644092928",
+            "3_1969013620555337728"
+          ],
+          "media_source_tweet_id": [
+            "1969013626351878538",
+            "1969013626351878538",
+            "1969013626351878538",
+            "1969013626351878538"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1969207781916836347",
+        "created_at": "2025-09-20T01:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T02:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969207781916836347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0ezBSJEx7",
+              "end": 55,
+              "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+              "media_key": "3_1969013620022575104",
+              "start": 32,
+              "url": "https://t.co/R0ezBSJEx7"
+            },
+            {
+              "display_url": "pic.x.com/R0ezBSJEx7",
+              "end": 55,
+              "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+              "media_key": "3_1969013621285150720",
+              "start": 32,
+              "url": "https://t.co/R0ezBSJEx7"
+            },
+            {
+              "display_url": "pic.x.com/R0ezBSJEx7",
+              "end": 55,
+              "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+              "media_key": "3_1969013622644092928",
+              "start": 32,
+              "url": "https://t.co/R0ezBSJEx7"
+            },
+            {
+              "display_url": "pic.x.com/R0ezBSJEx7",
+              "end": 55,
+              "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+              "media_key": "3_1969013620555337728",
+              "start": 32,
+              "url": "https://t.co/R0ezBSJEx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969207781916836347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969013626351878538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 我只想说在外面od的都该死 https://t.co/R0ezBSJEx7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969013620022575104",
+            "3_1969013621285150720",
+            "3_1969013622644092928",
+            "3_1969013620555337728"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1969013626351878538",
+        "created_at": "2025-09-19T12:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969013626351878538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0ezBSJEx7",
+              "end": 37,
+              "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+              "media_key": "3_1969013620022575104",
+              "start": 14,
+              "url": "https://t.co/R0ezBSJEx7"
+            },
+            {
+              "display_url": "pic.x.com/R0ezBSJEx7",
+              "end": 37,
+              "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+              "media_key": "3_1969013621285150720",
+              "start": 14,
+              "url": "https://t.co/R0ezBSJEx7"
+            },
+            {
+              "display_url": "pic.x.com/R0ezBSJEx7",
+              "end": 37,
+              "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+              "media_key": "3_1969013622644092928",
+              "start": 14,
+              "url": "https://t.co/R0ezBSJEx7"
+            },
+            {
+              "display_url": "pic.x.com/R0ezBSJEx7",
+              "end": 37,
+              "expanded_url": "https://x.com/overdose_six/status/1969013626351878538/photo/1",
+              "media_key": "3_1969013620555337728",
+              "start": 14,
+              "url": "https://t.co/R0ezBSJEx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969013626351878538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 81324,
+          "like_count": 225,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我只想说在外面od的都该死 https://t.co/R0ezBSJEx7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 191,
+          "like_count": 39751,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 10631
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "百科:https://t.co/BlAoDIjZjK 提问箱:https://t.co/b5c8bbntR6 里推:@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "http://overdose.day",
+                "start": 3,
+                "url": "https://t.co/BlAoDIjZjK"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 54,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 31,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjZjK"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968299927244775424/_No7YTKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 191,
+          "like_count": 7231,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 2049
+        },
+        "url": "https://t.co/BlAoDIjZjK",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

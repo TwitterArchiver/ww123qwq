@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985630594265726976"
+      ],
+      "media_source_tweet_id": [
+        "1985630603669344723"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985664195803918436",
+    "created_at": "2025-11-04T11:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T12:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985664195803918436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1925142031548166144",
+          "start": 3,
+          "username": "nyax_s2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LMLVDCbJhi",
+          "end": 36,
+          "expanded_url": "https://x.com/nyax_s2/status/1985630603669344723/photo/1",
+          "media_key": "3_1985630594265726976",
+          "start": 13,
+          "url": "https://t.co/LMLVDCbJhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985664195803918436",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985630603669344723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyax_s2: https://t.co/LMLVDCbJhi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985630594265726976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45ggVJbQAA2JpL.jpg",
+        "width": 1457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985630594265726976"
+          ],
+          "media_source_tweet_id": [
+            "1985630603669344723"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985664195803918436",
+        "created_at": "2025-11-04T11:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T12:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985664195803918436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1925142031548166144",
+              "start": 3,
+              "username": "nyax_s2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMLVDCbJhi",
+              "end": 36,
+              "expanded_url": "https://x.com/nyax_s2/status/1985630603669344723/photo/1",
+              "media_key": "3_1985630594265726976",
+              "start": 13,
+              "url": "https://t.co/LMLVDCbJhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985664195803918436",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985630603669344723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyax_s2: https://t.co/LMLVDCbJhi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985630594265726976"
+          ]
+        },
+        "author_id": "1925142031548166144",
+        "conversation_id": "1985630603669344723",
+        "created_at": "2025-11-04T08:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T09:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985630603669344723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMLVDCbJhi",
+              "end": 23,
+              "expanded_url": "https://x.com/nyax_s2/status/1985630603669344723/photo/1",
+              "media_key": "3_1985630594265726976",
+              "start": 0,
+              "url": "https://t.co/LMLVDCbJhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985630603669344723",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 5076,
+          "like_count": 714,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LMLVDCbJhi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1063487741",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 221,
+          "like_count": 40310,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 10974
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T10:50:10.000Z",
+        "description": "加工厨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nyax.s2?igsh=Z…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nyax.s2?igsh=Z21uem8wejVibGdq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/gBYeU5tHpt"
+              }
+            ]
+          }
+        },
+        "id": "1925142031548166144",
+        "name": "☦︎︎",
+        "pinned_tweet_id": "1970083687627984957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942932227781718017/_DNhZIn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3152,
+          "following_count": 3,
+          "like_count": 266,
+          "listed_count": 7,
+          "media_count": 21,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/gBYeU5tHpt",
+        "username": "nyax_s2",
+        "verified": false
+      }
+    ]
+  }
+}

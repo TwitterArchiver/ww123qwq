@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018758488521121793",
+        "3_2018758486134521856",
+        "3_2018758488613380096",
+        "3_2018758488646930432"
+      ],
+      "media_source_tweet_id": [
+        "2018758503809327518",
+        "2018758503809327518",
+        "2018758503809327518",
+        "2018758503809327518"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2018954092870279231",
+    "created_at": "2026-02-04T07:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T08:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018954092870279231"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "宅女"
+        },
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "电波女"
+        },
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "二次元婆罗门"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936828090728218624",
+          "start": 3,
+          "username": "Auraw4SNOW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ekqCIFQ59y",
+          "end": 94,
+          "expanded_url": "https://x.com/Auraw4SNOW/status/2018758503809327518/photo/1",
+          "media_key": "3_2018758488521121793",
+          "start": 71,
+          "url": "https://t.co/ekqCIFQ59y"
+        },
+        {
+          "display_url": "pic.x.com/ekqCIFQ59y",
+          "end": 94,
+          "expanded_url": "https://x.com/Auraw4SNOW/status/2018758503809327518/photo/1",
+          "media_key": "3_2018758486134521856",
+          "start": 71,
+          "url": "https://t.co/ekqCIFQ59y"
+        },
+        {
+          "display_url": "pic.x.com/ekqCIFQ59y",
+          "end": 94,
+          "expanded_url": "https://x.com/Auraw4SNOW/status/2018758503809327518/photo/1",
+          "media_key": "3_2018758488613380096",
+          "start": 71,
+          "url": "https://t.co/ekqCIFQ59y"
+        },
+        {
+          "display_url": "pic.x.com/ekqCIFQ59y",
+          "end": 94,
+          "expanded_url": "https://x.com/Auraw4SNOW/status/2018758503809327518/photo/1",
+          "media_key": "3_2018758488646930432",
+          "start": 71,
+          "url": "https://t.co/ekqCIFQ59y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018954092870279231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018758503809327518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Auraw4SNOW: #门槛妹 #宅女 #电波女 #二次元婆罗门 \n有没有福哥入🚪的🥺，我会打火影，steam很多游戏，纯血二次元 https://t.co/ekqCIFQ59y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018954092870279231].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018954092870279231",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018954092870279231"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2018758488521121793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAQSJkObIAEs7ed.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1098,
+        "media_key": "3_2018758486134521856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAQSJbVagAAhfNs.jpg",
+        "width": 828
+      },
+      {
+        "height": 1284,
+        "media_key": "3_2018758488613380096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAQSJkka4AA4atk.jpg",
+        "width": 962
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2018758488646930432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAQSJksa0AAsZqj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018758488521121793",
+            "3_2018758486134521856",
+            "3_2018758488613380096",
+            "3_2018758488646930432"
+          ]
+        },
+        "author_id": "1936828090728218624",
+        "conversation_id": "2018758503809327518",
+        "created_at": "2026-02-03T18:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018758503809327518"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "宅女"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "电波女"
+            },
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "二次元婆罗门"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ekqCIFQ59y",
+              "end": 78,
+              "expanded_url": "https://x.com/Auraw4SNOW/status/2018758503809327518/photo/1",
+              "media_key": "3_2018758488521121793",
+              "start": 55,
+              "url": "https://t.co/ekqCIFQ59y"
+            },
+            {
+              "display_url": "pic.x.com/ekqCIFQ59y",
+              "end": 78,
+              "expanded_url": "https://x.com/Auraw4SNOW/status/2018758503809327518/photo/1",
+              "media_key": "3_2018758486134521856",
+              "start": 55,
+              "url": "https://t.co/ekqCIFQ59y"
+            },
+            {
+              "display_url": "pic.x.com/ekqCIFQ59y",
+              "end": 78,
+              "expanded_url": "https://x.com/Auraw4SNOW/status/2018758503809327518/photo/1",
+              "media_key": "3_2018758488613380096",
+              "start": 55,
+              "url": "https://t.co/ekqCIFQ59y"
+            },
+            {
+              "display_url": "pic.x.com/ekqCIFQ59y",
+              "end": 78,
+              "expanded_url": "https://x.com/Auraw4SNOW/status/2018758503809327518/photo/1",
+              "media_key": "3_2018758488646930432",
+              "start": 55,
+              "url": "https://t.co/ekqCIFQ59y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018758503809327518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 345,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛妹 #宅女 #电波女 #二次元婆罗门 \n有没有福哥入🚪的🥺，我会打火影，steam很多游戏，纯血二次元 https://t.co/ekqCIFQ59y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 260,
+          "like_count": 41236,
+          "listed_count": 5,
+          "media_count": 577,
+          "tweet_count": 12164
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T16:46:23.000Z",
+        "description": "你好我是静静 /148cm 42kg女哥布林/BDP/BD/ADHD/东亚精神病人/电波系/药物滥用戒断中/06/INTJ/水瓶座/中文/English/日本語/粤语/门槛168 188 520即可入门🚪给的越多福利越多（可以找我互fo互转喵）坐标郑州 线下在飞机简介有链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Yukino216",
+                "end": 23,
+                "expanded_url": "https://t.me/Yukino216",
+                "start": 0,
+                "url": "https://t.co/7TdOAQ1IJB"
+              }
+            ]
+          }
+        },
+        "id": "1936828090728218624",
+        "location": "Tokyo-to, Japan",
+        "name": "我也好想变成你喜欢的样子",
+        "pinned_tweet_id": "2018758503809327518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012795303875776512/6WHItYfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 37,
+          "like_count": 427,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/7TdOAQ1IJB",
+        "username": "Auraw4SNOW",
+        "verified": true
+      }
+    ]
+  }
+}

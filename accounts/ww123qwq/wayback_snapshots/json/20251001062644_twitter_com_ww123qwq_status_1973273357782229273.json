@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1972679637957525504"
+      ],
+      "media_source_tweet_id": [
+        "1972679693162762575"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1973273357782229273",
+    "created_at": "2025-10-01T06:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T07:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973273357782229273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1954073099655372800",
+          "start": 3,
+          "username": "mukunohibi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/moMvbaD5zo",
+          "end": 73,
+          "expanded_url": "https://x.com/mukunohibi/status/1972679693162762575/video/1",
+          "media_key": "13_1972679637957525504",
+          "start": 50,
+          "url": "https://t.co/moMvbaD5zo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973273357782229273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972679693162762575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mukunohibi: 意味ないけれど へっぽこなので 少し飲みましょう~ - ̀ᴗ- ́ https://t.co/moMvbaD5zo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4803,
+        "height": 1280,
+        "media_key": "13_1972679637957525504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972679637957525504/img/feBuvz9CRT-MupEP.jpg",
+        "public_metrics": {
+          "view_count": 6879
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972679637957525504/vid/avc1/320x568/9eBnoe28CQpkW3_B.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972679637957525504/vid/avc1/480x852/aByka3m4pFmgGfIy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972679637957525504/vid/avc1/720x1280/9c264WO8pB66tzUD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972679637957525504/pl/gMq3EIfZVr7EsOb5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972679637957525504"
+          ],
+          "media_source_tweet_id": [
+            "1972679693162762575"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1973273357782229273",
+        "created_at": "2025-10-01T06:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T07:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973273357782229273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1954073099655372800",
+              "start": 3,
+              "username": "mukunohibi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/moMvbaD5zo",
+              "end": 73,
+              "expanded_url": "https://x.com/mukunohibi/status/1972679693162762575/video/1",
+              "media_key": "13_1972679637957525504",
+              "start": 50,
+              "url": "https://t.co/moMvbaD5zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973273357782229273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972679693162762575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mukunohibi: 意味ないけれど へっぽこなので 少し飲みましょう~ - ̀ᴗ- ́ https://t.co/moMvbaD5zo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972679637957525504"
+          ]
+        },
+        "author_id": "1954073099655372800",
+        "conversation_id": "1972679693162762575",
+        "created_at": "2025-09-29T15:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T16:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972679693162762575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/moMvbaD5zo",
+              "end": 57,
+              "expanded_url": "https://x.com/mukunohibi/status/1972679693162762575/video/1",
+              "media_key": "13_1972679637957525504",
+              "start": 34,
+              "url": "https://t.co/moMvbaD5zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972679693162762575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 12071,
+          "like_count": 1544,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "意味ないけれど へっぽこなので 少し飲みましょう~ - ̀ᴗ- ́ https://t.co/moMvbaD5zo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 199,
+          "like_count": 39780,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 10640
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T06:52:01.000Z",
+        "description": "むく（いきている）🌱躁躁鬱鬱 🌱前垢@iihininarune 🌱🗝️@mukusanngouki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "iihininarune"
+              },
+              {
+                "end": 49,
+                "start": 35,
+                "username": "mukusanngouki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/m3g6ixaabdtnjv…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/m3g6ixaabdtnjvq?t=McnPcJ&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/A3zQgOSBSY"
+              }
+            ]
+          }
+        },
+        "id": "1954073099655372800",
+        "name": "尨2号",
+        "pinned_tweet_id": "1954729162339725386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972992404212109312/kWO3gQcs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 133,
+          "like_count": 7863,
+          "listed_count": 7,
+          "media_count": 158,
+          "tweet_count": 1631
+        },
+        "url": "https://t.co/A3zQgOSBSY",
+        "username": "mukunohibi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884641373015728128"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1884641389860049389",
+    "created_at": "2025-01-29T16:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T17:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884641389860049389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BZDgjJ4cCm",
+          "end": 31,
+          "expanded_url": "https://x.com/ww123qwq/status/1884641389860049389/photo/1",
+          "media_key": "3_1884641373015728128",
+          "start": 8,
+          "url": "https://t.co/BZDgjJ4cCm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884641389860049389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天又去吃了😋 https://t.co/BZDgjJ4cCm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1884641373015728128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GieXV--bYAAfsOM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884641373015728128"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1884641389860049389",
+        "created_at": "2025-01-29T16:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T17:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884641389860049389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZDgjJ4cCm",
+              "end": 31,
+              "expanded_url": "https://x.com/ww123qwq/status/1884641389860049389/photo/1",
+              "media_key": "3_1884641373015728128",
+              "start": 8,
+              "url": "https://t.co/BZDgjJ4cCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884641389860049389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天又去吃了😋 https://t.co/BZDgjJ4cCm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 160,
+          "like_count": 40075,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 10390
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

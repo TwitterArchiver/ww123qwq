@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985318044726612050",
+    "created_at": "2025-11-04T03:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T04:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985553133737820670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985553133737820670",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985318044726612050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 这是啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4478,
+        "height": 1280,
+        "media_key": "7_1985318013760077824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1985318013760077824/pu/img/W0BlOHjb7PMFDKA5.jpg",
+        "public_metrics": {
+          "view_count": 2550
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985318013760077824/pu/vid/avc1/320x568/kIA7fFvpb8_T391E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985318013760077824/pu/vid/avc1/480x852/matGAJQMMz9Hqb8-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985318013760077824/pu/vid/avc1/720x1280/k-tdu_TXwXYflQsr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1985318013760077824/pu/pl/o_6oULJOQHJBuTVH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985318044726612050",
+        "created_at": "2025-11-04T03:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985553133737820670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985553133737820670",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985318044726612050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 这是啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1985318013760077824"
+          ]
+        },
+        "author_id": "1882936483662663680",
+        "conversation_id": "1985318044726612050",
+        "created_at": "2025-11-03T12:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985318044726612050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKhK9xoZFI",
+              "end": 26,
+              "expanded_url": "https://x.com/jngyn298282/status/1985318044726612050/video/1",
+              "media_key": "7_1985318013760077824",
+              "start": 3,
+              "url": "https://t.co/cKhK9xoZFI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985318044726612050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5561,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已扔 https://t.co/cKhK9xoZFI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1063487741",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 221,
+          "like_count": 40285,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 10951
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼",
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1983521365727891517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 164,
+          "like_count": 12746,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1643
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1883921223392059779",
+    "created_at": "2025-01-27T16:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T17:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883921223392059779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/bghtnya/status/1883888793000059240",
+          "start": 7,
+          "url": "https://t.co/hqlLcgUOmZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883921223392059779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883888793000059240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "摸摸你的柰子 https://t.co/hqlLcgUOmZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1883921223392059779",
+        "created_at": "2025-01-27T16:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T17:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883921223392059779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/bghtnya/status/1883888793000059240",
+              "start": 7,
+              "url": "https://t.co/hqlLcgUOmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883921223392059779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883888793000059240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "摸摸你的柰子 https://t.co/hqlLcgUOmZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883888770124267520"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1883888793000059240",
+        "created_at": "2025-01-27T14:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T15:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883888793000059240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1836765015636094976",
+              "start": 9,
+              "username": "xielingxi123"
+            },
+            {
+              "end": 33,
+              "id": "1521553831775158273",
+              "start": 24,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 43,
+              "id": "1512976991976402949",
+              "start": 35,
+              "username": "bghtnya"
+            },
+            {
+              "end": 60,
+              "id": "1622987945895677954",
+              "start": 45,
+              "username": "xingkong740923"
+            },
+            {
+              "end": 75,
+              "id": "1603904249649188864",
+              "start": 62,
+              "username": "maomaoServer"
+            },
+            {
+              "end": 89,
+              "id": "1599546260402638848",
+              "start": 77,
+              "username": "chika_ichii"
+            },
+            {
+              "end": 107,
+              "id": "1419686621109174272",
+              "start": 91,
+              "username": "tnaylsyk7865209"
+            },
+            {
+              "end": 121,
+              "id": "1545736499597307904",
+              "start": 109,
+              "username": "Andy1782010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZNqmboRgr",
+              "end": 145,
+              "expanded_url": "https://x.com/bghtnya/status/1883888793000059240/photo/1",
+              "media_key": "3_1883888770124267520",
+              "start": 122,
+              "url": "https://t.co/XZNqmboRgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883888793000059240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2295,
+          "like_count": 46,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "让窝摸摸你的柰子\n@xielingxi123 \n@ww123qwq \n@bghtnya \n@xingkong740923 \n@maomaoServer \n@chika_ichii \n@tnaylsyk7865209 \n@Andy1782010 https://t.co/XZNqmboRgr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 151,
+          "like_count": 40052,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 10362
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867824183000117248/VMjcdZQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4397,
+          "following_count": 1825,
+          "like_count": 122011,
+          "listed_count": 12,
+          "media_count": 2006,
+          "tweet_count": 29861
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

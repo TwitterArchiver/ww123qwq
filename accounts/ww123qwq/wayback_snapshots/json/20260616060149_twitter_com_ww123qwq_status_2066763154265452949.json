@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066446898077274112"
+      ],
+      "media_source_tweet_id": [
+        "2066446901780877425"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2066763154265452949",
+    "created_at": "2026-06-16T06:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066763154265452949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1669199652607131648",
+          "start": 3,
+          "username": "_4zH_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qnr0owzJnH",
+          "end": 34,
+          "expanded_url": "https://x.com/_4zH_/status/2066446901780877425/photo/1",
+          "media_key": "3_2066446898077274112",
+          "start": 11,
+          "url": "https://t.co/Qnr0owzJnH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066763154265452949",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066446901780877425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_4zH_: https://t.co/Qnr0owzJnH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2066446898077274112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1-gVsakAACGfH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066446898077274112"
+          ],
+          "media_source_tweet_id": [
+            "2066446901780877425"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2066763154265452949",
+        "created_at": "2026-06-16T06:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066763154265452949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1669199652607131648",
+              "start": 3,
+              "username": "_4zH_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qnr0owzJnH",
+              "end": 34,
+              "expanded_url": "https://x.com/_4zH_/status/2066446901780877425/photo/1",
+              "media_key": "3_2066446898077274112",
+              "start": 11,
+              "url": "https://t.co/Qnr0owzJnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066763154265452949",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066446901780877425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_4zH_: https://t.co/Qnr0owzJnH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066446898077274112"
+          ]
+        },
+        "author_id": "1669199652607131648",
+        "conversation_id": "2066446901780877425",
+        "created_at": "2026-06-15T09:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066446901780877425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qnr0owzJnH",
+              "end": 23,
+              "expanded_url": "https://x.com/_4zH_/status/2066446901780877425/photo/1",
+              "media_key": "3_2066446898077274112",
+              "start": 0,
+              "url": "https://t.co/Qnr0owzJnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066446901780877425",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 6339,
+          "like_count": 1015,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qnr0owzJnH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 266,
+          "like_count": 42717,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 12892
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T04:26:31.000Z",
+        "description": "I don’t express people.\nOnly what’s left of them.\nRight means nothing here.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@4zH_4zH",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@4zH_4zH",
+                "start": 0,
+                "url": "https://t.co/Syx1DPqHsx"
+              }
+            ]
+          }
+        },
+        "id": "1669199652607131648",
+        "name": "4zH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045324200966225920/f4l0fXWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4330,
+          "following_count": 3256,
+          "like_count": 45783,
+          "listed_count": 9,
+          "media_count": 20,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/Syx1DPqHsx",
+        "username": "_4zH_",
+        "verified": true
+      }
+    ]
+  }
+}

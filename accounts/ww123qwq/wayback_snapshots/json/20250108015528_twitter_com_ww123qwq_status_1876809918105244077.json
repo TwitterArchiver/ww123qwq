@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1876637216803615005",
+    "created_at": "2025-01-08T01:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T02:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876809918105244077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531971331902050304",
+          "start": 0,
+          "username": "Liangbuxiangchi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876809918105244077",
+    "in_reply_to_user_id": "1531971331902050304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876637216803615005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liangbuxiangchi 买怎么了，又不违法。被罚那是怂的，不给就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1876637216803615005",
+        "created_at": "2025-01-08T01:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T02:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876809918105244077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531971331902050304",
+              "start": 0,
+              "username": "Liangbuxiangchi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876809918105244077",
+        "in_reply_to_user_id": "1531971331902050304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876637216803615005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangbuxiangchi 买怎么了，又不违法。被罚那是怂的，不给就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531971331902050304",
+        "conversation_id": "1876637216803615005",
+        "created_at": "2025-01-07T14:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T15:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876637216803615005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876637216803615005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1105,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本来还想着o点愈美断食欲减肥来着，看到群友被突然拉去发检被罚了一千不敢了，继续戒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 126,
+          "like_count": 39667,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 10200
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T12:10:13.000Z",
+        "description": "接线下 取关请双取 会回关主页有内容的人 不互推互转 【港美指路】@painofuuuuuuuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "painofuuuuuuuu"
+              }
+            ]
+          }
+        },
+        "id": "1531971331902050304",
+        "location": "🚪100纯绿",
+        "name": "这是我的义肢",
+        "pinned_tweet_id": "1864953513509556548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856607186224590849/b1VZP-gQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3252,
+          "following_count": 1195,
+          "like_count": 29015,
+          "listed_count": 4,
+          "media_count": 693,
+          "tweet_count": 6804
+        },
+        "username": "Liangbuxiangchi",
+        "verified": false
+      }
+    ]
+  }
+}

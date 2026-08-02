@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972980600224260096",
+        "3_1972980600249458688"
+      ],
+      "media_source_tweet_id": [
+        "1972980605962125547",
+        "1972980605962125547"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1973271668849254775",
+    "created_at": "2025-10-01T06:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T07:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973271668849254775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1591361422675841024",
+          "start": 3,
+          "username": "fuzinoyamai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aafC0koDEl",
+          "end": 40,
+          "expanded_url": "https://x.com/fuzinoyamai/status/1972980605962125547/photo/1",
+          "media_key": "3_1972980600224260096",
+          "start": 17,
+          "url": "https://t.co/aafC0koDEl"
+        },
+        {
+          "display_url": "pic.x.com/aafC0koDEl",
+          "end": 40,
+          "expanded_url": "https://x.com/fuzinoyamai/status/1972980605962125547/photo/1",
+          "media_key": "3_1972980600249458688",
+          "start": 17,
+          "url": "https://t.co/aafC0koDEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973271668849254775",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 213
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972980605962125547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuzinoyamai: https://t.co/aafC0koDEl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972980600224260096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FvZxEaoAA972q.jpg",
+        "width": 1321
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972980600249458688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FvZxKbIAA_GPj.jpg",
+        "width": 1411
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972980600224260096",
+            "3_1972980600249458688"
+          ],
+          "media_source_tweet_id": [
+            "1972980605962125547",
+            "1972980605962125547"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1973271668849254775",
+        "created_at": "2025-10-01T06:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T07:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973271668849254775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1591361422675841024",
+              "start": 3,
+              "username": "fuzinoyamai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aafC0koDEl",
+              "end": 40,
+              "expanded_url": "https://x.com/fuzinoyamai/status/1972980605962125547/photo/1",
+              "media_key": "3_1972980600224260096",
+              "start": 17,
+              "url": "https://t.co/aafC0koDEl"
+            },
+            {
+              "display_url": "pic.x.com/aafC0koDEl",
+              "end": 40,
+              "expanded_url": "https://x.com/fuzinoyamai/status/1972980605962125547/photo/1",
+              "media_key": "3_1972980600249458688",
+              "start": 17,
+              "url": "https://t.co/aafC0koDEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973271668849254775",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 213
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972980605962125547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuzinoyamai: https://t.co/aafC0koDEl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972980600224260096",
+            "3_1972980600249458688"
+          ]
+        },
+        "author_id": "1591361422675841024",
+        "conversation_id": "1972980605962125547",
+        "created_at": "2025-09-30T11:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972980605962125547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aafC0koDEl",
+              "end": 23,
+              "expanded_url": "https://x.com/fuzinoyamai/status/1972980605962125547/photo/1",
+              "media_key": "3_1972980600224260096",
+              "start": 0,
+              "url": "https://t.co/aafC0koDEl"
+            },
+            {
+              "display_url": "pic.x.com/aafC0koDEl",
+              "end": 23,
+              "expanded_url": "https://x.com/fuzinoyamai/status/1972980605962125547/photo/1",
+              "media_key": "3_1972980600249458688",
+              "start": 0,
+              "url": "https://t.co/aafC0koDEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972980605962125547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1111,
+          "impression_count": 108488,
+          "like_count": 5288,
+          "quote_count": 7,
+          "reply_count": 57,
+          "retweet_count": 213
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aafC0koDEl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 199,
+          "like_count": 39768,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 10634
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T09:25:17.000Z",
+        "description": "さぶ(@yamyaichan)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "yamyaichan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuzinoyamai.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://fuzinoyamai.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/suykfpjFhc"
+              }
+            ]
+          }
+        },
+        "id": "1591361422675841024",
+        "name": "不治の病",
+        "pinned_tweet_id": "1934118727118897355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962667953721384960/w-LaJXCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106037,
+          "following_count": 108,
+          "like_count": 6229,
+          "listed_count": 495,
+          "media_count": 103,
+          "tweet_count": 3532
+        },
+        "url": "https://t.co/suykfpjFhc",
+        "username": "fuzinoyamai",
+        "verified": true
+      }
+    ]
+  }
+}

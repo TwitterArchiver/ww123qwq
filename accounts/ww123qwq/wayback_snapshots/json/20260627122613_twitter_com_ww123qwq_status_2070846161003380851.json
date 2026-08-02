@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070485975361597440"
+      ],
+      "media_source_tweet_id": [
+        "2070485999722127738"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2070846161003380851",
+    "created_at": "2026-06-27T12:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070846161003380851"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "まのさばネタバレ"
+        },
+        {
+          "end": 51,
+          "start": 42,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1063274975593779201",
+          "start": 3,
+          "username": "thumpthum"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SS9avFzyGM",
+          "end": 75,
+          "expanded_url": "https://x.com/thumpthum/status/2070485999722127738/photo/1",
+          "media_key": "3_2070485975361597440",
+          "start": 52,
+          "url": "https://t.co/SS9avFzyGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070846161003380851",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 616
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070485999722127738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thumpthum: ♪消えろ(まのさばボカロFA)\n#まのさばネタバレ \n#まのさば二次創作 https://t.co/SS9avFzyGM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2070485975361597440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvYBlHbMAAVU0Y.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070485975361597440"
+          ],
+          "media_source_tweet_id": [
+            "2070485999722127738"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2070846161003380851",
+        "created_at": "2026-06-27T12:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070846161003380851"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "まのさばネタバレ"
+            },
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1063274975593779201",
+              "start": 3,
+              "username": "thumpthum"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SS9avFzyGM",
+              "end": 75,
+              "expanded_url": "https://x.com/thumpthum/status/2070485999722127738/photo/1",
+              "media_key": "3_2070485975361597440",
+              "start": 52,
+              "url": "https://t.co/SS9avFzyGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070846161003380851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 616
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070485999722127738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thumpthum: ♪消えろ(まのさばボカロFA)\n#まのさばネタバレ \n#まのさば二次創作 https://t.co/SS9avFzyGM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070485975361597440"
+          ]
+        },
+        "author_id": "1063274975593779201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2070485999722127738",
+        "created_at": "2026-06-26T12:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070485999722127738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "まのさばネタバレ"
+            },
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SS9avFzyGM",
+              "end": 60,
+              "expanded_url": "https://x.com/thumpthum/status/2070485999722127738/photo/1",
+              "media_key": "3_2070485975361597440",
+              "start": 37,
+              "url": "https://t.co/SS9avFzyGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070485999722127738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 768,
+          "impression_count": 76388,
+          "like_count": 7002,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 616
+        },
+        "reply_settings": "everyone",
+        "text": "♪消えろ(まのさばボカロFA)\n#まのさばネタバレ \n#まのさば二次創作 https://t.co/SS9avFzyGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 278,
+          "like_count": 43116,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 13073
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-16T03:38:03.000Z",
+        "description": "お絵かき垢です 更新は基本真夜中… 無言フォローも歓迎です お仕事の御依頼は落書き日常アカにDMお願いします",
+        "id": "1063274975593779201",
+        "location": "お酒とお布団",
+        "name": "さんぷさん",
+        "pinned_tweet_id": "2025178920732287352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986422309809467392/4NwMj8MB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 236,
+          "like_count": 8180,
+          "listed_count": 38,
+          "media_count": 898,
+          "tweet_count": 3546
+        },
+        "url": "",
+        "username": "thumpthum",
+        "verified": false
+      }
+    ]
+  }
+}

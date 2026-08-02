@@ -1,0 +1,713 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992217405351759872",
+        "3_1992217405615988736"
+      ],
+      "media_source_tweet_id": [
+        "1992217423521427570",
+        "1992217423521427570"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1992231958915797015",
+    "created_at": "2025-11-22T14:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T15:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992231958915797015"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "mtf"
+        },
+        {
+          "end": 92,
+          "start": 85,
+          "tag": "crypto"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1780369819310981120",
+          "start": 3,
+          "username": "520illusion"
+        },
+        {
+          "end": 26,
+          "id": "1521553831775158273",
+          "start": 17,
+          "username": "ww123qwq"
+        },
+        {
+          "end": 40,
+          "id": "1719571122642161664",
+          "start": 28,
+          "username": "AGeSang2008"
+        },
+        {
+          "end": 57,
+          "id": "1902754830835392512",
+          "start": 41,
+          "username": "NorthLingkongRd"
+        },
+        {
+          "end": 71,
+          "id": "1780369819310981120",
+          "start": 59,
+          "username": "520illusion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sh02zkoFCw",
+          "end": 116,
+          "expanded_url": "https://x.com/520illusion/status/1992217423521427570/photo/1",
+          "media_key": "3_1992217405351759872",
+          "start": 93,
+          "url": "https://t.co/Sh02zkoFCw"
+        },
+        {
+          "display_url": "pic.x.com/Sh02zkoFCw",
+          "end": 116,
+          "expanded_url": "https://x.com/520illusion/status/1992217423521427570/photo/1",
+          "media_key": "3_1992217405615988736",
+          "start": 93,
+          "url": "https://t.co/Sh02zkoFCw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992231958915797015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992217423521427570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @520illusion: @ww123qwq  @AGeSang2008 @NorthLingkongRd  @520illusion  \n浦东贴贴~\n#mtf #crypto https://t.co/Sh02zkoFCw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1992217405351759872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XHLMlXkAAJuYZ.jpg",
+        "width": 1706
+      },
+      {
+        "height": 1766,
+        "media_key": "3_1992217405615988736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XHLNkXYAAaiEP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992217405351759872",
+            "3_1992217405615988736"
+          ],
+          "media_source_tweet_id": [
+            "1992217423521427570",
+            "1992217423521427570"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1992231958915797015",
+        "created_at": "2025-11-22T14:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992231958915797015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "mtf"
+            },
+            {
+              "end": 92,
+              "start": 85,
+              "tag": "crypto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1780369819310981120",
+              "start": 3,
+              "username": "520illusion"
+            },
+            {
+              "end": 26,
+              "id": "1521553831775158273",
+              "start": 17,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 40,
+              "id": "1719571122642161664",
+              "start": 28,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 57,
+              "id": "1902754830835392512",
+              "start": 41,
+              "username": "NorthLingkongRd"
+            },
+            {
+              "end": 71,
+              "id": "1780369819310981120",
+              "start": 59,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sh02zkoFCw",
+              "end": 116,
+              "expanded_url": "https://x.com/520illusion/status/1992217423521427570/photo/1",
+              "media_key": "3_1992217405351759872",
+              "start": 93,
+              "url": "https://t.co/Sh02zkoFCw"
+            },
+            {
+              "display_url": "pic.x.com/Sh02zkoFCw",
+              "end": 116,
+              "expanded_url": "https://x.com/520illusion/status/1992217423521427570/photo/1",
+              "media_key": "3_1992217405615988736",
+              "start": 93,
+              "url": "https://t.co/Sh02zkoFCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992231958915797015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992217423521427570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @520illusion: @ww123qwq  @AGeSang2008 @NorthLingkongRd  @520illusion  \n浦东贴贴~\n#mtf #crypto https://t.co/Sh02zkoFCw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992217405351759872",
+            "3_1992217405615988736"
+          ]
+        },
+        "author_id": "1780369819310981120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1992217423521427570",
+        "created_at": "2025-11-22T13:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992217423521427570"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "mtf"
+            },
+            {
+              "end": 75,
+              "start": 68,
+              "tag": "crypto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 23,
+              "id": "1719571122642161664",
+              "start": 11,
+              "username": "AGeSang2008"
+            },
+            {
+              "end": 40,
+              "id": "1902754830835392512",
+              "start": 24,
+              "username": "NorthLingkongRd"
+            },
+            {
+              "end": 54,
+              "id": "1780369819310981120",
+              "start": 42,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sh02zkoFCw",
+              "end": 99,
+              "expanded_url": "https://x.com/520illusion/status/1992217423521427570/photo/1",
+              "media_key": "3_1992217405351759872",
+              "start": 76,
+              "url": "https://t.co/Sh02zkoFCw"
+            },
+            {
+              "display_url": "pic.x.com/Sh02zkoFCw",
+              "end": 99,
+              "expanded_url": "https://x.com/520illusion/status/1992217423521427570/photo/1",
+              "media_key": "3_1992217405615988736",
+              "start": 76,
+              "url": "https://t.co/Sh02zkoFCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992217423521427570",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 272,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "@ww123qwq  @AGeSang2008 @NorthLingkongRd  @520illusion  \n浦东贴贴~\n#mtf #crypto https://t.co/Sh02zkoFCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "躯体化/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴党/地雷系/自伤/欢迎扩列加好友w唯一电报  非本，注意防骗\n🚪88/188/520/1314，女生免费，解锁色图置顶tg非本人推广自辨，出原味，接线下圆角，接露出，接任务，找金主，比较负能\n备用号@QwqQwe88396 坐标上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 256,
+          "like_count": 40699,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 11544
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "Binance OKX  bitget | All in crypto | 08年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁向 | 坠落星空 | 梦幻主义|幻象丛生 | 蓝 | 终将成为你 | 清水 | 🚫 od 色情 花刀 🚫",
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳️‍⚧️",
+        "pinned_tweet_id": "1991602588656234589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908191260986486784/eh4n47Mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 209,
+          "like_count": 2230,
+          "listed_count": 5,
+          "media_count": 176,
+          "tweet_count": 1548
+        },
+        "username": "520illusion",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-01T04:24:53.000Z",
+        "description": "小号 @AGeCat2008｜姐姐 @Anan628769｜笨蛋Andy @Andy_Zaychilk｜抱抱最可愛的妹妹 @suikahsnya｜对象 @C_baba_66ccff｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "AGeCat2008"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "Anan628769"
+              },
+              {
+                "end": 51,
+                "start": 37,
+                "username": "Andy_Zaychilk"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "suikahsnya"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "C_baba_66ccff"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AGeSang_cat",
+                "end": 23,
+                "expanded_url": "https://t.me/AGeSang_cat",
+                "start": 0,
+                "url": "https://t.co/VmDoVugaXS"
+              }
+            ]
+          }
+        },
+        "id": "1719571122642161664",
+        "location": "中国上海",
+        "name": "绫音AGeSang🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1990664612531052805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866439446767579136/WkjMtxNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1621,
+          "following_count": 1148,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 5790
+        },
+        "url": "https://t.co/VmDoVugaXS",
+        "username": "AGeSang2008",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T16:15:14.000Z",
+        "description": "\"Just another fork in the road\"\nhrt 2025.8.26\nBelonged to @MayISeeUAgain\nBeloved @TeririGatt\n“逐愿南航、北海凌空？善之奇绝，九死无悔。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "MayISeeUAgain"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "TeririGatt"
+              }
+            ]
+          }
+        },
+        "id": "1902754830835392512",
+        "location": "North Lingkong Rd.",
+        "name": "Shanghai Metro Line 22",
+        "pinned_tweet_id": "1924888603949445351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903499041771749376/VRerfJui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 84,
+          "like_count": 1407,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "username": "NorthLingkongRd",
+        "verified": false
+      }
+    ]
+  }
+}

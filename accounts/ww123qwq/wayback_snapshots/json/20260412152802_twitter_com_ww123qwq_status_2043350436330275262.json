@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2042251943750561932",
+    "created_at": "2026-04-12T15:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043350436330275262"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043350436330275262",
+    "in_reply_to_user_id": "1521553831775158273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042251943750561932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开奖了，请收到私信的记得回复哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2042251943750561932",
+        "created_at": "2026-04-12T15:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043350436330275262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043350436330275262",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042251943750561932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开奖了，请收到私信的记得回复哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2042251943750561932",
+        "created_at": "2026-04-09T14:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042251943750561932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042251943750561932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6484,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 110,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "1600fo抽奖，感谢大家的fo和陪伴\n一等奖(1人)：dxm一箱(折现88r\n二等奖(2人)：pr80三盒(折现60r)\n三等奖(3人)：咖啡一杯(折现10r)\n\n【参与条件】关注+点赞+评论+转发（四项必做）\n100转发开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 275,
+          "like_count": 42163,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 12618
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

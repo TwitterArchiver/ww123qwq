@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1985691529919569920"
+      ],
+      "media_source_tweet_id": [
+        "1985691639613178414"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985772745595265076",
+    "created_at": "2025-11-04T18:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T19:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985772745595265076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1601735483901751296",
+          "start": 3,
+          "username": "_kaname_03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pYFZsAxS7e",
+          "end": 56,
+          "expanded_url": "https://x.com/_kaname_03/status/1985691639613178414/video/1",
+          "media_key": "13_1985691529919569920",
+          "start": 33,
+          "url": "https://t.co/pYFZsAxS7e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985772745595265076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985691639613178414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_kaname_03: なんか広場すごい事なってる😸😸😸 https://t.co/pYFZsAxS7e"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23705,
+        "height": 1280,
+        "media_key": "13_1985691529919569920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985691529919569920/img/EfTwIo4drQmxNdF2.jpg",
+        "public_metrics": {
+          "view_count": 3185
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985691529919569920/vid/avc1/320x568/4uye7sATl5UCkdW9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985691529919569920/vid/avc1/480x852/pbK7ZduXOFzsucxR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985691529919569920/vid/avc1/720x1280/bJPYJUuDs0TOEx7u.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985691529919569920/pl/3igc5ep5D4VoAovd.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985691529919569920"
+          ],
+          "media_source_tweet_id": [
+            "1985691639613178414"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985772745595265076",
+        "created_at": "2025-11-04T18:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T19:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985772745595265076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1601735483901751296",
+              "start": 3,
+              "username": "_kaname_03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYFZsAxS7e",
+              "end": 56,
+              "expanded_url": "https://x.com/_kaname_03/status/1985691639613178414/video/1",
+              "media_key": "13_1985691529919569920",
+              "start": 33,
+              "url": "https://t.co/pYFZsAxS7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985772745595265076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985691639613178414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_kaname_03: なんか広場すごい事なってる😸😸😸 https://t.co/pYFZsAxS7e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985691529919569920"
+          ]
+        },
+        "author_id": "1601735483901751296",
+        "conversation_id": "1985691639613178414",
+        "created_at": "2025-11-04T12:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985691639613178414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pYFZsAxS7e",
+              "end": 40,
+              "expanded_url": "https://x.com/_kaname_03/status/1985691639613178414/video/1",
+              "media_key": "13_1985691529919569920",
+              "start": 17,
+              "url": "https://t.co/pYFZsAxS7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985691639613178414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6759,
+          "like_count": 115,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "なんか広場すごい事なってる😸😸😸 https://t.co/pYFZsAxS7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩906910481",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 222,
+          "like_count": 40351,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 11023
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T00:28:03.000Z",
+        "description": "@_kaname_2 ↩︎鍵垢人選ぶ/@_kaname_12 ↩︎サブ垢/ほむらちゃんを愛してます😻/ツイ消し常習犯/あいどるです/下のリンクからTikTokフォローして😿😿😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "_kaname_2"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_kaname_12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@__kaname__03?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@__kaname__03?_t=ZS-8xHbaeN8iuW&_r=1",
+                "start": 0,
+                "url": "https://t.co/B4IofS0S0w"
+              }
+            ]
+          }
+        },
+        "id": "1601735483901751296",
+        "location": "見滝原⇔風見野",
+        "name": "かなめ",
+        "pinned_tweet_id": "1891318708607361134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774095561496707072/_O5OTRC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21324,
+          "following_count": 131,
+          "like_count": 6027,
+          "listed_count": 44,
+          "media_count": 704,
+          "tweet_count": 3091
+        },
+        "url": "https://t.co/B4IofS0S0w",
+        "username": "_kaname_03",
+        "verified": false
+      }
+    ]
+  }
+}

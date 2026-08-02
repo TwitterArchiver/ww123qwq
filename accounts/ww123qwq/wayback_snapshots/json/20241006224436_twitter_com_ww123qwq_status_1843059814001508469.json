@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1843004145328177468",
+    "created_at": "2024-10-06T22:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T23:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843059814001508469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1403720942858035201",
+          "start": 0,
+          "username": "DHANA60718392"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843059814001508469",
+    "in_reply_to_user_id": "1403720942858035201",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843004145328177468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DHANA60718392 吞的pr80？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1843004145328177468",
+        "created_at": "2024-10-06T22:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T23:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843059814001508469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1403720942858035201",
+              "start": 0,
+              "username": "DHANA60718392"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843059814001508469",
+        "in_reply_to_user_id": "1403720942858035201",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843004145328177468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DHANA60718392 吞的pr80？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403720942858035201",
+        "conversation_id": "1843004145328177468",
+        "created_at": "2024-10-06T19:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T20:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843004145328177468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843004145328177468",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1768,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吞药了\n爱我的人和我爱过的人还有那些帮助过我的人和我帮助的人\n晚安\n永远是你们的小天使❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 111,
+          "like_count": 40306,
+          "listed_count": 0,
+          "tweet_count": 10266
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T14:29:19.000Z",
+        "description": "转生了\n\n您的赛博猫咪｜双相｜互fo｜mtf｜二次元｜ENFP/INFP｜微键政｜传递爱 希望 自由｜ 方舟 雀魂 肉鸽 博德之门｜闲聊 安慰与抱抱( ´•ω•)ノ｜写作ing｜希望成为温柔的人｜世界破破烂烂，喵喵缝缝补补｜🚪28/58/168/288",
+        "id": "1403720942858035201",
+        "location": "喵星✨",
+        "name": "周周喵🐈 二代目（求fo版）",
+        "pinned_tweet_id": "1783386885798425021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772551411274027008/V0C-jVfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 2008,
+          "like_count": 9655,
+          "listed_count": 4,
+          "tweet_count": 1371
+        },
+        "username": "DHANA60718392",
+        "verified": false
+      }
+    ]
+  }
+}

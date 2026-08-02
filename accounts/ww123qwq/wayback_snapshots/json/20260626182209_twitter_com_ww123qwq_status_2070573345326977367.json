@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070386271529336833",
+        "3_2070386271533559808"
+      ],
+      "media_source_tweet_id": [
+        "2070386277745324198",
+        "2070386277745324198"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2070573345326977367",
+    "created_at": "2026-06-26T18:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070573345326977367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "951930939248082944",
+          "start": 3,
+          "username": "Love_OXYcontin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5VFzn7ohT0",
+          "end": 64,
+          "expanded_url": "https://x.com/Love_OXYcontin/status/2070386277745324198/photo/1",
+          "media_key": "3_2070386271529336833",
+          "start": 41,
+          "url": "https://t.co/5VFzn7ohT0"
+        },
+        {
+          "display_url": "pic.x.com/5VFzn7ohT0",
+          "end": 64,
+          "expanded_url": "https://x.com/Love_OXYcontin/status/2070386277745324198/photo/1",
+          "media_key": "3_2070386271533559808",
+          "start": 41,
+          "url": "https://t.co/5VFzn7ohT0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070573345326977367",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070386277745324198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Love_OXYcontin: かわいいいいいい！！ほんとにかわいい！！ https://t.co/5VFzn7ohT0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2070386271529336833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLt9WDZaAAE3zY0.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2070386271533559808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLt9WDaacAA-x_O.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070386271529336833",
+            "3_2070386271533559808"
+          ],
+          "media_source_tweet_id": [
+            "2070386277745324198",
+            "2070386277745324198"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2070573345326977367",
+        "created_at": "2026-06-26T18:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070573345326977367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "951930939248082944",
+              "start": 3,
+              "username": "Love_OXYcontin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5VFzn7ohT0",
+              "end": 64,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2070386277745324198/photo/1",
+              "media_key": "3_2070386271529336833",
+              "start": 41,
+              "url": "https://t.co/5VFzn7ohT0"
+            },
+            {
+              "display_url": "pic.x.com/5VFzn7ohT0",
+              "end": 64,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2070386277745324198/photo/1",
+              "media_key": "3_2070386271533559808",
+              "start": 41,
+              "url": "https://t.co/5VFzn7ohT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070573345326977367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070386277745324198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Love_OXYcontin: かわいいいいいい！！ほんとにかわいい！！ https://t.co/5VFzn7ohT0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070386271529336833",
+            "3_2070386271533559808"
+          ]
+        },
+        "author_id": "951930939248082944",
+        "conversation_id": "2070386277745324198",
+        "created_at": "2026-06-26T05:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070386277745324198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5VFzn7ohT0",
+              "end": 44,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2070386277745324198/photo/1",
+              "media_key": "3_2070386271529336833",
+              "start": 21,
+              "url": "https://t.co/5VFzn7ohT0"
+            },
+            {
+              "display_url": "pic.x.com/5VFzn7ohT0",
+              "end": 44,
+              "expanded_url": "https://x.com/Love_OXYcontin/status/2070386277745324198/photo/1",
+              "media_key": "3_2070386271533559808",
+              "start": 21,
+              "url": "https://t.co/5VFzn7ohT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070386277745324198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 303,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "かわいいいいいい！！ほんとにかわいい！！ https://t.co/5VFzn7ohT0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 279,
+          "like_count": 43096,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 13062
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-12T21:36:36.000Z",
+        "description": "MTF🏳️‍⚧️ 10年 糖龄3年 ADHD 重度焦虑 IP山东 山东境内交友 -*BZDs/Z drug/opioids*-最爱的药物种类 欢迎互fo\n*服用的药物皆有医生处方*‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Da_i_su_ki_da_…",
+                "end": 23,
+                "expanded_url": "https://t.me/Da_i_su_ki_da_yo",
+                "start": 0,
+                "url": "https://t.co/jrNU36WaHn"
+              }
+            ]
+          }
+        },
+        "id": "951930939248082944",
+        "location": "        ꒰ঌ₊⁺ ♡̶ネット天使降臨♡̶ ₊⁺໒꒱ ",
+        "name": "ฅ ᩚ千雨ちさめ੭ﾞ🐾",
+        "pinned_tweet_id": "2070247549299278286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070266649555722240/vjw9A1mb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 407,
+          "like_count": 814,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/jrNU36WaHn",
+        "username": "Love_OXYcontin",
+        "verified": false
+      }
+    ]
+  }
+}

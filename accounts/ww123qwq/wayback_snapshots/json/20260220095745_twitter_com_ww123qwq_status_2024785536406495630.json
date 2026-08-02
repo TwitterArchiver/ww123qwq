@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2024671051251405062",
+    "created_at": "2026-02-20T09:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T10:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024785536406495630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847025525610762240",
+          "start": 0,
+          "username": "KS_Nitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024785536406495630",
+    "in_reply_to_user_id": "1847025525610762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024671051251405062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KS_Nitori 1块钱14t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2024671039138242560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkTlTrbIAAnwqH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2024671051251405062",
+        "created_at": "2026-02-20T09:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024785536406495630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847025525610762240",
+              "start": 0,
+              "username": "KS_Nitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024785536406495630",
+        "in_reply_to_user_id": "1847025525610762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024671051251405062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KS_Nitori 1块钱14t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024671039138242560"
+          ]
+        },
+        "author_id": "1847025525610762240",
+        "conversation_id": "2024671051251405062",
+        "created_at": "2026-02-20T02:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024671051251405062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNoG42cgP3",
+              "end": 38,
+              "expanded_url": "https://x.com/KS_Nitori/status/2024671051251405062/photo/1",
+              "media_key": "3_2024671039138242560",
+              "start": 15,
+              "url": "https://t.co/zNoG42cgP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024671051251405062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1576,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高端氯硝，一片要将近两块钱😰 https://t.co/zNoG42cgP3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本，纸烟代购/电子烟代购",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 260,
+          "like_count": 41693,
+          "listed_count": 5,
+          "media_count": 618,
+          "tweet_count": 12385
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n双相？/ASD/不登校|\nmtf（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|2009～2026？\n内疚、矛盾、自责……发病时概率掉落奇怪的文本及血图。害怕被讨厌、抛弃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2lEIU"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Xi'an, Shaanxi, China",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008188563092049923/XJF7Zd3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 1802,
+          "like_count": 12043,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/8rmha2lEIU",
+        "username": "KS_Nitori",
+        "verified": false
+      }
+    ]
+  }
+}

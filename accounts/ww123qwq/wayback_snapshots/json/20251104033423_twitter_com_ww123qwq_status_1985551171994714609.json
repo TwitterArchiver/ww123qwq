@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985392667522633728"
+      ],
+      "media_source_tweet_id": [
+        "1985392687760228552"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1985551171994714609",
+    "created_at": "2025-11-04T03:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T04:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985551171994714609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zj9qGlqQzM",
+          "end": 37,
+          "expanded_url": "https://x.com/FurinaDF/status/1985392687760228552/photo/1",
+          "media_key": "3_1985392667522633728",
+          "start": 14,
+          "url": "https://t.co/Zj9qGlqQzM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985551171994714609",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985392687760228552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: https://t.co/Zj9qGlqQzM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1985392667522633728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G42IHK9aEAAFzVG.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985392667522633728"
+          ],
+          "media_source_tweet_id": [
+            "1985392687760228552"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985551171994714609",
+        "created_at": "2025-11-04T03:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985551171994714609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zj9qGlqQzM",
+              "end": 37,
+              "expanded_url": "https://x.com/FurinaDF/status/1985392687760228552/photo/1",
+              "media_key": "3_1985392667522633728",
+              "start": 14,
+              "url": "https://t.co/Zj9qGlqQzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985551171994714609",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985392687760228552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: https://t.co/Zj9qGlqQzM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985392667522633728"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985392687760228552",
+        "created_at": "2025-11-03T17:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T18:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985392687760228552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zj9qGlqQzM",
+              "end": 23,
+              "expanded_url": "https://x.com/FurinaDF/status/1985392687760228552/photo/1",
+              "media_key": "3_1985392667522633728",
+              "start": 0,
+              "url": "https://t.co/Zj9qGlqQzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985392687760228552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 38586,
+          "like_count": 276,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zj9qGlqQzM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1063487741",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 220,
+          "like_count": 40284,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 10948
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "宇宙是虚拟的@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLR6O"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59642,
+          "following_count": 2371,
+          "like_count": 29701,
+          "listed_count": 167,
+          "media_count": 7500,
+          "tweet_count": 12070
+        },
+        "url": "https://t.co/69nE3RLR6O",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

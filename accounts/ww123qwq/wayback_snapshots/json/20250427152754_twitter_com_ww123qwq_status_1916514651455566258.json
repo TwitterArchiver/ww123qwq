@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1916501042482786307",
+    "created_at": "2025-04-27T15:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T16:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916514651455566258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817584080437014528",
+          "start": 0,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916514651455566258",
+    "in_reply_to_user_id": "1817584080437014528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916501042482786307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA 吃喹硫平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1916501042482786307",
+        "created_at": "2025-04-27T15:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T16:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916514651455566258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817584080437014528",
+              "start": 0,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916514651455566258",
+        "in_reply_to_user_id": "1817584080437014528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916501042482786307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA 吃喹硫平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817584080437014528",
+        "conversation_id": "1916501042482786307",
+        "created_at": "2025-04-27T14:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T15:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916501042482786307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916501042482786307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安眠药没了 我睡不着了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 188,
+          "like_count": 40106,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 10613
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08老登/MTX（f?/ENTP-T/家长吓坏党/ADHD/双相/HRT：2024/8/25/坐标上海/有小证/QQ:234559943/抱抱最最可爱的姐姐: @yizhikapaiqaq\n猫猫： @AGeSang2008\n妈妈：@bolichara0\n主人：@yumekaayumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "bolichara0"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "yumekaayumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
+        "pinned_tweet_id": "1874706282789433484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915574638316576776/ewBZ6pcZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 897,
+          "like_count": 3106,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1080
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

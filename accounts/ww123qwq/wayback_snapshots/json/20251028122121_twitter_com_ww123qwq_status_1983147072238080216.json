@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1983074962761232384"
+      ],
+      "media_source_tweet_id": [
+        "1983075121893126508"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983147072238080216",
+    "created_at": "2025-10-28T12:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T13:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983147072238080216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1596767893",
+          "start": 3,
+          "username": "Ye_Redemption"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1T17rRWgI6",
+          "end": 111,
+          "expanded_url": "https://x.com/Ye_Redemption/status/1983075121893126508/video/1",
+          "media_key": "13_1983074962761232384",
+          "start": 88,
+          "url": "https://t.co/1T17rRWgI6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983147072238080216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983075121893126508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ye_Redemption: ❤️ Rt if u think this boy have a pretty body shape. 🥴🌹\n\n男娘舞蹈生身材♡ ♡ ♡ https://t.co/1T17rRWgI6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983147072238080216].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983147072238080216",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983147072238080216"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71460,
+        "height": 1126,
+        "media_key": "13_1983074962761232384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983074962761232384/img/XkognPhDSO9khABF.jpg",
+        "public_metrics": {
+          "view_count": 3554
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983074962761232384/vid/avc1/1080x1126/OTuU11OAD6hrtX5B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983074962761232384/vid/avc1/720x750/ZIFg7RplGYZ9byUW.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983074962761232384/vid/avc1/320x332/p8uVgk4TPElNeRr7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983074962761232384/vid/avc1/480x500/-XJmRrvtgznapIeG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983074962761232384/pl/df-Z6UBi8uvrDVZP.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983074962761232384"
+          ]
+        },
+        "author_id": "1596767893",
+        "conversation_id": "1983075121893126508",
+        "created_at": "2025-10-28T07:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T08:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983075121893126508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1T17rRWgI6",
+              "end": 92,
+              "expanded_url": "https://x.com/Ye_Redemption/status/1983075121893126508/video/1",
+              "media_key": "13_1983074962761232384",
+              "start": 69,
+              "url": "https://t.co/1T17rRWgI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983075121893126508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 12957,
+          "like_count": 906,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "❤️ Rt if u think this boy have a pretty body shape. 🥴🌹\n\n男娘舞蹈生身材♡ ♡ ♡ https://t.co/1T17rRWgI6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 210,
+          "like_count": 40146,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 10789
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-15T20:58:38.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈A slutty Asian femboy~Kpop Dancer❤️/18/男/🚪88完整视频🥰，alt @Ye_Redemptionn Telegram: https://t.co/QvfT1Lgl0T | https://t.co/rSxnc0GHtb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "Ye_Redemptionn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+5YzMsEfCpIE4Z…",
+                "end": 112,
+                "expanded_url": "https://t.me/+5YzMsEfCpIE4ZTc1",
+                "start": 89,
+                "url": "https://t.co/QvfT1Lgl0T"
+              },
+              {
+                "display_url": "patreon.com/ReddieXieBao",
+                "end": 138,
+                "expanded_url": "http://patreon.com/ReddieXieBao",
+                "start": 115,
+                "url": "https://t.co/rSxnc0GHtb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/YeRedemption",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/YeRedemption",
+                "start": 0,
+                "url": "https://t.co/aWO9uRatRy"
+              }
+            ]
+          }
+        },
+        "id": "1596767893",
+        "name": "✨叶宝Reddie 🍃🔞",
+        "pinned_tweet_id": "1983075121893126508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926132824492396544/7Lzs0rLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104417,
+          "following_count": 554,
+          "like_count": 4664,
+          "listed_count": 525,
+          "media_count": 556,
+          "tweet_count": 4315
+        },
+        "url": "https://t.co/aWO9uRatRy",
+        "username": "Ye_Redemption",
+        "verified": true
+      }
+    ]
+  }
+}

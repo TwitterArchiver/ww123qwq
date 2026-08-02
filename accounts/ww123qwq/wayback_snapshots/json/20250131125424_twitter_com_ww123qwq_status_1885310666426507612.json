@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1885068816071434247",
+    "created_at": "2025-01-31T12:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T13:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885310666426507612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793636329299066880",
+          "start": 0,
+          "username": "cuichuna7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885310666426507612",
+    "in_reply_to_user_id": "1793636329299066880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885068816071434247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichuna7 吃麦乐鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1885068816071434247",
+        "created_at": "2025-01-31T12:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T13:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885310666426507612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793636329299066880",
+              "start": 0,
+              "username": "cuichuna7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885310666426507612",
+        "in_reply_to_user_id": "1793636329299066880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885068816071434247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichuna7 吃麦乐鸡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885068808421023744",
+            "3_1885068808425234432"
+          ]
+        },
+        "author_id": "1793636329299066880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1885068816071434247",
+        "created_at": "2025-01-30T20:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T21:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885068816071434247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgcbaIHjHq",
+              "end": 31,
+              "expanded_url": "https://x.com/cuichuna7/status/1885068816071434247/photo/1",
+              "media_key": "3_1885068808421023744",
+              "start": 8,
+              "url": "https://t.co/JgcbaIHjHq"
+            },
+            {
+              "display_url": "pic.x.com/JgcbaIHjHq",
+              "end": 31,
+              "expanded_url": "https://x.com/cuichuna7/status/1885068816071434247/photo/1",
+              "media_key": "3_1885068808425234432",
+              "start": 8,
+              "url": "https://t.co/JgcbaIHjHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885068816071434247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 600,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜点麦乐送w https://t.co/JgcbaIHjHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 161,
+          "like_count": 40089,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 10406
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹目前在家休学养病//欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿加点东西@grame_oppb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "grame_oppb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/troellstoree2",
+                "end": 23,
+                "expanded_url": "https://t.me/troellstoree2",
+                "start": 0,
+                "url": "https://t.co/YwNpXr2uZp"
+              }
+            ]
+          }
+        },
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "graee.time☃︎（能不能讨个foTVT",
+        "pinned_tweet_id": "1868290454615474348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 2559,
+          "like_count": 5056,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1593
+        },
+        "url": "https://t.co/YwNpXr2uZp",
+        "username": "cuichuna7",
+        "verified": true
+      }
+    ]
+  }
+}

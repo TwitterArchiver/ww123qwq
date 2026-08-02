@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883475641703780352"
+      ],
+      "media_source_tweet_id": [
+        "1883475664252383500"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1883705201250693499",
+    "created_at": "2025-01-27T02:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T03:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883705201250693499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2449971055",
+          "start": 3,
+          "username": "tokunocin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XYw0QKb0S9",
+          "end": 41,
+          "expanded_url": "https://x.com/tokunocin/status/1883475664252383500/photo/1",
+          "media_key": "3_1883475641703780352",
+          "start": 18,
+          "url": "https://t.co/XYw0QKb0S9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883705201250693499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 357
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883475664252383500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokunocin: 集会 https://t.co/XYw0QKb0S9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1883475641703780352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiNzHfba0AAlSxC.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883475641703780352"
+          ],
+          "media_source_tweet_id": [
+            "1883475664252383500"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1883705201250693499",
+        "created_at": "2025-01-27T02:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T03:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883705201250693499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2449971055",
+              "start": 3,
+              "username": "tokunocin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYw0QKb0S9",
+              "end": 41,
+              "expanded_url": "https://x.com/tokunocin/status/1883475664252383500/photo/1",
+              "media_key": "3_1883475641703780352",
+              "start": 18,
+              "url": "https://t.co/XYw0QKb0S9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883705201250693499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 357
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883475664252383500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokunocin: 集会 https://t.co/XYw0QKb0S9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883475641703780352"
+          ]
+        },
+        "author_id": "2449971055",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1883475664252383500",
+        "created_at": "2025-01-26T11:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T12:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883475664252383500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYw0QKb0S9",
+              "end": 26,
+              "expanded_url": "https://x.com/tokunocin/status/1883475664252383500/photo/1",
+              "media_key": "3_1883475641703780352",
+              "start": 3,
+              "url": "https://t.co/XYw0QKb0S9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883475664252383500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 63689,
+          "like_count": 2257,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "集会 https://t.co/XYw0QKb0S9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 148,
+          "like_count": 40024,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 10348
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-17T15:37:16.000Z",
+        "description": "illustrator\n#コンパス/ミストレなどなど\nサークル @circle_pearie\nhttps://t.co/kM5Vl5Q5ly\n青空→tokunocin\n\nご依頼の詳細はHPまで\n\nおためし期間中\nhttps://t.co/wiGpopYP64",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "コンパス"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "circle_pearie"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/tokunocin",
+                "end": 70,
+                "expanded_url": "http://lit.link/tokunocin",
+                "start": 47,
+                "url": "https://t.co/kM5Vl5Q5ly"
+              },
+              {
+                "display_url": "odaibako.net/u/tokunocin",
+                "end": 129,
+                "expanded_url": "https://odaibako.net/u/tokunocin",
+                "start": 106,
+                "url": "https://t.co/wiGpopYP64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tokunocin.com",
+                "end": 23,
+                "expanded_url": "https://www.tokunocin.com/",
+                "start": 0,
+                "url": "https://t.co/JHylFRA0Aa"
+              }
+            ]
+          }
+        },
+        "id": "2449971055",
+        "location": "AI学習NG✖️",
+        "name": "徳之ゆいか",
+        "pinned_tweet_id": "1883475664252383500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1197226468079788032/qHdfUwI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250234,
+          "following_count": 540,
+          "like_count": 14561,
+          "listed_count": 1742,
+          "media_count": 264,
+          "tweet_count": 13449
+        },
+        "url": "https://t.co/JHylFRA0Aa",
+        "username": "tokunocin",
+        "verified": false
+      }
+    ]
+  }
+}

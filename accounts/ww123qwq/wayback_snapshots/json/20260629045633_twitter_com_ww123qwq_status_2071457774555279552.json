@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071092740922978304"
+      ],
+      "media_source_tweet_id": [
+        "2071092742890082635"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071457774555279552",
+    "created_at": "2026-06-29T04:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071457774555279552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IWwVNNKnoj",
+          "end": 89,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/2071092742890082635/photo/1",
+          "media_key": "3_2071092740922978304",
+          "start": 66,
+          "url": "https://t.co/IWwVNNKnoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071457774555279552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3384
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071092742890082635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: ぽまいらのいるタイムラインの空気はうまいぜ……( ´ー｀)y-~~\nなんちて、ただいま～ https://t.co/IWwVNNKnoj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2071092740922978304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3_3--asAAdW0M.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071092740922978304"
+          ],
+          "media_source_tweet_id": [
+            "2071092742890082635"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071457774555279552",
+        "created_at": "2026-06-29T04:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071457774555279552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWwVNNKnoj",
+              "end": 89,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2071092742890082635/photo/1",
+              "media_key": "3_2071092740922978304",
+              "start": 66,
+              "url": "https://t.co/IWwVNNKnoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071457774555279552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3384
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071092742890082635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: ぽまいらのいるタイムラインの空気はうまいぜ……( ´ー｀)y-~~\nなんちて、ただいま～ https://t.co/IWwVNNKnoj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071092740922978304"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "conversation_id": "2071092742890082635",
+        "created_at": "2026-06-28T04:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071092742890082635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWwVNNKnoj",
+              "end": 68,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2071092742890082635/photo/1",
+              "media_key": "3_2071092740922978304",
+              "start": 45,
+              "url": "https://t.co/IWwVNNKnoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071092742890082635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1445,
+          "impression_count": 382016,
+          "like_count": 25380,
+          "quote_count": 328,
+          "reply_count": 78,
+          "retweet_count": 3384
+        },
+        "reply_settings": "everyone",
+        "text": "ぽまいらのいるタイムラインの空気はうまいぜ……( ´ー｀)y-~~\nなんちて、ただいま～ https://t.co/IWwVNNKnoj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 283,
+          "like_count": 43227,
+          "listed_count": 4,
+          "media_count": 712,
+          "tweet_count": 13113
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "location": "キミのぱそこん",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539945,
+          "following_count": 1,
+          "like_count": 12,
+          "listed_count": 1166,
+          "media_count": 793,
+          "tweet_count": 1906
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true
+      }
+    ]
+  }
+}

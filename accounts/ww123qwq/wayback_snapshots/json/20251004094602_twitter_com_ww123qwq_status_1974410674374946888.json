@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1973994181178630567",
+    "created_at": "2025-10-04T09:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T10:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974410674374946888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974410674374946888",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973994181178630567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 系了爽😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1973994181178630567",
+        "created_at": "2025-10-04T09:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974410674374946888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974410674374946888",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973994181178630567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 系了爽😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1973994181178630567",
+        "created_at": "2025-10-03T06:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T07:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973994181178630567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973994181178630567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 22440,
+          "like_count": 198,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "药物滥用就是吸毒，尤其青少年，扔掉你手中的药，从此走上健全路，不要让你的爹妈在天台上眼含泪水。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 202,
+          "like_count": 39833,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 10658
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjZjK 提问箱:https://t.co/b5c8bbntR6 里推:@fuck_8964 药物代购可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjZjK"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 58,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 35,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjZjK"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968299927244775424/_No7YTKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 189,
+          "like_count": 8536,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 2553
+        },
+        "url": "https://t.co/BlAoDIjZjK",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

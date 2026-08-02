@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1796894074580209815",
+    "created_at": "2024-06-01T14:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T15:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796914475641266681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492097874565468172",
+          "start": 0,
+          "username": "citrus_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796914475641266681",
+    "in_reply_to_user_id": "1492097874565468172",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796894074580209815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@citrus_404 赤使"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1796894074580209815",
+        "created_at": "2024-06-01T14:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T15:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796914475641266681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492097874565468172",
+              "start": 0,
+              "username": "citrus_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796914475641266681",
+        "in_reply_to_user_id": "1492097874565468172",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796894074580209815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@citrus_404 赤使"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796894062894891008"
+          ]
+        },
+        "author_id": "1492097874565468172",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1796894074580209815",
+        "created_at": "2024-06-01T13:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T14:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796894074580209815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dmy8gfIJ2Q",
+              "end": 35,
+              "expanded_url": "https://twitter.com/citrus_404/status/1796894074580209815/photo/1",
+              "media_key": "3_1796894062894891008",
+              "start": 12,
+              "url": "https://t.co/dmy8gfIJ2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796894074580209815",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2027,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请路过的推友吃点^ω^ https://t.co/dmy8gfIJ2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775825619340689408/yGyXtAtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 103,
+          "like_count": 40931,
+          "listed_count": 0,
+          "tweet_count": 10280
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T11:27:17.000Z",
+        "description": "请和我了解  | 中/日/英语可| 目标是创造只有初音未来的世界! | 在堆满过去的废土上免费提供拥抱 | 你的互联网精神庇护所 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.twitch.tv/citrus_404",
+                "end": 23,
+                "expanded_url": "http://m.twitch.tv/citrus_404",
+                "start": 0,
+                "url": "https://t.co/ry4JOLnb2e"
+              }
+            ]
+          }
+        },
+        "id": "1492097874565468172",
+        "location": "宛平南路600号",
+        "name": "Citrus🍉",
+        "pinned_tweet_id": "1753064413186183275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739220534372483072/bDcNLypR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20316,
+          "following_count": 220,
+          "like_count": 41758,
+          "listed_count": 58,
+          "tweet_count": 11770
+        },
+        "url": "https://t.co/ry4JOLnb2e",
+        "username": "citrus_404",
+        "verified": false
+      }
+    ]
+  }
+}

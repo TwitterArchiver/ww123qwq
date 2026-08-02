@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1996178767719645184"
+      ],
+      "media_source_tweet_id": [
+        "1996178829296173082"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1996555089096642952",
+    "created_at": "2025-12-04T12:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T13:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996555089096642952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "T8O9K6Y4O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PeGKDcnlhq",
+          "end": 47,
+          "expanded_url": "https://x.com/T8O9K6Y4O/status/1996178829296173082/video/1",
+          "media_key": "13_1996178767719645184",
+          "start": 24,
+          "url": "https://t.co/PeGKDcnlhq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996555089096642952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996178829296173082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @T8O9K6Y4O: 谢谢你叫我小姑娘 https://t.co/PeGKDcnlhq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76833,
+        "height": 1280,
+        "media_key": "13_1996178767719645184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1996178767719645184/img/bV_tBV6o91FOy9kd.jpg",
+        "public_metrics": {
+          "view_count": 6290
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996178767719645184/vid/avc1/320x568/wmaYmgz68Oqi3lkh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996178767719645184/vid/avc1/480x852/4CDi7DDEa7D9xHJK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1996178767719645184/vid/avc1/720x1280/oeEI6uW8WrUaSxqr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1996178767719645184/pl/SP6xdt-EgMjTCCbt.m3u8?v=42e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996178767719645184"
+          ],
+          "media_source_tweet_id": [
+            "1996178829296173082"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996555089096642952",
+        "created_at": "2025-12-04T12:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T13:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996555089096642952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "T8O9K6Y4O"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PeGKDcnlhq",
+              "end": 47,
+              "expanded_url": "https://x.com/T8O9K6Y4O/status/1996178829296173082/video/1",
+              "media_key": "13_1996178767719645184",
+              "start": 24,
+              "url": "https://t.co/PeGKDcnlhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996555089096642952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996178829296173082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @T8O9K6Y4O: 谢谢你叫我小姑娘 https://t.co/PeGKDcnlhq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1996178767719645184"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "1996178829296173082",
+        "created_at": "2025-12-03T11:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996178829296173082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PeGKDcnlhq",
+              "end": 32,
+              "expanded_url": "https://x.com/T8O9K6Y4O/status/1996178829296173082/video/1",
+              "media_key": "13_1996178767719645184",
+              "start": 9,
+              "url": "https://t.co/PeGKDcnlhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996178829296173082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 12174,
+          "like_count": 219,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你叫我小姑娘 https://t.co/PeGKDcnlhq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/🚪52/88/188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1995591006411186236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 261,
+          "like_count": 40733,
+          "listed_count": 3,
+          "media_count": 405,
+          "tweet_count": 11653
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "🇯🇵東京在住｜🌊冲浪乐子人｜自由主义｜日本語勉強中｜東雪蓮推し｜女装爱好者｜舞萌痴",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/3nPaPIv",
+                "end": 23,
+                "expanded_url": "https://b23.tv/3nPaPIv",
+                "start": 0,
+                "url": "https://t.co/WHM5vAWoaJ"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "Toshima-ku, Tokyo",
+        "name": "抽象イェーガー",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996296469574488064/gveR7_YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8897,
+          "following_count": 684,
+          "like_count": 1120,
+          "listed_count": 38,
+          "media_count": 612,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/WHM5vAWoaJ",
+        "username": "T8O9K6Y4O",
+        "verified": false
+      }
+    ]
+  }
+}

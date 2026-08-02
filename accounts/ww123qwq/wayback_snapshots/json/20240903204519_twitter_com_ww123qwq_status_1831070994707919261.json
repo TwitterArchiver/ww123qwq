@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1831070994707919261",
+    "created_at": "2024-09-03T20:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T21:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831070994707919261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747138924450029568",
+          "start": 3,
+          "username": "od_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831070994707919261",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830854414422229200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @od_wiki: 你以为进厂、当服务员、做了些底层的工作是过渡，但其实这就是你一辈子的命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1831070994707919261",
+        "created_at": "2024-09-03T20:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T21:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831070994707919261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747138924450029568",
+              "start": 3,
+              "username": "od_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831070994707919261",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830854414422229200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @od_wiki: 你以为进厂、当服务员、做了些底层的工作是过渡，但其实这就是你一辈子的命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747138924450029568",
+        "conversation_id": "1830854414422229200",
+        "created_at": "2024-09-03T06:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T07:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830854414422229200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830854414422229200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7169,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "你以为进厂、当服务员、做了些底层的工作是过渡，但其实这就是你一辈子的命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 111,
+          "like_count": 40201,
+          "listed_count": 0,
+          "tweet_count": 10273
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "精品绅士游戏：https://t.co/OXiOIO9QLM\n个人博客：https://t.co/jzBbyyNnJF\n赌狗俱乐部：https://t.co/VGq4FK04Cv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "58game.xyz",
+                "end": 30,
+                "expanded_url": "https://58game.xyz/",
+                "start": 7,
+                "url": "https://t.co/OXiOIO9QLM"
+              },
+              {
+                "display_url": "hiv.icu",
+                "end": 59,
+                "expanded_url": "https://hiv.icu/",
+                "start": 36,
+                "url": "https://t.co/jzBbyyNnJF"
+              },
+              {
+                "display_url": "t.me/dugoujulebu",
+                "end": 89,
+                "expanded_url": "https://t.me/dugoujulebu",
+                "start": 66,
+                "url": "https://t.co/VGq4FK04Cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "✟°ʚ胖猫ɞ°✟",
+        "pinned_tweet_id": "1825493982753017955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9748,
+          "following_count": 5253,
+          "like_count": 4742,
+          "listed_count": 9,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

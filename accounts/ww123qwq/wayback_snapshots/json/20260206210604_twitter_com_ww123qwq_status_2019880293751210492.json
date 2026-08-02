@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2019822016925499857",
+    "created_at": "2026-02-06T21:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T22:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019880293751210492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912916776519954432",
+          "start": 0,
+          "username": "liu_lu43456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019880293751210492",
+    "in_reply_to_user_id": "1912916776519954432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019822016925499857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_lu43456 那就很爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2019822016925499857",
+        "created_at": "2026-02-06T21:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T22:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019880293751210492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912916776519954432",
+              "start": 0,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019880293751210492",
+        "in_reply_to_user_id": "1912916776519954432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019822016925499857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_lu43456 那就很爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912916776519954432",
+        "conversation_id": "2019822016925499857",
+        "created_at": "2026-02-06T17:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019822016925499857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019822016925499857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的几乎每天都在药效中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 263,
+          "like_count": 41392,
+          "listed_count": 5,
+          "media_count": 585,
+          "tweet_count": 12211
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/MtX🏳️‍⚧️/给点钱钱给我钱/平等歧视所有人/禁止政治讨论吵架/✟昇天✟平易近人/当我好友吧💗/聊天消失/难主动/行星小鹿，游荡宇宙/",
+        "id": "1912916776519954432",
+        "location": "石家庄市",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "2010378465535738107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009568491171610625/R3Z2flJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 146,
+          "like_count": 402,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 2003
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

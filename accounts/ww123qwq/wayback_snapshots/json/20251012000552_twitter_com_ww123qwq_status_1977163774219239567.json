@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976924251698741251"
+      ],
+      "media_source_tweet_id": [
+        "1976924257210056719"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1977163774219239567",
+    "created_at": "2025-10-12T00:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T01:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977163774219239567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1905470786951073792",
+          "start": 3,
+          "username": "ODhakase"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VIhTHIbqgz",
+          "end": 52,
+          "expanded_url": "https://x.com/ODhakase/status/1976924257210056719/photo/1",
+          "media_key": "3_1976924251698741251",
+          "start": 29,
+          "url": "https://t.co/VIhTHIbqgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977163774219239567",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976924257210056719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ODhakase: 市販薬(OTC) tier表 https://t.co/VIhTHIbqgz"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "市販薬のtier表。\n基準…\nA:よく選択されるが、Sに知名度や利便性で劣る。\nB:選択されるが、SやAの代用もしくは副作用が強く出る。\nC:好き好んで選択されない、または用いられても限定的である。\nD:選択する意味がない、または誤った選択である。Dを選択する者は一度成分をよく見直してから買った方が良い。",
+        "height": 1656,
+        "media_key": "3_1976924251698741251",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G29yIfpbwAMuacP.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976924251698741251"
+          ],
+          "media_source_tweet_id": [
+            "1976924257210056719"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977163774219239567",
+        "created_at": "2025-10-12T00:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T01:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977163774219239567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1905470786951073792",
+              "start": 3,
+              "username": "ODhakase"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIhTHIbqgz",
+              "end": 52,
+              "expanded_url": "https://x.com/ODhakase/status/1976924257210056719/photo/1",
+              "media_key": "3_1976924251698741251",
+              "start": 29,
+              "url": "https://t.co/VIhTHIbqgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977163774219239567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976924257210056719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ODhakase: 市販薬(OTC) tier表 https://t.co/VIhTHIbqgz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976924251698741251"
+          ]
+        },
+        "author_id": "1905470786951073792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976924257210056719",
+        "created_at": "2025-10-11T08:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976924257210056719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VIhTHIbqgz",
+              "end": 38,
+              "expanded_url": "https://x.com/ODhakase/status/1976924257210056719/photo/1",
+              "media_key": "3_1976924251698741251",
+              "start": 15,
+              "url": "https://t.co/VIhTHIbqgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976924257210056719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 314,
+          "impression_count": 27959,
+          "like_count": 1340,
+          "quote_count": 51,
+          "reply_count": 10,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "市販薬(OTC) tier表 https://t.co/VIhTHIbqgz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 205,
+          "like_count": 39858,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 10684
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T04:03:52.000Z",
+        "description": "ODや精神疾患についての知識をばら撒くゾイ！DMにて質問も受付中じゃ！(質問が採用されたらネタ画像にするが、いいかのう？) #0Dハカセの質問コーナー 【※このアカウントは複数人で運営しています 【@remBZD404 @nyan_nok @yu_ri_anata 】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 62,
+                "tag": "0Dハカセの質問コーナー"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "remBZD404"
+              },
+              {
+                "end": 119,
+                "start": 110,
+                "username": "nyan_nok"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "yu_ri_anata"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qr.paypay.ne.jp/p2p01_UqpnZSA6…",
+                "end": 23,
+                "expanded_url": "https://qr.paypay.ne.jp/p2p01_UqpnZSA6OaNTU6PK",
+                "start": 0,
+                "url": "https://t.co/v2k8mRPdf9"
+              }
+            ]
+          }
+        },
+        "id": "1905470786951073792",
+        "location": "投げ銭するとひなねこ氏が太ります。",
+        "name": "オーバー・D・ハカセV4.0",
+        "pinned_tweet_id": "1971511590613856365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976771552965541897/uGOHOG4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 138,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/v2k8mRPdf9",
+        "username": "ODhakase",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882689544199254016"
+      ],
+      "media_source_tweet_id": [
+        "1882689547643072524"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1882692967296913517",
+    "created_at": "2025-01-24T07:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T08:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882692967296913517"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "新头像"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794154221194932224",
+          "start": 3,
+          "username": "NagiVictoria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d7djwSub4I",
+          "end": 46,
+          "expanded_url": "https://x.com/NagiVictoria/status/1882689547643072524/photo/1",
+          "media_key": "3_1882689544199254016",
+          "start": 23,
+          "url": "https://t.co/d7djwSub4I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882692967296913517",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882689547643072524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NagiVictoria: #新头像 https://t.co/d7djwSub4I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1882689544199254016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiCoKmBWsAARckh.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882689544199254016"
+          ],
+          "media_source_tweet_id": [
+            "1882689547643072524"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1882692967296913517",
+        "created_at": "2025-01-24T07:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T08:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882692967296913517"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "新头像"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794154221194932224",
+              "start": 3,
+              "username": "NagiVictoria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7djwSub4I",
+              "end": 46,
+              "expanded_url": "https://x.com/NagiVictoria/status/1882689547643072524/photo/1",
+              "media_key": "3_1882689544199254016",
+              "start": 23,
+              "url": "https://t.co/d7djwSub4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882692967296913517",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882689547643072524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NagiVictoria: #新头像 https://t.co/d7djwSub4I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882689544199254016"
+          ]
+        },
+        "author_id": "1794154221194932224",
+        "conversation_id": "1882689547643072524",
+        "created_at": "2025-01-24T07:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T08:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882689547643072524"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7djwSub4I",
+              "end": 28,
+              "expanded_url": "https://x.com/NagiVictoria/status/1882689547643072524/photo/1",
+              "media_key": "3_1882689544199254016",
+              "start": 5,
+              "url": "https://t.co/d7djwSub4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882689547643072524",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/d7djwSub4I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，🚪88",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈冰棍喵🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 146,
+          "like_count": 40050,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 10312
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "阅尽人生冷暖后 保有童心与对生活的热爱 做到包容 笃定 自然向美 我希望拥有这样的人生 爸爸@nekomakiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "nekomakiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "Nagi 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1877385462731468895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882689504978350080/iCWHUndQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1732,
+          "following_count": 721,
+          "like_count": 11226,
+          "listed_count": 5,
+          "media_count": 1383,
+          "tweet_count": 10610
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      }
+    ]
+  }
+}

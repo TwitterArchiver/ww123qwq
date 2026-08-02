@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2014797987525116243",
+    "created_at": "2026-01-23T20:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T21:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014798404409512322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767536822777999360",
+          "start": 0,
+          "username": "yami_yakutyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014798404409512322",
+    "in_reply_to_user_id": "1767536822777999360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014797987525116243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yami_yakutyu 可以用伊曲康唑，西柚汁效果一般"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2014797987525116243",
+        "created_at": "2026-01-23T20:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T21:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014798404409512322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767536822777999360",
+              "start": 0,
+              "username": "yami_yakutyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014798404409512322",
+        "in_reply_to_user_id": "1767536822777999360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014797987525116243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yami_yakutyu 可以用伊曲康唑，西柚汁效果一般"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767536822777999360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          }
+        ],
+        "conversation_id": "2014797987525116243",
+        "created_at": "2026-01-23T20:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T21:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014797987525116243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014797987525116243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥇8追加\n\nいつもはめんどくさいから水で飲むけど、やはりオレンジジュースで飲むと変な味がしなくて良い"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 260,
+          "like_count": 41009,
+          "listed_count": 5,
+          "media_count": 552,
+          "tweet_count": 12079
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T13:03:28.000Z",
+        "description": "0Dやめたくてもやめれない人。0D歴20年の老舗メンヘラ。トラウマ持ちで夜が怖い。減薬詐欺。🥇中毒。FRBご自由に。おしゃべりもお気軽にどうぞ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/kitty_yuria",
+                "end": 23,
+                "expanded_url": "https://note.com/kitty_yuria",
+                "start": 0,
+                "url": "https://t.co/eHg59CZrPl"
+              }
+            ]
+          }
+        },
+        "id": "1767536822777999360",
+        "location": "note良かったら読んでね🔰⬇️",
+        "name": "ゆりあ🐰💊❤️‍🩹",
+        "pinned_tweet_id": "1994100111568458047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982023978706169856/vOONxQad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 305,
+          "like_count": 14333,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 9675
+        },
+        "url": "https://t.co/eHg59CZrPl",
+        "username": "yami_yakutyu",
+        "verified": false
+      }
+    ]
+  }
+}

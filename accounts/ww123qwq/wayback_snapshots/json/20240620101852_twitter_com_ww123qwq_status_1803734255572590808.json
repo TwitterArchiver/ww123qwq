@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1803664747965108427",
+    "created_at": "2024-06-20T10:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T11:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803734255572590808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "ShimonaChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803734255572590808",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803664747965108427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShimonaChan 黄梅天是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1803664747965108427",
+        "created_at": "2024-06-20T10:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T11:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803734255572590808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "ShimonaChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803734255572590808",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803664747965108427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShimonaChan 黄梅天是这样的"
+      },
+      {
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "1803664747965108427",
+        "created_at": "2024-06-20T05:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T06:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803664747965108427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803664747965108427",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 345,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一会儿高温预警一会儿大风预警一会儿雷电预警\n你这天气咋回事儿？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 107,
+          "like_count": 40283,
+          "listed_count": 0,
+          "tweet_count": 10293
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "OMG Kawaii Shimona/ Do not use my oc for AI training! / overdose tweet💊OvO💊/ 程度不深的直觉系地雷/ 门槛50",
+        "id": "758296624875446272",
+        "location": "別看，看了會死",
+        "name": "Shimona@UyukiStudio",
+        "pinned_tweet_id": "1799438183098368369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802351615065911296/AveFXx80_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23564,
+          "following_count": 3359,
+          "like_count": 8875,
+          "listed_count": 33,
+          "tweet_count": 24585
+        },
+        "username": "ShimonaChan",
+        "verified": false
+      }
+    ]
+  }
+}

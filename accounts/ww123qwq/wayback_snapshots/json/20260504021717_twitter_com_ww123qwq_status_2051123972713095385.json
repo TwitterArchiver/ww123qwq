@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2051118296557068677",
+    "created_at": "2026-05-04T02:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T03:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051123972713095385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051123972713095385",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051121748863557663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 你看我推文，去找医生要就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2051118296557068677",
+        "created_at": "2026-05-04T02:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T03:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051123972713095385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051123972713095385",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051121748863557663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 你看我推文，去找医生要就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2051118296557068677",
+        "created_at": "2026-05-04T02:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T03:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051121748863557663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051121748863557663",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051120908220199197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 南方地区"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 276,
+          "like_count": 42503,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 12740
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "嗯就是pr戒断中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekuv",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekuv",
+                "start": 0,
+                "url": "https://t.co/N9ufw9zWMx"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "location": "问题咨询请进提问箱：",
+        "name": "马戏猫普瑞戒断号",
+        "pinned_tweet_id": "2047967882492187005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047525381545349120/HO-tdnCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 297,
+          "like_count": 3964,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/N9ufw9zWMx",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

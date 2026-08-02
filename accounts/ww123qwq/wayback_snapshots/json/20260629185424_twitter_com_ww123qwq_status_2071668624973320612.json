@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071425277088195000",
+    "created_at": "2026-06-29T18:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T19:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071668624973320612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1624393872037265413",
+          "start": 0,
+          "username": "K3ss1c"
+        },
+        {
+          "end": 14,
+          "id": "1476198137589268480",
+          "start": 8,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071668624973320612",
+    "in_reply_to_user_id": "1624393872037265413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071462544615907649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K3ss1c @N3kuv 弱阿片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071425277088195000",
+        "created_at": "2026-06-29T18:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T19:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071668624973320612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1624393872037265413",
+              "start": 0,
+              "username": "K3ss1c"
+            },
+            {
+              "end": 14,
+              "id": "1476198137589268480",
+              "start": 8,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071668624973320612",
+        "in_reply_to_user_id": "1624393872037265413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071462544615907649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K3ss1c @N3kuv 弱阿片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624393872037265413",
+        "conversation_id": "2071425277088195000",
+        "created_at": "2026-06-29T05:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071462544615907649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071462544615907649",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071425277088195000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 这是什么物质？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 285,
+          "like_count": 43331,
+          "listed_count": 4,
+          "media_count": 718,
+          "tweet_count": 13167
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "17年吉吉国入葬，溜冰/抬杠，有素质，我们的直播脚本，尊尼获嘉爱好者，滚木党，不是道栗党。",
+        "id": "1624393872037265413",
+        "name": "难以承受的奥氮平母猪增肥之重",
+        "pinned_tweet_id": "2071054595644895240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061213364785942529/Vq3wxXGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 869,
+          "like_count": 13291,
+          "listed_count": 3,
+          "media_count": 2765,
+          "tweet_count": 18228
+        },
+        "url": "",
+        "username": "K3ss1c",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "既往不咎/伴有精神病性症状的重度抑郁发作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekocaline",
+                "end": 23,
+                "expanded_url": "https://t.me/nekocaline",
+                "start": 0,
+                "url": "https://t.co/y3ZllgnZVb"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "分享4-keto-PCP不好体验",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071413772636520448/tA0W7oEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 517,
+          "like_count": 5551,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 436
+        },
+        "url": "https://t.co/y3ZllgnZVb",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

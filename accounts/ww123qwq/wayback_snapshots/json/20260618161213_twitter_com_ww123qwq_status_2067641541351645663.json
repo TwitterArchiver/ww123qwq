@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067174048061444096"
+      ],
+      "media_source_tweet_id": [
+        "2067215683147219175"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067641541351645663",
+    "created_at": "2026-06-18T16:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067641541351645663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1488165320355237893",
+          "start": 3,
+          "username": "inuwoartwork"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hj2A7aMG3O",
+          "end": 59,
+          "expanded_url": "https://x.com/inuwoartwork/status/2067215683147219175/photo/1",
+          "media_key": "3_2067174048061444096",
+          "start": 36,
+          "url": "https://t.co/hj2A7aMG3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067641541351645663",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067215683147219175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inuwoartwork: 描かせていただきました😻👻🤍ᩚ🩷ᩚ https://t.co/hj2A7aMG3O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067174048061444096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAT2Ceb0AA1Bh8.jpg",
+        "width": 1589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067174048061444096"
+          ],
+          "media_source_tweet_id": [
+            "2067215683147219175"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067641541351645663",
+        "created_at": "2026-06-18T16:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067641541351645663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1488165320355237893",
+              "start": 3,
+              "username": "inuwoartwork"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hj2A7aMG3O",
+              "end": 59,
+              "expanded_url": "https://x.com/inuwoartwork/status/2067215683147219175/photo/1",
+              "media_key": "3_2067174048061444096",
+              "start": 36,
+              "url": "https://t.co/hj2A7aMG3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067641541351645663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067215683147219175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inuwoartwork: 描かせていただきました😻👻🤍ᩚ🩷ᩚ https://t.co/hj2A7aMG3O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067174048061444096"
+          ]
+        },
+        "author_id": "1488165320355237893",
+        "conversation_id": "2067215683147219175",
+        "created_at": "2026-06-17T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067215683147219175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hj2A7aMG3O",
+              "end": 41,
+              "expanded_url": "https://x.com/inuwoartwork/status/2067215683147219175/photo/1",
+              "media_key": "3_2067174048061444096",
+              "start": 18,
+              "url": "https://t.co/hj2A7aMG3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067215683147219175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 29754,
+          "like_count": 3322,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "描かせていただきました😻👻🤍ᩚ🩷ᩚ https://t.co/hj2A7aMG3O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 271,
+          "like_count": 42817,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12961
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T15:00:49.000Z",
+        "description": "柴呉 狗ヲ。Shibakure Inuwo/フリーランスのイラストレーターです/お仕事募集中です / ✉️→https://t.co/94VRpJUYCV / FA→#狗ヲの餌入れ /Skeb→https://t.co/scfypYKTXa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 83,
+                "tag": "狗ヲの餌入れ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shibakureinuwo.of-lapixel.com/contact",
+                "end": 77,
+                "expanded_url": "https://shibakureinuwo.of-lapixel.com/contact",
+                "start": 54,
+                "url": "https://t.co/94VRpJUYCV"
+              },
+              {
+                "display_url": "skeb.jp/@inuwoartwork",
+                "end": 120,
+                "expanded_url": "http://skeb.jp/@inuwoartwork",
+                "start": 97,
+                "url": "https://t.co/scfypYKTXa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shibakureinuwo.of-lapixel.com",
+                "end": 23,
+                "expanded_url": "https://shibakureinuwo.of-lapixel.com/",
+                "start": 0,
+                "url": "https://t.co/zZDkwD4TM7"
+              }
+            ]
+          }
+        },
+        "id": "1488165320355237893",
+        "location": "AI学習禁止",
+        "name": "狗ヲ",
+        "pinned_tweet_id": "2049968484231348444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564228912627871744/SNmLRsHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73735,
+          "following_count": 486,
+          "like_count": 2372,
+          "listed_count": 539,
+          "media_count": 622,
+          "tweet_count": 4896
+        },
+        "url": "https://t.co/zZDkwD4TM7",
+        "username": "inuwoartwork",
+        "verified": false
+      }
+    ]
+  }
+}

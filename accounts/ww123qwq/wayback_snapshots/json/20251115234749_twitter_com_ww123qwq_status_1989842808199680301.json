@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989478462223237120"
+      ],
+      "media_source_tweet_id": [
+        "1989478473422008521"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1989842808199680301",
+    "created_at": "2025-11-15T23:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T00:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989842808199680301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963359786717863936",
+          "start": 3,
+          "username": "hime_Ux_xUo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gr6V7UCtSQ",
+          "end": 56,
+          "expanded_url": "https://x.com/hime_Ux_xUo/status/1989478473422008521/photo/1",
+          "media_key": "3_1989478462223237120",
+          "start": 33,
+          "url": "https://t.co/Gr6V7UCtSQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989842808199680301",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989478473422008521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hime_Ux_xUo: 見られたらクソ気まずい引き出し https://t.co/Gr6V7UCtSQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1989478462223237120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wMHuUbQAA2hHR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989478462223237120"
+          ],
+          "media_source_tweet_id": [
+            "1989478473422008521"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1989842808199680301",
+        "created_at": "2025-11-15T23:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T00:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989842808199680301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963359786717863936",
+              "start": 3,
+              "username": "hime_Ux_xUo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gr6V7UCtSQ",
+              "end": 56,
+              "expanded_url": "https://x.com/hime_Ux_xUo/status/1989478473422008521/photo/1",
+              "media_key": "3_1989478462223237120",
+              "start": 33,
+              "url": "https://t.co/Gr6V7UCtSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989842808199680301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989478473422008521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hime_Ux_xUo: 見られたらクソ気まずい引き出し https://t.co/Gr6V7UCtSQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989478462223237120"
+          ]
+        },
+        "author_id": "1963359786717863936",
+        "conversation_id": "1989478473422008521",
+        "created_at": "2025-11-14T23:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T00:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989478473422008521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gr6V7UCtSQ",
+              "end": 39,
+              "expanded_url": "https://x.com/hime_Ux_xUo/status/1989478473422008521/photo/1",
+              "media_key": "3_1989478462223237120",
+              "start": 16,
+              "url": "https://t.co/Gr6V7UCtSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989478473422008521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 9424,
+          "like_count": 864,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "見られたらクソ気まずい引き出し https://t.co/Gr6V7UCtSQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "躯体化/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴休学圆角攒钱中/地雷系/欢迎扩列加好友w唯一电报  非本，注意防骗\n🚪88/188/520/1314，女生免费解锁色图个人群欢迎来玩1051287723置顶tg非本人推广自辨，出原味，接线下，接露出，接任务，找金主上海，比较负能\n备用号@QwqQwe88396",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 246,
+          "like_count": 40624,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 11416
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T21:53:56.000Z",
+        "description": "05￤不安神経症￤ADHD￤APD 医療系学生 INFJ 5w6 △458 EII   全てフィクションです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/c8h10n4o2_12",
+                "end": 23,
+                "expanded_url": "https://lit.link/c8h10n4o2_12",
+                "start": 0,
+                "url": "https://t.co/P8lgPgJs3H"
+              }
+            ]
+          }
+        },
+        "id": "1963359786717863936",
+        "location": "  マシュマロはこちら▶︎",
+        "name": "姫宮꒷꒦",
+        "pinned_tweet_id": "1981125843616485803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981121551190593536/t8fvMSS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 305,
+          "like_count": 1389,
+          "listed_count": 6,
+          "media_count": 77,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/P8lgPgJs3H",
+        "username": "hime_Ux_xUo",
+        "verified": false
+      }
+    ]
+  }
+}

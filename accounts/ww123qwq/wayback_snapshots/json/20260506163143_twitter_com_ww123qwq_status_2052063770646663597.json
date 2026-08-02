@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2051978144673063257",
+    "created_at": "2026-05-06T16:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052063770646663597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1941398737840111623",
+          "start": 0,
+          "username": "loooolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052063770646663597",
+    "in_reply_to_user_id": "1941398737840111623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051978144673063257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loooolzaozimin 乌苏家一直都这样嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29928,
+        "height": 960,
+        "media_key": "13_2051978062473158658",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051978062473158658/img/0m132rAdLh_LC_Br.jpg",
+        "public_metrics": {
+          "view_count": 8909
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051978062473158658/vid/avc1/320x426/FZEVvJc3OQp0S5wz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051978062473158658/vid/avc1/480x640/tVRjXhuvKEMmSmCn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051978062473158658/vid/avc1/720x960/5fI2YtEGO67bJC4b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051978062473158658/pl/PIgvuvP9HG8KJ6PK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2051978144673063257",
+        "created_at": "2026-05-06T16:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052063770646663597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1941398737840111623",
+              "start": 0,
+              "username": "loooolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052063770646663597",
+        "in_reply_to_user_id": "1941398737840111623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051978144673063257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loooolzaozimin 乌苏家一直都这样嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051978062473158658"
+          ]
+        },
+        "author_id": "1941398737840111623",
+        "conversation_id": "2051978144673063257",
+        "created_at": "2026-05-06T10:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T11:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051978144673063257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNz9ntgiJW",
+              "end": 23,
+              "expanded_url": "https://x.com/loooolzaozimin/status/2051978144673063257/video/1",
+              "media_key": "13_2051978062473158658",
+              "start": 0,
+              "url": "https://t.co/iNz9ntgiJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051978144673063257",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 6670,
+          "like_count": 446,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iNz9ntgiJW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 279,
+          "like_count": 42620,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12786
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T07:28:40.000Z",
+        "description": "",
+        "id": "1941398737840111623",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "2032329380845011431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042573347343712256/Cdo-ax9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8513,
+          "following_count": 26,
+          "like_count": 157,
+          "listed_count": 7,
+          "media_count": 17,
+          "tweet_count": 44
+        },
+        "username": "loooolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

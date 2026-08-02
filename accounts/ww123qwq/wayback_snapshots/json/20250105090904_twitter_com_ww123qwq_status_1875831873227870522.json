@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875505302193500164"
+      ],
+      "media_source_tweet_id": [
+        "1875505304366150021"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1875831873227870522",
+    "created_at": "2025-01-05T09:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T10:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875831873227870522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990587604146925568",
+          "start": 3,
+          "username": "Nakkar7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UiJF4juaPi",
+          "end": 43,
+          "expanded_url": "https://x.com/Nakkar7/status/1875505304366150021/photo/1",
+          "media_key": "3_1875505302193500164",
+          "start": 20,
+          "url": "https://t.co/UiJF4juaPi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875831873227870522",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1019
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875505304366150021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nakkar7: 届かない！！ https://t.co/UiJF4juaPi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1875505302193500164",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgciIq-a8AQbHwB.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875505302193500164"
+          ],
+          "media_source_tweet_id": [
+            "1875505304366150021"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1875831873227870522",
+        "created_at": "2025-01-05T09:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T10:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875831873227870522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990587604146925568",
+              "start": 3,
+              "username": "Nakkar7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UiJF4juaPi",
+              "end": 43,
+              "expanded_url": "https://x.com/Nakkar7/status/1875505304366150021/photo/1",
+              "media_key": "3_1875505302193500164",
+              "start": 20,
+              "url": "https://t.co/UiJF4juaPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875831873227870522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1019
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875505304366150021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nakkar7: 届かない！！ https://t.co/UiJF4juaPi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875505302193500164"
+          ]
+        },
+        "author_id": "990587604146925568",
+        "conversation_id": "1875505304366150021",
+        "created_at": "2025-01-04T11:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T12:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875505304366150021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UiJF4juaPi",
+              "end": 30,
+              "expanded_url": "https://x.com/Nakkar7/status/1875505304366150021/photo/1",
+              "media_key": "3_1875505302193500164",
+              "start": 7,
+              "url": "https://t.co/UiJF4juaPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875505304366150021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 715,
+          "impression_count": 132934,
+          "like_count": 10486,
+          "quote_count": 24,
+          "reply_count": 22,
+          "retweet_count": 1019
+        },
+        "reply_settings": "everyone",
+        "text": "届かない！！ https://t.co/UiJF4juaPi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 122,
+          "like_count": 39588,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 10114
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-29T13:44:23.000Z",
+        "description": "かわいいイラストレ〜タ〜\n┊FANBOX ➭ https://t.co/RBSSDVAKQD\n┊SHOP ➭ https://t.co/AAZW8Vxyje\n┊タグ ➭#かなめなかエゴサ用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 84,
+                "tag": "かなめなかエゴサ用"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nakkar7.fanbox.cc",
+                "end": 46,
+                "expanded_url": "http://nakkar7.fanbox.cc",
+                "start": 23,
+                "url": "https://t.co/RBSSDVAKQD"
+              },
+              {
+                "display_url": "shanshando.booth.pm",
+                "end": 78,
+                "expanded_url": "http://shanshando.booth.pm",
+                "start": 55,
+                "url": "https://t.co/AAZW8Vxyje"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Nakkar7",
+                "end": 23,
+                "expanded_url": "https://lit.link/Nakkar7",
+                "start": 0,
+                "url": "https://t.co/HcT4NaaKwI"
+              }
+            ]
+          }
+        },
+        "id": "990587604146925568",
+        "location": "ご連絡はHP記載のメールへお願いします　DMは見てないです",
+        "name": "かなめなか　1/19関西コミティア L-43",
+        "pinned_tweet_id": "1873941322530512922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872486743674638336/qoSbNIpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60749,
+          "following_count": 187,
+          "like_count": 15588,
+          "listed_count": 609,
+          "media_count": 1739,
+          "tweet_count": 27617
+        },
+        "url": "https://t.co/HcT4NaaKwI",
+        "username": "Nakkar7",
+        "verified": false
+      }
+    ]
+  }
+}

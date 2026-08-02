@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982764345135120384"
+      ],
+      "media_source_tweet_id": [
+        "1982764360566178158"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983102113170571465",
+    "created_at": "2025-10-28T09:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T10:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983102113170571465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796135976898895872",
+          "start": 3,
+          "username": "nwqllxq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pzIiuNJX5M",
+          "end": 57,
+          "expanded_url": "https://x.com/nwqllxq/status/1982764360566178158/photo/1",
+          "media_key": "3_1982764345135120384",
+          "start": 34,
+          "url": "https://t.co/pzIiuNJX5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983102113170571465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982764360566178158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nwqllxq: 172cm高身長の地雷系女子あり？なし？ https://t.co/pzIiuNJX5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1982764345135120384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QxqrEWwAA3g6U.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982764345135120384"
+          ],
+          "media_source_tweet_id": [
+            "1982764360566178158"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983102113170571465",
+        "created_at": "2025-10-28T09:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983102113170571465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796135976898895872",
+              "start": 3,
+              "username": "nwqllxq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzIiuNJX5M",
+              "end": 57,
+              "expanded_url": "https://x.com/nwqllxq/status/1982764360566178158/photo/1",
+              "media_key": "3_1982764345135120384",
+              "start": 34,
+              "url": "https://t.co/pzIiuNJX5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983102113170571465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982764360566178158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nwqllxq: 172cm高身長の地雷系女子あり？なし？ https://t.co/pzIiuNJX5M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982764345135120384"
+          ]
+        },
+        "author_id": "1796135976898895872",
+        "conversation_id": "1982764360566178158",
+        "created_at": "2025-10-27T11:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982764360566178158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzIiuNJX5M",
+              "end": 44,
+              "expanded_url": "https://x.com/nwqllxq/status/1982764360566178158/photo/1",
+              "media_key": "3_1982764345135120384",
+              "start": 21,
+              "url": "https://t.co/pzIiuNJX5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982764360566178158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 685,
+          "impression_count": 270699,
+          "like_count": 10757,
+          "quote_count": 38,
+          "reply_count": 187,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "172cm高身長の地雷系女子あり？なし？ https://t.co/pzIiuNJX5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 210,
+          "like_count": 40136,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 10784
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T11:06:15.000Z",
+        "description": "コスプレ┊︎身長172cm┊︎Twitch┊︎無断転載禁止┊︎ サブ垢@geraneki_ ┊︎ファンティア➡️ https://t.co/6ZQqL2a2UK ┊︎ お仕事のご依頼はこちらで→gerarin.info@gmail.com ┊︎ 各SNSは下記リンクから飛べます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "geraneki_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/530718",
+                "end": 80,
+                "expanded_url": "https://fantia.jp/fanclubs/530718",
+                "start": 57,
+                "url": "https://t.co/6ZQqL2a2UK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/gerarin",
+                "end": 23,
+                "expanded_url": "https://lit.link/gerarin",
+                "start": 0,
+                "url": "https://t.co/hB5XClJmHD"
+              }
+            ]
+          }
+        },
+        "id": "1796135976898895872",
+        "name": "げらりん",
+        "pinned_tweet_id": "1955952472612372692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874062000948731904/bnjGh3Wb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196914,
+          "following_count": 70,
+          "like_count": 577,
+          "listed_count": 548,
+          "media_count": 246,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/hB5XClJmHD",
+        "username": "nwqllxq",
+        "verified": true
+      }
+    ]
+  }
+}

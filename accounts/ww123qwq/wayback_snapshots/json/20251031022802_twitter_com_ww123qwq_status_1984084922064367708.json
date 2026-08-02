@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1984084922064367708",
+    "created_at": "2025-10-31T02:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T03:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984084922064367708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1958331489629913088",
+          "start": 3,
+          "username": "YaeGakiHaruki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984084922064367708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983942367825547386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YaeGakiHaruki: 假如你问我被鲸鱼吃掉了该怎么办？答案是没办法～只能在鲸鱼紧致且充满压力的胃袋里面悲哀的蠕动！只能通过唯一的排气孔获得珍贵的氧气可怜的生存！在幽暗潮湿的胃袋之内如同一块无法动弹的肉块一直祈祷下去是你唯一能做的事！这就是被鲸鱼吃掉的下场！ ht…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984084922064367708].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984084922064367708",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984084922064367708"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74266,
+        "height": 720,
+        "media_key": "7_1983942222526681089",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983942222526681089/pu/img/JkvfQSVw9fxq_-gy.jpg",
+        "public_metrics": {
+          "view_count": 827
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983942222526681089/pu/vid/avc1/480x270/FyrHNRNu7IUMf9oi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983942222526681089/pu/vid/avc1/640x360/OQFaeQYbKcZFEhMT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983942222526681089/pu/vid/avc1/1280x720/pHdCVwWDB0trbYxm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983942222526681089/pu/pl/yNLqfWYjD2uboN7t.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983942222526681089"
+          ]
+        },
+        "author_id": "1958331489629913088",
+        "conversation_id": "1983942367825547386",
+        "created_at": "2025-10-30T17:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T18:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983942367825547386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3IHOMznmkE",
+              "end": 141,
+              "expanded_url": "https://x.com/YaeGakiHaruki/status/1983942367825547386/video/1",
+              "media_key": "7_1983942222526681089",
+              "start": 118,
+              "url": "https://t.co/3IHOMznmkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983942367825547386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 1702,
+          "like_count": 166,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "假如你问我被鲸鱼吃掉了该怎么办？答案是没办法～只能在鲸鱼紧致且充满压力的胃袋里面悲哀的蠕动！只能通过唯一的排气孔获得珍贵的氧气可怜的生存！在幽暗潮湿的胃袋之内如同一块无法动弹的肉块一直祈祷下去是你唯一能做的事！这就是被鲸鱼吃掉的下场！ https://t.co/3IHOMznmkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1060531885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 216,
+          "like_count": 40216,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 10865
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T00:53:16.000Z",
+        "description": "这里是某人的小号啦！大号清水太久了不太好发涩涩了，基本上偏涩涩的内容之后就往这边搬啦～知道的不要声张，不知道的就当新号看就好啦～谢谢大家喜欢喽～",
+        "id": "1958331489629913088",
+        "name": "八重垣春树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958337198606213120/rro15Pkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5409,
+          "following_count": 22,
+          "like_count": 99,
+          "listed_count": 23,
+          "media_count": 26,
+          "tweet_count": 33
+        },
+        "username": "YaeGakiHaruki",
+        "verified": false
+      }
+    ]
+  }
+}

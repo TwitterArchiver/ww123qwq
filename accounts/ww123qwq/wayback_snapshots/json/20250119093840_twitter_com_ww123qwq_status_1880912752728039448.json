@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1880658027176775770",
+    "created_at": "2025-01-19T09:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T10:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880912752728039448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479730386431545346",
+          "start": 0,
+          "username": "YuKi52037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880912752728039448",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880658027176775770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuKi52037 寒涟漪:我也干了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1880658027176775770",
+        "created_at": "2025-01-19T09:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880912752728039448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi52037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880912752728039448",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880658027176775770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi52037 寒涟漪:我也干了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1880658027176775770",
+        "created_at": "2025-01-18T16:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T17:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880658027176775770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/keyemail/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/keyemail/status/1880227117587394706",
+              "start": 12,
+              "url": "https://t.co/ueqLbUeKzL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880658027176775770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1411,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880227117587394706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "寒涟漪你这么干？诱奸？ https://t.co/ueqLbUeKzL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈冰棍喵🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880903322045214725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 142,
+          "like_count": 39969,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 10293
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘/🚪28-58-108/及腰长发/二次元/美食/可爱的事物/同类互fo/最爱的人@xiaoyu_lanjiang/妹妹@misakixyg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "xiaoyu_lanjiang"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "misakixyg"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京",
+        "name": "千雪🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1879767470371926215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863733519547240450/0GkPaYQ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8576,
+          "following_count": 1013,
+          "like_count": 14328,
+          "listed_count": 14,
+          "media_count": 179,
+          "tweet_count": 1413
+        },
+        "username": "YuKi52037",
+        "verified": false
+      }
+    ]
+  }
+}

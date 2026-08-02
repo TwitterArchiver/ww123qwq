@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1890776920494608678",
+    "created_at": "2025-02-15T16:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T17:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890798838547468288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545787268501106688",
+          "start": 0,
+          "username": "zzzChumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890798838547468288",
+    "in_reply_to_user_id": "1545787268501106688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890776920494608678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzChumo 鲜虾补佳乐面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1890776920494608678",
+        "created_at": "2025-02-15T16:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T17:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890798838547468288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545787268501106688",
+              "start": 0,
+              "username": "zzzChumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890798838547468288",
+        "in_reply_to_user_id": "1545787268501106688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890776920494608678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzChumo 鲜虾补佳乐面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890776880032415744"
+          ]
+        },
+        "author_id": "1545787268501106688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1890776920494608678",
+        "created_at": "2025-02-15T14:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T15:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890776920494608678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SArv8kqrHC",
+              "end": 47,
+              "expanded_url": "https://x.com/zzzChumo/status/1890776920494608678/photo/1",
+              "media_key": "3_1890776880032415744",
+              "start": 24,
+              "url": "https://t.co/SArv8kqrHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890776920494608678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑心厂家就放那么点鱼板\n没关系 我自己可以加（ https://t.co/SArv8kqrHC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左转安",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 164,
+          "like_count": 40109,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 10478
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T15:09:53.000Z",
+        "description": "有双相会发癫/中 Eng/版权头图非请勿用/术术人/人称代词随意 但更倾向she her/三代目/逃生舱@whatisnickidk/姐姐@Shenyuebanran/情商为0不会说话/智商为0放弃思考/机佬/热衷收集各种电子垃圾/四分之一个技术宅/错字受/沉迷刷推无法自拔/这个人懒死了，什么都没写 (⁠°∀⁠。)（？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "whatisnickidk"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "Shenyuebanran"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzcm.fun",
+                "end": 23,
+                "expanded_url": "http://zzcm.fun",
+                "start": 0,
+                "url": "https://t.co/W0n01joHsj"
+              }
+            ]
+          }
+        },
+        "id": "1545787268501106688",
+        "location": "在家里蹲着",
+        "name": "初墨也是墨初不是中初🍥🧊🍔🍟🍜🍣🍦🍕🍧🍡🍑🍉🍍🍛🧁🍪🍩",
+        "pinned_tweet_id": "1880632094151569895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886333649223868416/eRpWKwqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 824,
+          "like_count": 58756,
+          "listed_count": 3,
+          "media_count": 519,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/W0n01joHsj",
+        "username": "zzzChumo",
+        "verified": true
+      }
+    ]
+  }
+}

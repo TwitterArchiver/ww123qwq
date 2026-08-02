@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012908232923062273"
+      ],
+      "media_source_tweet_id": [
+        "2021501964962455869"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2021874689384358271",
+    "created_at": "2026-02-12T09:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T10:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021874689384358271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771867187512594432",
+          "start": 3,
+          "username": "mnhr_hkmn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R1Dbb7XvlE",
+          "end": 38,
+          "expanded_url": "https://x.com/mnhr_hkmn/status/2021501964962455869/photo/1",
+          "media_key": "3_2012908232923062273",
+          "start": 15,
+          "url": "https://t.co/R1Dbb7XvlE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021874689384358271",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021501964962455869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnhr_hkmn: https://t.co/R1Dbb7XvlE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2012908232923062273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9JX3zWoAEu4Qb.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012908232923062273"
+          ],
+          "media_source_tweet_id": [
+            "2021501964962455869"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2021874689384358271",
+        "created_at": "2026-02-12T09:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021874689384358271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771867187512594432",
+              "start": 3,
+              "username": "mnhr_hkmn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1Dbb7XvlE",
+              "end": 38,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2021501964962455869/photo/1",
+              "media_key": "3_2012908232923062273",
+              "start": 15,
+              "url": "https://t.co/R1Dbb7XvlE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021874689384358271",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021501964962455869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnhr_hkmn: https://t.co/R1Dbb7XvlE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012908232923062273"
+          ]
+        },
+        "author_id": "1771867187512594432",
+        "conversation_id": "2021501964962455869",
+        "created_at": "2026-02-11T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021501964962455869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1Dbb7XvlE",
+              "end": 23,
+              "expanded_url": "https://x.com/mnhr_hkmn/status/2021501964962455869/photo/1",
+              "media_key": "3_2012908232923062273",
+              "start": 0,
+              "url": "https://t.co/R1Dbb7XvlE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021501964962455869",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1688,
+          "like_count": 164,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/R1Dbb7XvlE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 263,
+          "like_count": 41581,
+          "listed_count": 5,
+          "media_count": 601,
+          "tweet_count": 12292
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T11:51:07.000Z",
+        "description": "※オ一バ一ド一ズを推奨する目的はありません Discord鯖:https://t.co/AJVou8RYaqサブ垢@ODdaisukinTV 自我垢@the_last09s コラ画像のリクエスト、提供受け付けてます🦪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "ODdaisukinTV"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "the_last09s"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Tyfp7DryE2",
+                "end": 54,
+                "expanded_url": "https://discord.gg/Tyfp7DryE2",
+                "start": 31,
+                "url": "https://t.co/AJVou8RYaq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/132701830…",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/132701830?ref=nicoiphone_other",
+                "start": 0,
+                "url": "https://t.co/fH7zisbSep"
+              }
+            ]
+          }
+        },
+        "id": "1771867187512594432",
+        "location": "投稿してる画像はほぼコラ画像、改変動画です。",
+        "name": "オ一バ一ド一ズキン",
+        "pinned_tweet_id": "1885310578090230113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998670028359766016/b2oikpSk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4407,
+          "following_count": 2794,
+          "like_count": 584,
+          "listed_count": 8,
+          "media_count": 744,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/fH7zisbSep",
+        "username": "mnhr_hkmn",
+        "verified": false
+      }
+    ]
+  }
+}

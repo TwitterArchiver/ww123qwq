@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1884397367748874310",
+    "created_at": "2025-01-29T11:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T12:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884559830926680528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "59ryq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884559830926680528",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884397367748874310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@59ryq 好好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1884397367748874310",
+        "created_at": "2025-01-29T11:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T12:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884559830926680528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "59ryq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884559830926680528",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884397367748874310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@59ryq 好好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884397365143928832"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1884397367748874310",
+        "created_at": "2025-01-29T00:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T01:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884397367748874310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xccSsfM2xF",
+              "end": 31,
+              "expanded_url": "https://x.com/59ryq/status/1884397367748874310/photo/1",
+              "media_key": "3_1884397365143928832",
+              "start": 8,
+              "url": "https://t.co/xccSsfM2xF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884397367748874310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1675,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "追星成功*18 https://t.co/xccSsfM2xF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 160,
+          "like_count": 40074,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 10389
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "「故事要从这里开始说起」｜Cheers for the faith ｜TJ Sports｜PUBGM Pro Player｜Esports Analyst｜Language:CN/EN/JP/KR｜Xayar @xlj070423 ｜好妹妹：@yizhikapaiqaq @iranon_lcf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xlj070423"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 147,
+                "start": 136,
+                "username": "iranon_lcf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "水上公园",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16448,
+          "following_count": 4385,
+          "like_count": 168424,
+          "listed_count": 69,
+          "media_count": 4402,
+          "tweet_count": 20670
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "59ryq",
+        "verified": true
+      }
+    ]
+  }
+}

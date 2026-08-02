@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047000680762859520"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2047000683795366140",
+    "created_at": "2026-04-22T17:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047000683795366140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/66UiSoD4ox",
+          "end": 83,
+          "expanded_url": "https://x.com/ww123qwq/status/2047000683795366140/photo/1",
+          "media_key": "3_2047000680762859520",
+          "start": 60,
+          "url": "https://t.co/66UiSoD4ox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047000683795366140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你有精神病那就太好了如果你自卑害怕周围所有人那就太好了如果你仇恨整个世界那就太好了如果你只依赖我那就太好了我好想你 https://t.co/66UiSoD4ox"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_2047000680762859520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhoRg_aYAAz0-8.jpg",
+        "width": 1369
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047000680762859520"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2047000683795366140",
+        "created_at": "2026-04-22T17:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047000683795366140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66UiSoD4ox",
+              "end": 83,
+              "expanded_url": "https://x.com/ww123qwq/status/2047000683795366140/photo/1",
+              "media_key": "3_2047000680762859520",
+              "start": 60,
+              "url": "https://t.co/66UiSoD4ox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047000683795366140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你有精神病那就太好了如果你自卑害怕周围所有人那就太好了如果你仇恨整个世界那就太好了如果你只依赖我那就太好了我好想你 https://t.co/66UiSoD4ox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 278,
+          "like_count": 42205,
+          "listed_count": 4,
+          "media_count": 680,
+          "tweet_count": 12652
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

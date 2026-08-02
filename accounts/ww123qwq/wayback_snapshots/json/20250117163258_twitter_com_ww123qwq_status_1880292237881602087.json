@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880080594669117440"
+      ],
+      "media_source_tweet_id": [
+        "1880080600968884540"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1880292237881602087",
+    "created_at": "2025-01-17T16:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T17:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880292237881602087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858186854526562304",
+          "start": 3,
+          "username": "meiyujijie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YhSgKRCPM8",
+          "end": 54,
+          "expanded_url": "https://x.com/meiyujijie/status/1880080600968884540/photo/1",
+          "media_key": "3_1880080594669117440",
+          "start": 31,
+          "url": "https://t.co/YhSgKRCPM8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880292237881602087",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880080600968884540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiyujijie: 吃不下女同的苦就要吃生活的苦 https://t.co/YhSgKRCPM8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1880292237881602087].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1880292237881602087",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1880292237881602087"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1880080594669117440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhdjVvpboAAHq_U.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880080594669117440"
+          ]
+        },
+        "author_id": "1858186854526562304",
+        "conversation_id": "1880080600968884540",
+        "created_at": "2025-01-17T02:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T03:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880080600968884540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhSgKRCPM8",
+              "end": 38,
+              "expanded_url": "https://x.com/meiyujijie/status/1880080600968884540/photo/1",
+              "media_key": "3_1880080594669117440",
+              "start": 15,
+              "url": "https://t.co/YhSgKRCPM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880080600968884540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 13056,
+          "like_count": 212,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "吃不下女同的苦就要吃生活的苦 https://t.co/YhSgKRCPM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈冰棍喵🍥🌶️🍆🍡🍢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 144,
+          "like_count": 39946,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 10286
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:34:14.000Z",
+        "description": "这就是何六诚，07mtf家长党 是一颗小仙人球",
+        "id": "1858186854526562304",
+        "name": "何六诚🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872109760369307648/im2B7nOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5549,
+          "following_count": 44,
+          "like_count": 715,
+          "listed_count": 16,
+          "media_count": 43,
+          "tweet_count": 202
+        },
+        "username": "meiyujijie",
+        "verified": false
+      }
+    ]
+  }
+}

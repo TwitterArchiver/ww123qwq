@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838594898691526658"
+      ],
+      "media_source_tweet_id": [
+        "1838594906442674254"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1838913269274419284",
+    "created_at": "2024-09-25T12:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T13:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838913269274419284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1816410792822259712",
+          "start": 3,
+          "username": "apppp0_01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yqj0yrhbud",
+          "end": 56,
+          "expanded_url": "https://twitter.com/apppp0_01/status/1838594906442674254/photo/1",
+          "media_key": "3_1838594898691526658",
+          "start": 33,
+          "url": "https://t.co/yqJ0yrhbud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838913269274419284",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 199
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838594906442674254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @apppp0_01: 陪我到最後好不好\n不要再把我丟下了 https://t.co/yqJ0yrhbud"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1838594898691526658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYQAUa5akAIh8F_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838594898691526658"
+          ],
+          "media_source_tweet_id": [
+            "1838594906442674254"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1838913269274419284",
+        "created_at": "2024-09-25T12:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T13:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838913269274419284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1816410792822259712",
+              "start": 3,
+              "username": "apppp0_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqj0yrhbud",
+              "end": 56,
+              "expanded_url": "https://twitter.com/apppp0_01/status/1838594906442674254/photo/1",
+              "media_key": "3_1838594898691526658",
+              "start": 33,
+              "url": "https://t.co/yqJ0yrhbud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838913269274419284",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838594906442674254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @apppp0_01: 陪我到最後好不好\n不要再把我丟下了 https://t.co/yqJ0yrhbud"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838594898691526658"
+          ]
+        },
+        "author_id": "1816410792822259712",
+        "conversation_id": "1838594906442674254",
+        "created_at": "2024-09-24T15:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T16:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838594906442674254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqj0yrhbud",
+              "end": 41,
+              "expanded_url": "https://twitter.com/apppp0_01/status/1838594906442674254/photo/1",
+              "media_key": "3_1838594898691526658",
+              "start": 18,
+              "url": "https://t.co/yqJ0yrhbud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838594906442674254",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 33701,
+          "like_count": 2670,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "陪我到最後好不好\n不要再把我丟下了 https://t.co/yqJ0yrhbud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 110,
+          "like_count": 40229,
+          "listed_count": 0,
+          "tweet_count": 10267
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T09:51:14.000Z",
+        "description": "散兵夢女/悲觀的樂觀主義者ヽ(=´▽`=)ﾉ喜歡聊天/👁️大家的推！！歡迎大家找我聊天聊地聊心事⸜(* ॑꒳ ॑* )⸝",
+        "id": "1816410792822259712",
+        "location": "童話世界的城堡",
+        "name": "ʚPPPPP醬ɞ",
+        "pinned_tweet_id": "1832008535254942148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831718749726240768/vDkuECVC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 103,
+          "like_count": 1342,
+          "listed_count": 0,
+          "tweet_count": 734
+        },
+        "username": "apppp0_01",
+        "verified": false
+      }
+    ]
+  }
+}

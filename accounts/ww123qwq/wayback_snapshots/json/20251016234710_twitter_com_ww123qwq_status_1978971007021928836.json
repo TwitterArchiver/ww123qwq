@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978644179661283328",
+        "3_1978644180223262720",
+        "3_1978644181414494208"
+      ],
+      "media_source_tweet_id": [
+        "1978644193921888662",
+        "1978644193921888662",
+        "1978644193921888662"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1978971007021928836",
+    "created_at": "2025-10-16T23:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T00:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978971007021928836"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 35,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 53,
+          "start": 45,
+          "tag": "cosplay"
+        },
+        {
+          "end": 60,
+          "start": 54,
+          "tag": "latex"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "752424953459408896",
+          "start": 3,
+          "username": "Mikumikumi0116"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pFJYsCTEry",
+          "end": 84,
+          "expanded_url": "https://x.com/Mikumikumi0116/status/1978644193921888662/photo/1",
+          "media_key": "3_1978644179661283328",
+          "start": 61,
+          "url": "https://t.co/pFJYsCTEry"
+        },
+        {
+          "display_url": "pic.x.com/pFJYsCTEry",
+          "end": 84,
+          "expanded_url": "https://x.com/Mikumikumi0116/status/1978644193921888662/photo/1",
+          "media_key": "3_1978644180223262720",
+          "start": 61,
+          "url": "https://t.co/pFJYsCTEry"
+        },
+        {
+          "display_url": "pic.x.com/pFJYsCTEry",
+          "end": 84,
+          "expanded_url": "https://x.com/Mikumikumi0116/status/1978644193921888662/photo/1",
+          "media_key": "3_1978644181414494208",
+          "start": 61,
+          "url": "https://t.co/pFJYsCTEry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978971007021928836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978644193921888662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mikumikumi0116: 穿胶炸街ing，坐一会歇歇\n\n#kigurumi #cosplay #latex https://t.co/pFJYsCTEry"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978644179661283328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3WOZema4AAWH3N.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978644180223262720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3WOZgsaAAA4BGH.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1978644181414494208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3WOZlIawAAaYMU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978644179661283328",
+            "3_1978644180223262720",
+            "3_1978644181414494208"
+          ],
+          "media_source_tweet_id": [
+            "1978644193921888662",
+            "1978644193921888662",
+            "1978644193921888662"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1978971007021928836",
+        "created_at": "2025-10-16T23:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T00:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978971007021928836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "cosplay"
+            },
+            {
+              "end": 60,
+              "start": 54,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "752424953459408896",
+              "start": 3,
+              "username": "Mikumikumi0116"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFJYsCTEry",
+              "end": 84,
+              "expanded_url": "https://x.com/Mikumikumi0116/status/1978644193921888662/photo/1",
+              "media_key": "3_1978644179661283328",
+              "start": 61,
+              "url": "https://t.co/pFJYsCTEry"
+            },
+            {
+              "display_url": "pic.x.com/pFJYsCTEry",
+              "end": 84,
+              "expanded_url": "https://x.com/Mikumikumi0116/status/1978644193921888662/photo/1",
+              "media_key": "3_1978644180223262720",
+              "start": 61,
+              "url": "https://t.co/pFJYsCTEry"
+            },
+            {
+              "display_url": "pic.x.com/pFJYsCTEry",
+              "end": 84,
+              "expanded_url": "https://x.com/Mikumikumi0116/status/1978644193921888662/photo/1",
+              "media_key": "3_1978644181414494208",
+              "start": 61,
+              "url": "https://t.co/pFJYsCTEry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978971007021928836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978644193921888662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mikumikumi0116: 穿胶炸街ing，坐一会歇歇\n\n#kigurumi #cosplay #latex https://t.co/pFJYsCTEry"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978644179661283328",
+            "3_1978644180223262720",
+            "3_1978644181414494208"
+          ]
+        },
+        "author_id": "752424953459408896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1978644193921888662",
+        "created_at": "2025-10-16T02:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T03:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978644193921888662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "cosplay"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "latex"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFJYsCTEry",
+              "end": 64,
+              "expanded_url": "https://x.com/Mikumikumi0116/status/1978644193921888662/photo/1",
+              "media_key": "3_1978644179661283328",
+              "start": 41,
+              "url": "https://t.co/pFJYsCTEry"
+            },
+            {
+              "display_url": "pic.x.com/pFJYsCTEry",
+              "end": 64,
+              "expanded_url": "https://x.com/Mikumikumi0116/status/1978644193921888662/photo/1",
+              "media_key": "3_1978644180223262720",
+              "start": 41,
+              "url": "https://t.co/pFJYsCTEry"
+            },
+            {
+              "display_url": "pic.x.com/pFJYsCTEry",
+              "end": 64,
+              "expanded_url": "https://x.com/Mikumikumi0116/status/1978644193921888662/photo/1",
+              "media_key": "3_1978644181414494208",
+              "start": 41,
+              "url": "https://t.co/pFJYsCTEry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978644193921888662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 11136,
+          "like_count": 294,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "穿胶炸街ing，坐一会歇歇\n\n#kigurumi #cosplay #latex https://t.co/pFJYsCTEry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 204,
+          "like_count": 39871,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 10698
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-11T08:51:03.000Z",
+        "description": "Kigger，也玩玩胶，角色有miku，柴郡，花火，小黑，欢迎贴贴 d(`･∀･)b，粉丝群1057848732，b站@-咪库咪- 小红书@咪库咪",
+        "id": "752424953459408896",
+        "name": "咪库咪",
+        "pinned_tweet_id": "1960359544691044802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583270368260681729/xPna7qpU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12082,
+          "following_count": 121,
+          "like_count": 2,
+          "listed_count": 53,
+          "media_count": 513,
+          "tweet_count": 582
+        },
+        "username": "Mikumikumi0116",
+        "verified": false
+      }
+    ]
+  }
+}

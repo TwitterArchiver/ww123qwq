@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054138720052445184"
+      ],
+      "media_source_tweet_id": [
+        "2054138725937131788"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2054751525776523736",
+    "created_at": "2026-05-14T02:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T03:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054751525776523736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1656312532213329922",
+          "start": 3,
+          "username": "SS_BRON_84t"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/84gexHnriQ",
+          "end": 57,
+          "expanded_url": "https://x.com/SS_BRON_84t/status/2054138725937131788/photo/1",
+          "media_key": "3_2054138720052445184",
+          "start": 34,
+          "url": "https://t.co/84gexHnriQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054751525776523736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054138725937131788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SS_BRON_84t: メジ10箱注文した分届いてアツい https://t.co/84gexHnriQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2054138720052445184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHESFgaAAANHq5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054138720052445184"
+          ],
+          "media_source_tweet_id": [
+            "2054138725937131788"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2054751525776523736",
+        "created_at": "2026-05-14T02:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T03:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054751525776523736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1656312532213329922",
+              "start": 3,
+              "username": "SS_BRON_84t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/84gexHnriQ",
+              "end": 57,
+              "expanded_url": "https://x.com/SS_BRON_84t/status/2054138725937131788/photo/1",
+              "media_key": "3_2054138720052445184",
+              "start": 34,
+              "url": "https://t.co/84gexHnriQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054751525776523736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054138725937131788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SS_BRON_84t: メジ10箱注文した分届いてアツい https://t.co/84gexHnriQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054138720052445184"
+          ]
+        },
+        "author_id": "1656312532213329922",
+        "conversation_id": "2054138725937131788",
+        "created_at": "2026-05-12T09:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054138725937131788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/84gexHnriQ",
+              "end": 40,
+              "expanded_url": "https://x.com/SS_BRON_84t/status/2054138725937131788/photo/1",
+              "media_key": "3_2054138720052445184",
+              "start": 17,
+              "url": "https://t.co/84gexHnriQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054138725937131788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 34958,
+          "like_count": 1375,
+          "quote_count": 16,
+          "reply_count": 12,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "メジ10箱注文した分届いてアツい https://t.co/84gexHnriQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 280,
+          "like_count": 42727,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12819
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T14:57:59.000Z",
+        "description": "25 🚺 壁打ちツイ廃 双極Ⅱ型",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/gyemga8hwe162c…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/gyemga8hwe162c7?t=cU9Wi7&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/AvMMevtMsm"
+              }
+            ]
+          }
+        },
+        "id": "1656312532213329922",
+        "name": "ｷ",
+        "pinned_tweet_id": "2040432054203256870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021630267107291137/zUy692_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 44,
+          "like_count": 8934,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 3325
+        },
+        "url": "https://t.co/AvMMevtMsm",
+        "username": "SS_BRON_84t",
+        "verified": false
+      }
+    ]
+  }
+}

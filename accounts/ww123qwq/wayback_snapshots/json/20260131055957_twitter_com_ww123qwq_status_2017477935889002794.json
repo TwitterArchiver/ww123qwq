@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017333103740813312"
+      ],
+      "media_source_tweet_id": [
+        "2017333108232884312"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2017477935889002794",
+    "created_at": "2026-01-31T05:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T06:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017477935889002794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557450235621695488",
+          "start": 3,
+          "username": "KBDYD555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OnqDVoxrPM",
+          "end": 37,
+          "expanded_url": "https://x.com/KBDYD555/status/2017333108232884312/photo/1",
+          "media_key": "3_2017333103740813312",
+          "start": 14,
+          "url": "https://t.co/OnqDVoxrPM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017477935889002794",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017333108232884312",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KBDYD555: https://t.co/OnqDVoxrPM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017477935889002794].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017477935889002794",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017477935889002794"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2017333103740813312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_8BxQIbgAARB1Q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017333103740813312"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2017333108232884312",
+        "created_at": "2026-01-30T20:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T21:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017333108232884312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnqDVoxrPM",
+              "end": 23,
+              "expanded_url": "https://x.com/KBDYD555/status/2017333108232884312/photo/1",
+              "media_key": "3_2017333103740813312",
+              "start": 0,
+              "url": "https://t.co/OnqDVoxrPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017333108232884312",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 281,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OnqDVoxrPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 261,
+          "like_count": 41131,
+          "listed_count": 5,
+          "media_count": 563,
+          "tweet_count": 12126
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3409,
+          "following_count": 380,
+          "like_count": 3141,
+          "listed_count": 9,
+          "media_count": 814,
+          "tweet_count": 2897
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

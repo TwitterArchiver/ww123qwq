@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2066795147967529363",
+    "created_at": "2026-06-16T23:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T00:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067025332050526604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2047864598100111360",
+          "start": 0,
+          "username": "Yoki__tnt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067025332050526604",
+    "in_reply_to_user_id": "2047864598100111360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066795147967529363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoki__tnt 诱发药理性精神病？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2066795147967529363",
+        "created_at": "2026-06-16T23:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067025332050526604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2047864598100111360",
+              "start": 0,
+              "username": "Yoki__tnt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067025332050526604",
+        "in_reply_to_user_id": "2047864598100111360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066795147967529363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoki__tnt 诱发药理性精神病？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047864598100111360",
+        "conversation_id": "2066795147967529363",
+        "created_at": "2026-06-16T08:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066795147967529363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066795147967529363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天三个小时内吸了1t飘飘糖1t棉花糖1t闪莓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 269,
+          "like_count": 42755,
+          "listed_count": 4,
+          "media_count": 703,
+          "tweet_count": 12921
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:26:29.000Z",
+        "description": "",
+        "id": "2047864598100111360",
+        "name": "我操我在拔刀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047864961482006528/peuqlrUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 20,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 36
+        },
+        "username": "Yoki__tnt",
+        "verified": false
+      }
+    ]
+  }
+}

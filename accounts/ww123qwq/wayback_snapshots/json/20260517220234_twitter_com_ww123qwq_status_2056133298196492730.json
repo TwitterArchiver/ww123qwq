@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055917168630669312"
+      ],
+      "media_source_tweet_id": [
+        "2055917170866176172"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2056133298196492730",
+    "created_at": "2026-05-17T22:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T23:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056133298196492730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895676229220741120",
+          "start": 3,
+          "username": "aedx_xmno"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BihAOB0AyZ",
+          "end": 51,
+          "expanded_url": "https://x.com/aedx_xmno/status/2055917170866176172/photo/1",
+          "media_key": "3_2055917168630669312",
+          "start": 28,
+          "url": "https://t.co/BihAOB0AyZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056133298196492730",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055917170866176172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aedx_xmno: 今日いただくのはめじです https://t.co/BihAOB0AyZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055917168630669312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgVxavboAAwN5J.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055917168630669312"
+          ],
+          "media_source_tweet_id": [
+            "2055917170866176172"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2056133298196492730",
+        "created_at": "2026-05-17T22:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T23:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056133298196492730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1895676229220741120",
+              "start": 3,
+              "username": "aedx_xmno"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BihAOB0AyZ",
+              "end": 51,
+              "expanded_url": "https://x.com/aedx_xmno/status/2055917170866176172/photo/1",
+              "media_key": "3_2055917168630669312",
+              "start": 28,
+              "url": "https://t.co/BihAOB0AyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056133298196492730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055917170866176172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aedx_xmno: 今日いただくのはめじです https://t.co/BihAOB0AyZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055917168630669312"
+          ]
+        },
+        "author_id": "1895676229220741120",
+        "conversation_id": "2055917170866176172",
+        "created_at": "2026-05-17T07:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055917170866176172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BihAOB0AyZ",
+              "end": 36,
+              "expanded_url": "https://x.com/aedx_xmno/status/2055917170866176172/photo/1",
+              "media_key": "3_2055917168630669312",
+              "start": 13,
+              "url": "https://t.co/BihAOB0AyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055917170866176172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3284,
+          "like_count": 261,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "今日いただくのはめじです https://t.co/BihAOB0AyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 278,
+          "like_count": 42785,
+          "listed_count": 4,
+          "media_count": 693,
+          "tweet_count": 12847
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T03:24:04.000Z",
+        "description": "恥の多い生涯を送ってきました。\n251🩵 @kana_wrod オキニ\n@nicoUx_xU \n@miysita1218 \n@kamin_nemu \n@lyyuhyp_o0 \n@FYT071\n@siaaaacccc \n@OD_menhRa \n\n🗝@dx_xm12247",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "kana_wrod"
+              },
+              {
+                "end": 46,
+                "start": 36,
+                "username": "nicoUx_xU"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "miysita1218"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "kamin_nemu"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "lyyuhyp_o0"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "username": "FYT071"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "siaaaacccc"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "OD_menhRa"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "dx_xm12247"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qr.paypay.ne.jp/p2p01_vbtsEkVy…",
+                "end": 23,
+                "expanded_url": "https://qr.paypay.ne.jp/p2p01_vbtsEkVytaLSUQuW",
+                "start": 0,
+                "url": "https://t.co/aOyYvv5Ldu"
+              }
+            ]
+          }
+        },
+        "id": "1895676229220741120",
+        "location": "募金箱→",
+        "name": "あのの🥹ᩚ世界めじこん化計画",
+        "pinned_tweet_id": "2050586990710792462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050626961932943360/xpk2bTLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 727,
+          "like_count": 9609,
+          "listed_count": 14,
+          "media_count": 513,
+          "tweet_count": 9254
+        },
+        "url": "https://t.co/aOyYvv5Ldu",
+        "username": "aedx_xmno",
+        "verified": true
+      }
+    ]
+  }
+}

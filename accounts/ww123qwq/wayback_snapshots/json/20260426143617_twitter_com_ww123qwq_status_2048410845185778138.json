@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2048410845185778138",
+    "created_at": "2026-04-26T14:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048410845185778138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "961832160377282560",
+          "start": 3,
+          "username": "iMoeAya"
+        },
+        {
+          "end": 105,
+          "id": "1222065289417891840",
+          "start": 93,
+          "username": "_XingShang_"
+        },
+        {
+          "end": 123,
+          "id": "1474581144871997441",
+          "start": 114,
+          "username": "YueLin_V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048410845185778138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048360087534911644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iMoeAya: 池中丝麻三两只，春江水暖绫先知  \n已经完全说不出话了，像这样的水责拷问，即使想说点什么也完全没办法组织语言，身体唯一的本能就只剩下喘气和求饶\n绳师，自称冤种：@_XingShang_\n摄影，淑女妹摄：@YueLin_V\n救援，救命恩人：@Rinkai…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048410845185778138].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048410845185778138",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048410845185778138"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33920,
+        "height": 1080,
+        "media_key": "13_2048358374874767360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048358374874767360/img/0yMb_5Wt0IEmfc4n.jpg",
+        "public_metrics": {
+          "view_count": 1158
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048358374874767360/vid/avc1/480x270/WYhI5RQdid9MHs43.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048358374874767360/vid/avc1/640x360/IlFEhNYwhxJu89ar.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048358374874767360/vid/avc1/1280x720/rT5ZJV-3rY0S9DzY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048358374874767360/pl/ZquHblUM9mLpO8u-.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048358374874767360"
+          ]
+        },
+        "author_id": "961832160377282560",
+        "conversation_id": "2048360087534911644",
+        "created_at": "2026-04-26T11:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048360087534911644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1222065289417891840",
+              "start": 80,
+              "username": "_XingShang_"
+            },
+            {
+              "end": 110,
+              "id": "1474581144871997441",
+              "start": 101,
+              "username": "YueLin_V"
+            },
+            {
+              "end": 129,
+              "id": "1288842786389671936",
+              "start": 119,
+              "username": "RinkaiR02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BqAz8tsvtY",
+              "end": 153,
+              "expanded_url": "https://x.com/iMoeAya/status/2048360087534911644/video/1",
+              "media_key": "13_2048358374874767360",
+              "start": 130,
+              "url": "https://t.co/BqAz8tsvtY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048360087534911644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 1569,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "池中丝麻三两只，春江水暖绫先知  \n已经完全说不出话了，像这样的水责拷问，即使想说点什么也完全没办法组织语言，身体唯一的本能就只剩下喘气和求饶\n绳师，自称冤种：@_XingShang_\n摄影，淑女妹摄：@YueLin_V\n救援，救命恩人：@RinkaiR02 https://t.co/BqAz8tsvtY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 277,
+          "like_count": 42353,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 12698
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42270,
+          "following_count": 4890,
+          "like_count": 183927,
+          "listed_count": 154,
+          "media_count": 1182,
+          "tweet_count": 35941
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-28T07:54:17.000Z",
+        "description": "一个玩绳子的，大概算不上专业，比上不足比下有余，泛性恋，开放关系，纯绳/调教/色色均可。",
+        "id": "1222065289417891840",
+        "location": "北京",
+        "name": "行觞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960515730400796676/HTZ3znQC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 171,
+          "like_count": 1730,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 325
+        },
+        "username": "_XingShang_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-25T03:22:10.000Z",
+        "description": "新娃前来报到！/欢迎各位老师扩列！",
+        "id": "1474581144871997441",
+        "name": "月凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838649842110992384/lFSe9Hls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 213,
+          "like_count": 1497,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 39
+        },
+        "username": "YueLin_V",
+        "verified": false
+      }
+    ]
+  }
+}

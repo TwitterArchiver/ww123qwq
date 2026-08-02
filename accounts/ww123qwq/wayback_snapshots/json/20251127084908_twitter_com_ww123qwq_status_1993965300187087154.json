@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1993965300187087154",
+    "created_at": "2025-11-27T08:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T09:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993965300187087154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CleverFf050755…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/CleverFf050755/status/1993580096515719406",
+          "start": 30,
+          "url": "https://t.co/ofOMcxUAUr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993965300187087154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993580096515719406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我建议大家发起大举报运动，在墙里发普瑞巴林的一律给举报了。 https://t.co/ofOMcxUAUr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2208,
+        "media_key": "3_1993580083030994944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qehehbMAAwz_E.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1993965300187087154",
+        "created_at": "2025-11-27T08:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993965300187087154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CleverFf050755…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/CleverFf050755/status/1993580096515719406",
+              "start": 30,
+              "url": "https://t.co/ofOMcxUAUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993965300187087154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993580096515719406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我建议大家发起大举报运动，在墙里发普瑞巴林的一律给举报了。 https://t.co/ofOMcxUAUr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993580083030994944"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "1993580096515719406",
+        "created_at": "2025-11-26T07:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T08:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993580096515719406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "日前，中青报·中青网记者调查发现，普瑞巴林等处方药能在电商平台购得，处方药存在滥用风险，侵蚀一些年轻人的身心健康。11月12日，记者在另一家电商平台的“××大药房”，以“疱疹后神经痛”为由，下单购得1盒普瑞巴林。",
+              "display_url": "news.cnr.cn/native/gd/2025…",
+              "end": 49,
+              "expanded_url": "https://news.cnr.cn/native/gd/20251125/t20251125_527440401.shtml",
+              "start": 26,
+              "status": 200,
+              "title": "处方药滥用亟须“踩刹车”_央广网",
+              "unwound_url": "https://news.cnr.cn/native/gd/20251125/t20251125_527440401.shtml",
+              "url": "https://t.co/c5SKARuzWO"
+            },
+            {
+              "display_url": "pic.x.com/2j1v0kRdfZ",
+              "end": 73,
+              "expanded_url": "https://x.com/CleverFf050755/status/1993580096515719406/photo/1",
+              "media_key": "3_1993580083030994944",
+              "start": 50,
+              "url": "https://t.co/2j1v0kRdfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993580096515719406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16684,
+          "like_count": 61,
+          "quote_count": 12,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林被点名了，感觉要走右美沙芬老路了，原链接在这https://t.co/c5SKARuzWO https://t.co/2j1v0kRdfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 261,
+          "like_count": 40722,
+          "listed_count": 3,
+          "media_count": 405,
+          "tweet_count": 11628
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#地卫一",
+        "pinned_tweet_id": "1988513225185653018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 181,
+          "like_count": 98,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1511
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

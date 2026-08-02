@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2002408584718475444",
+    "created_at": "2025-12-22T11:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T12:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003062860637937684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356583549",
+          "start": 0,
+          "username": "kagurazakayashi"
+        },
+        {
+          "end": 27,
+          "id": "1325268136627630080",
+          "start": 17,
+          "username": "JK_HARUKO"
+        },
+        {
+          "end": 36,
+          "id": "961832160377282560",
+          "start": 28,
+          "username": "iMoeAya"
+        },
+        {
+          "end": 45,
+          "id": "1073552945906626565",
+          "start": 37,
+          "username": "acted16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003062860637937684",
+    "in_reply_to_user_id": "1356583549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002408584718475444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakayashi @JK_HARUKO @iMoeAya @acted16 生日快乐，好羡慕啊🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2002407957049585673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8n7bX9bMAkhbtc.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2002408584718475444",
+        "created_at": "2025-12-22T11:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003062860637937684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356583549",
+              "start": 0,
+              "username": "kagurazakayashi"
+            },
+            {
+              "end": 27,
+              "id": "1325268136627630080",
+              "start": 17,
+              "username": "JK_HARUKO"
+            },
+            {
+              "end": 36,
+              "id": "961832160377282560",
+              "start": 28,
+              "username": "iMoeAya"
+            },
+            {
+              "end": 45,
+              "id": "1073552945906626565",
+              "start": 37,
+              "username": "acted16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003062860637937684",
+        "in_reply_to_user_id": "1356583549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002408584718475444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakayashi @JK_HARUKO @iMoeAya @acted16 生日快乐，好羡慕啊🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002407957049585673"
+          ]
+        },
+        "author_id": "1356583549",
+        "conversation_id": "2002408584718475444",
+        "created_at": "2025-12-20T15:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002408584718475444"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "雅诗自曝"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 53,
+              "id": "1356583549",
+              "start": 37,
+              "username": "kagurazakayashi"
+            },
+            {
+              "end": 70,
+              "id": "1325268136627630080",
+              "start": 60,
+              "username": "JK_HARUKO"
+            },
+            {
+              "end": 79,
+              "id": "961832160377282560",
+              "start": 71,
+              "username": "iMoeAya"
+            },
+            {
+              "end": 88,
+              "id": "1073552945906626565",
+              "start": 80,
+              "username": "acted16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJvOd86YOn",
+              "end": 112,
+              "expanded_url": "https://x.com/kagurazakayashi/status/2002408584718475444/photo/1",
+              "media_key": "3_2002407957049585673",
+              "start": 89,
+              "url": "https://t.co/MJvOd86YOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002408584718475444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 21980,
+          "like_count": 249,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "第一次变娃过生日，感谢大家陪我一起变娃，这是我几年来过得最棒的一次生日。\n@kagurazakayashi #雅诗自曝\n@JK_HARUKO @iMoeAya @acted16 https://t.co/MJvOd86YOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利/，也支持usdt。/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 264,
+          "like_count": 40921,
+          "listed_count": 5,
+          "media_count": 486,
+          "tweet_count": 11894
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "这里是3周目账号(2023.7-)，希望认识更多同好。没有头像和推文的、或广告人乐子人别点关注会被拉黑。女装不发R18（但有擦边的）。友跨顺男，撑跨。大龄女装爱好者。喜欢无性SM（Switch）。G+难民。曾脚本批量B过人可能误B，照片 #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶推",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "start": 136,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgrsWF"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩",
+        "pinned_tweet_id": "1700827655258690027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974773629704708096/lVYzrnzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14887,
+          "following_count": 5618,
+          "like_count": 19966,
+          "listed_count": 61,
+          "media_count": 514,
+          "tweet_count": 4074
+        },
+        "url": "https://t.co/s9yovgrsWF",
+        "username": "kagurazakayashi",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-08T02:45:29.000Z",
+        "description": "欧尼酱: @SakuraSamaQwQ || 晴甄意切: @casefive5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "SakuraSamaQwQ"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "casefive5"
+              }
+            ]
+          }
+        },
+        "id": "1325268136627630080",
+        "location": "Beijing Subway Line10·十里河",
+        "name": "刻猫猫不是色猫猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827048913515507712/vwrLZpFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31933,
+          "following_count": 29,
+          "like_count": 4577,
+          "listed_count": 184,
+          "media_count": 229,
+          "tweet_count": 1199
+        },
+        "username": "JK_HARUKO",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39122,
+          "following_count": 4752,
+          "like_count": 172856,
+          "listed_count": 136,
+          "media_count": 1133,
+          "tweet_count": 35247
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-14T12:19:02.000Z",
+        "description": "超萌新废物肥猪kiger（DW10/11参与！） 小说大鸽子🕊️",
+        "id": "1073552945906626565",
+        "location": "绒布球惩戒调教中心",
+        "name": "咕咕喵",
+        "pinned_tweet_id": "1987401896538349695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861026526713794560/_AqWFQ3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7972,
+          "following_count": 2105,
+          "like_count": 36571,
+          "listed_count": 40,
+          "media_count": 272,
+          "tweet_count": 6619
+        },
+        "username": "acted16",
+        "verified": false
+      }
+    ]
+  }
+}

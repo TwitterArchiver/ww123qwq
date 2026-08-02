@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050105623719915520",
+        "3_2050105625707954176"
+      ],
+      "media_source_tweet_id": [
+        "2050105628379783544",
+        "2050105628379783544"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050327482272985493",
+    "created_at": "2026-05-01T21:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T22:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050327482272985493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EIrCc8FwFZ",
+          "end": 75,
+          "expanded_url": "https://x.com/overdose_six/status/2050105628379783544/photo/1",
+          "media_key": "3_2050105623719915520",
+          "start": 52,
+          "url": "https://t.co/EIrCc8FwFZ"
+        },
+        {
+          "display_url": "pic.x.com/EIrCc8FwFZ",
+          "end": 75,
+          "expanded_url": "https://x.com/overdose_six/status/2050105628379783544/photo/1",
+          "media_key": "3_2050105625707954176",
+          "start": 52,
+          "url": "https://t.co/EIrCc8FwFZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050327482272985493",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050105628379783544",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 日本普瑞巴林 (ODT 口服崩解片) 起效更快效果更强 目前京东有 https://t.co/EIrCc8FwFZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050105623719915520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNwM-3bMAA7Wls.jpg",
+        "width": 1234
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050105625707954176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNwNGRaQAAw17q.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050105623719915520",
+            "3_2050105625707954176"
+          ],
+          "media_source_tweet_id": [
+            "2050105628379783544",
+            "2050105628379783544"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050327482272985493",
+        "created_at": "2026-05-01T21:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T22:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050327482272985493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EIrCc8FwFZ",
+              "end": 75,
+              "expanded_url": "https://x.com/overdose_six/status/2050105628379783544/photo/1",
+              "media_key": "3_2050105623719915520",
+              "start": 52,
+              "url": "https://t.co/EIrCc8FwFZ"
+            },
+            {
+              "display_url": "pic.x.com/EIrCc8FwFZ",
+              "end": 75,
+              "expanded_url": "https://x.com/overdose_six/status/2050105628379783544/photo/1",
+              "media_key": "3_2050105625707954176",
+              "start": 52,
+              "url": "https://t.co/EIrCc8FwFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050327482272985493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050105628379783544",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 日本普瑞巴林 (ODT 口服崩解片) 起效更快效果更强 目前京东有 https://t.co/EIrCc8FwFZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050105623719915520",
+            "3_2050105625707954176"
+          ]
+        },
+        "author_id": "622036546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050105628379783544",
+        "created_at": "2026-05-01T06:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T07:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050105628379783544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EIrCc8FwFZ",
+              "end": 57,
+              "expanded_url": "https://x.com/overdose_six/status/2050105628379783544/photo/1",
+              "media_key": "3_2050105623719915520",
+              "start": 34,
+              "url": "https://t.co/EIrCc8FwFZ"
+            },
+            {
+              "display_url": "pic.x.com/EIrCc8FwFZ",
+              "end": 57,
+              "expanded_url": "https://x.com/overdose_six/status/2050105628379783544/photo/1",
+              "media_key": "3_2050105625707954176",
+              "start": 34,
+              "url": "https://t.co/EIrCc8FwFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050105628379783544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 27444,
+          "like_count": 245,
+          "quote_count": 4,
+          "reply_count": 25,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "日本普瑞巴林 (ODT 口服崩解片) 起效更快效果更强 目前京东有 https://t.co/EIrCc8FwFZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 271,
+          "like_count": 42328,
+          "listed_count": 4,
+          "media_count": 686,
+          "tweet_count": 12709
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "接受药物报告及相关投稿 | 提问箱：https://t.co/b5c8bbntR6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 41,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 18,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名Shiina",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 99,
+          "like_count": 11598,
+          "listed_count": 8,
+          "media_count": 696,
+          "tweet_count": 4192
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

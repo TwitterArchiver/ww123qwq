@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1892559889949765632",
+        "3_1892559895343288321"
+      ],
+      "media_source_tweet_id": [
+        "1892559939001798719",
+        "1892559939001798719"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1892658433913971077",
+    "created_at": "2025-02-20T19:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T20:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892658433913971077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1830250971450236928",
+          "start": 3,
+          "username": "YuPingHagia_mtf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EtYS2Jli90",
+          "end": 52,
+          "expanded_url": "https://x.com/YuPingHagia_mtf/status/1892559939001798719/video/1",
+          "media_key": "7_1892559889949765632",
+          "start": 29,
+          "url": "https://t.co/EtYS2Jli90"
+        },
+        {
+          "display_url": "pic.x.com/EtYS2Jli90",
+          "end": 52,
+          "expanded_url": "https://x.com/YuPingHagia_mtf/status/1892559939001798719/video/1",
+          "media_key": "3_1892559895343288321",
+          "start": 29,
+          "url": "https://t.co/EtYS2Jli90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892658433913971077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892559939001798719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuPingHagia_mtf: 呜呜呜，喷奶了 https://t.co/EtYS2Jli90"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892658433913971077].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892658433913971077",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892658433913971077"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30650,
+        "height": 960,
+        "media_key": "7_1892559889949765632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1892559889949765632/pu/img/Bg8z3pBZKnf5NB2r.jpg",
+        "public_metrics": {
+          "view_count": 2611
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1892559889949765632/pu/vid/avc1/320x426/pxsXdVKzQcEd53T-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1892559889949765632/pu/vid/avc1/480x640/D9MY_89xYw7mWLml.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1892559889949765632/pu/vid/avc1/720x960/S9JNnPgggIWwSxcQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1892559889949765632/pu/pl/x_zI2Ep8l4j47JAU.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1892559895343288321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkO5MpYWUAErTkm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1892559889949765632",
+            "3_1892559895343288321"
+          ]
+        },
+        "author_id": "1830250971450236928",
+        "conversation_id": "1892559939001798719",
+        "created_at": "2025-02-20T13:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T14:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892559939001798719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtYS2Jli90",
+              "end": 31,
+              "expanded_url": "https://x.com/YuPingHagia_mtf/status/1892559939001798719/video/1",
+              "media_key": "7_1892559889949765632",
+              "start": 8,
+              "url": "https://t.co/EtYS2Jli90"
+            },
+            {
+              "display_url": "pic.x.com/EtYS2Jli90",
+              "end": 31,
+              "expanded_url": "https://x.com/YuPingHagia_mtf/status/1892559939001798719/video/1",
+              "media_key": "3_1892559895343288321",
+              "start": 8,
+              "url": "https://t.co/EtYS2Jli90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892559939001798719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 10015,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜，喷奶了 https://t.co/EtYS2Jli90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 164,
+          "like_count": 40004,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 10507
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T14:27:20.000Z",
+        "description": "一只高中休学xyn，天残党，已炸柜离家出走，23年九月含糖，攒钱手术中182cm64kg，门槛150，可议价（线下月先过门）口令&赞赏码，十分感谢，过门可随时陪聊或者色色/https://t.co/KscgwSHJbF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Hmtf8964",
+                "end": 109,
+                "expanded_url": "https://t.me/Hmtf8964",
+                "start": 86,
+                "url": "https://t.co/KscgwSHJbF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hmtf8964",
+                "end": 23,
+                "expanded_url": "https://t.me/Hmtf8964",
+                "start": 0,
+                "url": "https://t.co/KscgwSHJbF"
+              }
+            ]
+          }
+        },
+        "id": "1830250971450236928",
+        "name": "毓萍.Hagia🍥（母狗版）",
+        "pinned_tweet_id": "1889603579989688421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843167990113820672/xq2_RDtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2667,
+          "following_count": 510,
+          "like_count": 9068,
+          "listed_count": 10,
+          "media_count": 31,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/KscgwSHJbF",
+        "username": "YuPingHagia_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

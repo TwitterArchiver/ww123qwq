@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2002328388963577987",
+    "created_at": "2025-12-20T10:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T11:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002328388963577987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        },
+        {
+          "end": 25,
+          "id": "1780369819310981120",
+          "start": 13,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002328388963577987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001616586583785924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: @520illusion 抑郁症是被社会强奸之后留下的性病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2002328388963577987",
+        "created_at": "2025-12-20T10:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002328388963577987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            },
+            {
+              "end": 25,
+              "id": "1780369819310981120",
+              "start": 13,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002328388963577987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001616586583785924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: @520illusion 抑郁症是被社会强奸之后留下的性病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2001521101587788042",
+        "created_at": "2025-12-18T11:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001616586583785924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001616586583785924",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 838,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001521101587788042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 抑郁症是被社会强奸之后留下的性病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利/，也支持usdt。/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2000481810934108586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 266,
+          "like_count": 40896,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 11860
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8331,
+          "following_count": 2092,
+          "like_count": 173021,
+          "listed_count": 20,
+          "media_count": 3635,
+          "tweet_count": 44442
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "循此苦旅 终抵繁星",
+        "id": "1780369819310981120",
+        "name": "ill🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999441282867847171/xfMVe-73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 179,
+          "like_count": 3973,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 2515
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

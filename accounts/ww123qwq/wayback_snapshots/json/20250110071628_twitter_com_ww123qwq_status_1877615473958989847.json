@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876096414058676224"
+      ],
+      "media_source_tweet_id": [
+        "1877296758637858848"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1877615473958989847",
+    "created_at": "2025-01-10T07:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T08:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877615473958989847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1634578050653507585",
+          "start": 3,
+          "username": "__Nailis__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/62jymFnjlz",
+          "end": 48,
+          "expanded_url": "https://x.com/__Nailis__/status/1877296758637858848/photo/1",
+          "media_key": "3_1876096414058676224",
+          "start": 25,
+          "url": "https://t.co/62jymFnjlz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877615473958989847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877296758637858848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Nailis__: 地雷系のニゴミク https://t.co/62jymFnjlz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1876096414058676224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggk7v6RaAAAiGO2.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876096414058676224"
+          ],
+          "media_source_tweet_id": [
+            "1877296758637858848"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1877615473958989847",
+        "created_at": "2025-01-10T07:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T08:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877615473958989847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1634578050653507585",
+              "start": 3,
+              "username": "__Nailis__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/62jymFnjlz",
+              "end": 48,
+              "expanded_url": "https://x.com/__Nailis__/status/1877296758637858848/photo/1",
+              "media_key": "3_1876096414058676224",
+              "start": 25,
+              "url": "https://t.co/62jymFnjlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877615473958989847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877296758637858848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Nailis__: 地雷系のニゴミク https://t.co/62jymFnjlz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876096414058676224"
+          ]
+        },
+        "author_id": "1634578050653507585",
+        "conversation_id": "1877296758637858848",
+        "created_at": "2025-01-09T10:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T11:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877296758637858848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/62jymFnjlz",
+              "end": 32,
+              "expanded_url": "https://x.com/__Nailis__/status/1877296758637858848/photo/1",
+              "media_key": "3_1876096414058676224",
+              "start": 9,
+              "url": "https://t.co/62jymFnjlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877296758637858848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 20928,
+          "like_count": 1694,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "地雷系のニゴミク https://t.co/62jymFnjlz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 127,
+          "like_count": 39828,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 10235
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T15:32:36.000Z",
+        "description": "プロセカイラスト投稿してます。\nニーゴ推し\nイラストは全てAI生成です。\npixiv:https://t.co/LzFbbFlKDx\nお題箱:https://t.co/1aF1L7zkdE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/87610448",
+                "end": 66,
+                "expanded_url": "http://pixiv.net/users/87610448",
+                "start": 43,
+                "url": "https://t.co/LzFbbFlKDx"
+              },
+              {
+                "display_url": "odaibako.net/u/__Nailis__",
+                "end": 94,
+                "expanded_url": "http://odaibako.net/u/__Nailis__",
+                "start": 71,
+                "url": "https://t.co/1aF1L7zkdE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nailis3206/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nailis3206/",
+                "start": 0,
+                "url": "https://t.co/uCN1a6BewU"
+              }
+            ]
+          }
+        },
+        "id": "1634578050653507585",
+        "location": "ComfyUI,Krita",
+        "name": "Nailis",
+        "pinned_tweet_id": "1800404761268904005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762479072628903936/nlYbqZS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44686,
+          "following_count": 29,
+          "like_count": 3609,
+          "listed_count": 161,
+          "media_count": 2614,
+          "tweet_count": 3858
+        },
+        "url": "https://t.co/uCN1a6BewU",
+        "username": "__Nailis__",
+        "verified": true
+      }
+    ]
+  }
+}

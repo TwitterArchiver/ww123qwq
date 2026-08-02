@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985769845246545920"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985769848237146530",
+    "created_at": "2025-11-04T18:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T19:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985769848237146530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TRbwn1uncd",
+          "end": 28,
+          "expanded_url": "https://x.com/ww123qwq/status/1985769848237146530/photo/1",
+          "media_key": "3_1985769845246545920",
+          "start": 5,
+          "url": "https://t.co/TRbwn1uncd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985769848237146530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "地雷服？ https://t.co/TRbwn1uncd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985769845246545920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47fJzeaUAANv5R.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985769845246545920"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985769848237146530",
+        "created_at": "2025-11-04T18:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T19:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985769848237146530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRbwn1uncd",
+              "end": 28,
+              "expanded_url": "https://x.com/ww123qwq/status/1985769848237146530/photo/1",
+              "media_key": "3_1985769845246545920",
+              "start": 5,
+              "url": "https://t.co/TRbwn1uncd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985769848237146530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地雷服？ https://t.co/TRbwn1uncd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩906910481",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 222,
+          "like_count": 40346,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 11013
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

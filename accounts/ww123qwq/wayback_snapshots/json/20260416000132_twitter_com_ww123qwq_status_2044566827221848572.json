@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2044029477957841052",
+    "created_at": "2026-04-16T00:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T01:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044566827221848572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1775833048493240320",
+          "start": 0,
+          "username": "kuukiwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044566827221848572",
+    "in_reply_to_user_id": "1775833048493240320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044029477957841052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn 可以整点哮喘片和复方甘草片当阿片鬼😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2044029477957841052",
+        "created_at": "2026-04-16T00:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T01:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044566827221848572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775833048493240320",
+              "start": 0,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044566827221848572",
+        "in_reply_to_user_id": "1775833048493240320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044029477957841052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn 可以整点哮喘片和复方甘草片当阿片鬼😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775833048493240320",
+        "conversation_id": "2044029477957841052",
+        "created_at": "2026-04-14T12:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044029477957841052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044029477957841052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9635,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说今年暑假愈美片会不会被管 就像前年的7月初管右美沙芬🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 273,
+          "like_count": 42143,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 12615
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤\n 💊overdose lover 🩸喜欢非主流 🥰\n❤️ rebzyyx ,kets4eki..scenecore ..💉 \n🥰dm互fo 😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041491910490304512/juOj7D4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 772,
+          "like_count": 34508,
+          "listed_count": 0,
+          "media_count": 758,
+          "tweet_count": 2854
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016425369491161088"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2016263065378160729",
+    "created_at": "2026-01-28T08:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T09:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016425381767872858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557450235621695488",
+          "start": 0,
+          "username": "KBDYD555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A3WuMYbLpE",
+          "end": 41,
+          "expanded_url": "https://x.com/ww123qwq/status/2016425381767872858/photo/1",
+          "media_key": "3_2016425369491161088",
+          "start": 18,
+          "url": "https://t.co/A3WuMYbLpE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016425381767872858",
+    "in_reply_to_user_id": "1557450235621695488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016263065378160729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBDYD555 这个味道还可以 https://t.co/A3WuMYbLpE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016425369491161088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vIMKibQAAoak7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 261,
+        "media_key": "3_2016263063008378882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_s0krxbAAI8aGU.jpg",
+        "width": 626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016425369491161088"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016263065378160729",
+        "created_at": "2026-01-28T08:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016425381767872858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557450235621695488",
+              "start": 0,
+              "username": "KBDYD555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A3WuMYbLpE",
+              "end": 41,
+              "expanded_url": "https://x.com/ww123qwq/status/2016425381767872858/photo/1",
+              "media_key": "3_2016425369491161088",
+              "start": 18,
+              "url": "https://t.co/A3WuMYbLpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016425381767872858",
+        "in_reply_to_user_id": "1557450235621695488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016263065378160729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBDYD555 这个味道还可以 https://t.co/A3WuMYbLpE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016263063008378882"
+          ]
+        },
+        "author_id": "1557450235621695488",
+        "conversation_id": "2016263065378160729",
+        "created_at": "2026-01-27T21:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T22:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016263065378160729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vrcg8otuDD",
+              "end": 71,
+              "expanded_url": "https://x.com/KBDYD555/status/2016263065378160729/photo/1",
+              "media_key": "3_2016263063008378882",
+              "start": 48,
+              "url": "https://t.co/Vrcg8otuDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016263065378160729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 323,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽了一根半好想吐。越来越讨厌烟草味了。。随便买了个唇烟还没发货。不知道这个牌子这个味道好不好用 https://t.co/Vrcg8otuDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 263,
+          "like_count": 41060,
+          "listed_count": 5,
+          "media_count": 561,
+          "tweet_count": 12105
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T19:34:22.000Z",
+        "description": "我是99...前世@kokocat_9 遭举报冻结...现世成分:碎碎念/ED/sh/花枝鼠....互关回来吧...（Eng🆗）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "kokocat_9"
+              }
+            ]
+          }
+        },
+        "id": "1557450235621695488",
+        "location": "鼠鼠樂園🐭vx🚪52",
+        "name": "🐭老鼠国王（不安定貓貓",
+        "pinned_tweet_id": "2014999363500822659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007392285944692736/ofDjiafT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3384,
+          "following_count": 356,
+          "like_count": 3051,
+          "listed_count": 9,
+          "media_count": 801,
+          "tweet_count": 2849
+        },
+        "username": "KBDYD555",
+        "verified": false
+      }
+    ]
+  }
+}

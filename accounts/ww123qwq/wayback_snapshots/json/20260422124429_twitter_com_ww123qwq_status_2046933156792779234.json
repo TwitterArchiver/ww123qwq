@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044294944228257792"
+      ],
+      "media_source_tweet_id": [
+        "2044294952998580459"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2046933156792779234",
+    "created_at": "2026-04-22T12:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046933156792779234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032433163377713152",
+          "start": 3,
+          "username": "ema_kuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/unFi5UpLeT",
+          "end": 36,
+          "expanded_url": "https://x.com/ema_kuu/status/2044294952998580459/photo/1",
+          "media_key": "3_2044294944228257792",
+          "start": 13,
+          "url": "https://t.co/unFi5UpLeT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046933156792779234",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 367
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044294952998580459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ema_kuu: https://t.co/unFi5UpLeT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1175,
+        "media_key": "3_2044294944228257792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7La67aMAATsw6.jpg",
+        "width": 1175
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044294944228257792"
+          ],
+          "media_source_tweet_id": [
+            "2044294952998580459"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2046933156792779234",
+        "created_at": "2026-04-22T12:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046933156792779234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032433163377713152",
+              "start": 3,
+              "username": "ema_kuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/unFi5UpLeT",
+              "end": 36,
+              "expanded_url": "https://x.com/ema_kuu/status/2044294952998580459/photo/1",
+              "media_key": "3_2044294944228257792",
+              "start": 13,
+              "url": "https://t.co/unFi5UpLeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046933156792779234",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 367
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044294952998580459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ema_kuu: https://t.co/unFi5UpLeT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044294944228257792"
+          ]
+        },
+        "author_id": "2032433163377713152",
+        "conversation_id": "2044294952998580459",
+        "created_at": "2026-04-15T06:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044294952998580459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/unFi5UpLeT",
+              "end": 23,
+              "expanded_url": "https://x.com/ema_kuu/status/2044294952998580459/photo/1",
+              "media_key": "3_2044294944228257792",
+              "start": 0,
+              "url": "https://t.co/unFi5UpLeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044294952998580459",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 31441,
+          "like_count": 3095,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 367
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/unFi5UpLeT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 276,
+          "like_count": 42187,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 12636
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T12:26:54.000Z",
+        "description": "まのさばTL構築用 @_ovovoip の二次創作アカウント　エマとノアが好きですが全員大好きです。ネタバレあります",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "_ovovoip"
+              }
+            ]
+          }
+        },
+        "id": "2032433163377713152",
+        "name": "絵の具になりたい",
+        "pinned_tweet_id": "2039263728227741969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032433541347438592/x-yjAE-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 38,
+          "like_count": 322,
+          "listed_count": 8,
+          "media_count": 41,
+          "tweet_count": 217
+        },
+        "username": "ema_kuu",
+        "verified": false
+      }
+    ]
+  }
+}

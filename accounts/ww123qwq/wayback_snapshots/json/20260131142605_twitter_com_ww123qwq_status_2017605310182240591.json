@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2017600262454817066",
+    "created_at": "2026-01-31T14:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T15:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017605310182240591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678171777409875968",
+          "start": 0,
+          "username": "420420420CTL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017605310182240591",
+    "in_reply_to_user_id": "1678171777409875968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017600262454817066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@420420420CTL 这简直是天堂🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_2017600249809014790",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__0vMybEAYr0Wo.jpg",
+        "width": 745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2017600262454817066",
+        "created_at": "2026-01-31T14:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017605310182240591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678171777409875968",
+              "start": 0,
+              "username": "420420420CTL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017605310182240591",
+        "in_reply_to_user_id": "1678171777409875968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017600262454817066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@420420420CTL 这简直是天堂🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017600249809014790"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "conversation_id": "2017600262454817066",
+        "created_at": "2026-01-31T14:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017600262454817066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43qxTYB0qf",
+              "end": 41,
+              "expanded_url": "https://x.com/420420420CTL/status/2017600262454817066/photo/1",
+              "media_key": "3_2017600249809014790",
+              "start": 18,
+              "url": "https://t.co/43qxTYB0qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017600262454817066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老板，除了检验试剂，每份都来一样🤪 https://t.co/43qxTYB0qf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 261,
+          "like_count": 41128,
+          "listed_count": 5,
+          "media_count": 564,
+          "tweet_count": 12128
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997869953601712128/tL9oqeh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 652,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 862
+        },
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

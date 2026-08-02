@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982321537983094784",
+        "3_1982321538507378688",
+        "3_1982321539459502080"
+      ],
+      "media_source_tweet_id": [
+        "1982321543045857689",
+        "1982321543045857689",
+        "1982321543045857689"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1984072574213746808",
+    "created_at": "2025-10-31T01:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T02:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984072574213746808"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "ichigo",
+          "probability": 0.7498,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975075002182717440",
+          "start": 3,
+          "username": "o0x__xly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FFtrOTxASi",
+          "end": 83,
+          "expanded_url": "https://x.com/o0x__xly/status/1982321543045857689/photo/1",
+          "media_key": "3_1982321537983094784",
+          "start": 60,
+          "url": "https://t.co/FFtrOTxASi"
+        },
+        {
+          "display_url": "pic.x.com/FFtrOTxASi",
+          "end": 83,
+          "expanded_url": "https://x.com/o0x__xly/status/1982321543045857689/photo/1",
+          "media_key": "3_1982321538507378688",
+          "start": 60,
+          "url": "https://t.co/FFtrOTxASi"
+        },
+        {
+          "display_url": "pic.x.com/FFtrOTxASi",
+          "end": 83,
+          "expanded_url": "https://x.com/o0x__xly/status/1982321543045857689/photo/1",
+          "media_key": "3_1982321539459502080",
+          "start": 60,
+          "url": "https://t.co/FFtrOTxASi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984072574213746808",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 354
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982321543045857689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o0x__xly: my name's ichigo and i'm the ultimate cutter! https://t.co/FFtrOTxASi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982321537983094784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Ke754WoAArqZ3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982321538507378688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Ke771WkAAig6s.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1982321539459502080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Ke7_YW0AAWDB4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982321537983094784",
+            "3_1982321538507378688",
+            "3_1982321539459502080"
+          ],
+          "media_source_tweet_id": [
+            "1982321543045857689",
+            "1982321543045857689",
+            "1982321543045857689"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1984072574213746808",
+        "created_at": "2025-10-31T01:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T02:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984072574213746808"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "ichigo",
+              "probability": 0.7498,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975075002182717440",
+              "start": 3,
+              "username": "o0x__xly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFtrOTxASi",
+              "end": 83,
+              "expanded_url": "https://x.com/o0x__xly/status/1982321543045857689/photo/1",
+              "media_key": "3_1982321537983094784",
+              "start": 60,
+              "url": "https://t.co/FFtrOTxASi"
+            },
+            {
+              "display_url": "pic.x.com/FFtrOTxASi",
+              "end": 83,
+              "expanded_url": "https://x.com/o0x__xly/status/1982321543045857689/photo/1",
+              "media_key": "3_1982321538507378688",
+              "start": 60,
+              "url": "https://t.co/FFtrOTxASi"
+            },
+            {
+              "display_url": "pic.x.com/FFtrOTxASi",
+              "end": 83,
+              "expanded_url": "https://x.com/o0x__xly/status/1982321543045857689/photo/1",
+              "media_key": "3_1982321539459502080",
+              "start": 60,
+              "url": "https://t.co/FFtrOTxASi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984072574213746808",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 354
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982321543045857689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o0x__xly: my name's ichigo and i'm the ultimate cutter! https://t.co/FFtrOTxASi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982321537983094784",
+            "3_1982321538507378688",
+            "3_1982321539459502080"
+          ]
+        },
+        "author_id": "1975075002182717440",
+        "conversation_id": "1982321543045857689",
+        "created_at": "2025-10-26T05:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T06:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982321543045857689"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "ichigo",
+              "probability": 0.6949,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFtrOTxASi",
+              "end": 69,
+              "expanded_url": "https://x.com/o0x__xly/status/1982321543045857689/photo/1",
+              "media_key": "3_1982321537983094784",
+              "start": 46,
+              "url": "https://t.co/FFtrOTxASi"
+            },
+            {
+              "display_url": "pic.x.com/FFtrOTxASi",
+              "end": 69,
+              "expanded_url": "https://x.com/o0x__xly/status/1982321543045857689/photo/1",
+              "media_key": "3_1982321538507378688",
+              "start": 46,
+              "url": "https://t.co/FFtrOTxASi"
+            },
+            {
+              "display_url": "pic.x.com/FFtrOTxASi",
+              "end": 69,
+              "expanded_url": "https://x.com/o0x__xly/status/1982321543045857689/photo/1",
+              "media_key": "3_1982321539459502080",
+              "start": 46,
+              "url": "https://t.co/FFtrOTxASi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982321543045857689",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 73183,
+          "like_count": 4106,
+          "quote_count": 16,
+          "reply_count": 50,
+          "retweet_count": 354
+        },
+        "reply_settings": "everyone",
+        "text": "my name's ichigo and i'm the ultimate cutter! https://t.co/FFtrOTxASi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 215,
+          "like_count": 40208,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 10857
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T05:46:03.000Z",
+        "description": "𓊆ྀི❤︎𓊇ྀི #相里要’s jirai boyfriend ♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 9,
+                "tag": "相里要"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moapiens.straw.page",
+                "end": 23,
+                "expanded_url": "https://moapiens.straw.page",
+                "start": 0,
+                "url": "https://t.co/kK2VziufVO"
+              }
+            ]
+          }
+        },
+        "id": "1975075002182717440",
+        "location": "ೀ　17　𓏏𓏏　in 相里要's arms ❤︎　𝜗ৎ",
+        "name": "ೀ　𝔂u͟a͟ ❤︎’s 𝔁i͟a͟n͟g͟l͟i͟ ya͟o",
+        "pinned_tweet_id": "1981779685836251308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981621454807420928/1ajMhJL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1650,
+          "following_count": 396,
+          "like_count": 3378,
+          "listed_count": 6,
+          "media_count": 114,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/kK2VziufVO",
+        "username": "o0x__xly",
+        "verified": false
+      }
+    ]
+  }
+}

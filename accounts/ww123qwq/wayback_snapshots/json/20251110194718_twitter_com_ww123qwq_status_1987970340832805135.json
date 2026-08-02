@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987448134545600512"
+      ],
+      "media_source_tweet_id": [
+        "1987448155097661639"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1987970340832805135",
+    "created_at": "2025-11-10T19:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T20:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987970340832805135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7jBEPLHfGL",
+          "end": 112,
+          "expanded_url": "https://x.com/EleanorAnatidae/status/1987448155097661639/photo/1",
+          "media_key": "3_1987448134545600512",
+          "start": 89,
+          "url": "https://t.co/7jBEPLHfGL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987970340832805135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987448155097661639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: 你们真的特别棒特别棒！\n只有我们的共同努力，才能去打破不公的待遇，创造一个更好的世界。\n说起来，我从小到大一直是很喜欢抵抗不公的人：… https://t.co/7jBEPLHfGL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987448134545600512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5TVjGUacAAP_ve.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987448134545600512"
+          ],
+          "media_source_tweet_id": [
+            "1987448155097661639"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1987970340832805135",
+        "created_at": "2025-11-10T19:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T20:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987970340832805135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jBEPLHfGL",
+              "end": 112,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1987448155097661639/photo/1",
+              "media_key": "3_1987448134545600512",
+              "start": 89,
+              "url": "https://t.co/7jBEPLHfGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987970340832805135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987448155097661639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: 你们真的特别棒特别棒！\n只有我们的共同努力，才能去打破不公的待遇，创造一个更好的世界。\n说起来，我从小到大一直是很喜欢抵抗不公的人：… https://t.co/7jBEPLHfGL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987448134545600512"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "1987448155097661639",
+        "created_at": "2025-11-09T09:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987448155097661639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jBEPLHfGL",
+              "end": 90,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1987448155097661639/photo/1",
+              "media_key": "3_1987448134545600512",
+              "start": 67,
+              "url": "https://t.co/7jBEPLHfGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987448155097661639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/o/2GOFk0EBeiG",
+                "end": 821,
+                "expanded_url": "http://xhslink.com/o/2GOFk0EBeiG",
+                "start": 798,
+                "url": "https://t.co/zCiISq4YLW"
+              }
+            ]
+          },
+          "text": "你们真的特别棒特别棒！\n只有我们的共同努力，才能去打破不公的待遇，创造一个更好的世界。\n说起来，我从小到大一直是很喜欢抵抗不公的人：\n小学的时候，某一新上任校长，由于学生打篮球受到了严重的伤，家长闹事，遂规定全校不允许课间打篮球（体育课除外），我孤身一人去校长室找校长。最后校长同意我们打篮球，但要注意安全。\n初中的时候，由于性别认同原因被群体霸凌，后来在搏斗中以一敌六，把领头的人打进医院。从此之后没人敢欺负我。为了智力有障碍的同学出头，暴揍了欺负他的人。\n高中的时候学校取缔社团活动，我自己购置实验设备和原料，在操场上做铝热反应，翘开空教室的门做黄金雨和焰色反应实验。学校缩减春节假期提前开学，我去参与抗议，最后成功争取假期。\n大学的时候把一个偷拍厕所的变态，事件捅到了网上（当然不止是我，别人也在做），获得了巨大的关注度。\n工作之后开始资助贫困的孩子，生活用品、食物、女孩的卫生巾，帮助一个被家暴的女孩逃跑。\n我觉得我是既懦弱又勇敢的人，对于自身，我总是觉得自己又笨、又难看，不相信自己；但是我却莫名其妙会爆发出巨大的勇气，敢于和庞然大物去做对抗。\n很多人会觉得我太过于不爱惜自己、悍不畏死了。其实我也是这样想，中国人讲究“枪打出头鸟”，讲究“爱惜自己的羽毛”，经常为了自身的利益而算计、服从权威。而我总是思考，权威是否是对的，如果他是正确的，我认同的，那我会尽力去靠近他，学习他，成为他的羽翼和铠甲。但如果权威在作恶、在吃人，那我会毫不犹豫的亮出自己的锋芒，向它发起挑战。\n你们觉得，我应该继续这样活着吗？我因为我的性格，吃了很多苦，遭受了很多打击，但我总觉得，做善良的事情，一定可以把善意传递下去，哪怕是蝴蝶扇动翅膀，也会引起一阵清风。\n我们的斗争，能让这个世界更美好、更自由、更平等吗？为此牺牲自己的利益值得吗？\n原帖链接：我们发动了不剪头发起义…… 去年昨日我们起义了。 单... https://t.co/zCiISq4YLW \n复制后打开【小红书】查看笔记！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 231704,
+          "like_count": 1285,
+          "quote_count": 18,
+          "reply_count": 69,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "你们真的特别棒特别棒！\n只有我们的共同努力，才能去打破不公的待遇，创造一个更好的世界。\n说起来，我从小到大一直是很喜欢抵抗不公的人： https://t.co/7jBEPLHfGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴休学圆角攒钱中/地雷系/欢迎扩列加好友w唯一电报  非本，注意防骗\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1051287723置顶tg非本人推广自辨，出原味私信，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 232,
+          "like_count": 40573,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 11293
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "mtf🏳️‍⚧️/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2903,
+          "following_count": 1770,
+          "like_count": 20659,
+          "listed_count": 9,
+          "media_count": 123,
+          "tweet_count": 5507
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

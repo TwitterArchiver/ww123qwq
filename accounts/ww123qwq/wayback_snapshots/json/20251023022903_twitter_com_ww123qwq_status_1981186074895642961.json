@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980971786775711744"
+      ],
+      "media_source_tweet_id": [
+        "1980971793151303928"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1981186074895642961",
+    "created_at": "2025-10-23T02:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T03:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981186074895642961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "318390086",
+          "start": 3,
+          "username": "akagikuro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HENvVDO8Ka",
+          "end": 38,
+          "expanded_url": "https://x.com/akagikuro/status/1980971793151303928/photo/1",
+          "media_key": "3_1980971786775711744",
+          "start": 15,
+          "url": "https://t.co/HENvVDO8Ka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981186074895642961",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980971793151303928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akagikuro: https://t.co/HENvVDO8Ka"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1980971786775711744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33TWCzWUAARMJC.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980971786775711744"
+          ],
+          "media_source_tweet_id": [
+            "1980971793151303928"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1981186074895642961",
+        "created_at": "2025-10-23T02:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T03:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981186074895642961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "318390086",
+              "start": 3,
+              "username": "akagikuro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HENvVDO8Ka",
+              "end": 38,
+              "expanded_url": "https://x.com/akagikuro/status/1980971793151303928/photo/1",
+              "media_key": "3_1980971786775711744",
+              "start": 15,
+              "url": "https://t.co/HENvVDO8Ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981186074895642961",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980971793151303928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akagikuro: https://t.co/HENvVDO8Ka"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980971786775711744"
+          ]
+        },
+        "author_id": "318390086",
+        "conversation_id": "1980971793151303928",
+        "created_at": "2025-10-22T12:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980971793151303928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HENvVDO8Ka",
+              "end": 23,
+              "expanded_url": "https://x.com/akagikuro/status/1980971793151303928/photo/1",
+              "media_key": "3_1980971786775711744",
+              "start": 0,
+              "url": "https://t.co/HENvVDO8Ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980971793151303928",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 543,
+          "impression_count": 43166,
+          "like_count": 3425,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HENvVDO8Ka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 210,
+          "like_count": 39948,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 10705
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-16T12:19:28.000Z",
+        "description": "コスプレ┊漫画家┊雀士(日本プロ麻雀連盟)┊漫画@akagisou┊ ﾌｧﾝﾃｨｱ https://t.co/0Vw5QU0koW通販 https://t.co/NlLxdyefxe ✉️お仕事連絡→akagikuro1218@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "akagisou"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/6964",
+                "end": 65,
+                "expanded_url": "https://fantia.jp/fanclubs/6964",
+                "start": 42,
+                "url": "https://t.co/0Vw5QU0koW"
+              },
+              {
+                "display_url": "kuroshop.booth.pm",
+                "end": 91,
+                "expanded_url": "https://kuroshop.booth.pm",
+                "start": 68,
+                "url": "https://t.co/NlLxdyefxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/6964",
+                "end": 23,
+                "expanded_url": "https://fantia.jp/fanclubs/6964",
+                "start": 0,
+                "url": "https://t.co/0Vw5QU0koW"
+              }
+            ]
+          }
+        },
+        "id": "318390086",
+        "location": "✝️ 麻雀FG ｱﾝｺｸ･ﾐﾂﾊﾞ/麻雀格闘倶楽部参戦中✝️",
+        "name": "赤木クロ✝️新刊通販中",
+        "pinned_tweet_id": "1962856953555857812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711220825427513344/eeq3ct_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222414,
+          "following_count": 5451,
+          "like_count": 68782,
+          "listed_count": 1812,
+          "media_count": 10570,
+          "tweet_count": 51044
+        },
+        "url": "https://t.co/0Vw5QU0koW",
+        "username": "akagikuro",
+        "verified": true
+      }
+    ]
+  }
+}

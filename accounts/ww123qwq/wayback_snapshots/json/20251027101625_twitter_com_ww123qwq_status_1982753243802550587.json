@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982640481616961536"
+      ],
+      "media_source_tweet_id": [
+        "1982640503591157968"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1982753243802550587",
+    "created_at": "2025-10-27T10:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T11:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982753243802550587"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "latex"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1762854138055184385",
+          "start": 3,
+          "username": "HuoHa23459"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TxI7SmLWSU",
+          "end": 62,
+          "expanded_url": "https://x.com/HuoHa23459/status/1982640503591157968/photo/1",
+          "media_key": "3_1982640481616961536",
+          "start": 39,
+          "url": "https://t.co/TxI7SmLWSU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982753243802550587",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982640503591157968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HuoHa23459: 兔女郎！\n#kigurumi \n#latex https://t.co/TxI7SmLWSU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982640481616961536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PBA3gWoAASV6O.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982640481616961536"
+          ],
+          "media_source_tweet_id": [
+            "1982640503591157968"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1982753243802550587",
+        "created_at": "2025-10-27T10:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982753243802550587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1762854138055184385",
+              "start": 3,
+              "username": "HuoHa23459"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxI7SmLWSU",
+              "end": 62,
+              "expanded_url": "https://x.com/HuoHa23459/status/1982640503591157968/photo/1",
+              "media_key": "3_1982640481616961536",
+              "start": 39,
+              "url": "https://t.co/TxI7SmLWSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982753243802550587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982640503591157968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HuoHa23459: 兔女郎！\n#kigurumi \n#latex https://t.co/TxI7SmLWSU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982640481616961536"
+          ]
+        },
+        "author_id": "1762854138055184385",
+        "conversation_id": "1982640503591157968",
+        "created_at": "2025-10-27T02:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982640503591157968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 5,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "latex"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxI7SmLWSU",
+              "end": 46,
+              "expanded_url": "https://x.com/HuoHa23459/status/1982640503591157968/photo/1",
+              "media_key": "3_1982640481616961536",
+              "start": 23,
+              "url": "https://t.co/TxI7SmLWSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982640503591157968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 4859,
+          "like_count": 361,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "兔女郎！\n#kigurumi \n#latex https://t.co/TxI7SmLWSU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 210,
+          "like_count": 40093,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 10767
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T14:56:25.000Z",
+        "description": "萌新kiger，成份超杂。 三流牌佬，四流胶佬。 全平台同名！ 感谢关注！欢迎扩列！",
+        "id": "1762854138055184385",
+        "location": "人智统合真国",
+        "name": "Naruto哒哒哒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836623046301618176/nVY9Hh6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 161,
+          "like_count": 136,
+          "listed_count": 17,
+          "media_count": 68,
+          "tweet_count": 86
+        },
+        "username": "HuoHa23459",
+        "verified": false
+      }
+    ]
+  }
+}

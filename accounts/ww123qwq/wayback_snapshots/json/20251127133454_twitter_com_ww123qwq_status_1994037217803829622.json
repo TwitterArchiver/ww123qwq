@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1993894730657390838",
+    "created_at": "2025-11-27T13:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T14:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994037217803829622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994037217803829622",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993894730657390838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 讨什么债？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 148,
+        "media_key": "3_1993894725448028166",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6u8sE3a0AYzI9m.png",
+        "width": 385
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1993894730657390838",
+        "created_at": "2025-11-27T13:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994037217803829622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994037217803829622",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993894730657390838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 讨什么债？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993894725448028166"
+          ]
+        },
+        "author_id": "1882936483662663680",
+        "conversation_id": "1993894730657390838",
+        "created_at": "2025-11-27T04:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993894730657390838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1mxz3ZewgG",
+              "end": 34,
+              "expanded_url": "https://x.com/jngyn298282/status/1993894730657390838/photo/1",
+              "media_key": "3_1993894725448028166",
+              "start": 11,
+              "url": "https://t.co/1mxz3ZewgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993894730657390838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 701,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疑似被我妈讨债（？🌚 https://t.co/1mxz3ZewgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/🚪52/88/188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 262,
+          "like_count": 40723,
+          "listed_count": 3,
+          "media_count": 405,
+          "tweet_count": 11636
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼/\n \n口粮：@420420420CTL/\n\n接受药圈新闻投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1882936483662663680",
+        "location": "🚪88/188/388/520",
+        "name": "镜音",
+        "pinned_tweet_id": "1992943700444688618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983881848775438338/SaevqnOR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 194,
+          "like_count": 16088,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 2443
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

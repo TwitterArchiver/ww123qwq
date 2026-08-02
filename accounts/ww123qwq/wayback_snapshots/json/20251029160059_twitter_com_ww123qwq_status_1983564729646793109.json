@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983461494206717952"
+      ],
+      "media_source_tweet_id": [
+        "1983461500888273092"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983564729646793109",
+    "created_at": "2025-10-29T16:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983564729646793109"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "黒川ミウ"
+        },
+        {
+          "end": 48,
+          "start": 42,
+          "tag": "latex"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1451840806298415105",
+          "start": 3,
+          "username": "garyhudson114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ewgkOGgsAZ",
+          "end": 72,
+          "expanded_url": "https://x.com/garyhudson114/status/1983461500888273092/photo/1",
+          "media_key": "3_1983461494206717952",
+          "start": 49,
+          "url": "https://t.co/ewgkOGgsAZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983564729646793109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983461500888273092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garyhudson114: 那我缺的粉色魔爪这一块谁给我补啊\n#黒川ミウ #latex https://t.co/ewgkOGgsAZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983461494206717952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4aruFvbYAA6eqS.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983461494206717952"
+          ],
+          "media_source_tweet_id": [
+            "1983461500888273092"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983564729646793109",
+        "created_at": "2025-10-29T16:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983564729646793109"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "黒川ミウ"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1451840806298415105",
+              "start": 3,
+              "username": "garyhudson114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ewgkOGgsAZ",
+              "end": 72,
+              "expanded_url": "https://x.com/garyhudson114/status/1983461500888273092/photo/1",
+              "media_key": "3_1983461494206717952",
+              "start": 49,
+              "url": "https://t.co/ewgkOGgsAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983564729646793109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983461500888273092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @garyhudson114: 那我缺的粉色魔爪这一块谁给我补啊\n#黒川ミウ #latex https://t.co/ewgkOGgsAZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983461494206717952"
+          ]
+        },
+        "author_id": "1451840806298415105",
+        "conversation_id": "1983461500888273092",
+        "created_at": "2025-10-29T09:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T10:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983461500888273092"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "黒川ミウ"
+            },
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "latex"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ewgkOGgsAZ",
+              "end": 53,
+              "expanded_url": "https://x.com/garyhudson114/status/1983461500888273092/photo/1",
+              "media_key": "3_1983461494206717952",
+              "start": 30,
+              "url": "https://t.co/ewgkOGgsAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983461500888273092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 5734,
+          "like_count": 344,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "那我缺的粉色魔爪这一块谁给我补啊\n#黒川ミウ #latex https://t.co/ewgkOGgsAZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 209,
+          "like_count": 40182,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 10817
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T09:20:04.000Z",
+        "description": "✟K圈最猛贩猪人✟ “🐷有猪你就报，是猪我就要，电话一响我就到🐷”🤝合作共赢🤝",
+        "id": "1451840806298415105",
+        "location": "西南海",
+        "name": "Gary Hudson",
+        "pinned_tweet_id": "1822899750141678036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954510644902031360/Z7dg33HF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12943,
+          "following_count": 550,
+          "like_count": 912,
+          "listed_count": 65,
+          "media_count": 498,
+          "tweet_count": 1215
+        },
+        "username": "garyhudson114",
+        "verified": false
+      }
+    ]
+  }
+}

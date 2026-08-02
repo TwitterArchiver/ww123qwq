@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984201514655879169"
+      ],
+      "media_source_tweet_id": [
+        "1984201530439053451"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1984289366223855704",
+    "created_at": "2025-10-31T16:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T17:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984289366223855704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1016552943774920704",
+          "start": 3,
+          "username": "Akinoyo_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infintytweet.me/interaction-ci…",
+          "end": 54,
+          "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 31,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/pFTo2aXKt6"
+        },
+        {
+          "display_url": "pic.x.com/P6R1OxCx35",
+          "end": 78,
+          "expanded_url": "https://x.com/Akinoyo_/status/1984201530439053451/photo/1",
+          "media_key": "3_1984201514655879169",
+          "start": 55,
+          "url": "https://t.co/P6R1OxCx35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984289366223855704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984201530439053451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akinoyo_: 我的Twitter互动圈\n\n➡️ https://t.co/pFTo2aXKt6 https://t.co/P6R1OxCx35"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1984201514655879169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lMw8vbEAEqwo5.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984201514655879169"
+          ],
+          "media_source_tweet_id": [
+            "1984201530439053451"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1984289366223855704",
+        "created_at": "2025-10-31T16:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984289366223855704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1016552943774920704",
+              "start": 3,
+              "username": "Akinoyo_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 54,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/pFTo2aXKt6"
+            },
+            {
+              "display_url": "pic.x.com/P6R1OxCx35",
+              "end": 78,
+              "expanded_url": "https://x.com/Akinoyo_/status/1984201530439053451/photo/1",
+              "media_key": "3_1984201514655879169",
+              "start": 55,
+              "url": "https://t.co/P6R1OxCx35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984289366223855704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984201530439053451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akinoyo_: 我的Twitter互动圈\n\n➡️ https://t.co/pFTo2aXKt6 https://t.co/P6R1OxCx35"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984201514655879169"
+          ]
+        },
+        "author_id": "1016552943774920704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1984201530439053451",
+        "created_at": "2025-10-31T10:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984201530439053451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/pFTo2aXKt6"
+            },
+            {
+              "display_url": "pic.x.com/P6R1OxCx35",
+              "end": 64,
+              "expanded_url": "https://x.com/Akinoyo_/status/1984201530439053451/photo/1",
+              "media_key": "3_1984201514655879169",
+              "start": 41,
+              "url": "https://t.co/P6R1OxCx35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984201530439053451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 778,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/pFTo2aXKt6 https://t.co/P6R1OxCx35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1060531885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 219,
+          "like_count": 40239,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 10889
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-10T05:21:23.000Z",
+        "description": "死亡才是歸處/MTF/INFP/Overdose/剩下不知道寫什麼就這樣吧",
+        "id": "1016552943774920704",
+        "location": "天國",
+        "name": "仿生喹硫平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983911370757435398/fV7U9EIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 964,
+          "like_count": 2090,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 1389
+        },
+        "username": "Akinoyo_",
+        "verified": false
+      }
+    ]
+  }
+}

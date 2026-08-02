@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939623100376825856"
+      ],
+      "media_source_tweet_id": [
+        "1939623107956015331"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1940204404935991698",
+    "created_at": "2025-07-02T00:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T01:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940204404935991698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1573550052945014784",
+          "start": 3,
+          "username": "Ly05YY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cce5lgwcI0",
+          "end": 35,
+          "expanded_url": "https://x.com/Ly05YY/status/1939623107956015331/photo/1",
+          "media_key": "3_1939623100376825856",
+          "start": 12,
+          "url": "https://t.co/Cce5lgwcI0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940204404935991698",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2810
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939623107956015331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Ly05YY: https://t.co/Cce5lgwcI0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939623100376825856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gurs7ugaQAAfHmv.jpg",
+        "width": 1499
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939623100376825856"
+          ],
+          "media_source_tweet_id": [
+            "1939623107956015331"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1940204404935991698",
+        "created_at": "2025-07-02T00:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T01:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940204404935991698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1573550052945014784",
+              "start": 3,
+              "username": "Ly05YY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cce5lgwcI0",
+              "end": 35,
+              "expanded_url": "https://x.com/Ly05YY/status/1939623107956015331/photo/1",
+              "media_key": "3_1939623100376825856",
+              "start": 12,
+              "url": "https://t.co/Cce5lgwcI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940204404935991698",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2810
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939623107956015331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Ly05YY: https://t.co/Cce5lgwcI0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939623100376825856"
+          ]
+        },
+        "author_id": "1573550052945014784",
+        "conversation_id": "1939623107956015331",
+        "created_at": "2025-06-30T09:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939623107956015331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cce5lgwcI0",
+              "end": 23,
+              "expanded_url": "https://x.com/Ly05YY/status/1939623107956015331/photo/1",
+              "media_key": "3_1939623100376825856",
+              "start": 0,
+              "url": "https://t.co/Cce5lgwcI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939623107956015331",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5052,
+          "impression_count": 782559,
+          "like_count": 36423,
+          "quote_count": 51,
+          "reply_count": 8,
+          "retweet_count": 2810
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/Cce5lgwcI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 191,
+          "like_count": 39983,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 10640
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T05:49:49.000Z",
+        "description": "檜宮（ひのみや）￤OC ⠀たまに版権￤Illustrator⠀#Crocus_TL FANBOX 【https://t.co/dHwIMNp4EI】自創作公式＆仕事関係🔗【https://t.co/6IuHJwSdLR】⠀⠀⠀⠀自我▶︎@4696te_ 他イラスト▶︎@Hinomiya_sousak",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 31,
+                "tag": "Crocus_TL"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 126,
+                "start": 118,
+                "username": "4696te_"
+              },
+              {
+                "end": 150,
+                "start": 134,
+                "username": "Hinomiya_sousak"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ly05yy.fanbox.cc",
+                "end": 73,
+                "expanded_url": "https://ly05yy.fanbox.cc/",
+                "start": 50,
+                "url": "https://t.co/dHwIMNp4EI"
+              },
+              {
+                "display_url": "1link.jp/ly05yy",
+                "end": 109,
+                "expanded_url": "https://1link.jp/ly05yy",
+                "start": 86,
+                "url": "https://t.co/6IuHJwSdLR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Ly05YY",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Ly05YY",
+                "start": 0,
+                "url": "https://t.co/OOTflNXbK4"
+              }
+            ]
+          }
+        },
+        "id": "1573550052945014784",
+        "location": "新規お仕事停止中",
+        "name": "檜宮しょう",
+        "pinned_tweet_id": "1936640612239045105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911355186519363584/Vsq7vYs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11469,
+          "following_count": 181,
+          "like_count": 7842,
+          "listed_count": 60,
+          "media_count": 45,
+          "tweet_count": 2611
+        },
+        "url": "https://t.co/OOTflNXbK4",
+        "username": "Ly05YY",
+        "verified": false
+      }
+    ]
+  }
+}

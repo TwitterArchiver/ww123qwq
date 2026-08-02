@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985362155055759661",
+    "created_at": "2025-11-04T03:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T04:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985551838058573998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824394555904626689",
+          "start": 0,
+          "username": "xiaoxun2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985551838058573998",
+    "in_reply_to_user_id": "1824394555904626689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985362155055759661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxun2007 我也"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985362155055759661",
+        "created_at": "2025-11-04T03:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985551838058573998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824394555904626689",
+              "start": 0,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985551838058573998",
+        "in_reply_to_user_id": "1824394555904626689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985362155055759661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxun2007 我也"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824394555904626689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1985362155055759661",
+        "created_at": "2025-11-03T15:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985362155055759661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985362155055759661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1740,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我特别给一些心理健康的人发一些私藏的猎奇玩意看，看他们惊讶或者被恶心到的样子就觉得特别好笑😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1063487741",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 220,
+          "like_count": 40285,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 10950
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:35:50.000Z",
+        "description": "清水推 † 前世@xiaoxun519🕸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "xiaoxun519"
+              }
+            ]
+          }
+        },
+        "id": "1824394555904626689",
+        "name": "潯",
+        "pinned_tweet_id": "1980635594175967338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824394722246529024/nNDsNPXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 297,
+          "like_count": 2839,
+          "listed_count": 5,
+          "media_count": 63,
+          "tweet_count": 1636
+        },
+        "username": "xiaoxun2007",
+        "verified": false
+      }
+    ]
+  }
+}

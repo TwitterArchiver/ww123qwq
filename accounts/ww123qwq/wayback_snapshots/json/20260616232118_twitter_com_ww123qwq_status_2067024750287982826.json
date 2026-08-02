@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066795171191439360"
+      ],
+      "media_source_tweet_id": [
+        "2066795180276236665"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067024750287982826",
+    "created_at": "2026-06-16T23:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T00:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067024750287982826"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "まのさば"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1825172193468416001",
+          "start": 3,
+          "username": "light0185"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OVi8u86HvO",
+          "end": 54,
+          "expanded_url": "https://x.com/light0185/status/2066795180276236665/photo/1",
+          "media_key": "3_2066795171191439360",
+          "start": 31,
+          "url": "https://t.co/OVi8u86HvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067024750287982826",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 298
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066795180276236665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @light0185: #まのさば\n마음대로 옷입히기 https://t.co/OVi8u86HvO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066795171191439360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK67QgJbwAAFFg-.jpg",
+        "width": 1525
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066795171191439360"
+          ],
+          "media_source_tweet_id": [
+            "2066795180276236665"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067024750287982826",
+        "created_at": "2026-06-16T23:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067024750287982826"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "まのさば"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825172193468416001",
+              "start": 3,
+              "username": "light0185"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVi8u86HvO",
+              "end": 54,
+              "expanded_url": "https://x.com/light0185/status/2066795180276236665/photo/1",
+              "media_key": "3_2066795171191439360",
+              "start": 31,
+              "url": "https://t.co/OVi8u86HvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067024750287982826",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 298
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066795180276236665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @light0185: #まのさば\n마음대로 옷입히기 https://t.co/OVi8u86HvO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066795171191439360"
+          ]
+        },
+        "author_id": "1825172193468416001",
+        "conversation_id": "2066795180276236665",
+        "created_at": "2026-06-16T08:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066795180276236665"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "まのさば"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVi8u86HvO",
+              "end": 39,
+              "expanded_url": "https://x.com/light0185/status/2066795180276236665/photo/1",
+              "media_key": "3_2066795171191439360",
+              "start": 16,
+              "url": "https://t.co/OVi8u86HvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066795180276236665",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 20429,
+          "like_count": 1966,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 298
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば\n마음대로 옷입히기 https://t.co/OVi8u86HvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 269,
+          "like_count": 42752,
+          "listed_count": 4,
+          "media_count": 703,
+          "tweet_count": 12919
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T14:06:00.000Z",
+        "description": "2025년 9월 1일부터 이세계인이 된 군바리입니다\n\npixiv: https://t.co/8Zgp9BpMm7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/62463223",
+                "end": 60,
+                "expanded_url": "https://www.pixiv.net/users/62463223",
+                "start": 37,
+                "url": "https://t.co/8Zgp9BpMm7"
+              }
+            ]
+          }
+        },
+        "id": "1825172193468416001",
+        "name": "TolLight",
+        "pinned_tweet_id": "1962080306468675829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837887522195800064/QZwRf7cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 384,
+          "like_count": 5344,
+          "listed_count": 7,
+          "media_count": 100,
+          "tweet_count": 1361
+        },
+        "username": "light0185",
+        "verified": true
+      }
+    ]
+  }
+}

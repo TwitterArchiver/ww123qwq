@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066656266471227392"
+      ],
+      "media_source_tweet_id": [
+        "2066656276436906265"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2066764115151077836",
+    "created_at": "2026-06-16T06:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066764115151077836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1411921754474176512",
+          "start": 3,
+          "username": "4s2iilll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aW0aDCoEyK",
+          "end": 56,
+          "expanded_url": "https://x.com/4s2iilll/status/2066656276436906265/photo/1",
+          "media_key": "3_2066656266471227392",
+          "start": 33,
+          "url": "https://t.co/aW0aDCoEyK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066764115151077836",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066656276436906265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4s2iilll: cm ჱ̒^_  ̫ _^ *·.✧ https://t.co/aW0aDCoEyK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2066656266471227392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK487LvaQAAUNti.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066656266471227392"
+          ],
+          "media_source_tweet_id": [
+            "2066656276436906265"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2066764115151077836",
+        "created_at": "2026-06-16T06:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066764115151077836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1411921754474176512",
+              "start": 3,
+              "username": "4s2iilll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aW0aDCoEyK",
+              "end": 56,
+              "expanded_url": "https://x.com/4s2iilll/status/2066656276436906265/photo/1",
+              "media_key": "3_2066656266471227392",
+              "start": 33,
+              "url": "https://t.co/aW0aDCoEyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066764115151077836",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066656276436906265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4s2iilll: cm ჱ̒^_  ̫ _^ *·.✧ https://t.co/aW0aDCoEyK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066656266471227392"
+          ]
+        },
+        "author_id": "1411921754474176512",
+        "conversation_id": "2066656276436906265",
+        "created_at": "2026-06-15T22:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T23:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066656276436906265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aW0aDCoEyK",
+              "end": 42,
+              "expanded_url": "https://x.com/4s2iilll/status/2066656276436906265/photo/1",
+              "media_key": "3_2066656266471227392",
+              "start": 19,
+              "url": "https://t.co/aW0aDCoEyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066656276436906265",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 14794,
+          "like_count": 1613,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "cm ჱ̒^_  ̫ _^ *·.✧ https://t.co/aW0aDCoEyK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 266,
+          "like_count": 42720,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 12895
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-05T05:36:04.000Z",
+        "description": "えとです あおがすきᐢ⩌⌯⩌ᐢ sub：@subiilll\n✦Skeb: https://t.co/kLE96W2Lfg\nその他ご依頼はdmまでお願いします（現在停止中）✉️🛜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "subiilll"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@4s2iilll",
+                "end": 60,
+                "expanded_url": "https://skeb.jp/@4s2iilll",
+                "start": 37,
+                "url": "https://t.co/kLE96W2Lfg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "booklog.jp/users/zzzpy",
+                "end": 23,
+                "expanded_url": "https://booklog.jp/users/zzzpy",
+                "start": 0,
+                "url": "https://t.co/IcMPmSDBIY"
+              }
+            ]
+          }
+        },
+        "id": "1411921754474176512",
+        "location": "✧(えと)/無断使用 転載 AI学習🚫🙅‍♀️",
+        "name": "✧",
+        "pinned_tweet_id": "2027541394081079624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023011697368457216/d3RsZ3bh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2933,
+          "following_count": 85,
+          "like_count": 1119,
+          "listed_count": 12,
+          "media_count": 70,
+          "tweet_count": 351
+        },
+        "url": "https://t.co/IcMPmSDBIY",
+        "username": "4s2iilll",
+        "verified": false
+      }
+    ]
+  }
+}

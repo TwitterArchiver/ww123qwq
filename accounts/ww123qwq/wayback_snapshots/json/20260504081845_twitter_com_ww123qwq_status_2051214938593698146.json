@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2051111949992177953",
+    "created_at": "2026-05-04T08:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T09:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051214938593698146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1784577550473199618",
+          "start": 0,
+          "username": "ghost2223667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051214938593698146",
+    "in_reply_to_user_id": "1784577550473199618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051168816667992409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ghost2223667 42t，没感觉补药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2051111949992177953",
+        "created_at": "2026-05-04T08:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051214938593698146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784577550473199618",
+              "start": 0,
+              "username": "ghost2223667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051214938593698146",
+        "in_reply_to_user_id": "1784577550473199618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051168816667992409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghost2223667 42t，没感觉补药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784577550473199618",
+        "conversation_id": "2051111949992177953",
+        "created_at": "2026-05-04T05:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051168816667992409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051168816667992409",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051111949992177953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 白兔一次吃多少t呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 276,
+          "like_count": 42520,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12755
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T13:37:03.000Z",
+        "description": "互fo",
+        "id": "1784577550473199618",
+        "location": "普瑞巴林",
+        "name": "Ghost",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051168881772023808/G6DvZJTR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 69,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "ghost2223667",
+        "verified": false
+      }
+    ]
+  }
+}

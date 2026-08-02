@@ -1,0 +1,261 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1804519345470709761"
+      ],
+      "media_source_tweet_id": [
+        "1804519350814318885"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1804991366545719783",
+    "created_at": "2024-06-23T21:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T22:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804991366545719783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1603965436202463232",
+          "start": 3,
+          "username": "qqkkay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/VlHnqNTyRe",
+          "end": 38,
+          "expanded_url": "https://twitter.com/qqkkay/status/1804519350814318885/photo/1",
+          "media_key": "3_1804519345470709761",
+          "start": 15,
+          "url": "https://t.co/VlHnqNTyRe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804991366545719783",
+    "lang": "ko",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2451
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804519350814318885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qqkkay: 리퀘 https://t.co/VlHnqNTyRe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_1804519345470709761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQrwyLEaIAER6mW.jpg",
+        "width": 1467
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804519345470709761"
+          ],
+          "media_source_tweet_id": [
+            "1804519350814318885"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1804991366545719783",
+        "created_at": "2024-06-23T21:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T22:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804991366545719783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1603965436202463232",
+              "start": 3,
+              "username": "qqkkay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VlHnqNTyRe",
+              "end": 38,
+              "expanded_url": "https://twitter.com/qqkkay/status/1804519350814318885/photo/1",
+              "media_key": "3_1804519345470709761",
+              "start": 15,
+              "url": "https://t.co/VlHnqNTyRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804991366545719783",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2451
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804519350814318885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qqkkay: 리퀘 https://t.co/VlHnqNTyRe"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804519345470709761"
+          ]
+        },
+        "author_id": "1603965436202463232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1804519350814318885",
+        "created_at": "2024-06-22T14:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T15:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804519350814318885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VlHnqNTyRe",
+              "end": 26,
+              "expanded_url": "https://twitter.com/qqkkay/status/1804519350814318885/photo/1",
+              "media_key": "3_1804519345470709761",
+              "start": 3,
+              "url": "https://t.co/VlHnqNTyRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804519350814318885",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1825,
+          "impression_count": 312683,
+          "like_count": 18630,
+          "quote_count": 38,
+          "reply_count": 10,
+          "retweet_count": 2451
+        },
+        "reply_settings": "everyone",
+        "text": "리퀘 https://t.co/VlHnqNTyRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 106,
+          "like_count": 40287,
+          "listed_count": 0,
+          "tweet_count": 10290
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T04:09:09.000Z",
+        "description": "리퀘는 7월 중까지는 모두 그려드리겠습니다~~ 재촉x!!",
+        "id": "1603965436202463232",
+        "name": "씨씨18",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734559843368030208/J7gF0VB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59047,
+          "following_count": 80,
+          "like_count": 2795,
+          "listed_count": 402,
+          "tweet_count": 531
+        },
+        "username": "qqkkay",
+        "verified": false
+      }
+    ]
+  }
+}

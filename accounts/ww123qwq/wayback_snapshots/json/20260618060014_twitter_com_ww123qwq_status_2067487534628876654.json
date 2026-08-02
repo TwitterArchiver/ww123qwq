@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067202271952420864",
+        "3_2067202271977607168",
+        "3_2067202271969173504",
+        "3_2067202271939850240"
+      ],
+      "media_source_tweet_id": [
+        "2067202280341094856",
+        "2067202280341094856",
+        "2067202280341094856",
+        "2067202280341094856"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067487534628876654",
+    "created_at": "2026-06-18T06:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067487534628876654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1480855887837536258",
+          "start": 3,
+          "username": "Hiiroruka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/usuVdtINJE",
+          "end": 51,
+          "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+          "media_key": "3_2067202271952420864",
+          "start": 28,
+          "url": "https://t.co/usuVdtINJE"
+        },
+        {
+          "display_url": "pic.x.com/usuVdtINJE",
+          "end": 51,
+          "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+          "media_key": "3_2067202271977607168",
+          "start": 28,
+          "url": "https://t.co/usuVdtINJE"
+        },
+        {
+          "display_url": "pic.x.com/usuVdtINJE",
+          "end": 51,
+          "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+          "media_key": "3_2067202271969173504",
+          "start": 28,
+          "url": "https://t.co/usuVdtINJE"
+        },
+        {
+          "display_url": "pic.x.com/usuVdtINJE",
+          "end": 51,
+          "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+          "media_key": "3_2067202271939850240",
+          "start": 28,
+          "url": "https://t.co/usuVdtINJE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067487534628876654",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 424
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067202280341094856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hiiroruka: おのれの描くお口可愛すぎ https://t.co/usuVdtINJE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_2067202271952420864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAtg4qawAAgZWr.jpg",
+        "width": 1181
+      },
+      {
+        "height": 694,
+        "media_key": "3_2067202271977607168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAtg4wbEAAaK5I.jpg",
+        "width": 925
+      },
+      {
+        "height": 940,
+        "media_key": "3_2067202271969173504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAtg4uaYAAgKwq.jpg",
+        "width": 1423
+      },
+      {
+        "height": 662,
+        "media_key": "3_2067202271939850240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAtg4na8AAenCV.jpg",
+        "width": 989
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067202271952420864",
+            "3_2067202271977607168",
+            "3_2067202271969173504",
+            "3_2067202271939850240"
+          ],
+          "media_source_tweet_id": [
+            "2067202280341094856",
+            "2067202280341094856",
+            "2067202280341094856",
+            "2067202280341094856"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067487534628876654",
+        "created_at": "2026-06-18T06:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067487534628876654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1480855887837536258",
+              "start": 3,
+              "username": "Hiiroruka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usuVdtINJE",
+              "end": 51,
+              "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+              "media_key": "3_2067202271952420864",
+              "start": 28,
+              "url": "https://t.co/usuVdtINJE"
+            },
+            {
+              "display_url": "pic.x.com/usuVdtINJE",
+              "end": 51,
+              "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+              "media_key": "3_2067202271977607168",
+              "start": 28,
+              "url": "https://t.co/usuVdtINJE"
+            },
+            {
+              "display_url": "pic.x.com/usuVdtINJE",
+              "end": 51,
+              "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+              "media_key": "3_2067202271969173504",
+              "start": 28,
+              "url": "https://t.co/usuVdtINJE"
+            },
+            {
+              "display_url": "pic.x.com/usuVdtINJE",
+              "end": 51,
+              "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+              "media_key": "3_2067202271939850240",
+              "start": 28,
+              "url": "https://t.co/usuVdtINJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067487534628876654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 424
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067202280341094856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hiiroruka: おのれの描くお口可愛すぎ https://t.co/usuVdtINJE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067202271952420864",
+            "3_2067202271977607168",
+            "3_2067202271969173504",
+            "3_2067202271939850240"
+          ]
+        },
+        "author_id": "1480855887837536258",
+        "conversation_id": "2067202280341094856",
+        "created_at": "2026-06-17T11:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067202280341094856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/usuVdtINJE",
+              "end": 36,
+              "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+              "media_key": "3_2067202271952420864",
+              "start": 13,
+              "url": "https://t.co/usuVdtINJE"
+            },
+            {
+              "display_url": "pic.x.com/usuVdtINJE",
+              "end": 36,
+              "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+              "media_key": "3_2067202271977607168",
+              "start": 13,
+              "url": "https://t.co/usuVdtINJE"
+            },
+            {
+              "display_url": "pic.x.com/usuVdtINJE",
+              "end": 36,
+              "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+              "media_key": "3_2067202271969173504",
+              "start": 13,
+              "url": "https://t.co/usuVdtINJE"
+            },
+            {
+              "display_url": "pic.x.com/usuVdtINJE",
+              "end": 36,
+              "expanded_url": "https://x.com/Hiiroruka/status/2067202280341094856/photo/1",
+              "media_key": "3_2067202271939850240",
+              "start": 13,
+              "url": "https://t.co/usuVdtINJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067202280341094856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2153,
+          "impression_count": 259297,
+          "like_count": 13050,
+          "quote_count": 8,
+          "reply_count": 10,
+          "retweet_count": 424
+        },
+        "reply_settings": "everyone",
+        "text": "おのれの描くお口可愛すぎ https://t.co/usuVdtINJE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 271,
+          "like_count": 42793,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12949
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T10:57:46.000Z",
+        "description": "✧Illustrator✧ 〖個人様・企業様問わずご依頼受付中〗\n︴連絡先 : hiiroruka25@gmail.com\n︴Skeb：https://t.co/ieC05uiJk9\n︴FANBOX：https://t.co/IZU6Zu7rwL ⚠︎︎：AI学習/無断使用/転載 禁止×",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Hiiroruka",
+                "end": 91,
+                "expanded_url": "https://skeb.jp/@Hiiroruka",
+                "start": 68,
+                "url": "https://t.co/ieC05uiJk9"
+              },
+              {
+                "display_url": "hiiroruka.fanbox.cc",
+                "end": 123,
+                "expanded_url": "https://hiiroruka.fanbox.cc/",
+                "start": 100,
+                "url": "https://t.co/IZU6Zu7rwL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Hiiroruka",
+                "end": 23,
+                "expanded_url": "https://lit.link/Hiiroruka",
+                "start": 0,
+                "url": "https://t.co/FSM7YKvDj7"
+              }
+            ]
+          }
+        },
+        "id": "1480855887837536258",
+        "location": "FAはご本人様使用OK/ご依頼前に下記リンクをご一読ください",
+        "name": "日彩るか",
+        "pinned_tweet_id": "2065751164445217231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032448413221220352/wlX9Rh1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15910,
+          "following_count": 176,
+          "like_count": 37299,
+          "listed_count": 84,
+          "media_count": 299,
+          "tweet_count": 2619
+        },
+        "url": "https://t.co/FSM7YKvDj7",
+        "username": "Hiiroruka",
+        "verified": false
+      }
+    ]
+  }
+}

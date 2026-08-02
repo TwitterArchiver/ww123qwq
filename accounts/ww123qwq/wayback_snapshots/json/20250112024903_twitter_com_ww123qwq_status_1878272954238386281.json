@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878041735684919296"
+      ],
+      "media_source_tweet_id": [
+        "1878041740697055435"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1878272954238386281",
+    "created_at": "2025-01-12T02:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T03:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878272954238386281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1598107059702050816",
+          "start": 3,
+          "username": "x__c3x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BGLvUSWhHF",
+          "end": 35,
+          "expanded_url": "https://x.com/x__c3x/status/1878041740697055435/photo/1",
+          "media_key": "3_1878041735684919296",
+          "start": 12,
+          "url": "https://t.co/BGLvUSWhHF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878272954238386281",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 212
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878041740697055435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @x__c3x: https://t.co/BGLvUSWhHF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1311,
+        "media_key": "3_1878041735684919296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhAlAiDbkAASpRw.jpg",
+        "width": 1247
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878041735684919296"
+          ],
+          "media_source_tweet_id": [
+            "1878041740697055435"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1878272954238386281",
+        "created_at": "2025-01-12T02:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T03:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878272954238386281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598107059702050816",
+              "start": 3,
+              "username": "x__c3x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGLvUSWhHF",
+              "end": 35,
+              "expanded_url": "https://x.com/x__c3x/status/1878041740697055435/photo/1",
+              "media_key": "3_1878041735684919296",
+              "start": 12,
+              "url": "https://t.co/BGLvUSWhHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878272954238386281",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 212
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878041740697055435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @x__c3x: https://t.co/BGLvUSWhHF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878041735684919296"
+          ]
+        },
+        "author_id": "1598107059702050816",
+        "conversation_id": "1878041740697055435",
+        "created_at": "2025-01-11T11:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T12:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878041740697055435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGLvUSWhHF",
+              "end": 23,
+              "expanded_url": "https://x.com/x__c3x/status/1878041740697055435/photo/1",
+              "media_key": "3_1878041735684919296",
+              "start": 0,
+              "url": "https://t.co/BGLvUSWhHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878041740697055435",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 42522,
+          "like_count": 3930,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 212
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/BGLvUSWhHF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 128,
+          "like_count": 39865,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 10250
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T00:10:55.000Z",
+        "description": "@nya_c_ のさぶ ໒꒱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "nya_c_"
+              }
+            ]
+          }
+        },
+        "id": "1598107059702050816",
+        "location": "無断転載使用× Don't re-upload or use",
+        "name": "tutu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818825132934144000/LtNxJp1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147483,
+          "following_count": 1,
+          "like_count": 242,
+          "listed_count": 298,
+          "media_count": 9,
+          "tweet_count": 21
+        },
+        "username": "x__c3x",
+        "verified": false
+      }
+    ]
+  }
+}

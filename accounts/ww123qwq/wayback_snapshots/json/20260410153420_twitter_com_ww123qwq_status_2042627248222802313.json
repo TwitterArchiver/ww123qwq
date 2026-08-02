@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2042627248222802313",
+    "created_at": "2026-04-10T15:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042627248222802313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxx_jjkk/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/xxx_jjkk/status/2042600217799987572",
+          "start": 7,
+          "url": "https://t.co/GeeBkPkOeK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042627248222802313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042600217799987572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "✝️升天✝️ https://t.co/GeeBkPkOeK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2042600214410989574",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjGEqYakAYYPai.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1965,
+        "media_key": "3_2042600215014969344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjGEsoakAACLGC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2042627248222802313",
+        "created_at": "2026-04-10T15:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042627248222802313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxx_jjkk/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/xxx_jjkk/status/2042600217799987572",
+              "start": 7,
+              "url": "https://t.co/GeeBkPkOeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042627248222802313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042600217799987572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "✝️升天✝️ https://t.co/GeeBkPkOeK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042600214410989574",
+            "3_2042600215014969344"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042600217799987572",
+        "created_at": "2026-04-10T13:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042600217799987572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HhYMICZ7uM",
+              "end": 68,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2042600217799987572/photo/1",
+              "media_key": "3_2042600214410989574",
+              "start": 45,
+              "url": "https://t.co/HhYMICZ7uM"
+            },
+            {
+              "display_url": "pic.x.com/HhYMICZ7uM",
+              "end": 68,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2042600217799987572/photo/1",
+              "media_key": "3_2042600215014969344",
+              "start": 45,
+              "url": "https://t.co/HhYMICZ7uM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042600217799987572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1748,
+          "like_count": 45,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "神了 这次广州禁毒还有来源介绍直接把主播女孩重度依赖这个名字打在上面了\n官方推荐了属于是 https://t.co/HhYMICZ7uM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 275,
+          "like_count": 42126,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 12609
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 412,
+          "like_count": 9507,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

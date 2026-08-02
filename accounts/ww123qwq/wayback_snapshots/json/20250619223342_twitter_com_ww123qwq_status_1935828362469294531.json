@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929852689678323715"
+      ],
+      "media_source_tweet_id": [
+        "1929852693037896089"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1935828362469294531",
+    "created_at": "2025-06-19T22:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T23:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935828362469294531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1760996307705982976",
+          "start": 3,
+          "username": "OvO_Qian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GsyKAZJ0MQ",
+          "end": 55,
+          "expanded_url": "https://x.com/OvO_Qian/status/1929852693037896089/photo/1",
+          "media_key": "3_1929852689678323715",
+          "start": 32,
+          "url": "https://t.co/GsyKAZJ0MQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935828362469294531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929852693037896089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OvO_Qian: 刚刚在厕所里do了。。。有点刺激😣 https://t.co/GsyKAZJ0MQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935828362469294531].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935828362469294531",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935828362469294531"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_1929852689678323715",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsg2y-Ub0AMiXgO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929852689678323715"
+          ]
+        },
+        "author_id": "1760996307705982976",
+        "conversation_id": "1929852693037896089",
+        "created_at": "2025-06-03T10:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T11:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929852693037896089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsyKAZJ0MQ",
+              "end": 41,
+              "expanded_url": "https://x.com/OvO_Qian/status/1929852693037896089/photo/1",
+              "media_key": "3_1929852689678323715",
+              "start": 18,
+              "url": "https://t.co/GsyKAZJ0MQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929852693037896089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 539,
+          "impression_count": 446022,
+          "like_count": 3703,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚在厕所里do了。。。有点刺激😣 https://t.co/GsyKAZJ0MQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 190,
+          "like_count": 39933,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 10613
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:54:22.000Z",
+        "description": "男娘♂丨无聊上来玩玩推丨H内容都在门槛内丨🚪198＝vx好友位（朋友圈有脸照）+涩涩福利（视蘋群+🐰包+定制）丨",
+        "id": "1760996307705982976",
+        "location": "随机刷新",
+        "name": "铃木 花音",
+        "pinned_tweet_id": "1807744637500850302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785920004632039424/jlwAGGKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56890,
+          "following_count": 376,
+          "like_count": 3961,
+          "listed_count": 123,
+          "media_count": 197,
+          "tweet_count": 4290
+        },
+        "username": "OvO_Qian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983100110038020570",
+    "created_at": "2025-10-28T10:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T11:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983112783836393813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963867793776070656",
+          "start": 0,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983112783836393813",
+    "in_reply_to_user_id": "1963867793776070656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983100110038020570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist1 把鸡哥夺舍了（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2171,
+        "media_key": "3_1983100107328557056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VjCmtbkAA5RKM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983100110038020570",
+        "created_at": "2025-10-28T10:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983112783836393813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983112783836393813",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983100110038020570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 把鸡哥夺舍了（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983100107328557056"
+          ]
+        },
+        "author_id": "1963867793776070656",
+        "conversation_id": "1983100110038020570",
+        "created_at": "2025-10-28T09:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983100110038020570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2T9popKNmp",
+              "end": 40,
+              "expanded_url": "https://x.com/drug_artist1/status/1983100110038020570/photo/1",
+              "media_key": "3_1983100107328557056",
+              "start": 17,
+              "url": "https://t.co/2T9popKNmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983100110038020570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "武装夺权，现在这里是雨属化百频道 https://t.co/2T9popKNmp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 210,
+          "like_count": 40138,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 10786
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿请私信我｜售卖合法物质｜提问箱:https://t.co/ez10SQHDdD｜愿每一位药物滥用者都能脱离深渊｜提供药物咨询 ｜im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 51,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 28,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1980936658594996695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 63,
+          "like_count": 345,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

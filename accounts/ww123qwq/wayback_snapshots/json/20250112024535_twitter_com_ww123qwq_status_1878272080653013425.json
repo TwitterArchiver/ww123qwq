@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878037246064168960"
+      ],
+      "media_source_tweet_id": [
+        "1878037256839315957"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1878272080653013425",
+    "created_at": "2025-01-12T02:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T03:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878272080653013425"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 17,
+          "tag": "絵柄が好みって人にフォローされたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1215938434285441030",
+          "start": 3,
+          "username": "moemoepiano"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gNg1ih2Fma",
+          "end": 59,
+          "expanded_url": "https://x.com/moemoepiano/status/1878037256839315957/photo/1",
+          "media_key": "3_1878037246064168960",
+          "start": 36,
+          "url": "https://t.co/gNg1ih2Fma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878272080653013425",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 357
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878037256839315957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moemoepiano: #絵柄が好みって人にフォローされたい https://t.co/gNg1ih2Fma"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1878037246064168960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhAg7M6bkAA6RtP.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878037246064168960"
+          ],
+          "media_source_tweet_id": [
+            "1878037256839315957"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1878272080653013425",
+        "created_at": "2025-01-12T02:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T03:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878272080653013425"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 17,
+              "tag": "絵柄が好みって人にフォローされたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1215938434285441030",
+              "start": 3,
+              "username": "moemoepiano"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gNg1ih2Fma",
+              "end": 59,
+              "expanded_url": "https://x.com/moemoepiano/status/1878037256839315957/photo/1",
+              "media_key": "3_1878037246064168960",
+              "start": 36,
+              "url": "https://t.co/gNg1ih2Fma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878272080653013425",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 357
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878037256839315957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moemoepiano: #絵柄が好みって人にフォローされたい https://t.co/gNg1ih2Fma"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878037246064168960"
+          ]
+        },
+        "author_id": "1215938434285441030",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1878037256839315957",
+        "created_at": "2025-01-11T11:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T12:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878037256839315957"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "絵柄が好みって人にフォローされたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gNg1ih2Fma",
+              "end": 42,
+              "expanded_url": "https://x.com/moemoepiano/status/1878037256839315957/photo/1",
+              "media_key": "3_1878037246064168960",
+              "start": 19,
+              "url": "https://t.co/gNg1ih2Fma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878037256839315957",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 537,
+          "impression_count": 46349,
+          "like_count": 4491,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "#絵柄が好みって人にフォローされたい https://t.co/gNg1ih2Fma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 128,
+          "like_count": 39864,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 10248
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-11T10:08:17.000Z",
+        "description": "ʚCommission ✉otonohamoe@gmail.com or https://t.co/z7o9KOnh4I ʚFanBox(https://t.co/eaF2hkyDrH) ご依頼前必読【https://t.co/jjU5NTk7dK】❥海外音楽院卒ピアニストJP/EN V垢@otonohamoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 145,
+                "username": "otonohamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "otonokj.crd.co",
+                "end": 60,
+                "expanded_url": "https://otonokj.crd.co/",
+                "start": 37,
+                "url": "https://t.co/z7o9KOnh4I"
+              },
+              {
+                "display_url": "bit.ly/3i32Dzo",
+                "end": 92,
+                "expanded_url": "https://bit.ly/3i32Dzo",
+                "start": 69,
+                "url": "https://t.co/eaF2hkyDrH"
+              },
+              {
+                "display_url": "bit.ly/3vl39Tp",
+                "end": 124,
+                "expanded_url": "https://bit.ly/3vl39Tp",
+                "start": 101,
+                "url": "https://t.co/jjU5NTk7dK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/moemoepiano",
+                "end": 23,
+                "expanded_url": "https://lit.link/moemoepiano",
+                "start": 0,
+                "url": "https://t.co/VBej0TmNYb"
+              }
+            ]
+          }
+        },
+        "id": "1215938434285441030",
+        "location": "ご依頼2月末～納品可",
+        "name": "音ノ羽萌/Otonoha Moe🤍🎹Illustrator/Pianist",
+        "pinned_tweet_id": "1877704868405612780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869657953365843968/262VqPM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42540,
+          "following_count": 253,
+          "like_count": 20237,
+          "listed_count": 396,
+          "media_count": 327,
+          "tweet_count": 21180
+        },
+        "url": "https://t.co/VBej0TmNYb",
+        "username": "moemoepiano",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067111136919740598",
+    "created_at": "2026-06-18T15:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067635732752334883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2025905993935405057",
+          "start": 0,
+          "username": "ganzeos"
+        },
+        {
+          "end": 16,
+          "id": "1844356739539533829",
+          "start": 9,
+          "username": "xccpma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067635732752334883",
+    "in_reply_to_user_id": "2025905993935405057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067587709791547685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ganzeos @xccpma 500mg，一个小时后补500mg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067111136919740598",
+        "created_at": "2026-06-18T15:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067635732752334883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2025905993935405057",
+              "start": 0,
+              "username": "ganzeos"
+            },
+            {
+              "end": 16,
+              "id": "1844356739539533829",
+              "start": 9,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067635732752334883",
+        "in_reply_to_user_id": "2025905993935405057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067587709791547685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ganzeos @xccpma 500mg，一个小时后补500mg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025905993935405057",
+        "conversation_id": "2067111136919740598",
+        "created_at": "2026-06-18T12:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067587709791547685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 17,
+              "id": "1844356739539533829",
+              "start": 10,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067587709791547685",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067274013404250225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq @xccpma 加巴喷丁第一次吃怎么吃啊，已经一个月没有吃过任何药物了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 271,
+          "like_count": 42797,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12952
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T12:10:11.000Z",
+        "description": "我叫甘泽\n直男（不顺直\n坐标浙江宁波\n生日12.24\n08年摩羯座isfj\n喜欢玩游戏/第五人格/王者荣耀/vrchat/我的世界（java）\n喜欢永雏塔菲，不追星、不怎么磕cp、🈚雷点（小粉红走开\n本人性格温良（除了游戏里面？！不过不会去骂朋友）\n可以找我玩游戏",
+        "id": "2025905993935405057",
+        "name": "甘泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053115508879179778/MKU_anOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 25,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "ganzeos",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 69,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2070206935048339618",
+    "created_at": "2026-06-27T06:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070750193990168849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1870825698744836096",
+          "start": 0,
+          "username": "ifiwereamoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070750193990168849",
+    "in_reply_to_user_id": "1870825698744836096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070748986563338637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ifiwereamoth 还行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2070206935048339618",
+        "created_at": "2026-06-27T06:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070750193990168849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1870825698744836096",
+              "start": 0,
+              "username": "ifiwereamoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070750193990168849",
+        "in_reply_to_user_id": "1870825698744836096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070748986563338637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ifiwereamoth 还行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870825698744836096",
+        "conversation_id": "2070206935048339618",
+        "created_at": "2026-06-27T06:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070748986563338637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070748986563338637",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070572105989837103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 這些好開嗎！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 279,
+          "like_count": 43107,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 13067
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T13:36:35.000Z",
+        "description": "邊界之物",
+        "id": "1870825698744836096",
+        "location": "🚪88好处只有認識我",
+        "name": "s!xpence",
+        "pinned_tweet_id": "2002568787061846389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002570935380160516/-yco8Owh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1847,
+          "following_count": 120,
+          "like_count": 3235,
+          "listed_count": 7,
+          "media_count": 144,
+          "tweet_count": 731
+        },
+        "url": "",
+        "username": "ifiwereamoth",
+        "verified": false
+      }
+    ]
+  }
+}

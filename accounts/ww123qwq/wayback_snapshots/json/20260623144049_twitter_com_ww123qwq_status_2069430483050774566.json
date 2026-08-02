@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2069322836108542357",
+    "created_at": "2026-06-23T14:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069430483050774566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738907027362209792",
+          "start": 0,
+          "username": "ElysiumFengxuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069430483050774566",
+    "in_reply_to_user_id": "1738907027362209792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069394222134993112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElysiumFengxuan 群名"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2069322836108542357",
+        "created_at": "2026-06-23T14:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069430483050774566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069430483050774566",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069394222134993112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan 群名"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "2069322836108542357",
+        "created_at": "2026-06-23T12:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069394222134993112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069394222134993112",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 422,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069351381950230780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 看到什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 277,
+          "like_count": 43026,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 13027
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "喵喵帝国",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 2601,
+          "like_count": 6750,
+          "listed_count": 11,
+          "media_count": 1234,
+          "tweet_count": 10071
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      }
+    ]
+  }
+}

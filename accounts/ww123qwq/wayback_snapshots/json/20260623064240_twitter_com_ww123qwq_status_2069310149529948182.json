@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2068880078583533830",
+    "created_at": "2026-06-23T06:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069310149529948182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051195377420992512",
+          "start": 0,
+          "username": "Rain7x6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069310149529948182",
+    "in_reply_to_user_id": "2051195377420992512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068880078583533830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain7x6y 不一定，但是大概率感染"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 471930,
+        "height": 1280,
+        "media_key": "13_2068879737934761984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068879737934761984/img/byHDJNsmXwloLHin.jpg",
+        "public_metrics": {
+          "view_count": 59
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068879737934761984/vid/avc1/320x568/2NtdLBxplnaedvho.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068879737934761984/vid/avc1/480x852/0EchOOvyP5Ma91he.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068879737934761984/vid/avc1/720x1280/aqUL-Jl7mqH8-IIb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068879737934761984/pl/zKT5b5GIk1xxma5c.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2068880078583533830",
+        "created_at": "2026-06-23T06:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069310149529948182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051195377420992512",
+              "start": 0,
+              "username": "Rain7x6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069310149529948182",
+        "in_reply_to_user_id": "2051195377420992512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068880078583533830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain7x6y 不一定，但是大概率感染"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068879737934761984"
+          ]
+        },
+        "author_id": "2051195377420992512",
+        "conversation_id": "2068880078583533830",
+        "created_at": "2026-06-22T02:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068880078583533830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6mlc09Eyo",
+              "end": 39,
+              "expanded_url": "https://x.com/Rain7x6y/status/2068880078583533830/video/1",
+              "media_key": "13_2068879737934761984",
+              "start": 16,
+              "url": "https://t.co/M6mlc09Eyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068880078583533830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠医生说我这不缝合是会坏死的 https://t.co/M6mlc09Eyo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 277,
+          "like_count": 43022,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 13023
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T07:03:35.000Z",
+        "description": "",
+        "id": "2051195377420992512",
+        "name": "冬雪Rain2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060579127489617920/-COMe4oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 117,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "Rain7x6y",
+        "verified": false
+      }
+    ]
+  }
+}

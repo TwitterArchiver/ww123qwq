@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1982765811119902721"
+      ],
+      "media_source_tweet_id": [
+        "1982765909745012862"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1984069717016125563",
+    "created_at": "2025-10-31T01:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T02:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984069717016125563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1577485263978143746",
+          "start": 3,
+          "username": "luplan1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NHdAlj0uvF",
+          "end": 51,
+          "expanded_url": "https://x.com/luplan1/status/1982765909745012862/video/1",
+          "media_key": "13_1982765811119902721",
+          "start": 28,
+          "url": "https://t.co/NHdAlj0uvF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984069717016125563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982765909745012862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luplan1: 深夜大久保街头的神秘女装少年 https://t.co/NHdAlj0uvF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984069717016125563].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984069717016125563",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984069717016125563"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22033,
+        "height": 1280,
+        "media_key": "13_1982765811119902721",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982765811119902721/img/1RxaV_sHRMrHovp3.jpg",
+        "public_metrics": {
+          "view_count": 48913
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982765811119902721/vid/avc1/320x568/eQz7snyUgXfZKiS1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982765811119902721/vid/avc1/480x852/Sm4LrKxs7GS_e0gw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982765811119902721/vid/avc1/720x1280/8V-rYCq_hQ0J4bhj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982765811119902721/pl/N1c_61kXpABDDXaK.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982765811119902721"
+          ]
+        },
+        "author_id": "1577485263978143746",
+        "conversation_id": "1982765909745012862",
+        "created_at": "2025-10-27T11:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982765909745012862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHdAlj0uvF",
+              "end": 38,
+              "expanded_url": "https://x.com/luplan1/status/1982765909745012862/video/1",
+              "media_key": "13_1982765811119902721",
+              "start": 15,
+              "url": "https://t.co/NHdAlj0uvF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982765909745012862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 87100,
+          "like_count": 1446,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "深夜大久保街头的神秘女装少年 https://t.co/NHdAlj0uvF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 215,
+          "like_count": 40208,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 10854
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T02:26:16.000Z",
+        "description": "4i  喜欢cosplay 热爱二次元",
+        "id": "1577485263978143746",
+        "name": "雪亚亚",
+        "pinned_tweet_id": "1850934875580493982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599329159968223232/stbZeOfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46862,
+          "following_count": 375,
+          "like_count": 35,
+          "listed_count": 105,
+          "media_count": 66,
+          "tweet_count": 73
+        },
+        "username": "luplan1",
+        "verified": false
+      }
+    ]
+  }
+}

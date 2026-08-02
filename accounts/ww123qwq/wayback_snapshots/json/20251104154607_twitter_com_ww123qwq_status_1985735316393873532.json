@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985733238107832730",
+    "created_at": "2025-11-04T15:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T16:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985735316393873532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985735316393873532",
+    "in_reply_to_user_id": "1521553831775158273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985733238107832730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "情绪爆炸了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985733234534367232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4692x8bwAAu8No.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985733238107832730",
+        "created_at": "2025-11-04T15:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T16:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985735316393873532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985735316393873532",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985733238107832730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "情绪爆炸了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985733234534367232"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985733238107832730",
+        "created_at": "2025-11-04T15:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T16:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985733238107832730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3rLqGL0a9r",
+              "end": 51,
+              "expanded_url": "https://x.com/ww123qwq/status/1985733238107832730/photo/1",
+              "media_key": "3_1985733234534367232",
+              "start": 28,
+              "url": "https://t.co/3rLqGL0a9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985733238107832730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想穿美美的衣服，画上漂亮的妆，然后在一个没人的地方死掉 https://t.co/3rLqGL0a9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩906910481",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 222,
+          "like_count": 40337,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 11000
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1884823635132928066",
+    "created_at": "2025-01-30T07:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T08:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884862784728703459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "Inhara_Akime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884862784728703459",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884823635132928066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inhara_Akime 申鹤想吃紫蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1884823635132928066",
+        "created_at": "2025-01-30T07:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T08:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884862784728703459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "Inhara_Akime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884862784728703459",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884823635132928066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inhara_Akime 申鹤想吃紫蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884823627495030784"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884823635132928066",
+        "created_at": "2025-01-30T04:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T05:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884823635132928066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mtNr701mBR",
+              "end": 23,
+              "expanded_url": "https://x.com/Inhara_Akime/status/1884823635132928066/photo/1",
+              "media_key": "3_1884823627495030784",
+              "start": 0,
+              "url": "https://t.co/mtNr701mBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884823635132928066",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1724,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mtNr701mBR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 160,
+          "like_count": 40081,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 10397
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "HRT：14/01/2025 その時僕は、僕を忘れてほしいのです",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原アキメ 🍥🫖",
+        "pinned_tweet_id": "1883003772760367489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884280559943442432/rqHCGJQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 929,
+          "like_count": 61983,
+          "listed_count": 13,
+          "media_count": 3483,
+          "tweet_count": 20682
+        },
+        "username": "Inhara_Akime",
+        "verified": false
+      }
+    ]
+  }
+}

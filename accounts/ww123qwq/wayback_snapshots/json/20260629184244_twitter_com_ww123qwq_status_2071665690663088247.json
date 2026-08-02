@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071594561500258304"
+      ],
+      "media_source_tweet_id": [
+        "2071594568198537606"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071665690663088247",
+    "created_at": "2026-06-29T18:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T19:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071665690663088247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827203342436855812",
+          "start": 3,
+          "username": "nanaj00_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BNb0fs2LK1",
+          "end": 37,
+          "expanded_url": "https://x.com/nanaj00_/status/2071594568198537606/photo/1",
+          "media_key": "3_2071594561500258304",
+          "start": 14,
+          "url": "https://t.co/BNb0fs2LK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071665690663088247",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 377
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071594568198537606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanaj00_: https://t.co/BNb0fs2LK1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3178,
+        "media_key": "3_2071594561500258304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_IRyTaoAA6_XJ.jpg",
+        "width": 2028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071594561500258304"
+          ],
+          "media_source_tweet_id": [
+            "2071594568198537606"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071665690663088247",
+        "created_at": "2026-06-29T18:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T19:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071665690663088247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827203342436855812",
+              "start": 3,
+              "username": "nanaj00_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNb0fs2LK1",
+              "end": 37,
+              "expanded_url": "https://x.com/nanaj00_/status/2071594568198537606/photo/1",
+              "media_key": "3_2071594561500258304",
+              "start": 14,
+              "url": "https://t.co/BNb0fs2LK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071665690663088247",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071594568198537606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanaj00_: https://t.co/BNb0fs2LK1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071594561500258304"
+          ]
+        },
+        "author_id": "1827203342436855812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071594568198537606",
+        "created_at": "2026-06-29T14:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071594568198537606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNb0fs2LK1",
+              "end": 23,
+              "expanded_url": "https://x.com/nanaj00_/status/2071594568198537606/photo/1",
+              "media_key": "3_2071594561500258304",
+              "start": 0,
+              "url": "https://t.co/BNb0fs2LK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071594568198537606",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 18774,
+          "like_count": 2980,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BNb0fs2LK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 285,
+          "like_count": 43328,
+          "listed_count": 4,
+          "media_count": 717,
+          "tweet_count": 13165
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T04:36:54.000Z",
+        "description": "✧illustration\n✦NEEDY GIRL OVERDOSE\n✦絵の勉強中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nanas70",
+                "end": 23,
+                "expanded_url": "https://lit.link/nanas70",
+                "start": 0,
+                "url": "https://t.co/CsyqLwBTOx"
+              }
+            ]
+          }
+        },
+        "id": "1827203342436855812",
+        "location": "トレス・無断転載・参考×",
+        "name": "七時",
+        "pinned_tweet_id": "2070852373350887642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057837893184573440/HC65YlHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9793,
+          "following_count": 37,
+          "like_count": 33095,
+          "listed_count": 28,
+          "media_count": 71,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/CsyqLwBTOx",
+        "username": "nanaj00_",
+        "verified": false
+      }
+    ]
+  }
+}

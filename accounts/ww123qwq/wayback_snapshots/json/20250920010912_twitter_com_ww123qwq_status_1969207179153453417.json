@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968954197354942464"
+      ],
+      "media_source_tweet_id": [
+        "1968955492496994589"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1969207179153453417",
+    "created_at": "2025-09-20T01:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T02:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969207179153453417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4386386952",
+          "start": 3,
+          "username": "LzzRwi603"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CbuySPCxaq",
+          "end": 38,
+          "expanded_url": "https://x.com/LzzRwi603/status/1968955492496994589/photo/1",
+          "media_key": "3_1968954197354942464",
+          "start": 15,
+          "url": "https://t.co/CbuySPCxaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969207179153453417",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968955492496994589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LzzRwi603: https://t.co/CbuySPCxaq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1596,
+        "media_key": "3_1968954197354942464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1MhaRhbEAApvvW.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968954197354942464"
+          ],
+          "media_source_tweet_id": [
+            "1968955492496994589"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1969207179153453417",
+        "created_at": "2025-09-20T01:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T02:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969207179153453417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4386386952",
+              "start": 3,
+              "username": "LzzRwi603"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbuySPCxaq",
+              "end": 38,
+              "expanded_url": "https://x.com/LzzRwi603/status/1968955492496994589/photo/1",
+              "media_key": "3_1968954197354942464",
+              "start": 15,
+              "url": "https://t.co/CbuySPCxaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969207179153453417",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968955492496994589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LzzRwi603: https://t.co/CbuySPCxaq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968954197354942464"
+          ]
+        },
+        "author_id": "4386386952",
+        "conversation_id": "1968955492496994589",
+        "created_at": "2025-09-19T08:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T09:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968955492496994589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbuySPCxaq",
+              "end": 23,
+              "expanded_url": "https://x.com/LzzRwi603/status/1968955492496994589/photo/1",
+              "media_key": "3_1968954197354942464",
+              "start": 0,
+              "url": "https://t.co/CbuySPCxaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968955492496994589",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 734,
+          "impression_count": 74338,
+          "like_count": 5214,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 338
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CbuySPCxaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 191,
+          "like_count": 39750,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 10628
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-28T08:41:25.000Z",
+        "description": "絵を描いてます\n【pixivFANBOX】≫https://t.co/6ZSxJMJd7Y \n【skeb】≫https://t.co/iMQscVWfFc停止中",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mizutama.fanbox.cc",
+                "end": 45,
+                "expanded_url": "http://mizutama.fanbox.cc",
+                "start": 22,
+                "url": "https://t.co/6ZSxJMJd7Y"
+              },
+              {
+                "display_url": "skeb.jp/@LzzRwi603",
+                "end": 77,
+                "expanded_url": "http://skeb.jp/@LzzRwi603",
+                "start": 54,
+                "url": "https://t.co/iMQscVWfFc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=34188767",
+                "start": 0,
+                "url": "https://t.co/Awheh0G4oM"
+              }
+            ]
+          }
+        },
+        "id": "4386386952",
+        "name": "みず",
+        "pinned_tweet_id": "1661296083690217473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664600503781847040/hCRilUCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97883,
+          "following_count": 793,
+          "like_count": 22275,
+          "listed_count": 807,
+          "media_count": 190,
+          "tweet_count": 6560
+        },
+        "url": "https://t.co/Awheh0G4oM",
+        "username": "LzzRwi603",
+        "verified": false
+      }
+    ]
+  }
+}

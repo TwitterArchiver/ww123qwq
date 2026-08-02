@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1877026176671121524",
+    "created_at": "2025-01-08T18:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T19:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877060993202704815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1504676358475157504",
+          "start": 0,
+          "username": "8964TortoiseBlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877060993202704815",
+    "in_reply_to_user_id": "1504676358475157504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877026176671121524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964TortoiseBlk 明明让飞叶子为啥不让喝酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1877026176671121524",
+        "created_at": "2025-01-08T18:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T19:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877060993202704815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504676358475157504",
+              "start": 0,
+              "username": "8964TortoiseBlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877060993202704815",
+        "in_reply_to_user_id": "1504676358475157504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877026176671121524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964TortoiseBlk 明明让飞叶子为啥不让喝酒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877026142324154368"
+          ]
+        },
+        "author_id": "1504676358475157504",
+        "conversation_id": "1877026176671121524",
+        "created_at": "2025-01-08T16:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T17:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877026176671121524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Iqq3htugW",
+              "end": 33,
+              "expanded_url": "https://x.com/8964TortoiseBlk/status/1877026176671121524/photo/1",
+              "media_key": "3_1877026142324154368",
+              "start": 10,
+              "url": "https://t.co/8Iqq3htugW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877026176671121524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以弄这个是为了啥 https://t.co/8Iqq3htugW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 124,
+          "like_count": 39750,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 10212
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T04:29:38.000Z",
+        "description": "你认为我是什么就是什么\nbluesky@8964tortoiseblk.bsky.social\nIG@BlackTortoise23",
+        "id": "1504676358475157504",
+        "location": "育空我的育空😭😭😭",
+        "name": "玄武🍥（防盗码8964天安门）",
+        "pinned_tweet_id": "1830623519102906386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830619515106758656/CL_2bqJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8355,
+          "following_count": 372,
+          "like_count": 223271,
+          "listed_count": 19,
+          "media_count": 2554,
+          "tweet_count": 56248
+        },
+        "username": "8964TortoiseBlk",
+        "verified": false
+      }
+    ]
+  }
+}

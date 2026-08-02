@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2020688746598040016",
+    "created_at": "2026-02-09T19:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T20:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020949955276571068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1932269429628530688",
+          "start": 0,
+          "username": "Kagura_Nachi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020949955276571068",
+    "in_reply_to_user_id": "1932269429628530688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020688746598040016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagura_Nachi 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020688739442503680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArts9QaMAAz6nx.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2020688746598040016",
+        "created_at": "2026-02-09T19:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T20:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020949955276571068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1932269429628530688",
+              "start": 0,
+              "username": "Kagura_Nachi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020949955276571068",
+        "in_reply_to_user_id": "1932269429628530688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020688746598040016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagura_Nachi 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020688739442503680"
+          ]
+        },
+        "author_id": "1932269429628530688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020688746598040016",
+        "created_at": "2026-02-09T02:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020688746598040016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/keVMqYKzZD",
+              "end": 34,
+              "expanded_url": "https://x.com/Kagura_Nachi/status/2020688746598040016/photo/1",
+              "media_key": "3_2020688739442503680",
+              "start": 11,
+              "url": "https://t.co/keVMqYKzZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020688746598040016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3669,
+          "like_count": 224,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "めじ×2なろんぶろん https://t.co/keVMqYKzZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 263,
+          "like_count": 41546,
+          "listed_count": 5,
+          "media_count": 599,
+          "tweet_count": 12272
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T02:51:58.000Z",
+        "description": "10/♀/双極II型/不安障害/不眠症/希死念慮/OD/リスカ/ リア友大親友▶︎@nananano016/大好き▶︎@kaede1706 / 251▶︎@SKA1QCQm1L47622",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "nananano016"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "kaede1706"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "SKA1QCQm1L47622"
+              }
+            ]
+          }
+        },
+        "id": "1932269429628530688",
+        "name": "夏野",
+        "pinned_tweet_id": "2013925014014468116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014126377621221376/gVLxdrUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 511,
+          "like_count": 6918,
+          "listed_count": 9,
+          "media_count": 162,
+          "tweet_count": 1840
+        },
+        "username": "Kagura_Nachi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067260104605642752",
+        "3_2067260104614006784"
+      ],
+      "media_source_tweet_id": [
+        "2067260119226974551",
+        "2067260119226974551"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067646632565551310",
+    "created_at": "2026-06-18T16:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067646632565551310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057729979677548544",
+          "start": 3,
+          "username": "Numiouoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K0bJxex1ZW",
+          "end": 95,
+          "expanded_url": "https://x.com/Numiouoo/status/2067260119226974551/photo/1",
+          "media_key": "3_2067260104605642752",
+          "start": 72,
+          "url": "https://t.co/K0bJxex1ZW"
+        },
+        {
+          "display_url": "pic.x.com/K0bJxex1ZW",
+          "end": 95,
+          "expanded_url": "https://x.com/Numiouoo/status/2067260119226974551/photo/1",
+          "media_key": "3_2067260104614006784",
+          "start": 72,
+          "url": "https://t.co/K0bJxex1ZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067646632565551310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067260119226974551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouoo: 药物不可能三角△\n资深oder大毒虫快来看看你认得几种药物吧🥵🥵🥵👅👅👅（图片均为ai生成 仅供娱乐 无不良导向） https://t.co/K0bJxex1ZW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2067260104605642752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBiHMFbMAAyIs7.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067260104614006784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBiHMHa0AAQKeA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067260104605642752",
+            "3_2067260104614006784"
+          ],
+          "media_source_tweet_id": [
+            "2067260119226974551",
+            "2067260119226974551"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067646632565551310",
+        "created_at": "2026-06-18T16:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067646632565551310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057729979677548544",
+              "start": 3,
+              "username": "Numiouoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0bJxex1ZW",
+              "end": 95,
+              "expanded_url": "https://x.com/Numiouoo/status/2067260119226974551/photo/1",
+              "media_key": "3_2067260104605642752",
+              "start": 72,
+              "url": "https://t.co/K0bJxex1ZW"
+            },
+            {
+              "display_url": "pic.x.com/K0bJxex1ZW",
+              "end": 95,
+              "expanded_url": "https://x.com/Numiouoo/status/2067260119226974551/photo/1",
+              "media_key": "3_2067260104614006784",
+              "start": 72,
+              "url": "https://t.co/K0bJxex1ZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067646632565551310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067260119226974551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouoo: 药物不可能三角△\n资深oder大毒虫快来看看你认得几种药物吧🥵🥵🥵👅👅👅（图片均为ai生成 仅供娱乐 无不良导向） https://t.co/K0bJxex1ZW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067260104605642752",
+            "3_2067260104614006784"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "conversation_id": "2067260119226974551",
+        "created_at": "2026-06-17T14:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067260119226974551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0bJxex1ZW",
+              "end": 81,
+              "expanded_url": "https://x.com/Numiouoo/status/2067260119226974551/photo/1",
+              "media_key": "3_2067260104605642752",
+              "start": 58,
+              "url": "https://t.co/K0bJxex1ZW"
+            },
+            {
+              "display_url": "pic.x.com/K0bJxex1ZW",
+              "end": 81,
+              "expanded_url": "https://x.com/Numiouoo/status/2067260119226974551/photo/1",
+              "media_key": "3_2067260104614006784",
+              "start": 58,
+              "url": "https://t.co/K0bJxex1ZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067260119226974551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 19666,
+          "like_count": 286,
+          "quote_count": 3,
+          "reply_count": 70,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "药物不可能三角△\n资深oder大毒虫快来看看你认得几种药物吧🥵🥵🥵👅👅👅（图片均为ai生成 仅供娱乐 无不良导向） https://t.co/K0bJxex1ZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 271,
+          "like_count": 42833,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12967
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 906,
+          "like_count": 2453,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1959
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

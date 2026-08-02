@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982654870160121856"
+      ],
+      "media_source_tweet_id": [
+        "1982654878641209782"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1982763627057946732",
+    "created_at": "2025-10-27T10:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T11:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982763627057946732"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 42,
+          "tag": "latex"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1451840806298415105",
+          "start": 3,
+          "username": "garyhudson114"
+        },
+        {
+          "end": 40,
+          "id": "1482023154893664264",
+          "start": 29,
+          "username": "Eron_Winer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3CzQzMb0dQ",
+          "end": 72,
+          "expanded_url": "https://x.com/garyhudson114/status/1982654878641209782/photo/1",
+          "media_key": "3_1982654870160121856",
+          "start": 49,
+          "url": "https://t.co/3CzQzMb0dQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982763627057946732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982654878641209782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garyhudson114: 东百地雷，，，，\n摄@Eron_Winer \n#latex https://t.co/3CzQzMb0dQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982763627057946732].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982763627057946732",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982763627057946732"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982654870160121856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4POGZAXoAALpXi.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982654870160121856"
+          ]
+        },
+        "author_id": "1451840806298415105",
+        "conversation_id": "1982654878641209782",
+        "created_at": "2025-10-27T03:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982654878641209782"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1482023154893664264",
+              "start": 10,
+              "username": "Eron_Winer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3CzQzMb0dQ",
+              "end": 53,
+              "expanded_url": "https://x.com/garyhudson114/status/1982654878641209782/photo/1",
+              "media_key": "3_1982654870160121856",
+              "start": 30,
+              "url": "https://t.co/3CzQzMb0dQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982654878641209782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1368,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "东百地雷，，，，\n摄@Eron_Winer \n#latex https://t.co/3CzQzMb0dQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 210,
+          "like_count": 40107,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 10769
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T09:20:04.000Z",
+        "description": "✟K圈最猛贩猪人✟ “🐷有猪你就报，是猪我就要，电话一响我就到🐷”🤝合作共赢🤝",
+        "id": "1451840806298415105",
+        "location": "西南海",
+        "name": "Gary Hudson",
+        "pinned_tweet_id": "1822899750141678036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954510644902031360/Z7dg33HF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12856,
+          "following_count": 549,
+          "like_count": 909,
+          "listed_count": 65,
+          "media_count": 492,
+          "tweet_count": 1209
+        },
+        "username": "garyhudson114",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T16:14:00.000Z",
+        "description": "凡是过往 皆为序章",
+        "id": "1482023154893664264",
+        "location": "你的心",
+        "name": "EronWiner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592085313291431936/5HVVXDH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10748,
+          "following_count": 2024,
+          "like_count": 2835,
+          "listed_count": 69,
+          "media_count": 335,
+          "tweet_count": 1038
+        },
+        "username": "Eron_Winer",
+        "verified": false
+      }
+    ]
+  }
+}

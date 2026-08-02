@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966061987751931905"
+      ],
+      "media_source_tweet_id": [
+        "1966062053736722481"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1966223456602927294",
+    "created_at": "2025-09-11T19:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T20:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966223456602927294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1462737420248518657",
+          "start": 3,
+          "username": "cy_clover"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/05Mzxn4JgD",
+          "end": 38,
+          "expanded_url": "https://x.com/cy_clover/status/1966062053736722481/photo/1",
+          "media_key": "3_1966061987751931905",
+          "start": 15,
+          "url": "https://t.co/05Mzxn4JgD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966223456602927294",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 356
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966062053736722481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cy_clover: https://t.co/05Mzxn4JgD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1966061987751931905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ja9hJaMAEDdms.jpg",
+        "width": 2892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966061987751931905"
+          ],
+          "media_source_tweet_id": [
+            "1966062053736722481"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1966223456602927294",
+        "created_at": "2025-09-11T19:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T20:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966223456602927294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1462737420248518657",
+              "start": 3,
+              "username": "cy_clover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/05Mzxn4JgD",
+              "end": 38,
+              "expanded_url": "https://x.com/cy_clover/status/1966062053736722481/photo/1",
+              "media_key": "3_1966061987751931905",
+              "start": 15,
+              "url": "https://t.co/05Mzxn4JgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966223456602927294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 356
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966062053736722481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cy_clover: https://t.co/05Mzxn4JgD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966061987751931905"
+          ]
+        },
+        "author_id": "1462737420248518657",
+        "conversation_id": "1966062053736722481",
+        "created_at": "2025-09-11T08:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T09:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966062053736722481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05Mzxn4JgD",
+              "end": 23,
+              "expanded_url": "https://x.com/cy_clover/status/1966062053736722481/photo/1",
+              "media_key": "3_1966061987751931905",
+              "start": 0,
+              "url": "https://t.co/05Mzxn4JgD"
+            },
+            {
+              "display_url": "x.com/cy_clover/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/cy_clover/status/1965320411333410857",
+              "start": 24,
+              "url": "https://t.co/Hd4PQ0eLHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966062053736722481",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 58457,
+          "like_count": 2243,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 356
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965320411333410857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/05Mzxn4JgD https://t.co/Hd4PQ0eLHy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 189,
+          "like_count": 39767,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 10631
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-22T10:59:17.000Z",
+        "description": "創作/雑多（明日方舟、原神etc.）　main @cy_fros\nheader/@ao_kotoha\nPlease follow the main account first.\n\n↓キャラクターイラストのみのSkebが出来ました↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "cy_fros"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "ao_kotoha"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@cy_clover",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@cy_clover",
+                "start": 0,
+                "url": "https://t.co/Q1kDQnUHbb"
+              }
+            ]
+          }
+        },
+        "id": "1462737420248518657",
+        "name": "すずいろ/ちょこらて",
+        "pinned_tweet_id": "1938916776190058606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781218324887863296/3__YJhJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 119,
+          "like_count": 1290,
+          "listed_count": 20,
+          "media_count": 1321,
+          "tweet_count": 7134
+        },
+        "url": "https://t.co/Q1kDQnUHbb",
+        "username": "cy_clover",
+        "verified": false
+      }
+    ]
+  }
+}

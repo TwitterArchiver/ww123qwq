@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981399714978234368"
+      ],
+      "media_source_tweet_id": [
+        "1981399718392729799"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1981695765786542267",
+    "created_at": "2025-10-24T12:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T13:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981695765786542267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jF2phuUiHg",
+          "end": 64,
+          "expanded_url": "https://x.com/overdose_six/status/1981399718392729799/photo/1",
+          "media_key": "3_1981399714978234368",
+          "start": 41,
+          "url": "https://t.co/jF2phuUiHg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981695765786542267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981399718392729799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 草泥马 你们这群od大神给把化学试剂干涨价了 https://t.co/jF2phuUiHg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1981399714978234368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39YivlWgAAPWnO.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981399714978234368"
+          ],
+          "media_source_tweet_id": [
+            "1981399718392729799"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1981695765786542267",
+        "created_at": "2025-10-24T12:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981695765786542267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jF2phuUiHg",
+              "end": 64,
+              "expanded_url": "https://x.com/overdose_six/status/1981399718392729799/photo/1",
+              "media_key": "3_1981399714978234368",
+              "start": 41,
+              "url": "https://t.co/jF2phuUiHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981695765786542267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981399718392729799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 草泥马 你们这群od大神给把化学试剂干涨价了 https://t.co/jF2phuUiHg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981399714978234368"
+          ]
+        },
+        "author_id": "622036546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1981399718392729799",
+        "created_at": "2025-10-23T16:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T17:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981399718392729799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jF2phuUiHg",
+              "end": 46,
+              "expanded_url": "https://x.com/overdose_six/status/1981399718392729799/photo/1",
+              "media_key": "3_1981399714978234368",
+              "start": 23,
+              "url": "https://t.co/jF2phuUiHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981399718392729799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 16603,
+          "like_count": 162,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "草泥马 你们这群od大神给把化学试剂干涨价了 https://t.co/jF2phuUiHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 211,
+          "like_count": 39959,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 10712
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjruc | 药物代购 | 报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbmW1y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 91,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 68,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980694433151467520/szS4Q9Eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1899,
+          "following_count": 77,
+          "like_count": 10957,
+          "listed_count": 8,
+          "media_count": 449,
+          "tweet_count": 3166
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071490688651313241",
+    "created_at": "2026-06-29T19:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T20:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071680779705266529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071680779705266529",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071490688651313241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 看看牛子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2071490639741718528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9pwvlaEAA-cz7.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2071490639750189056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9pwvnbUAAKw3S.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2071490639766958080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9pwvrbMAAw-Jb.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071490688651313241",
+        "created_at": "2026-06-29T19:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071680779705266529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071680779705266529",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071490688651313241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 看看牛子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071490639741718528",
+            "3_2071490639750189056",
+            "3_2071490639766958080"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071490688651313241",
+        "created_at": "2026-06-29T07:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071490688651313241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/muJRK99Jj5",
+              "end": 66,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2071490688651313241/photo/1",
+              "media_key": "3_2071490639741718528",
+              "start": 43,
+              "url": "https://t.co/muJRK99Jj5"
+            },
+            {
+              "display_url": "pic.x.com/muJRK99Jj5",
+              "end": 66,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2071490688651313241/photo/1",
+              "media_key": "3_2071490639750189056",
+              "start": 43,
+              "url": "https://t.co/muJRK99Jj5"
+            },
+            {
+              "display_url": "pic.x.com/muJRK99Jj5",
+              "end": 66,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2071490688651313241/photo/1",
+              "media_key": "3_2071490639766958080",
+              "start": 43,
+              "url": "https://t.co/muJRK99Jj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071490688651313241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 799,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "任何一个能震动的东西都能让我出来\n甚至包括盖世小鸡超新星\n请你们一起说谢谢超新星！🥳 https://t.co/muJRK99Jj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 285,
+          "like_count": 43337,
+          "listed_count": 4,
+          "media_count": 718,
+          "tweet_count": 13171
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！  ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2062570727690346728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5182,
+          "following_count": 4170,
+          "like_count": 29246,
+          "listed_count": 12,
+          "media_count": 1509,
+          "tweet_count": 6429
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

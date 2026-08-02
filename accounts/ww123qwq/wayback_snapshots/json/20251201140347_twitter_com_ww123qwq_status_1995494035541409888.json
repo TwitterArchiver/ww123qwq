@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1995494035541409888",
+    "created_at": "2025-12-01T14:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T15:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995494035541409888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2405324646",
+          "start": 3,
+          "username": "alexavad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995494035541409888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995394048258097309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alexavad: 我发现服用普瑞巴林可以治疗普瑞巴林戒断反应带来的焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1995494035541409888",
+        "created_at": "2025-12-01T14:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995494035541409888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2405324646",
+              "start": 3,
+              "username": "alexavad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995494035541409888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995394048258097309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alexavad: 我发现服用普瑞巴林可以治疗普瑞巴林戒断反应带来的焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2405324646",
+        "conversation_id": "1995394048258097309",
+        "created_at": "2025-12-01T07:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995394048258097309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995394048258097309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3935,
+          "like_count": 109,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我发现服用普瑞巴林可以治疗普瑞巴林戒断反应带来的焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/🚪52/88/188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 263,
+          "like_count": 40716,
+          "listed_count": 3,
+          "media_count": 412,
+          "tweet_count": 11646
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-23T00:20:59.000Z",
+        "description": "何时归",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ChuangChuangha…",
+                "end": 23,
+                "expanded_url": "https://t.me/ChuangChuanghajimi",
+                "start": 0,
+                "url": "https://t.co/dq6IelJn5p"
+              }
+            ]
+          }
+        },
+        "id": "2405324646",
+        "location": "桃源1.6.4",
+        "name": "пока-пока #战狼二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984952574093750272/AuL9VWpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 182,
+          "like_count": 1649,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/dq6IelJn5p",
+        "username": "alexavad",
+        "verified": false
+      }
+    ]
+  }
+}

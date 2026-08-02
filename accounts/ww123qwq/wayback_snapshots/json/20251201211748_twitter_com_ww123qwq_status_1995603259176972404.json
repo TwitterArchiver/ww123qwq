@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995598167719772161"
+      ],
+      "media_source_tweet_id": [
+        "1995598188456411588"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1995603259176972404",
+    "created_at": "2025-12-01T21:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T22:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995603259176972404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "390694315",
+          "start": 3,
+          "username": "teranekos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ag2tMNL3iO",
+          "end": 38,
+          "expanded_url": "https://x.com/teranekos/status/1995598188456411588/photo/1",
+          "media_key": "3_1995598167719772161",
+          "start": 15,
+          "url": "https://t.co/Ag2tMNL3iO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995603259176972404",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995598188456411588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @teranekos: https://t.co/Ag2tMNL3iO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995603259176972404].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995603259176972404",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995603259176972404"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3035,
+        "media_key": "3_1995598167719772161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7HJ9d1bgAE1NoF.jpg",
+        "width": 2150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995598167719772161"
+          ]
+        },
+        "author_id": "390694315",
+        "conversation_id": "1995598188456411588",
+        "created_at": "2025-12-01T20:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T21:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995598188456411588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ag2tMNL3iO",
+              "end": 23,
+              "expanded_url": "https://x.com/teranekos/status/1995598188456411588/photo/1",
+              "media_key": "3_1995598167719772161",
+              "start": 0,
+              "url": "https://t.co/Ag2tMNL3iO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995598188456411588",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 2181,
+          "like_count": 465,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ag2tMNL3iO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/🚪52/88/188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 263,
+          "like_count": 40720,
+          "listed_count": 3,
+          "media_count": 397,
+          "tweet_count": 11634
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-14T11:37:19.000Z",
+        "description": "【moyasiiii@gmail.com 】【https://t.co/cRfr5HX6Fy】　【https://t.co/SX5a9QpTkT】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@teranekos",
+                "end": 46,
+                "expanded_url": "http://skeb.jp/@teranekos",
+                "start": 23,
+                "url": "https://t.co/cRfr5HX6Fy"
+              },
+              {
+                "display_url": "teranekos.fanbox.cc",
+                "end": 72,
+                "expanded_url": "http://teranekos.fanbox.cc",
+                "start": 49,
+                "url": "https://t.co/SX5a9QpTkT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=300488",
+                "start": 0,
+                "url": "https://t.co/3Uo3vgMj5P"
+              }
+            ]
+          }
+        },
+        "id": "390694315",
+        "name": "てらね　こす",
+        "pinned_tweet_id": "1570268618121957376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890456888548159488/eEXClNps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156177,
+          "following_count": 839,
+          "like_count": 25915,
+          "listed_count": 1512,
+          "media_count": 122,
+          "tweet_count": 1926
+        },
+        "url": "https://t.co/3Uo3vgMj5P",
+        "username": "teranekos",
+        "verified": false
+      }
+    ]
+  }
+}

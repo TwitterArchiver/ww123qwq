@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983183959065550848",
+        "3_1983183959065522176"
+      ],
+      "media_source_tweet_id": [
+        "1983183968058126675",
+        "1983183968058126675"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1983212320441422267",
+    "created_at": "2025-10-28T16:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T17:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983212320441422267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pWc5hi2TcV",
+          "end": 62,
+          "expanded_url": "https://x.com/huaxuejilebaike/status/1983183968058126675/photo/1",
+          "media_key": "3_1983183959065550848",
+          "start": 39,
+          "url": "https://t.co/pWc5hi2TcV"
+        },
+        {
+          "display_url": "pic.x.com/pWc5hi2TcV",
+          "end": 62,
+          "expanded_url": "https://x.com/huaxuejilebaike/status/1983183968058126675/photo/1",
+          "media_key": "3_1983183959065522176",
+          "start": 39,
+          "url": "https://t.co/pWc5hi2TcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983212320441422267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983183968058126675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 化学极乐百科Tv之挑战在教室里嗑药 https://t.co/pWc5hi2TcV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1983183959065550848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WvTaxa4AAF3KE.jpg",
+        "width": 576
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1983183959065522176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4WvTaxacAAEZT4.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983183959065550848",
+            "3_1983183959065522176"
+          ],
+          "media_source_tweet_id": [
+            "1983183968058126675",
+            "1983183968058126675"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1983212320441422267",
+        "created_at": "2025-10-28T16:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983212320441422267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWc5hi2TcV",
+              "end": 62,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1983183968058126675/photo/1",
+              "media_key": "3_1983183959065550848",
+              "start": 39,
+              "url": "https://t.co/pWc5hi2TcV"
+            },
+            {
+              "display_url": "pic.x.com/pWc5hi2TcV",
+              "end": 62,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1983183968058126675/photo/1",
+              "media_key": "3_1983183959065522176",
+              "start": 39,
+              "url": "https://t.co/pWc5hi2TcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983212320441422267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983183968058126675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 化学极乐百科Tv之挑战在教室里嗑药 https://t.co/pWc5hi2TcV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983183959065550848",
+            "3_1983183959065522176"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1983183968058126675",
+        "created_at": "2025-10-28T14:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983183968058126675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pWc5hi2TcV",
+              "end": 41,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1983183968058126675/photo/1",
+              "media_key": "3_1983183959065550848",
+              "start": 18,
+              "url": "https://t.co/pWc5hi2TcV"
+            },
+            {
+              "display_url": "pic.x.com/pWc5hi2TcV",
+              "end": 41,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1983183968058126675/photo/1",
+              "media_key": "3_1983183959065522176",
+              "start": 18,
+              "url": "https://t.co/pWc5hi2TcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983183968058126675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 788,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "化学极乐百科Tv之挑战在教室里嗑药 https://t.co/pWc5hi2TcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 210,
+          "like_count": 40158,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 10799
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官网:https://t.co/DM4fmdhdkn\nTG频道:https://t.co/YoXqIDrwpe\n交流群:https://t.co/JfbYdIujGy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "https://overdose.day/",
+                "start": 3,
+                "url": "https://t.co/DM4fmdhdkn"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaike",
+                "end": 55,
+                "expanded_url": "https://t.me/huaxuejilebaike",
+                "start": 32,
+                "url": "https://t.co/YoXqIDrwpe"
+              },
+              {
+                "display_url": "t.me/huaxuejile",
+                "end": 83,
+                "expanded_url": "https://t.me/huaxuejile",
+                "start": 60,
+                "url": "https://t.co/JfbYdIujGy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1982257451740070310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982252885577453568/G1aVUn34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 79,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035723124038303744"
+      ],
+      "media_source_tweet_id": [
+        "2035723130619269606"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2035760079803494578",
+    "created_at": "2026-03-22T16:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035760079803494578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1266206715839606784",
+          "start": 3,
+          "username": "hanabitaminc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cDj8No8Cuu",
+          "end": 48,
+          "expanded_url": "https://x.com/hanabitaminc/status/2035723130619269606/photo/1",
+          "media_key": "3_2035723124038303744",
+          "start": 25,
+          "url": "https://t.co/cDj8No8Cuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035760079803494578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035723130619269606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanabitaminc: 私に任せて〜 https://t.co/cDj8No8Cuu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2035723124038303744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBXZUVaAAAJA37.jpg",
+        "width": 2826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035723124038303744"
+          ],
+          "media_source_tweet_id": [
+            "2035723130619269606"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2035760079803494578",
+        "created_at": "2026-03-22T16:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035760079803494578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1266206715839606784",
+              "start": 3,
+              "username": "hanabitaminc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cDj8No8Cuu",
+              "end": 48,
+              "expanded_url": "https://x.com/hanabitaminc/status/2035723130619269606/photo/1",
+              "media_key": "3_2035723124038303744",
+              "start": 25,
+              "url": "https://t.co/cDj8No8Cuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035760079803494578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035723130619269606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanabitaminc: 私に任せて〜 https://t.co/cDj8No8Cuu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035723124038303744"
+          ]
+        },
+        "author_id": "1266206715839606784",
+        "conversation_id": "2035723130619269606",
+        "created_at": "2026-03-22T14:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035723130619269606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cDj8No8Cuu",
+              "end": 30,
+              "expanded_url": "https://x.com/hanabitaminc/status/2035723130619269606/photo/1",
+              "media_key": "3_2035723124038303744",
+              "start": 7,
+              "url": "https://t.co/cDj8No8Cuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035723130619269606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 12297,
+          "like_count": 508,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "私に任せて〜 https://t.co/cDj8No8Cuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图/药物咨询/支持usdt。/上海/日本/匿名提问https://t.co/yODqqgeu12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/yinai",
+                "end": 128,
+                "expanded_url": "https://miyu.link/yinai",
+                "start": 105,
+                "url": "https://t.co/yODqqgeu12"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 266,
+          "like_count": 41981,
+          "listed_count": 4,
+          "media_count": 651,
+          "tweet_count": 12499
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T03:17:22.000Z",
+        "description": "人間が好きです @hanabitaminb (現在、ご依頼とDMでのお返事できかねます🙇‍♂️)インスタ→ https://t.co/AmlunMW4by",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "hanabitaminb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hanabitaminc?i…",
+                "end": 77,
+                "expanded_url": "https://www.instagram.com/hanabitaminc?igsh=MWRicWF1YzZuMGN6MA%3D%3D&utm_source=qr",
+                "start": 54,
+                "url": "https://t.co/AmlunMW4by"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53144689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53144689",
+                "start": 0,
+                "url": "https://t.co/72PdX51Udv"
+              }
+            ]
+          }
+        },
+        "id": "1266206715839606784",
+        "location": "ぽかぽかホットカーペットランド",
+        "name": "花巻 花郎",
+        "pinned_tweet_id": "2035723130619269606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610904608439959553/GjAHGmmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130453,
+          "following_count": 140,
+          "like_count": 55077,
+          "listed_count": 810,
+          "media_count": 303,
+          "tweet_count": 38541
+        },
+        "url": "https://t.co/72PdX51Udv",
+        "username": "hanabitaminc",
+        "verified": false
+      }
+    ]
+  }
+}

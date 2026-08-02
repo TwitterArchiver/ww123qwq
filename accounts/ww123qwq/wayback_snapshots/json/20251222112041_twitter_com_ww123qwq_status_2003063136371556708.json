@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2003034227613512007",
+    "created_at": "2025-12-22T11:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T12:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003063136371556708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942038222886031360",
+          "start": 0,
+          "username": "ThujaSlover"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003063136371556708",
+    "in_reply_to_user_id": "1942038222886031360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003034227613512007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThujaSlover 你是健全b我比不过你行了吧😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2003034227613512007",
+        "created_at": "2025-12-22T11:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003063136371556708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942038222886031360",
+              "start": 0,
+              "username": "ThujaSlover"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003063136371556708",
+        "in_reply_to_user_id": "1942038222886031360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003034227613512007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThujaSlover 你是健全b我比不过你行了吧😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942038222886031360",
+        "conversation_id": "2003034227613512007",
+        "created_at": "2025-12-22T09:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T10:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003034227613512007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/520illusion/status/2003022399542059416",
+              "start": 54,
+              "url": "https://t.co/PLvCEQlcWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003034227613512007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003022399542059416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟着N55玩的还有正常人吗？神人发帖带个#反跨 标签跳脸恶心真反跨人，不知道是抖m发作欠骂还是激素再次上头 https://t.co/PLvCEQlcWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利/，也支持usdt。/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 264,
+          "like_count": 40921,
+          "listed_count": 5,
+          "media_count": 486,
+          "tweet_count": 11895
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T01:49:50.000Z",
+        "description": "新买的美国号，希望稳定点，大号 @notThujaS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "notThujaS"
+              }
+            ]
+          }
+        },
+        "id": "1942038222886031360",
+        "location": "丰宁",
+        "name": "传奇出生乌鲁鲁（没有浮木）",
+        "pinned_tweet_id": "2001475379375092197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999148400533475330/OoPiNrnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 91,
+          "like_count": 325,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 87
+        },
+        "username": "ThujaSlover",
+        "verified": false
+      }
+    ]
+  }
+}

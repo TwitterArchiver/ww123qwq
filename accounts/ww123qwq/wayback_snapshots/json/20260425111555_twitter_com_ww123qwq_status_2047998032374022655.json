@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047376281130684416"
+      ],
+      "media_source_tweet_id": [
+        "2047450451071652182"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2047998032374022655",
+    "created_at": "2026-04-25T11:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047998032374022655"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 19,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1522770171982598145",
+          "start": 3,
+          "username": "karichumasann"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nB408qCNBA",
+          "end": 59,
+          "expanded_url": "https://x.com/karichumasann/status/2047450451071652182/photo/1",
+          "media_key": "3_2047376281130684416",
+          "start": 36,
+          "url": "https://t.co/nB408qCNBA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047998032374022655",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 710
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047450451071652182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karichumasann: #まのさば二次創作\n…正しくない https://t.co/nB408qCNBA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2141,
+        "media_key": "3_2047376281130684416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGm94VZa0AAyXVI.jpg",
+        "width": 2295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047376281130684416"
+          ],
+          "media_source_tweet_id": [
+            "2047450451071652182"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2047998032374022655",
+        "created_at": "2026-04-25T11:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047998032374022655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1522770171982598145",
+              "start": 3,
+              "username": "karichumasann"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nB408qCNBA",
+              "end": 59,
+              "expanded_url": "https://x.com/karichumasann/status/2047450451071652182/photo/1",
+              "media_key": "3_2047376281130684416",
+              "start": 36,
+              "url": "https://t.co/nB408qCNBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047998032374022655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 710
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047450451071652182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karichumasann: #まのさば二次創作\n…正しくない https://t.co/nB408qCNBA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047376281130684416"
+          ]
+        },
+        "author_id": "1522770171982598145",
+        "conversation_id": "2047450451071652182",
+        "created_at": "2026-04-23T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047450451071652182"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nB408qCNBA",
+              "end": 40,
+              "expanded_url": "https://x.com/karichumasann/status/2047450451071652182/photo/1",
+              "media_key": "3_2047376281130684416",
+              "start": 17,
+              "url": "https://t.co/nB408qCNBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047450451071652182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1876,
+          "impression_count": 107999,
+          "like_count": 9886,
+          "quote_count": 11,
+          "reply_count": 9,
+          "retweet_count": 710
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば二次創作\n…正しくない https://t.co/nB408qCNBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 280,
+          "like_count": 42311,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 12692
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T02:48:10.000Z",
+        "description": "好きなものの絵を描きます、音ゲーもします",
+        "id": "1522770171982598145",
+        "name": "かりちゅま",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776193061388963840/SwEwQOgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 100,
+          "like_count": 1376,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 3136
+        },
+        "username": "karichumasann",
+        "verified": false
+      }
+    ]
+  }
+}

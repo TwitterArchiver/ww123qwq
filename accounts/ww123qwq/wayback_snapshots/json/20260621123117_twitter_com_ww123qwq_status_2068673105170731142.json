@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068505621444661249"
+      ],
+      "media_source_tweet_id": [
+        "2068506463157526964"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068673105170731142",
+    "created_at": "2026-06-21T12:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068673105170731142"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891805836571512832",
+          "start": 3,
+          "username": "Mirage_mnsb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wf81H3Phwe",
+          "end": 53,
+          "expanded_url": "https://x.com/Mirage_mnsb/status/2068506463157526964/photo/1",
+          "media_key": "3_2068505621444661249",
+          "start": 30,
+          "url": "https://t.co/wf81H3Phwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068673105170731142",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 493
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068506463157526964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mirage_mnsb: #まのさば二次創作\n✒️ https://t.co/wf81H3Phwe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2998,
+        "media_key": "3_2068505621444661249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTO5z4bkAEC9yg.jpg",
+        "width": 2475
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068505621444661249"
+          ],
+          "media_source_tweet_id": [
+            "2068506463157526964"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068673105170731142",
+        "created_at": "2026-06-21T12:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068673105170731142"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891805836571512832",
+              "start": 3,
+              "username": "Mirage_mnsb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wf81H3Phwe",
+              "end": 53,
+              "expanded_url": "https://x.com/Mirage_mnsb/status/2068506463157526964/photo/1",
+              "media_key": "3_2068505621444661249",
+              "start": 30,
+              "url": "https://t.co/wf81H3Phwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068673105170731142",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 493
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068506463157526964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mirage_mnsb: #まのさば二次創作\n✒️ https://t.co/wf81H3Phwe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068505621444661249"
+          ]
+        },
+        "author_id": "1891805836571512832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068506463157526964",
+        "created_at": "2026-06-21T01:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068506463157526964"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wf81H3Phwe",
+              "end": 36,
+              "expanded_url": "https://x.com/Mirage_mnsb/status/2068506463157526964/photo/1",
+              "media_key": "3_2068505621444661249",
+              "start": 13,
+              "url": "https://t.co/wf81H3Phwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068506463157526964",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 32620,
+          "like_count": 3709,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 493
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば二次創作\n✒️ https://t.co/wf81H3Phwe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 277,
+          "like_count": 42947,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12999
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T11:04:16.000Z",
+        "description": "마노사바 장르계",
+        "id": "1891805836571512832",
+        "location": "3연속 감옥장르에 갇혀서 영원히 죄수를 사랑하는 형벌을",
+        "name": "미라쥬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067490846107373568/OluPhwwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 13,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "Mirage_mnsb",
+        "verified": false
+      }
+    ]
+  }
+}

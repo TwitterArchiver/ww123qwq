@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872982806936322048"
+      ],
+      "media_source_tweet_id": [
+        "1872983093298250020"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1873158847466225765",
+    "created_at": "2024-12-29T00:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T01:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873158847466225765"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 12,
+          "tag": "bijouwled"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3002739673",
+          "start": 3,
+          "username": "428clv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PeyN1KZeB1",
+          "end": 46,
+          "expanded_url": "https://x.com/428clv/status/1872983093298250020/photo/1",
+          "media_key": "3_1872982806936322048",
+          "start": 23,
+          "url": "https://t.co/PeyN1KZeB1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873158847466225765",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4540
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872983093298250020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @428clv: #bijouwled https://t.co/PeyN1KZeB1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1818,
+        "media_key": "3_1872982806936322048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf4r8H3agAAlL4P.jpg",
+        "width": 1281
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872982806936322048"
+          ],
+          "media_source_tweet_id": [
+            "1872983093298250020"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1873158847466225765",
+        "created_at": "2024-12-29T00:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T01:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873158847466225765"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "bijouwled"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3002739673",
+              "start": 3,
+              "username": "428clv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PeyN1KZeB1",
+              "end": 46,
+              "expanded_url": "https://x.com/428clv/status/1872983093298250020/photo/1",
+              "media_key": "3_1872982806936322048",
+              "start": 23,
+              "url": "https://t.co/PeyN1KZeB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873158847466225765",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4540
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872983093298250020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @428clv: #bijouwled https://t.co/PeyN1KZeB1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872982806936322048"
+          ]
+        },
+        "author_id": "3002739673",
+        "conversation_id": "1872983093298250020",
+        "created_at": "2024-12-28T12:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T13:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872983093298250020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "bijouwled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PeyN1KZeB1",
+              "end": 34,
+              "expanded_url": "https://x.com/428clv/status/1872983093298250020/photo/1",
+              "media_key": "3_1872982806936322048",
+              "start": 11,
+              "url": "https://t.co/PeyN1KZeB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872983093298250020",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3257,
+          "impression_count": 371659,
+          "like_count": 31532,
+          "quote_count": 10,
+          "reply_count": 57,
+          "retweet_count": 4540
+        },
+        "reply_settings": "everyone",
+        "text": "#bijouwled https://t.co/PeyN1KZeB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 123,
+          "like_count": 39575,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 10098
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-30T02:23:15.000Z",
+        "description": "Mo Kitada✉️4.2.8.clv@gmail.com☘️受付2025年〜（Live2D制作一時停止中） 一二三書房「転生貴族の異世界冒険録」2023年４月アニメ化 ホロライブEN「古石ビジュー」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=4813223",
+                "start": 0,
+                "url": "https://t.co/J31QKQ9heA"
+              }
+            ]
+          }
+        },
+        "id": "3002739673",
+        "name": "北田 藻",
+        "pinned_tweet_id": "1871407387657265513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750198008149630977/sEgtAig9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254733,
+          "following_count": 3417,
+          "like_count": 17215,
+          "listed_count": 2270,
+          "media_count": 800,
+          "tweet_count": 13681
+        },
+        "url": "https://t.co/J31QKQ9heA",
+        "username": "428clv",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985430808769987051",
+    "created_at": "2025-11-04T18:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T19:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985772986155376666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1854926783369691139",
+          "start": 0,
+          "username": "yu120160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985772986155376666",
+    "in_reply_to_user_id": "1854926783369691139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985430808769987051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu120160 来药效是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985430808769987051",
+        "created_at": "2025-11-04T18:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T19:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985772986155376666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1854926783369691139",
+              "start": 0,
+              "username": "yu120160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985772986155376666",
+        "in_reply_to_user_id": "1854926783369691139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985430808769987051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu120160 来药效是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854926783369691139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1985430808769987051",
+        "created_at": "2025-11-03T19:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T20:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985430808769987051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985430808769987051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 831,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我们一起去过正常生活吧，我们手握手一起看电影吧，我们闭着眼躺在床上拥抱吧，我们在马路边逛街吧，我们去药店买健胃消片食一起去吃自助餐吧，我们一起因为结婚被抓进民政局因为领证被放了出来吧，我们手握着手一起在幸福的现实里享受健康生活吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩906910481",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 222,
+          "like_count": 40352,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 11024
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T16:40:16.000Z",
+        "description": "地雷系/東方project/仮面ライダ/初音ミク/……\n互fo看到会回",
+        "id": "1854926783369691139",
+        "location": "空无一人之地",
+        "name": "xx酱",
+        "pinned_tweet_id": "1981416636486983859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985436411643023360/VfRWQXgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 23,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 109
+        },
+        "username": "yu120160",
+        "verified": false
+      }
+    ]
+  }
+}

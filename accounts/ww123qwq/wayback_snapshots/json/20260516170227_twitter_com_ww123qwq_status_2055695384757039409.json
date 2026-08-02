@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2055694174473843167",
+    "created_at": "2026-05-16T17:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055695384757039409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1969724121027407872",
+          "start": 0,
+          "username": "Acidrain_ame"
+        },
+        {
+          "end": 30,
+          "id": "1973422975904092160",
+          "start": 14,
+          "username": "youyushuiniu626"
+        },
+        {
+          "end": 41,
+          "id": "1541011897817767936",
+          "start": 31,
+          "username": "Lily_u830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055695384757039409",
+    "in_reply_to_user_id": "1969724121027407872",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055694174473843167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acidrain_ame @youyushuiniu626 @Lily_u830 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2055694166588559360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdK8_ZakAA7_8-.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2055694174473843167",
+        "created_at": "2026-05-16T17:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055695384757039409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1969724121027407872",
+              "start": 0,
+              "username": "Acidrain_ame"
+            },
+            {
+              "end": 30,
+              "id": "1973422975904092160",
+              "start": 14,
+              "username": "youyushuiniu626"
+            },
+            {
+              "end": 41,
+              "id": "1541011897817767936",
+              "start": 31,
+              "username": "Lily_u830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055695384757039409",
+        "in_reply_to_user_id": "1969724121027407872",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055694174473843167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acidrain_ame @youyushuiniu626 @Lily_u830 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055694166588559360"
+          ]
+        },
+        "author_id": "1969724121027407872",
+        "conversation_id": "2055694174473843167",
+        "created_at": "2026-05-16T16:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055694174473843167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1521553831775158273",
+              "start": 32,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 64,
+              "id": "1973422975904092160",
+              "start": 48,
+              "username": "youyushuiniu626"
+            },
+            {
+              "end": 75,
+              "id": "1541011897817767936",
+              "start": 65,
+              "username": "Lily_u830"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree",
+              "end": 103,
+              "expanded_url": "https://infinitetweet.me/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2053764802380693504/ftyE80Tw?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053764802380693504/ftyE80Tw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree",
+              "url": "https://t.co/Y2P1h0ti6M"
+            },
+            {
+              "display_url": "pic.x.com/vHQon5V1Y2",
+              "end": 127,
+              "expanded_url": "https://x.com/Acidrain_ame/status/2055694174473843167/photo/1",
+              "media_key": "3_2055694166588559360",
+              "start": 104,
+              "url": "https://t.co/vHQon5V1Y2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055694174473843167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @ @\n👰 配偶: @ww123qwq\n👶 孩子: @youyushuiniu626 @Lily_u830\n\n➡️ https://t.co/Y2P1h0ti6M https://t.co/vHQon5V1Y2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 279,
+          "like_count": 42757,
+          "listed_count": 4,
+          "media_count": 694,
+          "tweet_count": 12844
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T11:23:28.000Z",
+        "description": "水银灯｜Acid",
+        "id": "1969724121027407872",
+        "name": "Acid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053141847971893248/ADJpa7kN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 65,
+          "like_count": 1792,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "username": "Acidrain_ame",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:21:24.000Z",
+        "description": "DontcryU",
+        "id": "1973422975904092160",
+        "name": "鱿鱼的水牛",
+        "pinned_tweet_id": "2003662712962974030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989705569654247427/o1qKXNfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 204,
+          "like_count": 3587,
+          "listed_count": 7,
+          "media_count": 33,
+          "tweet_count": 589
+        },
+        "username": "youyushuiniu626",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T10:54:08.000Z",
+        "description": "不为什么",
+        "id": "1541011897817767936",
+        "name": "rain",
+        "pinned_tweet_id": "1657320151958843395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956388810297925632/xfCQZDRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 354,
+          "like_count": 7219,
+          "listed_count": 11,
+          "media_count": 485,
+          "tweet_count": 5595
+        },
+        "username": "Lily_u830",
+        "verified": false
+      }
+    ]
+  }
+}

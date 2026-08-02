@@ -1,0 +1,376 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1808887414087389184",
+        "3_1808887414259396615",
+        "3_1808887415278555136",
+        "3_1808887415781871617"
+      ],
+      "media_source_tweet_id": [
+        "1808887418571083900",
+        "1808887418571083900",
+        "1808887418571083900",
+        "1808887418571083900"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1809243152555057452",
+    "created_at": "2024-07-05T15:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T16:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809243152555057452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1406774049737297922",
+          "start": 3,
+          "username": "Kugo_eya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/uTdfBkIjJ5",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+          "media_key": "3_1808887414087389184",
+          "start": 36,
+          "url": "https://t.co/uTdfBkIjJ5"
+        },
+        {
+          "display_url": "pic.twitter.com/uTdfBkIjJ5",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+          "media_key": "3_1808887414259396615",
+          "start": 36,
+          "url": "https://t.co/uTdfBkIjJ5"
+        },
+        {
+          "display_url": "pic.twitter.com/uTdfBkIjJ5",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+          "media_key": "3_1808887415278555136",
+          "start": 36,
+          "url": "https://t.co/uTdfBkIjJ5"
+        },
+        {
+          "display_url": "pic.twitter.com/uTdfBkIjJ5",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+          "media_key": "3_1808887415781871617",
+          "start": 36,
+          "url": "https://t.co/uTdfBkIjJ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809243152555057452",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 768
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808887418571083900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kugo_eya: 7年後の姿、構図に関連性が出るようにしてる https://t.co/uTdfBkIjJ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1808887414087389184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRp1hOtakAApYlj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1808887414259396615",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRp1hPWbMAcRAZL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1808887415278555136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRp1hTJaUAA8fMx.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1808887415781871617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRp1hVBaUAEstZ7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808887414087389184",
+            "3_1808887414259396615",
+            "3_1808887415278555136",
+            "3_1808887415781871617"
+          ],
+          "media_source_tweet_id": [
+            "1808887418571083900",
+            "1808887418571083900",
+            "1808887418571083900",
+            "1808887418571083900"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1809243152555057452",
+        "created_at": "2024-07-05T15:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T16:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809243152555057452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1406774049737297922",
+              "start": 3,
+              "username": "Kugo_eya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uTdfBkIjJ5",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+              "media_key": "3_1808887414087389184",
+              "start": 36,
+              "url": "https://t.co/uTdfBkIjJ5"
+            },
+            {
+              "display_url": "pic.twitter.com/uTdfBkIjJ5",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+              "media_key": "3_1808887414259396615",
+              "start": 36,
+              "url": "https://t.co/uTdfBkIjJ5"
+            },
+            {
+              "display_url": "pic.twitter.com/uTdfBkIjJ5",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+              "media_key": "3_1808887415278555136",
+              "start": 36,
+              "url": "https://t.co/uTdfBkIjJ5"
+            },
+            {
+              "display_url": "pic.twitter.com/uTdfBkIjJ5",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+              "media_key": "3_1808887415781871617",
+              "start": 36,
+              "url": "https://t.co/uTdfBkIjJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809243152555057452",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 768
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808887418571083900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kugo_eya: 7年後の姿、構図に関連性が出るようにしてる https://t.co/uTdfBkIjJ5"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808887414087389184",
+            "3_1808887414259396615",
+            "3_1808887415278555136",
+            "3_1808887415781871617"
+          ]
+        },
+        "author_id": "1406774049737297922",
+        "conversation_id": "1808887418571083900",
+        "created_at": "2024-07-04T15:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T16:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808887418571083900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uTdfBkIjJ5",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+              "media_key": "3_1808887414087389184",
+              "start": 22,
+              "url": "https://t.co/uTdfBkIjJ5"
+            },
+            {
+              "display_url": "pic.twitter.com/uTdfBkIjJ5",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+              "media_key": "3_1808887414259396615",
+              "start": 22,
+              "url": "https://t.co/uTdfBkIjJ5"
+            },
+            {
+              "display_url": "pic.twitter.com/uTdfBkIjJ5",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+              "media_key": "3_1808887415278555136",
+              "start": 22,
+              "url": "https://t.co/uTdfBkIjJ5"
+            },
+            {
+              "display_url": "pic.twitter.com/uTdfBkIjJ5",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1808887418571083900/photo/1",
+              "media_key": "3_1808887415781871617",
+              "start": 22,
+              "url": "https://t.co/uTdfBkIjJ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808887418571083900",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1199,
+          "impression_count": 186471,
+          "like_count": 9349,
+          "quote_count": 38,
+          "reply_count": 21,
+          "retweet_count": 768
+        },
+        "reply_settings": "everyone",
+        "text": "7年後の姿、構図に関連性が出るようにしてる https://t.co/uTdfBkIjJ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 107,
+          "like_count": 40324,
+          "listed_count": 0,
+          "tweet_count": 10304
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T00:41:02.000Z",
+        "description": "さなだくご です。スマホ指描きガチ勢です。   FAタグ▶ #九五に替刃あげる 推し事報告タグ▶ #真田九五に救済を求めます 鍵▶(@Kugo_hasu)BOOTH▶(https://t.co/Hrvgn6rKKj)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 30,
+                "tag": "九五に替刃あげる"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "tag": "真田九五に救済を求めます"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "Kugo_hasu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sanadakugo.booth.pm",
+                "end": 107,
+                "expanded_url": "https://sanadakugo.booth.pm/",
+                "start": 84,
+                "url": "https://t.co/Hrvgn6rKKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sanadakugo",
+                "end": 23,
+                "expanded_url": "https://lit.link/sanadakugo",
+                "start": 0,
+                "url": "https://t.co/gUnTsxI8YX"
+              }
+            ]
+          }
+        },
+        "id": "1406774049737297922",
+        "location": "ファンネ▶ｸｺﾞﾒｸ",
+        "name": "真田 九五",
+        "pinned_tweet_id": "1808882809953792465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784917740182290432/2_8mBTr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17374,
+          "following_count": 95,
+          "like_count": 16644,
+          "listed_count": 39,
+          "tweet_count": 3576
+        },
+        "url": "https://t.co/gUnTsxI8YX",
+        "username": "Kugo_eya",
+        "verified": false
+      }
+    ]
+  }
+}

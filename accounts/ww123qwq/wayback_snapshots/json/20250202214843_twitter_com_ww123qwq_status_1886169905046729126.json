@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1886040730671665182",
+    "created_at": "2025-02-02T21:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T22:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886169905046729126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1862931803931303936",
+          "start": 0,
+          "username": "zpananasdf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886169905046729126",
+    "in_reply_to_user_id": "1862931803931303936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886040730671665182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zpananasdf 欧迪圣体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1886040730671665182",
+        "created_at": "2025-02-02T21:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T22:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886169905046729126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1862931803931303936",
+              "start": 0,
+              "username": "zpananasdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886169905046729126",
+        "in_reply_to_user_id": "1862931803931303936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886040730671665182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zpananasdf 欧迪圣体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862931803931303936",
+        "conversation_id": "1886040730671665182",
+        "created_at": "2025-02-02T13:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886040730671665182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886040730671665182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林劲好大啊，嘿嘿，早上吃了四颗，晚上走路都撞墙呜呜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 164,
+          "like_count": 40112,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 10429
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:48:56.000Z",
+        "description": "爱好广泛（等于没有爱好）/无证含糖🍥/未出柜/抑郁症患者",
+        "id": "1862931803931303936",
+        "name": "仲夏幽竹🍥",
+        "pinned_tweet_id": "1873526743228932213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863536947073097728/2nGMSQ4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 356,
+          "like_count": 1755,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 511
+        },
+        "username": "zpananasdf",
+        "verified": false
+      }
+    ]
+  }
+}

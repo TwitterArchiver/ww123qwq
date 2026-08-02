@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071169955278807400",
+    "created_at": "2026-06-28T11:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071198138094981611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627860014114168833",
+          "start": 0,
+          "username": "Snow_Xue_1"
+        },
+        {
+          "end": 22,
+          "id": "1995266194576961536",
+          "start": 12,
+          "username": "skyseafor"
+        },
+        {
+          "end": 34,
+          "id": "2045513838850641921",
+          "start": 23,
+          "username": "inline_int"
+        },
+        {
+          "end": 46,
+          "id": "1862765396111368192",
+          "start": 35,
+          "username": "LithusEric"
+        },
+        {
+          "end": 63,
+          "id": "1738907027362209792",
+          "start": 47,
+          "username": "ElysiumFengxuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071198138094981611",
+    "in_reply_to_user_id": "1627860014114168833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071197912680497486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_1 @skyseafor @inline_int @LithusEric @ElysiumFengxuan 下次你也来😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071169955278807400",
+        "created_at": "2026-06-28T11:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071198138094981611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627860014114168833",
+              "start": 0,
+              "username": "Snow_Xue_1"
+            },
+            {
+              "end": 22,
+              "id": "1995266194576961536",
+              "start": 12,
+              "username": "skyseafor"
+            },
+            {
+              "end": 34,
+              "id": "2045513838850641921",
+              "start": 23,
+              "username": "inline_int"
+            },
+            {
+              "end": 46,
+              "id": "1862765396111368192",
+              "start": 35,
+              "username": "LithusEric"
+            },
+            {
+              "end": 63,
+              "id": "1738907027362209792",
+              "start": 47,
+              "username": "ElysiumFengxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071198138094981611",
+        "in_reply_to_user_id": "1627860014114168833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071197912680497486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_1 @skyseafor @inline_int @LithusEric @ElysiumFengxuan 下次你也来😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627860014114168833",
+        "conversation_id": "2071169955278807400",
+        "created_at": "2026-06-28T11:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071197912680497486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            },
+            {
+              "end": 22,
+              "id": "2045513838850641921",
+              "start": 11,
+              "username": "inline_int"
+            },
+            {
+              "end": 34,
+              "id": "1862765396111368192",
+              "start": 23,
+              "username": "LithusEric"
+            },
+            {
+              "end": 51,
+              "id": "1738907027362209792",
+              "start": 35,
+              "username": "ElysiumFengxuan"
+            },
+            {
+              "end": 61,
+              "id": "1521553831775158273",
+              "start": 52,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071197912680497486",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071169955278807400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor @inline_int @LithusEric @ElysiumFengxuan @ww123qwq xm贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 283,
+          "like_count": 43162,
+          "listed_count": 4,
+          "media_count": 711,
+          "tweet_count": 13095
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "✝️普瑞巴林重度依赖✝️ \n| 普通的上海入 | hrt2025.11 🍥 | 生产日期 2010.3.16 | 半家长党（约等于家长不管党） od不管 | 姐姐 @vokleer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "vokleer"
+              }
+            ]
+          }
+        },
+        "id": "1627860014114168833",
+        "location": "上海",
+        "name": "雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 242,
+          "like_count": 4178,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "Snow_Xue_1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 请不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 直男勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 205,
+          "like_count": 845,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 574
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/MC/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2068232879453192300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 1066,
+          "like_count": 1893,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T07:47:47.000Z",
+        "description": "MTF | HRT since 2023 | GnRHa since 2026 | MDD | Chemistry Olympiad | High School Dropout | English/Chinese/Japanese",
+        "id": "1862765396111368192",
+        "location": "Shanghai",
+        "name": "Ericka Lithi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012882001116729344/N20yvaJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 69,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "LithusEric",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "喵喵帝国",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 2623,
+          "like_count": 6841,
+          "listed_count": 11,
+          "media_count": 1248,
+          "tweet_count": 10174
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982396404753399808"
+      ],
+      "media_source_tweet_id": [
+        "1982396413536563637"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1982765453199249765",
+    "created_at": "2025-10-27T11:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T12:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982765453199249765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1410892403108503552",
+          "start": 3,
+          "username": "oyasrmi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tc4La7XoEQ",
+          "end": 42,
+          "expanded_url": "https://x.com/oyasrmi/status/1982396413536563637/photo/1",
+          "media_key": "3_1982396404753399808",
+          "start": 19,
+          "url": "https://t.co/Tc4La7XoEQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982765453199249765",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982396413536563637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oyasrmi: 双子です♩ https://t.co/Tc4La7XoEQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982396404753399808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LjBuVWgAA_GCN.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982396404753399808"
+          ],
+          "media_source_tweet_id": [
+            "1982396413536563637"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1982765453199249765",
+        "created_at": "2025-10-27T11:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982765453199249765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1410892403108503552",
+              "start": 3,
+              "username": "oyasrmi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tc4La7XoEQ",
+              "end": 42,
+              "expanded_url": "https://x.com/oyasrmi/status/1982396413536563637/photo/1",
+              "media_key": "3_1982396404753399808",
+              "start": 19,
+              "url": "https://t.co/Tc4La7XoEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982765453199249765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982396413536563637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oyasrmi: 双子です♩ https://t.co/Tc4La7XoEQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982396404753399808"
+          ]
+        },
+        "author_id": "1410892403108503552",
+        "conversation_id": "1982396413536563637",
+        "created_at": "2025-10-26T10:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T11:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982396413536563637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tc4La7XoEQ",
+              "end": 29,
+              "expanded_url": "https://x.com/oyasrmi/status/1982396413536563637/photo/1",
+              "media_key": "3_1982396404753399808",
+              "start": 6,
+              "url": "https://t.co/Tc4La7XoEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982396413536563637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 38985,
+          "like_count": 3581,
+          "quote_count": 18,
+          "reply_count": 3,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "双子です♩ https://t.co/Tc4La7XoEQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 210,
+          "like_count": 40114,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 10771
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T09:25:43.000Z",
+        "description": "さぶごみ @moeuxa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "moeuxa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/oyasrmi",
+                "end": 23,
+                "expanded_url": "https://lit.link/oyasrmi",
+                "start": 0,
+                "url": "https://t.co/iJPgI9uYsG"
+              }
+            ]
+          }
+        },
+        "id": "1410892403108503552",
+        "name": "ろりうさ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845178164131266562/yW1ZeUO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13566,
+          "following_count": 93,
+          "like_count": 5120,
+          "listed_count": 38,
+          "media_count": 184,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/iJPgI9uYsG",
+        "username": "oyasrmi",
+        "verified": false
+      }
+    ]
+  }
+}

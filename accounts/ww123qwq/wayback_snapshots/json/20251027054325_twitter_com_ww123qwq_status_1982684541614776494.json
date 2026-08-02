@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1982652598189748699",
+    "created_at": "2025-10-27T05:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T06:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982684541614776494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1703066493519626240",
+          "start": 0,
+          "username": "sanaebaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982684541614776494",
+    "in_reply_to_user_id": "1703066493519626240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982652598189748699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanaebaka 什么时候入窝门槛😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_1982652588659986432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PMBlwWUAAtC2X.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1982652598189748699",
+        "created_at": "2025-10-27T05:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982684541614776494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703066493519626240",
+              "start": 0,
+              "username": "sanaebaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982684541614776494",
+        "in_reply_to_user_id": "1703066493519626240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982652598189748699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanaebaka 什么时候入窝门槛😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982652588659986432"
+          ]
+        },
+        "author_id": "1703066493519626240",
+        "conversation_id": "1982652598189748699",
+        "created_at": "2025-10-27T03:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982652598189748699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMYkzRR5Zd",
+              "end": 34,
+              "expanded_url": "https://x.com/sanaebaka/status/1982652598189748699/photo/1",
+              "media_key": "3_1982652588659986432",
+              "start": 11,
+              "url": "https://t.co/vMYkzRR5Zd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982652598189748699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本人也收起门槛惹诶 https://t.co/vMYkzRR5Zd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 209,
+          "like_count": 40083,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 10763
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T15:21:18.000Z",
+        "description": "上推主打一个争取言论自由，尽量不发布攻击性言论，和平讨论，觉得不爽可以选择拉黑，感到冒犯私信会删，谢谢。",
+        "id": "1703066493519626240",
+        "location": "高市",
+        "name": "早苗",
+        "pinned_tweet_id": "1901657744274280720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974824324935901184/UID0fZcW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 216,
+          "like_count": 692,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 419
+        },
+        "username": "sanaebaka",
+        "verified": false
+      }
+    ]
+  }
+}

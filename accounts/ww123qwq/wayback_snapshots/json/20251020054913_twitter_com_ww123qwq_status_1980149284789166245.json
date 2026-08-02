@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979941582791942144"
+      ],
+      "media_source_tweet_id": [
+        "1979941590199337230"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1980149284789166245",
+    "created_at": "2025-10-20T05:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T06:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980149284789166245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1902723196794875904",
+          "start": 3,
+          "username": "ya_mai12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BlZl5q3cRz",
+          "end": 37,
+          "expanded_url": "https://x.com/ya_mai12/status/1979941590199337230/photo/1",
+          "media_key": "3_1979941582791942144",
+          "start": 14,
+          "url": "https://t.co/BlZl5q3cRz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980149284789166245",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979941590199337230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ya_mai12: https://t.co/BlZl5q3cRz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979941582791942144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3oqYR5WoAAVF88.jpg",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979941582791942144"
+          ],
+          "media_source_tweet_id": [
+            "1979941590199337230"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1980149284789166245",
+        "created_at": "2025-10-20T05:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980149284789166245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1902723196794875904",
+              "start": 3,
+              "username": "ya_mai12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BlZl5q3cRz",
+              "end": 37,
+              "expanded_url": "https://x.com/ya_mai12/status/1979941590199337230/photo/1",
+              "media_key": "3_1979941582791942144",
+              "start": 14,
+              "url": "https://t.co/BlZl5q3cRz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980149284789166245",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979941590199337230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ya_mai12: https://t.co/BlZl5q3cRz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979941582791942144"
+          ]
+        },
+        "author_id": "1902723196794875904",
+        "conversation_id": "1979941590199337230",
+        "created_at": "2025-10-19T16:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979941590199337230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BlZl5q3cRz",
+              "end": 23,
+              "expanded_url": "https://x.com/ya_mai12/status/1979941590199337230/photo/1",
+              "media_key": "3_1979941582791942144",
+              "start": 0,
+              "url": "https://t.co/BlZl5q3cRz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979941590199337230",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 25180,
+          "like_count": 1457,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BlZl5q3cRz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 207,
+          "like_count": 39919,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 10699
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:05:59.000Z",
+        "description": "やまいです 🥀🩸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sere12",
+                "end": 23,
+                "expanded_url": "https://lit.link/sere12",
+                "start": 0,
+                "url": "https://t.co/gNYeOQK6iV"
+              }
+            ]
+          }
+        },
+        "id": "1902723196794875904",
+        "name": "病 セレ",
+        "pinned_tweet_id": "1970112581835845864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902724827510890497/aH9OgtiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5561,
+          "following_count": 47,
+          "like_count": 897,
+          "listed_count": 17,
+          "media_count": 137,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/gNYeOQK6iV",
+        "username": "ya_mai12",
+        "verified": true
+      }
+    ]
+  }
+}

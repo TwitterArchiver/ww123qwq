@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1875453397656355145",
+    "created_at": "2025-01-06T15:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T16:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876287018294284382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1573663582994444289",
+          "start": 0,
+          "username": "guojiazongshuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876287018294284382",
+    "in_reply_to_user_id": "1573663582994444289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875453397656355145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guojiazongshuji 这下不得不用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1875453397656355145",
+        "created_at": "2025-01-06T15:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876287018294284382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573663582994444289",
+              "start": 0,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876287018294284382",
+        "in_reply_to_user_id": "1573663582994444289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875453397656355145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guojiazongshuji 这下不得不用了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875453390249193478"
+          ]
+        },
+        "author_id": "1573663582994444289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1875453397656355145",
+        "created_at": "2025-01-04T08:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T09:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875453397656355145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMotUKqzms",
+              "end": 38,
+              "expanded_url": "https://x.com/guojiazongshuji/status/1875453397656355145/photo/1",
+              "media_key": "3_1875453390249193478",
+              "start": 15,
+              "url": "https://t.co/GMotUKqzms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875453397656355145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 587,
+          "impression_count": 644596,
+          "like_count": 2126,
+          "quote_count": 20,
+          "reply_count": 243,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "这些黑名单app千万不要下载 https://t.co/GMotUKqzms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 123,
+          "like_count": 39592,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 10133
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "互联网考古专家 / 习厨TV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html",
+                "start": 0,
+                "url": "https://t.co/X75VIaIbkr"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "你为什么认为位置这种功能是真的？",
+        "name": "苏苏❄️冬眠模式🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872829799632388097/zMphS3ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9265,
+          "following_count": 507,
+          "like_count": 55913,
+          "listed_count": 28,
+          "media_count": 244,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/X75VIaIbkr",
+        "username": "guojiazongshuji",
+        "verified": false
+      }
+    ]
+  }
+}

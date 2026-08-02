@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2070794587166101751",
+    "created_at": "2026-06-28T13:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071226804917137713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1780570823063171072",
+          "start": 0,
+          "username": "pulinnaa"
+        },
+        {
+          "end": 21,
+          "id": "1992497447562780673",
+          "start": 10,
+          "username": "ohls114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071226804917137713",
+    "in_reply_to_user_id": "1780570823063171072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071091598629241222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pulinnaa @ohls114514 非医疗剂量下会导致内幻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2070794587166101751",
+        "created_at": "2026-06-28T13:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071226804917137713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1780570823063171072",
+              "start": 0,
+              "username": "pulinnaa"
+            },
+            {
+              "end": 21,
+              "id": "1992497447562780673",
+              "start": 10,
+              "username": "ohls114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071226804917137713",
+        "in_reply_to_user_id": "1780570823063171072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071091598629241222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pulinnaa @ohls114514 非医疗剂量下会导致内幻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780570823063171072",
+        "conversation_id": "2070794587166101751",
+        "created_at": "2026-06-28T04:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071091598629241222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992497447562780673",
+              "start": 0,
+              "username": "ohls114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071091598629241222",
+        "in_reply_to_user_id": "1992497447562780673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071054852751298575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ohls114514 这玩意能致幻？可能是我一直以治疗焦虑的剂量服用从来没幻觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 284,
+          "like_count": 43187,
+          "listed_count": 4,
+          "media_count": 711,
+          "tweet_count": 13101
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T12:16:40.000Z",
+        "description": "18↓ DM⭕ 🗝️@pulinnakk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "pulinnakk"
+              }
+            ]
+          }
+        },
+        "id": "1780570823063171072",
+        "location": "さきです",
+        "name": "hahahanasaki",
+        "pinned_tweet_id": "1876823850312196293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065065076940492800/ZmCgsfWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 199,
+          "like_count": 4047,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 2708
+        },
+        "url": "",
+        "username": "pulinnaa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T07:36:35.000Z",
+        "description": "",
+        "id": "1992497447562780673",
+        "name": "真理",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 37,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "ohls114514",
+        "verified": false
+      }
+    ]
+  }
+}

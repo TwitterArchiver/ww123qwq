@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1793980684249477154",
+    "created_at": "2024-05-25T11:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T12:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794330914656575490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1667055976367702016",
+          "start": 0,
+          "username": "xuxiaole157671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794330914656575490",
+    "in_reply_to_user_id": "1667055976367702016",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793980684249477154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuxiaole157671 南京路上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1793980684249477154",
+        "created_at": "2024-05-25T11:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T12:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794330914656575490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1667055976367702016",
+              "start": 0,
+              "username": "xuxiaole157671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794330914656575490",
+        "in_reply_to_user_id": "1667055976367702016",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793980684249477154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxiaole157671 南京路上"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793980680789200896"
+          ]
+        },
+        "author_id": "1667055976367702016",
+        "conversation_id": "1793980684249477154",
+        "created_at": "2024-05-24T12:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T13:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793980684249477154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YQzCBsYGT2",
+              "end": 45,
+              "expanded_url": "https://twitter.com/xuxiaole157671/status/1793980684249477154/photo/1",
+              "media_key": "3_1793980680789200896",
+              "start": 22,
+              "url": "https://t.co/YQzCBsYGT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793980684249477154",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 41895,
+          "like_count": 248,
+          "quote_count": 6,
+          "reply_count": 110,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "中国有哪些地方二次元浓度最重啊？我要二次元 https://t.co/YQzCBsYGT2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775825619340689408/yGyXtAtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 101,
+          "like_count": 40934,
+          "listed_count": 0,
+          "tweet_count": 10272
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T06:28:19.000Z",
+        "description": "喜欢日本食品与产品，台湾食品，香港饮料和西方美食！希望给大家带来快乐🥰喵喵喵(ฅ◑ω◑ฅ)",
+        "id": "1667055976367702016",
+        "location": "湖南腊肉乡",
+        "name": "从牛奶开始",
+        "pinned_tweet_id": "1715314267606380886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788229859711528960/yK_TUqsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 336,
+          "like_count": 10868,
+          "listed_count": 0,
+          "tweet_count": 7118
+        },
+        "username": "xuxiaole157671",
+        "verified": false
+      }
+    ]
+  }
+}

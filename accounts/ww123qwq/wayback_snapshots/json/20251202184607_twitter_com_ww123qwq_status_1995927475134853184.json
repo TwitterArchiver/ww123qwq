@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1995767434385764863",
+    "created_at": "2025-12-02T18:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T19:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995927475134853184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1526098526442295297",
+          "start": 0,
+          "username": "hezehua5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995927475134853184",
+    "in_reply_to_user_id": "1526098526442295297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995767434385764863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hezehua5 好似🍾"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19388,
+        "height": 1280,
+        "media_key": "7_1995767375690694657",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995767375690694657/pu/img/tDRTk02zJW37M1Cp.jpg",
+        "public_metrics": {
+          "view_count": 895
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995767375690694657/pu/vid/avc1/320x568/dKF0LGHbZ2DKyohx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995767375690694657/pu/vid/avc1/480x852/oxl4XnuWR8ZdDxJ5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995767375690694657/pu/vid/avc1/720x1280/9Bsbez8nSSAZqTKz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995767375690694657/pu/pl/rcRQyv0C8JNdA3KU.m3u8?tag=12&v=482"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1995767434385764863",
+        "created_at": "2025-12-02T18:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T19:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995927475134853184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1526098526442295297",
+              "start": 0,
+              "username": "hezehua5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995927475134853184",
+        "in_reply_to_user_id": "1526098526442295297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995767434385764863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hezehua5 好似🍾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995767375690694657"
+          ]
+        },
+        "author_id": "1526098526442295297",
+        "conversation_id": "1995767434385764863",
+        "created_at": "2025-12-02T08:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995767434385764863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYFLfQ0hTa",
+              "end": 85,
+              "expanded_url": "https://x.com/hezehua5/status/1995767434385764863/video/1",
+              "media_key": "7_1995767375690694657",
+              "start": 62,
+              "url": "https://t.co/GYFLfQ0hTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995767434385764863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2072,
+          "like_count": 157,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "在一次抓捕毒贩的行动中，28岁的禁毒民警李松陪不幸中弹，壮烈牺牲😭🕯致敬英雄🙏🙏🙏＃缉毒警察＃禁毒＃禁毒宣传＃正能量＃英雄 https://t.co/GYFLfQ0hTa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/🚪52/88/188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1995591006411186236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 262,
+          "like_count": 40723,
+          "listed_count": 3,
+          "media_count": 403,
+          "tweet_count": 11647
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T07:13:56.000Z",
+        "description": "爱是最美的风景（互关互粉互FO回关followback，回关受限时，则小号回关fb)",
+        "id": "1526098526442295297",
+        "location": "中国",
+        "name": "李婧🇨🇳互关互粉互FO",
+        "pinned_tweet_id": "1995313272309125126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974663993743810561/zhUwomAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117430,
+          "following_count": 42915,
+          "like_count": 23387,
+          "listed_count": 166,
+          "media_count": 13828,
+          "tweet_count": 37202
+        },
+        "username": "hezehua5",
+        "verified": true
+      }
+    ]
+  }
+}

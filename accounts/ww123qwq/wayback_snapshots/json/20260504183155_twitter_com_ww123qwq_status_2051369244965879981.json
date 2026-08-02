@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050871222154809344"
+      ],
+      "media_source_tweet_id": [
+        "2051225325863153905"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2051369244965879981",
+    "created_at": "2026-05-04T18:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T19:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051369244965879981"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "Seasonery"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1317931140",
+          "start": 3,
+          "username": "hoshi_u3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wNSlubtLf3",
+          "end": 52,
+          "expanded_url": "https://x.com/hoshi_u3/status/2051225325863153905/photo/1",
+          "media_key": "3_2050871222154809344",
+          "start": 29,
+          "url": "https://t.co/wNSlubtLf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051369244965879981",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 447
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051225325863153905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshi_u3: 春の空\n#Seasonery https://t.co/wNSlubtLf3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2050871222154809344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYogrSb0AAtY8k.jpg",
+        "width": 745
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050871222154809344"
+          ],
+          "media_source_tweet_id": [
+            "2051225325863153905"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2051369244965879981",
+        "created_at": "2026-05-04T18:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T19:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051369244965879981"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "Seasonery"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1317931140",
+              "start": 3,
+              "username": "hoshi_u3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNSlubtLf3",
+              "end": 52,
+              "expanded_url": "https://x.com/hoshi_u3/status/2051225325863153905/photo/1",
+              "media_key": "3_2050871222154809344",
+              "start": 29,
+              "url": "https://t.co/wNSlubtLf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051369244965879981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 447
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051225325863153905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshi_u3: 春の空\n#Seasonery https://t.co/wNSlubtLf3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050871222154809344"
+          ]
+        },
+        "author_id": "1317931140",
+        "conversation_id": "2051225325863153905",
+        "created_at": "2026-05-04T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051225325863153905"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 4,
+              "tag": "Seasonery"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNSlubtLf3",
+              "end": 38,
+              "expanded_url": "https://x.com/hoshi_u3/status/2051225325863153905/photo/1",
+              "media_key": "3_2050871222154809344",
+              "start": 15,
+              "url": "https://t.co/wNSlubtLf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051225325863153905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 35149,
+          "like_count": 2828,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 447
+        },
+        "reply_settings": "everyone",
+        "text": "春の空\n#Seasonery https://t.co/wNSlubtLf3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 276,
+          "like_count": 42549,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12771
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-31T08:02:33.000Z",
+        "description": "イラストレーター💛お仕事のご相談はサイトへ🙇‍♀️\n❥sub @poshi_u3 ❥tag #みてほし",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 46,
+                "tag": "みてほし"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "poshi_u3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "usagigo.com",
+                "end": 23,
+                "expanded_url": "https://usagigo.com",
+                "start": 0,
+                "url": "https://t.co/KLIkNHBAqs"
+              }
+            ]
+          }
+        },
+        "id": "1317931140",
+        "location": "circle うさぎ号",
+        "name": "ほし💛4/29COMIC1【A20a】",
+        "pinned_tweet_id": "2048004176790347863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672984246800240640/2SUnVZVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282737,
+          "following_count": 1819,
+          "like_count": 19323,
+          "listed_count": 2482,
+          "media_count": 875,
+          "tweet_count": 31696
+        },
+        "url": "https://t.co/KLIkNHBAqs",
+        "username": "hoshi_u3",
+        "verified": true
+      }
+    ]
+  }
+}

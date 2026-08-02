@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066553087524040704"
+      ],
+      "media_source_tweet_id": [
+        "2066553093844828591"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2066874467935289711",
+    "created_at": "2026-06-16T13:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066874467935289711"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 58,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 74,
+          "start": 69,
+          "tag": "ニディガ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048306284550828032",
+          "start": 3,
+          "username": "xx_r41n_xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CwtnwCWhly",
+          "end": 98,
+          "expanded_url": "https://x.com/xx_r41n_xx/status/2066553093844828591/photo/1",
+          "media_key": "3_2066553087524040704",
+          "start": 75,
+          "url": "https://t.co/CwtnwCWhly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066874467935289711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066553093844828591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xx_r41n_xx: 「いまからふたりで、この海の中へずっと進んでいこうって言ったらついてきてくれる？」\n#NEEDY_pic\n#ニディガ https://t.co/CwtnwCWhly"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2066553087524040704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3fFYNbcAAMDjF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066553087524040704"
+          ],
+          "media_source_tweet_id": [
+            "2066553093844828591"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2066874467935289711",
+        "created_at": "2026-06-16T13:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066874467935289711"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 58,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "ニディガ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048306284550828032",
+              "start": 3,
+              "username": "xx_r41n_xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwtnwCWhly",
+              "end": 98,
+              "expanded_url": "https://x.com/xx_r41n_xx/status/2066553093844828591/photo/1",
+              "media_key": "3_2066553087524040704",
+              "start": 75,
+              "url": "https://t.co/CwtnwCWhly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066874467935289711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066553093844828591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xx_r41n_xx: 「いまからふたりで、この海の中へずっと進んでいこうって言ったらついてきてくれる？」\n#NEEDY_pic\n#ニディガ https://t.co/CwtnwCWhly"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066553087524040704"
+          ]
+        },
+        "author_id": "2048306284550828032",
+        "conversation_id": "2066553093844828591",
+        "created_at": "2026-06-15T16:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066553093844828591"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 42,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwtnwCWhly",
+              "end": 82,
+              "expanded_url": "https://x.com/xx_r41n_xx/status/2066553093844828591/photo/1",
+              "media_key": "3_2066553087524040704",
+              "start": 59,
+              "url": "https://t.co/CwtnwCWhly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066553093844828591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5361,
+          "like_count": 440,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "「いまからふたりで、この海の中へずっと進んでいこうって言ったらついてきてくれる？」\n#NEEDY_pic\n#ニディガ https://t.co/CwtnwCWhly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 266,
+          "like_count": 42734,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 12904
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T07:44:21.000Z",
+        "description": "心臓が息の根を止めるまで",
+        "id": "2048306284550828032",
+        "name": "一般黒髪女性",
+        "pinned_tweet_id": "2066553093844828591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048307265200160768/6XSvZMxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 10,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "xx_r41n_xx",
+        "verified": false
+      }
+    ]
+  }
+}

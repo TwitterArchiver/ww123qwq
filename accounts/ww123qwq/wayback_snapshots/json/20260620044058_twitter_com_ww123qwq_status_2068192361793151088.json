@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067966066891120640"
+      ],
+      "media_source_tweet_id": [
+        "2067966069411881258"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2068192361793151088",
+    "created_at": "2026-06-20T04:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068192361793151088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7H6FvhtnXv",
+          "end": 49,
+          "expanded_url": "https://x.com/Dormicumproject/status/2067966069411881258/photo/1",
+          "media_key": "3_2067966066891120640",
+          "start": 26,
+          "url": "https://t.co/7H6FvhtnXv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068192361793151088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 465
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067966069411881258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: くっころ https://t.co/7H6FvhtnXv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2067966066891120640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLkLmibYAAE5TS.jpg",
+        "width": 1185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067966066891120640"
+          ],
+          "media_source_tweet_id": [
+            "2067966069411881258"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2068192361793151088",
+        "created_at": "2026-06-20T04:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068192361793151088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7H6FvhtnXv",
+              "end": 49,
+              "expanded_url": "https://x.com/Dormicumproject/status/2067966069411881258/photo/1",
+              "media_key": "3_2067966066891120640",
+              "start": 26,
+              "url": "https://t.co/7H6FvhtnXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068192361793151088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 465
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067966069411881258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: くっころ https://t.co/7H6FvhtnXv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067966066891120640"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "2067966069411881258",
+        "created_at": "2026-06-19T13:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067966069411881258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7H6FvhtnXv",
+              "end": 28,
+              "expanded_url": "https://x.com/Dormicumproject/status/2067966069411881258/photo/1",
+              "media_key": "3_2067966066891120640",
+              "start": 5,
+              "url": "https://t.co/7H6FvhtnXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067966069411881258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1314,
+          "impression_count": 215865,
+          "like_count": 9160,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 465
+        },
+        "reply_settings": "everyone",
+        "text": "くっころ https://t.co/7H6FvhtnXv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 273,
+          "like_count": 42879,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12980
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n漫画はここから読めますhttps://t.co/SB66qxPOdk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxPOdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLjTn"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "2031023119482417381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168295,
+          "following_count": 0,
+          "like_count": 4101,
+          "listed_count": 665,
+          "media_count": 1214,
+          "tweet_count": 2582
+        },
+        "url": "https://t.co/CtEGqQLjTn",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

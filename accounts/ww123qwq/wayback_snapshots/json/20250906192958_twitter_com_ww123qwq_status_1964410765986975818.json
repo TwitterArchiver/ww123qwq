@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1963987912195993601"
+      ],
+      "media_source_tweet_id": [
+        "1963988590075244894"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1964410765986975818",
+    "created_at": "2025-09-06T19:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T20:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964410765986975818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "961832160377282560",
+          "start": 3,
+          "username": "iMoeAya"
+        },
+        {
+          "end": 88,
+          "id": "1222065289417891840",
+          "start": 76,
+          "username": "_XingShang_"
+        },
+        {
+          "end": 106,
+          "id": "1705934998673686528",
+          "start": 91,
+          "username": "KatoRosa220201"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DP07esJxtW",
+          "end": 130,
+          "expanded_url": "https://x.com/iMoeAya/status/1963988590075244894/video/1",
+          "media_key": "13_1963987912195993601",
+          "start": 107,
+          "url": "https://t.co/DP07esJxtW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964410765986975818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963988590075244894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iMoeAya: 运送到了，唔…又是这里么QwQ……萌绫真的真的没什么可招的，暑假是去偷偷玩了，作业真的没有写，求求训导主任放过我吧😭\n🧑‍🏫 @_XingShang_ \n🏠@KatoRosa220201 https://t.co/DP07esJxtW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1964410765986975818].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1964410765986975818",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1964410765986975818"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48789,
+        "height": 1280,
+        "media_key": "13_1963987912195993601",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963987912195993601/img/RwHq6I-SC_LCtCfi.jpg",
+        "public_metrics": {
+          "view_count": 10627
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963987912195993601/vid/avc1/320x568/_WzgekXfS7kW-nIu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963987912195993601/vid/avc1/480x852/6mNd4lJ6ArKKNwse.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963987912195993601/vid/avc1/720x1280/811BbfNlQl6VnFA9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963987912195993601/pl/15qiFtcR976tbjr4.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963987912195993601"
+          ]
+        },
+        "author_id": "961832160377282560",
+        "conversation_id": "1963988590075244894",
+        "created_at": "2025-09-05T15:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T16:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963988590075244894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 75,
+              "id": "1222065289417891840",
+              "start": 63,
+              "username": "_XingShang_"
+            },
+            {
+              "end": 93,
+              "id": "1705934998673686528",
+              "start": 78,
+              "username": "KatoRosa220201"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DP07esJxtW",
+              "end": 117,
+              "expanded_url": "https://x.com/iMoeAya/status/1963988590075244894/video/1",
+              "media_key": "13_1963987912195993601",
+              "start": 94,
+              "url": "https://t.co/DP07esJxtW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963988590075244894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 28199,
+          "like_count": 424,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "运送到了，唔…又是这里么QwQ……萌绫真的真的没什么可招的，暑假是去偷偷玩了，作业真的没有写，求求训导主任放过我吧😭\n🧑‍🏫 @_XingShang_ \n🏠@KatoRosa220201 https://t.co/DP07esJxtW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 190,
+          "like_count": 39763,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 10606
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951641714483183616/OGRyh4_n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37956,
+          "following_count": 4077,
+          "like_count": 164383,
+          "listed_count": 134,
+          "media_count": 1083,
+          "tweet_count": 34420
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-28T07:54:17.000Z",
+        "description": "一个玩绳子的，大概算不上专业，比上不足比下有余，泛性恋，开放关系，纯绳/调教/色色均可。",
+        "id": "1222065289417891840",
+        "location": "北京",
+        "name": "行觞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960515730400796676/HTZ3znQC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 128,
+          "like_count": 966,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 145
+        },
+        "username": "_XingShang_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T13:19:51.000Z",
+        "description": "北京/INFJ/处女座/被缚/养成系缚手/浮光屋招常驻绳师/欢迎私信\nLike the wind of the wilderness.",
+        "id": "1705934998673686528",
+        "name": "KatoRosa",
+        "pinned_tweet_id": "1959089048209039646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961294909786525696/aVy7whjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 293,
+          "like_count": 1521,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 500
+        },
+        "username": "KatoRosa220201",
+        "verified": false
+      }
+    ]
+  }
+}

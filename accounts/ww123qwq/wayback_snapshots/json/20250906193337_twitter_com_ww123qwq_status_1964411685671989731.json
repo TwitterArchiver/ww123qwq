@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1962167978507808768"
+      ],
+      "media_source_tweet_id": [
+        "1962168189376463133"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1964411685671989731",
+    "created_at": "2025-09-06T19:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T20:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964411685671989731"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "着ぐるみ"
+        },
+        {
+          "end": 50,
+          "start": 41,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 59,
+          "start": 51,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1735636260000309249",
+          "start": 3,
+          "username": "yunjiujiu1314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F6ALRuwk4k",
+          "end": 83,
+          "expanded_url": "https://x.com/yunjiujiu1314/status/1962168189376463133/video/1",
+          "media_key": "7_1962167978507808768",
+          "start": 60,
+          "url": "https://t.co/F6ALRuwk4k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964411685671989731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962168189376463133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yunjiujiu1314: 捡到一只猫家人们，这也太可爱了 #着ぐるみ #kigurumi #cosplay https://t.co/F6ALRuwk4k"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13072,
+        "height": 1280,
+        "media_key": "7_1962167978507808768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1962167978507808768/pu/img/_qUkyVJRkJT6bt-r.jpg",
+        "public_metrics": {
+          "view_count": 10235
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962167978507808768/pu/vid/avc1/320x568/vaOmKtxqXzNA-1Ny.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962167978507808768/pu/vid/avc1/480x852/s7m7ZUh1Imy7CteH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1962167978507808768/pu/vid/avc1/720x1280/xZE8r4eq9Xtj2mJ2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1962167978507808768/pu/pl/3pgiBvQvVDLALslq.m3u8?tag=12&v=812"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1962167978507808768"
+          ],
+          "media_source_tweet_id": [
+            "1962168189376463133"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1964411685671989731",
+        "created_at": "2025-09-06T19:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T20:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964411685671989731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 59,
+              "start": 51,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1735636260000309249",
+              "start": 3,
+              "username": "yunjiujiu1314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6ALRuwk4k",
+              "end": 83,
+              "expanded_url": "https://x.com/yunjiujiu1314/status/1962168189376463133/video/1",
+              "media_key": "7_1962167978507808768",
+              "start": 60,
+              "url": "https://t.co/F6ALRuwk4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964411685671989731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962168189376463133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yunjiujiu1314: 捡到一只猫家人们，这也太可爱了 #着ぐるみ #kigurumi #cosplay https://t.co/F6ALRuwk4k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1962167978507808768"
+          ]
+        },
+        "author_id": "1735636260000309249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1962168189376463133",
+        "created_at": "2025-08-31T14:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T15:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962168189376463133"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6ALRuwk4k",
+              "end": 64,
+              "expanded_url": "https://x.com/yunjiujiu1314/status/1962168189376463133/video/1",
+              "media_key": "7_1962167978507808768",
+              "start": 41,
+              "url": "https://t.co/F6ALRuwk4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962168189376463133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 27368,
+          "like_count": 869,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "捡到一只猫家人们，这也太可爱了 #着ぐるみ #kigurumi #cosplay https://t.co/F6ALRuwk4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 190,
+          "like_count": 39763,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 10608
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T12:22:09.000Z",
+        "description": "新人kiger",
+        "id": "1735636260000309249",
+        "location": "11.45km",
+        "name": "雲玖九",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959976531989807104/0itZDECV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 58,
+          "like_count": 51,
+          "listed_count": 9,
+          "media_count": 18,
+          "tweet_count": 21
+        },
+        "username": "yunjiujiu1314",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2000187284952621091",
+    "created_at": "2025-12-15T14:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T15:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000570483511796033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356583549",
+          "start": 0,
+          "username": "kagurazakayashi"
+        },
+        {
+          "end": 25,
+          "id": "961832160377282560",
+          "start": 17,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000570483511796033",
+    "in_reply_to_user_id": "1356583549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000187284952621091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakayashi @iMoeAya 好可爱🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "第一次的乳胶衣合影",
+        "height": 4096,
+        "media_key": "3_2000187057168375808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IXh_La4AAArOP.jpg",
+        "width": 2353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2000187284952621091",
+        "created_at": "2025-12-15T14:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000570483511796033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356583549",
+              "start": 0,
+              "username": "kagurazakayashi"
+            },
+            {
+              "end": 25,
+              "id": "961832160377282560",
+              "start": 17,
+              "username": "iMoeAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000570483511796033",
+        "in_reply_to_user_id": "1356583549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000187284952621091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakayashi @iMoeAya 好可爱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000187057168375808"
+          ]
+        },
+        "author_id": "1356583549",
+        "conversation_id": "2000187284952621091",
+        "created_at": "2025-12-14T12:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000187284952621091"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "雅诗自曝"
+            },
+            {
+              "end": 140,
+              "start": 134,
+              "tag": "latex"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 127,
+              "id": "961832160377282560",
+              "start": 119,
+              "username": "iMoeAya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kq9zk5ZI4l",
+              "end": 164,
+              "expanded_url": "https://x.com/kagurazakayashi/status/2000187284952621091/photo/1",
+              "media_key": "3_2000187057168375808",
+              "start": 141,
+              "url": "https://t.co/Kq9zk5ZI4l"
+            },
+            {
+              "display_url": "x.com/kagurazakayash…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/kagurazakayashi/status/1999542012966764802",
+              "start": 165,
+              "url": "https://t.co/J5clUkfEy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000187284952621091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 34262,
+          "like_count": 230,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999542012966764802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "故事的开始，我们最初只是屏幕那端的两个名字。\n而后，我们都变成了「神楽坂」，并在十年前互相关注的这一刻开始，我们有幸见证了彼此十余年的青春，看着我们在岁月中变了模样。\n就像钢琴的黑白键，原本是独立的音符，合在一起却奏响了十年的乐章。  \n@iMoeAya #雅诗自曝 #latex https://t.co/Kq9zk5ZI4l https://t.co/J5clUkfEy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，赞助支付宝口令红包52/188/过门有福利/，也支持usdt。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2000481810934108586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 263,
+          "like_count": 40849,
+          "listed_count": 5,
+          "media_count": 466,
+          "tweet_count": 11814
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "这里是3周目账号(2023.7-)，希望认识更多同好。没有头像和推文的、或广告人乐子人别点关注会被拉黑。女装不发R18（但有擦边的）。友跨顺男，撑跨。大龄女装爱好者。喜欢无性SM（Switch）。G+难民。曾脚本批量B过人可能误B，照片 #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶推",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 119,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "start": 136,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgrsWF"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩",
+        "pinned_tweet_id": "1700827655258690027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974773629704708096/lVYzrnzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14778,
+          "following_count": 5615,
+          "like_count": 19886,
+          "listed_count": 60,
+          "media_count": 511,
+          "tweet_count": 4065
+        },
+        "url": "https://t.co/s9yovgrsWF",
+        "username": "kagurazakayashi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39055,
+          "following_count": 4751,
+          "like_count": 172397,
+          "listed_count": 136,
+          "media_count": 1129,
+          "tweet_count": 35217
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

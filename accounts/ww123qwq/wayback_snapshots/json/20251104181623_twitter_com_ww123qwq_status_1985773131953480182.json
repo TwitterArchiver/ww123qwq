@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985360487052382208",
+        "3_1985360487048208384"
+      ],
+      "media_source_tweet_id": [
+        "1985360493264154811",
+        "1985360493264154811"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985773131953480182",
+    "created_at": "2025-11-04T18:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T19:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985773131953480182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1537062854146174978",
+          "start": 3,
+          "username": "piyo_kich"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BdcoNa0AaG",
+          "end": 52,
+          "expanded_url": "https://x.com/piyo_kich/status/1985360493264154811/photo/1",
+          "media_key": "3_1985360487052382208",
+          "start": 29,
+          "url": "https://t.co/BdcoNa0AaG"
+        },
+        {
+          "display_url": "pic.x.com/BdcoNa0AaG",
+          "end": 52,
+          "expanded_url": "https://x.com/piyo_kich/status/1985360493264154811/photo/1",
+          "media_key": "3_1985360487048208384",
+          "start": 29,
+          "url": "https://t.co/BdcoNa0AaG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985773131953480182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985360493264154811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @piyo_kich: 好きすぎてコロしちゃった♡ https://t.co/BdcoNa0AaG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985360487052382208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41q2BXakAAblco.jpg",
+        "width": 1202
+      },
+      {
+        "height": 2001,
+        "media_key": "3_1985360487048208384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41q2BWa4AANeVR.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985360487052382208",
+            "3_1985360487048208384"
+          ],
+          "media_source_tweet_id": [
+            "1985360493264154811",
+            "1985360493264154811"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985773131953480182",
+        "created_at": "2025-11-04T18:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T19:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985773131953480182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1537062854146174978",
+              "start": 3,
+              "username": "piyo_kich"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdcoNa0AaG",
+              "end": 52,
+              "expanded_url": "https://x.com/piyo_kich/status/1985360493264154811/photo/1",
+              "media_key": "3_1985360487052382208",
+              "start": 29,
+              "url": "https://t.co/BdcoNa0AaG"
+            },
+            {
+              "display_url": "pic.x.com/BdcoNa0AaG",
+              "end": 52,
+              "expanded_url": "https://x.com/piyo_kich/status/1985360493264154811/photo/1",
+              "media_key": "3_1985360487048208384",
+              "start": 29,
+              "url": "https://t.co/BdcoNa0AaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985773131953480182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985360493264154811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @piyo_kich: 好きすぎてコロしちゃった♡ https://t.co/BdcoNa0AaG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985360487052382208",
+            "3_1985360487048208384"
+          ]
+        },
+        "author_id": "1537062854146174978",
+        "conversation_id": "1985360493264154811",
+        "created_at": "2025-11-03T14:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985360493264154811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdcoNa0AaG",
+              "end": 37,
+              "expanded_url": "https://x.com/piyo_kich/status/1985360493264154811/photo/1",
+              "media_key": "3_1985360487052382208",
+              "start": 14,
+              "url": "https://t.co/BdcoNa0AaG"
+            },
+            {
+              "display_url": "pic.x.com/BdcoNa0AaG",
+              "end": 37,
+              "expanded_url": "https://x.com/piyo_kich/status/1985360493264154811/photo/1",
+              "media_key": "3_1985360487048208384",
+              "start": 14,
+              "url": "https://t.co/BdcoNa0AaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985360493264154811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 42955,
+          "like_count": 1921,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "好きすぎてコロしちゃった♡ https://t.co/BdcoNa0AaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩906910481",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 222,
+          "like_count": 40353,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 11025
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T13:22:08.000Z",
+        "description": "じたくけいびいん￤成人済/コスプレしてます￤あえる🤍ྀི￤中身@piyosann_避難用@pro_nito_￤いんすたTikTokもみてね🎀￤𝕞𝕪 𝕗𝕒𝕟𝕤で全部みれるよ🔗大阪コンカフェ嬢❕会いにきてね🍥来店𝐃𝐌まってます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "piyosann_"
+              },
+              {
+                "end": 54,
+                "start": 44,
+                "username": "pro_nito_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/pyonito",
+                "end": 23,
+                "expanded_url": "https://lit.link/pyonito",
+                "start": 0,
+                "url": "https://t.co/gvb5AyLT5T"
+              }
+            ]
+          }
+        },
+        "id": "1537062854146174978",
+        "location": "りんくみてね➵♡",
+        "name": "ぴょ🤍ﾆｰﾄ🤍",
+        "pinned_tweet_id": "1984900713764589651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821362615529938944/01X9klxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42743,
+          "following_count": 49,
+          "like_count": 3349,
+          "listed_count": 57,
+          "media_count": 166,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/gvb5AyLT5T",
+        "username": "piyo_kich",
+        "verified": true
+      }
+    ]
+  }
+}

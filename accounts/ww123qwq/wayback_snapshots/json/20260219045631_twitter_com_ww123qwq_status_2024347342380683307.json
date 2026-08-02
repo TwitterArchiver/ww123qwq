@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2024075835213320598",
+    "created_at": "2026-02-19T04:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024347342380683307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1948155132069519360",
+          "start": 0,
+          "username": "93688991617l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024347342380683307",
+    "in_reply_to_user_id": "1948155132069519360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024257228673605655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@93688991617l 吃的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2024075835213320598",
+        "created_at": "2026-02-19T04:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024347342380683307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1948155132069519360",
+              "start": 0,
+              "username": "93688991617l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024347342380683307",
+        "in_reply_to_user_id": "1948155132069519360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024257228673605655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@93688991617l 吃的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948155132069519360",
+        "conversation_id": "2024075835213320598",
+        "created_at": "2026-02-18T22:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024257228673605655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024257228673605655",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024075835213320598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 干嘛的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本，纸烟代购/电子烟代购",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 259,
+          "like_count": 41673,
+          "listed_count": 5,
+          "media_count": 616,
+          "tweet_count": 12366
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T22:56:07.000Z",
+        "description": "",
+        "id": "1948155132069519360",
+        "name": "小绪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948716970150690817/RmsrAXOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 19,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "username": "93688991617l",
+        "verified": false
+      }
+    ]
+  }
+}

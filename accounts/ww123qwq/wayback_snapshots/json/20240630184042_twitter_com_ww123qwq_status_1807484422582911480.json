@@ -1,0 +1,302 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1807106056193261568",
+        "3_1807106066318245888"
+      ],
+      "media_source_tweet_id": [
+        "1807106069136847321",
+        "1807106069136847321"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1807484422582911480",
+    "created_at": "2024-06-30T18:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T19:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807484422582911480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1406774049737297922",
+          "start": 3,
+          "username": "Kugo_eya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/LBIRl6qwbb",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Kugo_eya/status/1807106069136847321/photo/1",
+          "media_key": "3_1807106056193261568",
+          "start": 37,
+          "url": "https://t.co/LBIRl6qwbb"
+        },
+        {
+          "display_url": "pic.twitter.com/LBIRl6qwbb",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Kugo_eya/status/1807106069136847321/photo/1",
+          "media_key": "3_1807106066318245888",
+          "start": 37,
+          "url": "https://t.co/LBIRl6qwbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807484422582911480",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 815
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807106069136847321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kugo_eya: おい笑える\nさすがに2ヶ月で成長しすぎている https://t.co/LBIRl6qwbb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1807106056193261568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRQhYjbbQAAtJsf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1807106066318245888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRQhZJJaQAAgbsX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807106056193261568",
+            "3_1807106066318245888"
+          ],
+          "media_source_tweet_id": [
+            "1807106069136847321",
+            "1807106069136847321"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1807484422582911480",
+        "created_at": "2024-06-30T18:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T19:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807484422582911480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1406774049737297922",
+              "start": 3,
+              "username": "Kugo_eya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LBIRl6qwbb",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1807106069136847321/photo/1",
+              "media_key": "3_1807106056193261568",
+              "start": 37,
+              "url": "https://t.co/LBIRl6qwbb"
+            },
+            {
+              "display_url": "pic.twitter.com/LBIRl6qwbb",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1807106069136847321/photo/1",
+              "media_key": "3_1807106066318245888",
+              "start": 37,
+              "url": "https://t.co/LBIRl6qwbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807484422582911480",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 815
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807106069136847321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kugo_eya: おい笑える\nさすがに2ヶ月で成長しすぎている https://t.co/LBIRl6qwbb"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807106056193261568",
+            "3_1807106066318245888"
+          ]
+        },
+        "author_id": "1406774049737297922",
+        "conversation_id": "1807106069136847321",
+        "created_at": "2024-06-29T17:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T18:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807106069136847321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LBIRl6qwbb",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1807106069136847321/photo/1",
+              "media_key": "3_1807106056193261568",
+              "start": 23,
+              "url": "https://t.co/LBIRl6qwbb"
+            },
+            {
+              "display_url": "pic.twitter.com/LBIRl6qwbb",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Kugo_eya/status/1807106069136847321/photo/1",
+              "media_key": "3_1807106066318245888",
+              "start": 23,
+              "url": "https://t.co/LBIRl6qwbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807106069136847321",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1530,
+          "impression_count": 521660,
+          "like_count": 14111,
+          "quote_count": 46,
+          "reply_count": 23,
+          "retweet_count": 815
+        },
+        "reply_settings": "everyone",
+        "text": "おい笑える\nさすがに2ヶ月で成長しすぎている https://t.co/LBIRl6qwbb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 107,
+          "like_count": 40286,
+          "listed_count": 0,
+          "tweet_count": 10294
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T00:41:02.000Z",
+        "description": "さなだくご です。スマホ指描きガチ勢です。   FAタグ▶ #九五に替刃あげる 推し事報告タグ▶ #真田九五に救済を求めます 鍵▶(@Kugo_hasu)BOOTH▶(https://t.co/Hrvgn6rKKj)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 30,
+                "tag": "九五に替刃あげる"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "tag": "真田九五に救済を求めます"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "Kugo_hasu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sanadakugo.booth.pm",
+                "end": 107,
+                "expanded_url": "https://sanadakugo.booth.pm/",
+                "start": 84,
+                "url": "https://t.co/Hrvgn6rKKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sanadakugo",
+                "end": 23,
+                "expanded_url": "https://lit.link/sanadakugo",
+                "start": 0,
+                "url": "https://t.co/gUnTsxI8YX"
+              }
+            ]
+          }
+        },
+        "id": "1406774049737297922",
+        "location": "ファンネ▶ｸｺﾞﾒｸ",
+        "name": "真田 九五",
+        "pinned_tweet_id": "1807101302088048881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784917740182290432/2_8mBTr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15861,
+          "following_count": 95,
+          "like_count": 15385,
+          "listed_count": 41,
+          "tweet_count": 3402
+        },
+        "url": "https://t.co/gUnTsxI8YX",
+        "username": "Kugo_eya",
+        "verified": false
+      }
+    ]
+  }
+}

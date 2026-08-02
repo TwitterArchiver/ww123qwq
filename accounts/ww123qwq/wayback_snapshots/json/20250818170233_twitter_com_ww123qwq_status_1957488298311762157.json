@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945049533366370304"
+      ],
+      "media_source_tweet_id": [
+        "1945049546909773974"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1957488298311762157",
+    "created_at": "2025-08-18T17:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T18:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957488298311762157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1266206715839606784",
+          "start": 3,
+          "username": "hanabitaminc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fIZrVqrJpP",
+          "end": 43,
+          "expanded_url": "https://x.com/hanabitaminc/status/1945049546909773974/photo/1",
+          "media_key": "3_1945049533366370304",
+          "start": 20,
+          "url": "https://t.co/fIZrVqrJpP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957488298311762157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 582
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945049546909773974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanabitaminc: 痛 https://t.co/fIZrVqrJpP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2182,
+        "media_key": "3_1945049533366370304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv40PsrXgAA2raR.jpg",
+        "width": 1988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945049533366370304"
+          ],
+          "media_source_tweet_id": [
+            "1945049546909773974"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1957488298311762157",
+        "created_at": "2025-08-18T17:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T18:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957488298311762157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1266206715839606784",
+              "start": 3,
+              "username": "hanabitaminc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fIZrVqrJpP",
+              "end": 43,
+              "expanded_url": "https://x.com/hanabitaminc/status/1945049546909773974/photo/1",
+              "media_key": "3_1945049533366370304",
+              "start": 20,
+              "url": "https://t.co/fIZrVqrJpP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957488298311762157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 582
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945049546909773974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanabitaminc: 痛 https://t.co/fIZrVqrJpP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945049533366370304"
+          ]
+        },
+        "author_id": "1266206715839606784",
+        "conversation_id": "1945049546909773974",
+        "created_at": "2025-07-15T09:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T10:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945049546909773974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fIZrVqrJpP",
+              "end": 25,
+              "expanded_url": "https://x.com/hanabitaminc/status/1945049546909773974/photo/1",
+              "media_key": "3_1945049533366370304",
+              "start": 2,
+              "url": "https://t.co/fIZrVqrJpP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945049546909773974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 771,
+          "impression_count": 148095,
+          "like_count": 10824,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 582
+        },
+        "reply_settings": "everyone",
+        "text": "痛 https://t.co/fIZrVqrJpP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 190,
+          "like_count": 39812,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 10610
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T03:17:22.000Z",
+        "description": "人間が好きです　@hanabitaminb (現在、ご依頼とDMでのお返事できかねます🙇‍♂️)インスタ→ https://t.co/AmlunMW4by",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "hanabitaminb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hanabitaminc?i…",
+                "end": 77,
+                "expanded_url": "https://www.instagram.com/hanabitaminc?igsh=MWRicWF1YzZuMGN6MA%3D%3D&utm_source=qr",
+                "start": 54,
+                "url": "https://t.co/AmlunMW4by"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53144689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53144689",
+                "start": 0,
+                "url": "https://t.co/72PdX51Udv"
+              }
+            ]
+          }
+        },
+        "id": "1266206715839606784",
+        "location": "五億円欲しいです",
+        "name": "花巻 花郎",
+        "pinned_tweet_id": "1956925777997443328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610904608439959553/GjAHGmmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117483,
+          "following_count": 134,
+          "like_count": 52651,
+          "listed_count": 760,
+          "media_count": 288,
+          "tweet_count": 37168
+        },
+        "url": "https://t.co/72PdX51Udv",
+        "username": "hanabitaminc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016112111714209793"
+      ],
+      "media_source_tweet_id": [
+        "2016112118437970040"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2016579286321508797",
+    "created_at": "2026-01-28T18:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T19:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016579286321508797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1414672456804040705",
+          "start": 3,
+          "username": "Bunch_1123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z3RoUQKMQs",
+          "end": 53,
+          "expanded_url": "https://x.com/Bunch_1123/status/2016112118437970040/photo/1",
+          "media_key": "3_2016112111714209793",
+          "start": 30,
+          "url": "https://t.co/z3RoUQKMQs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016579286321508797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1074
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016112118437970040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunch_1123: ʑ̀ㄘʑ̀ㄘ地雷系女子🖤🎀 https://t.co/z3RoUQKMQs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016112111714209793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qrSKYWkAE_5TE.jpg",
+        "width": 1905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016112111714209793"
+          ],
+          "media_source_tweet_id": [
+            "2016112118437970040"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2016579286321508797",
+        "created_at": "2026-01-28T18:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016579286321508797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1414672456804040705",
+              "start": 3,
+              "username": "Bunch_1123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3RoUQKMQs",
+              "end": 53,
+              "expanded_url": "https://x.com/Bunch_1123/status/2016112118437970040/photo/1",
+              "media_key": "3_2016112111714209793",
+              "start": 30,
+              "url": "https://t.co/z3RoUQKMQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016579286321508797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1074
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016112118437970040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunch_1123: ʑ̀ㄘʑ̀ㄘ地雷系女子🖤🎀 https://t.co/z3RoUQKMQs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016112111714209793"
+          ]
+        },
+        "author_id": "1414672456804040705",
+        "conversation_id": "2016112118437970040",
+        "created_at": "2026-01-27T11:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016112118437970040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3RoUQKMQs",
+              "end": 37,
+              "expanded_url": "https://x.com/Bunch_1123/status/2016112118437970040/photo/1",
+              "media_key": "3_2016112111714209793",
+              "start": 14,
+              "url": "https://t.co/z3RoUQKMQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016112118437970040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2977,
+          "impression_count": 251442,
+          "like_count": 21283,
+          "quote_count": 19,
+          "reply_count": 41,
+          "retweet_count": 1074
+        },
+        "reply_settings": "everyone",
+        "text": "ʑ̀ㄘʑ̀ㄘ地雷系女子🖤🎀 https://t.co/z3RoUQKMQs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 261,
+          "like_count": 41086,
+          "listed_count": 5,
+          "media_count": 562,
+          "tweet_count": 12112
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T19:46:22.000Z",
+        "description": "インターネットらくがきマン 擬人化シリーズ (主に海洋生物) JKシリーズ 異種族シリーズ等描いてます！ 【skebは非商用利用のみ🙇‍♀️ サムネは🙆‍♂️ 】FANBOX→https://t.co/uWdpGMga4m 【お仕事はこちらから】buchi5433@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "otintinn.fanbox.cc",
+                "end": 111,
+                "expanded_url": "http://otintinn.fanbox.cc",
+                "start": 88,
+                "url": "https://t.co/uWdpGMga4m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@___OTINTIN",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@___OTINTIN",
+                "start": 0,
+                "url": "https://t.co/UgBLIfduWH"
+              }
+            ]
+          }
+        },
+        "id": "1414672456804040705",
+        "location": "強めの幻覚 AI学習禁止    ",
+        "name": "ぶんち",
+        "pinned_tweet_id": "2010631465495867428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652306716544106496/blLudldn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555134,
+          "following_count": 633,
+          "like_count": 25460,
+          "listed_count": 2920,
+          "media_count": 243,
+          "tweet_count": 1379
+        },
+        "url": "https://t.co/UgBLIfduWH",
+        "username": "Bunch_1123",
+        "verified": true
+      }
+    ]
+  }
+}

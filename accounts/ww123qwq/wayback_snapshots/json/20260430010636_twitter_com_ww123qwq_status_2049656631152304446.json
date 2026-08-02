@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2049499060688884171",
+    "created_at": "2026-04-30T01:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049656631152304446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776627287934537728",
+          "start": 0,
+          "username": "NaiJin66998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049656631152304446",
+    "in_reply_to_user_id": "1776627287934537728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049499060688884171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaiJin66998 小猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33433,
+        "height": 1280,
+        "media_key": "13_2049498722686611456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049498722686611456/img/1HIflVIDYaVzyIlt.jpg",
+        "public_metrics": {
+          "view_count": 72
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049498722686611456/vid/avc1/320x568/4Jp_ijtvIEjhZMxx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049498722686611456/vid/avc1/480x852/u1fVQjJdj4kAqUQm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049498722686611456/vid/avc1/720x1280/bSojUt2PC-AxpZPH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049498722686611456/pl/r8bZJpZQMBQxEIan.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2049499060688884171",
+        "created_at": "2026-04-30T01:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049656631152304446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776627287934537728",
+              "start": 0,
+              "username": "NaiJin66998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049656631152304446",
+        "in_reply_to_user_id": "1776627287934537728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049499060688884171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaiJin66998 小猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049498722686611456"
+          ]
+        },
+        "author_id": "1776627287934537728",
+        "conversation_id": "2049499060688884171",
+        "created_at": "2026-04-29T14:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049499060688884171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPVX83M09s",
+              "end": 23,
+              "expanded_url": "https://x.com/NaiJin66998/status/2049499060688884171/video/1",
+              "media_key": "13_2049498722686611456",
+              "start": 0,
+              "url": "https://t.co/tPVX83M09s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049499060688884171",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tPVX83M09s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 275,
+          "like_count": 42270,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 12707
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T15:05:36.000Z",
+        "description": "别几把烦我别烦我别烦我去死去死去死\n养了只小猫叫あめ\n肉便器 @ovocaize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "ovocaize"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/r%E2%80%86ai%E…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/r%E2%80%86ai%E2%80%86n",
+                "start": 0,
+                "url": "https://t.co/4R0uvNVXCL"
+              }
+            ]
+          }
+        },
+        "id": "1776627287934537728",
+        "location": "🚪88/188/288/520/1314",
+        "name": "冬雪Rain",
+        "pinned_tweet_id": "2048514695846617344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931283273432657920/4nOsokdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 238,
+          "like_count": 870,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/4R0uvNVXCL",
+        "username": "NaiJin66998",
+        "verified": false
+      }
+    ]
+  }
+}

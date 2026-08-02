@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1893631492032765952"
+      ],
+      "media_source_tweet_id": [
+        "1893632468193788156"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1894237493459128573",
+    "created_at": "2025-02-25T04:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T05:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894237493459128573"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "上海cd"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "伪娘"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "男娘"
+        },
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "药娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812416524155854848",
+          "start": 3,
+          "username": "luobo0423"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OGKi64A4oc",
+          "end": 69,
+          "expanded_url": "https://x.com/luobo0423/status/1893632468193788156/video/1",
+          "media_key": "7_1893631492032765952",
+          "start": 46,
+          "url": "https://t.co/OGKi64A4oc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894237493459128573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893632468193788156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luobo0423: 这打扮感觉年轻了20岁🤪 #上海cd #伪娘 #男娘 #药娘 https://t.co/OGKi64A4oc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894237493459128573].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894237493459128573",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894237493459128573"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14133,
+        "height": 1280,
+        "media_key": "7_1893631492032765952",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1893631492032765952/pu/img/NsD1l8GcdQUN6_14.jpg",
+        "public_metrics": {
+          "view_count": 6426
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1893631492032765952/pu/vid/avc1/320x568/Md4MZ6MFbcXKFlZD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1893631492032765952/pu/vid/avc1/480x852/53UrxX7qGOTX2MU_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1893631492032765952/pu/vid/avc1/720x1280/D7qQJLKUf1yH8O6N.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1893631492032765952/pu/pl/K8Me8yeVmuFsWBcR.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1893631492032765952"
+          ]
+        },
+        "author_id": "1812416524155854848",
+        "conversation_id": "1893632468193788156",
+        "created_at": "2025-02-23T12:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T13:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893632468193788156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "上海cd"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "伪娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "男娘"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGKi64A4oc",
+              "end": 54,
+              "expanded_url": "https://x.com/luobo0423/status/1893632468193788156/video/1",
+              "media_key": "7_1893631492032765952",
+              "start": 31,
+              "url": "https://t.co/OGKi64A4oc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893632468193788156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 23984,
+          "like_count": 269,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "这打扮感觉年轻了20岁🤪 #上海cd #伪娘 #男娘 #药娘 https://t.co/OGKi64A4oc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "重度抑郁/中度焦虑/日常/碎碎念/社恐/欧迪/欢迎扩列",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 171,
+          "like_count": 40015,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 10531
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T09:19:17.000Z",
+        "description": "想做一只猫～是纯小受小m，🍬娘，167 53kg，约会请先加好友128口令红包再聊～没视频、不卖片。经常给我点赞会眼熟你🥰。单日互推滴滴～谢谢各位～不接推广！",
+        "id": "1812416524155854848",
+        "location": "上海 距离你5.20km",
+        "name": "莓莓莓事的🍥",
+        "pinned_tweet_id": "1888708368820531614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871210830123147264/3chP3-P__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64988,
+          "following_count": 140,
+          "like_count": 275,
+          "listed_count": 293,
+          "media_count": 87,
+          "tweet_count": 674
+        },
+        "username": "luobo0423",
+        "verified": false
+      }
+    ]
+  }
+}

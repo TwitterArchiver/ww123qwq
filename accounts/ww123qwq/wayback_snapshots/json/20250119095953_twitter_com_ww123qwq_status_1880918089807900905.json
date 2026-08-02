@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1880618168688980349",
+    "created_at": "2025-01-19T09:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T10:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880918089807900905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1079871023804084224",
+          "start": 0,
+          "username": "RavenG15682381"
+        },
+        {
+          "end": 27,
+          "id": "1734618898514001920",
+          "start": 16,
+          "username": "JZhen72937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880918089807900905",
+    "in_reply_to_user_id": "1079871023804084224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880817380064129291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RavenG15682381 @JZhen72937 嗯造两脚羊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1880618168688980349",
+        "created_at": "2025-01-19T09:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T10:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880918089807900905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1079871023804084224",
+              "start": 0,
+              "username": "RavenG15682381"
+            },
+            {
+              "end": 27,
+              "id": "1734618898514001920",
+              "start": 16,
+              "username": "JZhen72937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880918089807900905",
+        "in_reply_to_user_id": "1079871023804084224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880817380064129291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RavenG15682381 @JZhen72937 嗯造两脚羊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079871023804084224",
+        "conversation_id": "1880618168688980349",
+        "created_at": "2025-01-19T03:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T04:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880817380064129291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1734618898514001920",
+              "start": 0,
+              "username": "JZhen72937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880817380064129291",
+        "in_reply_to_user_id": "1734618898514001920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6229,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880618168688980349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JZhen72937 哪天来点外星人，也把人类泡辣椒酱里生吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈冰棍喵🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880903322045214725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 142,
+          "like_count": 39969,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 10295
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-31T22:44:49.000Z",
+        "description": "",
+        "id": "1079871023804084224",
+        "location": "Santa Clara, CA",
+        "name": "Raven.G",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1079871135523561472/22h3crsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 137,
+          "like_count": 17585,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 402
+        },
+        "username": "RavenG15682381",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T16:59:22.000Z",
+        "description": "每一天都是一个新的开始，让我们用微笑和勇气去迎接它！",
+        "id": "1734618898514001920",
+        "location": "5.28km",
+        "name": "镜月指针",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734625890523656192/8TqIgdHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61111,
+          "following_count": 9415,
+          "like_count": 98974,
+          "listed_count": 156,
+          "media_count": 4533,
+          "tweet_count": 18333
+        },
+        "username": "JZhen72937",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1797284816792215756",
+    "created_at": "2024-06-03T18:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T19:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797697855186178409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1708798322289291264",
+          "start": 0,
+          "username": "Baiguan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797697855186178409",
+    "in_reply_to_user_id": "1708798322289291264",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797284816792215756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baiguan_ 你可以试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1797284816792215756",
+        "created_at": "2024-06-03T18:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T19:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797697855186178409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1708798322289291264",
+              "start": 0,
+              "username": "Baiguan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797697855186178409",
+        "in_reply_to_user_id": "1708798322289291264",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797284816792215756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baiguan_ 你可以试试"
+      },
+      {
+        "attachments": {},
+        "author_id": "1708798322289291264",
+        "conversation_id": "1797284816792215756",
+        "created_at": "2024-06-02T15:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T16:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797284816792215756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797284816792215756",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 35700,
+          "like_count": 189,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "六月四日在墙内隐喻会不会被直接封号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775825619340689408/yGyXtAtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 104,
+          "like_count": 40958,
+          "listed_count": 0,
+          "tweet_count": 10282
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T10:57:31.000Z",
+        "description": "马列毛主义｜女权主义｜双向｜MtF🍥HRT 2024.2.26｜愿意和一切人友好交流（前提是你想）祝主席@Sablinkochi1966 身体健康万寿无疆 欢迎互fo ｜我有鱼鱼蒸。｜现居北京 铁路/公交/航空摄影爱好 LGBTQ+friendly @Baiguan_maoist 我的女朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "Sablinkochi1966"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "Baiguan_maoist"
+              }
+            ]
+          }
+        },
+        "id": "1708798322289291264",
+        "location": "某扒衣地下室初生革命造反总司令部",
+        "name": "Baiguan_🏳️‍⚧️📕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792849052935290880/8ZUnwpdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 803,
+          "like_count": 4124,
+          "listed_count": 1,
+          "tweet_count": 1455
+        },
+        "username": "Baiguan_",
+        "verified": false
+      }
+    ]
+  }
+}

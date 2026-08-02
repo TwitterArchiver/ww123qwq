@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053250774675976192"
+      ],
+      "media_source_tweet_id": [
+        "2053414748147110244"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053732720728293810",
+    "created_at": "2026-05-11T07:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T08:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053732720728293810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787251561649045504",
+          "start": 3,
+          "username": "idoihrt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rQ7fvCmPFP",
+          "end": 75,
+          "expanded_url": "https://x.com/idoihrt/status/2053414748147110244/video/1",
+          "media_key": "13_2053250774675976192",
+          "start": 52,
+          "url": "https://t.co/rQ7fvCmPFP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053732720728293810",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 883
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053414748147110244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @idoihrt: cubism (needy girl overdose) ‧₊˚♪ 𝄞₊˚⊹ https://t.co/rQ7fvCmPFP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24032,
+        "height": 720,
+        "media_key": "13_2053250774675976192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053250774675976192/img/08FOG7DDJumy7YP6.jpg",
+        "public_metrics": {
+          "view_count": 11719
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053250774675976192/vid/avc1/480x270/khjBLdqUhrz-NJh1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053250774675976192/vid/avc1/640x360/x3cJ5CABJKPnJNkC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053250774675976192/vid/avc1/1280x720/fasC9N3kAbJ3Jpn2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053250774675976192/pl/5ObnP4VuVlRfbMiE.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053250774675976192"
+          ],
+          "media_source_tweet_id": [
+            "2053414748147110244"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053732720728293810",
+        "created_at": "2026-05-11T07:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053732720728293810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787251561649045504",
+              "start": 3,
+              "username": "idoihrt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQ7fvCmPFP",
+              "end": 75,
+              "expanded_url": "https://x.com/idoihrt/status/2053414748147110244/video/1",
+              "media_key": "13_2053250774675976192",
+              "start": 52,
+              "url": "https://t.co/rQ7fvCmPFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053732720728293810",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 883
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053414748147110244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @idoihrt: cubism (needy girl overdose) ‧₊˚♪ 𝄞₊˚⊹ https://t.co/rQ7fvCmPFP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053250774675976192"
+          ]
+        },
+        "author_id": "1787251561649045504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053414748147110244",
+        "created_at": "2026-05-10T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053414748147110244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rQ7fvCmPFP",
+              "end": 62,
+              "expanded_url": "https://x.com/idoihrt/status/2053414748147110244/video/1",
+              "media_key": "13_2053250774675976192",
+              "start": 39,
+              "url": "https://t.co/rQ7fvCmPFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053414748147110244",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 319,
+          "impression_count": 28053,
+          "like_count": 3559,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 883
+        },
+        "reply_settings": "everyone",
+        "text": "cubism (needy girl overdose) ‧₊˚♪ 𝄞₊˚⊹ https://t.co/rQ7fvCmPFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 278,
+          "like_count": 42721,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 12793
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T22:42:51.000Z",
+        "description": "꒰⠀ ୨୧⠀꒱⠀⠀♡⠀⠀ インターネット・エンジェル ただいま降臨 ！ ☆ #NEEDYGIRLOVERDOSE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 38,
+                "tag": "NEEDYGIRLOVERDOSE"
+              }
+            ]
+          }
+        },
+        "id": "1787251561649045504",
+        "location": "⠀⠀ in your heart⠀⠀ ♪ ",
+        "name": "♡ ︎ ︎ vivi ︎ ︎ ˎˊ- ︎",
+        "pinned_tweet_id": "1989654537590972755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040427544344997888/yUK-dbHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3987,
+          "following_count": 3381,
+          "like_count": 53843,
+          "listed_count": 20,
+          "media_count": 927,
+          "tweet_count": 6843
+        },
+        "username": "idoihrt",
+        "verified": false
+      }
+    ]
+  }
+}

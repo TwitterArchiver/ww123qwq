@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022149390014517248"
+      ],
+      "media_source_tweet_id": [
+        "2022149396054544726"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2022204211665223793",
+    "created_at": "2026-02-13T07:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T08:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022204211665223793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1643697187334008832",
+          "start": 3,
+          "username": "nagamemameko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nd1ODPbBYU",
+          "end": 41,
+          "expanded_url": "https://x.com/nagamemameko/status/2022149396054544726/photo/1",
+          "media_key": "3_2022149390014517248",
+          "start": 18,
+          "url": "https://t.co/nd1ODPbBYU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022204211665223793",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022149396054544726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nagamemameko: https://t.co/nd1ODPbBYU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1719,
+        "media_key": "3_2022149390014517248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAeKAqWkAAxEym.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022149390014517248"
+          ],
+          "media_source_tweet_id": [
+            "2022149396054544726"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2022204211665223793",
+        "created_at": "2026-02-13T07:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022204211665223793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1643697187334008832",
+              "start": 3,
+              "username": "nagamemameko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nd1ODPbBYU",
+              "end": 41,
+              "expanded_url": "https://x.com/nagamemameko/status/2022149396054544726/photo/1",
+              "media_key": "3_2022149390014517248",
+              "start": 18,
+              "url": "https://t.co/nd1ODPbBYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022204211665223793",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022149396054544726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nagamemameko: https://t.co/nd1ODPbBYU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022149390014517248"
+          ]
+        },
+        "author_id": "1643697187334008832",
+        "conversation_id": "2022149396054544726",
+        "created_at": "2026-02-13T03:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022149396054544726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nd1ODPbBYU",
+              "end": 23,
+              "expanded_url": "https://x.com/nagamemameko/status/2022149396054544726/photo/1",
+              "media_key": "3_2022149390014517248",
+              "start": 0,
+              "url": "https://t.co/nd1ODPbBYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022149396054544726",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 6004,
+          "like_count": 811,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nd1ODPbBYU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 261,
+          "like_count": 41607,
+          "listed_count": 5,
+          "media_count": 605,
+          "tweet_count": 12310
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T19:28:52.000Z",
+        "description": "=豆子/まめ｜中文/日本語/EN ｜🚫AI/repost without permission",
+        "id": "1643697187334008832",
+        "location": "United Kingdom",
+        "name": "豆コ｡",
+        "pinned_tweet_id": "1646925517541744641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019852933794263040/gK_9oN6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7159,
+          "following_count": 28,
+          "like_count": 1873,
+          "listed_count": 16,
+          "media_count": 29,
+          "tweet_count": 72
+        },
+        "username": "nagamemameko",
+        "verified": false
+      }
+    ]
+  }
+}

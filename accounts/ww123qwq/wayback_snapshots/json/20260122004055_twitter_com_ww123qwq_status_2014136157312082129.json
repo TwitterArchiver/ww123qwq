@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2014067649119236132",
+    "created_at": "2026-01-22T00:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T01:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014136157312082129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976224313339777024",
+          "start": 0,
+          "username": "WinbornN94577"
+        },
+        {
+          "end": 26,
+          "id": "1816148552764252169",
+          "start": 15,
+          "username": "w0sh1Asak1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014136157312082129",
+    "in_reply_to_user_id": "1976224313339777024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014069114071851400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinbornN94577 @w0sh1Asak1 n55表示nb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2014067649119236132",
+        "created_at": "2026-01-22T00:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T01:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014136157312082129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976224313339777024",
+              "start": 0,
+              "username": "WinbornN94577"
+            },
+            {
+              "end": 26,
+              "id": "1816148552764252169",
+              "start": 15,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014136157312082129",
+        "in_reply_to_user_id": "1976224313339777024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014069114071851400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinbornN94577 @w0sh1Asak1 n55表示nb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976224313339777024",
+        "conversation_id": "2014067649119236132",
+        "created_at": "2026-01-21T20:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T21:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014069114071851400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816148552764252169",
+              "start": 0,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014069114071851400",
+        "in_reply_to_user_id": "1816148552764252169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014068261541798266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w0sh1Asak1 n55附体了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1312,
+          "following_count": 263,
+          "like_count": 40999,
+          "listed_count": 5,
+          "media_count": 551,
+          "tweet_count": 12075
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "这里是Polly_N94577 Tu屠荼徒堍兎 🚪52",
+        "id": "1976224313339777024",
+        "location": "https://t.co/2k0YxzO4Vn",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2013973274686890316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 65,
+          "like_count": 1721,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 823
+        },
+        "username": "WinbornN94577",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "♦️ACE 性格恶劣 oder Love @winterfruit_1/ 可可@Truffaut897456/ 唧唧@Jiji_O_o_jiiii/鸟兽兽@abt514514/前卫@vanofthess/ 小K @akinoyo_desu/江别@cy79p/渡川@justyanwu14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 54,
+                "start": 39,
+                "username": "Truffaut897456"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "Jiji_O_o_jiiii"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "abt514514"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "vanofthess"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "akinoyo_desu"
+              },
+              {
+                "end": 128,
+                "start": 122,
+                "username": "cy79p"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "justyanwu14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "winiter420love.com",
+                "end": 23,
+                "expanded_url": "http://www.winiter420love.com",
+                "start": 0,
+                "url": "https://t.co/SmL8HfGjCw"
+              }
+            ]
+          }
+        },
+        "id": "1816148552764252169",
+        "location": "我愛你！",
+        "name": "天才美少女Asak11111",
+        "pinned_tweet_id": "2012782792518627830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012602006511161344/AK7fOLhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 761,
+          "like_count": 26823,
+          "listed_count": 4,
+          "media_count": 539,
+          "tweet_count": 12081
+        },
+        "url": "https://t.co/SmL8HfGjCw",
+        "username": "w0sh1Asak1",
+        "verified": false
+      }
+    ]
+  }
+}

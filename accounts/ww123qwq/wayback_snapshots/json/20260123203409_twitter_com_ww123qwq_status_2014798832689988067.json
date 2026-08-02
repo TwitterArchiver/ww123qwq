@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2014254803573190738",
+    "created_at": "2026-01-23T20:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T21:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014798832689988067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1897634795041218560",
+          "start": 0,
+          "username": "dxmdisk_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014798832689988067",
+    "in_reply_to_user_id": "1897634795041218560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014254803573190738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dxmdisk_ 买药不带犹豫的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2014254803573190738",
+        "created_at": "2026-01-23T20:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T21:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014798832689988067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1897634795041218560",
+              "start": 0,
+              "username": "dxmdisk_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014798832689988067",
+        "in_reply_to_user_id": "1897634795041218560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014254803573190738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dxmdisk_ 买药不带犹豫的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897634795041218560",
+        "conversation_id": "2014254803573190738",
+        "created_at": "2026-01-22T08:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014254803573190738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014254803573190738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1085,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "合計5000円分以上の薬買うのには何も感じないのに2500円の雑貨を買うのをまだ躊躇してる自分に悲しくなってきた"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 260,
+          "like_count": 41009,
+          "listed_count": 5,
+          "media_count": 552,
+          "tweet_count": 12080
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T13:06:17.000Z",
+        "description": "高校退学‼️人生終了‼️全てフィクションです　(願望)",
+        "id": "1897634795041218560",
+        "name": "カス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948186528414629888/7STwR-Sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 67,
+          "like_count": 11631,
+          "listed_count": 7,
+          "media_count": 431,
+          "tweet_count": 6159
+        },
+        "username": "dxmdisk_",
+        "verified": false
+      }
+    ]
+  }
+}

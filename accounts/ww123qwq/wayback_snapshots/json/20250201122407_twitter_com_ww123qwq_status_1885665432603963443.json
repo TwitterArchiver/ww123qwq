@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885566914090663936",
+        "3_1885566914875056128",
+        "3_1885566914908610560",
+        "3_1885566914166218753"
+      ],
+      "media_source_tweet_id": [
+        "1885566922915537085",
+        "1885566922915537085",
+        "1885566922915537085",
+        "1885566922915537085"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1885665432603963443",
+    "created_at": "2025-02-01T12:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T13:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885665432603963443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1831363594556211200",
+          "start": 3,
+          "username": "SeventeenYizuka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HOmfHmU350",
+          "end": 71,
+          "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+          "media_key": "3_1885566914090663936",
+          "start": 48,
+          "url": "https://t.co/HOmfHmU350"
+        },
+        {
+          "display_url": "pic.x.com/HOmfHmU350",
+          "end": 71,
+          "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+          "media_key": "3_1885566914875056128",
+          "start": 48,
+          "url": "https://t.co/HOmfHmU350"
+        },
+        {
+          "display_url": "pic.x.com/HOmfHmU350",
+          "end": 71,
+          "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+          "media_key": "3_1885566914908610560",
+          "start": 48,
+          "url": "https://t.co/HOmfHmU350"
+        },
+        {
+          "display_url": "pic.x.com/HOmfHmU350",
+          "end": 71,
+          "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+          "media_key": "3_1885566914166218753",
+          "start": 48,
+          "url": "https://t.co/HOmfHmU350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885665432603963443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885566922915537085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SeventeenYizuka: 我来QQ小世界是来看h的谁让你们在小世界里冲塔了😡😡 https://t.co/HOmfHmU350"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1885566914090663936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GirhHkKagAAB6sb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_1885566914875056128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GirhHnFbYAAivIa.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_1885566914908610560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GirhHnNbYAAElYy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_1885566914166218753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GirhHkcbYAEG8qX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885566914090663936",
+            "3_1885566914875056128",
+            "3_1885566914908610560",
+            "3_1885566914166218753"
+          ],
+          "media_source_tweet_id": [
+            "1885566922915537085",
+            "1885566922915537085",
+            "1885566922915537085",
+            "1885566922915537085"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885665432603963443",
+        "created_at": "2025-02-01T12:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T13:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885665432603963443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1831363594556211200",
+              "start": 3,
+              "username": "SeventeenYizuka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOmfHmU350",
+              "end": 71,
+              "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+              "media_key": "3_1885566914090663936",
+              "start": 48,
+              "url": "https://t.co/HOmfHmU350"
+            },
+            {
+              "display_url": "pic.x.com/HOmfHmU350",
+              "end": 71,
+              "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+              "media_key": "3_1885566914875056128",
+              "start": 48,
+              "url": "https://t.co/HOmfHmU350"
+            },
+            {
+              "display_url": "pic.x.com/HOmfHmU350",
+              "end": 71,
+              "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+              "media_key": "3_1885566914908610560",
+              "start": 48,
+              "url": "https://t.co/HOmfHmU350"
+            },
+            {
+              "display_url": "pic.x.com/HOmfHmU350",
+              "end": 71,
+              "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+              "media_key": "3_1885566914166218753",
+              "start": 48,
+              "url": "https://t.co/HOmfHmU350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885665432603963443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885566922915537085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SeventeenYizuka: 我来QQ小世界是来看h的谁让你们在小世界里冲塔了😡😡 https://t.co/HOmfHmU350"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885566914090663936",
+            "3_1885566914875056128",
+            "3_1885566914908610560",
+            "3_1885566914166218753"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885566922915537085",
+        "created_at": "2025-02-01T05:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T06:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885566922915537085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOmfHmU350",
+              "end": 50,
+              "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+              "media_key": "3_1885566914090663936",
+              "start": 27,
+              "url": "https://t.co/HOmfHmU350"
+            },
+            {
+              "display_url": "pic.x.com/HOmfHmU350",
+              "end": 50,
+              "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+              "media_key": "3_1885566914875056128",
+              "start": 27,
+              "url": "https://t.co/HOmfHmU350"
+            },
+            {
+              "display_url": "pic.x.com/HOmfHmU350",
+              "end": 50,
+              "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+              "media_key": "3_1885566914908610560",
+              "start": 27,
+              "url": "https://t.co/HOmfHmU350"
+            },
+            {
+              "display_url": "pic.x.com/HOmfHmU350",
+              "end": 50,
+              "expanded_url": "https://x.com/SeventeenYizuka/status/1885566922915537085/photo/1",
+              "media_key": "3_1885566914166218753",
+              "start": 27,
+              "url": "https://t.co/HOmfHmU350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885566922915537085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8077,
+          "like_count": 112,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我来QQ小世界是来看h的谁让你们在小世界里冲塔了😡😡 https://t.co/HOmfHmU350"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 162,
+          "like_count": 40095,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 10414
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "永远喜欢小梓！アズサ最高です!｜中文/English (Chinglish)/日本語(下手)｜“たとえ全てが虚しいことだとしでも、それは今日最善を尽くさない理由にはならない。”｜無言フォロー失礼します｜橙子教🍊教主@Tw2027Liberate｜可爱的前辈😘@GotoHoshino02｜↓匿名提问箱，推友随便问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "Tw2027Liberate"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "username": "GotoHoshino02"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seventeenyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seventeenyizuka",
+                "start": 0,
+                "url": "https://t.co/I4rMCgSFjH"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒🍊",
+        "pinned_tweet_id": "1884390792036508098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874244934611722242/SyjWEsqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 531,
+          "like_count": 8964,
+          "listed_count": 6,
+          "media_count": 268,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/I4rMCgSFjH",
+        "username": "SeventeenYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

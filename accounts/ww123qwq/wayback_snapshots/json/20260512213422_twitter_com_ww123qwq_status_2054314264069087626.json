@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2054192467629760588",
+    "created_at": "2026-05-12T21:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T22:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054314264069087626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054314264069087626",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054192467629760588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu 量不够吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054192458150686720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIH1KDhbsAAqz8d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2054192467629760588",
+        "created_at": "2026-05-12T21:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T22:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054314264069087626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054314264069087626",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054192467629760588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 量不够吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054192458150686720"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2054192467629760588",
+        "created_at": "2026-05-12T13:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054192467629760588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUaHokQGmt",
+              "end": 34,
+              "expanded_url": "https://x.com/uixxixu/status/2054192467629760588/photo/1",
+              "media_key": "3_2054192458150686720",
+              "start": 11,
+              "url": "https://t.co/hUaHokQGmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054192467629760588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1126,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还剩10t\n想次…… https://t.co/hUaHokQGmt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 277,
+          "like_count": 42686,
+          "listed_count": 4,
+          "media_count": 687,
+          "tweet_count": 12804
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 389,
+          "like_count": 5264,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2924
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

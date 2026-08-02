@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911341853430968321"
+      ],
+      "media_source_tweet_id": [
+        "1912476567504318880"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1912732801335717921",
+    "created_at": "2025-04-17T05:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T06:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912732801335717921"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "砂狼シロコ 小鳥遊ホシノ",
+          "probability": 0.1016,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 48,
+          "start": 36,
+          "tag": "BlueArchive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1729521645013061632",
+          "start": 3,
+          "username": "tocotoco365"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uy9lAsBtTi",
+          "end": 88,
+          "expanded_url": "https://x.com/tocotoco365/status/1912476567504318880/photo/1",
+          "media_key": "3_1911341853430968321",
+          "start": 65,
+          "url": "https://t.co/uy9lAsBtTi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912732801335717921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912476567504318880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tocotoco365: 砂狼シロコ 小鳥遊ホシノ\n#ブルアカ #BlueArchive Shiroko Hoshino https://t.co/uy9lAsBtTi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1911341853430968321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoZzSfoW8AENIF4.jpg",
+        "width": 2799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911341853430968321"
+          ],
+          "media_source_tweet_id": [
+            "1912476567504318880"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1912732801335717921",
+        "created_at": "2025-04-17T05:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T06:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912732801335717921"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "砂狼シロコ 小鳥遊ホシノ",
+              "probability": 0.1016,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 48,
+              "start": 36,
+              "tag": "BlueArchive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1729521645013061632",
+              "start": 3,
+              "username": "tocotoco365"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uy9lAsBtTi",
+              "end": 88,
+              "expanded_url": "https://x.com/tocotoco365/status/1912476567504318880/photo/1",
+              "media_key": "3_1911341853430968321",
+              "start": 65,
+              "url": "https://t.co/uy9lAsBtTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912732801335717921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912476567504318880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tocotoco365: 砂狼シロコ 小鳥遊ホシノ\n#ブルアカ #BlueArchive Shiroko Hoshino https://t.co/uy9lAsBtTi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911341853430968321"
+          ]
+        },
+        "author_id": "1729521645013061632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1912476567504318880",
+        "created_at": "2025-04-16T12:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912476567504318880"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "砂狼シロコ 小鳥遊ホシノ",
+              "probability": 0.1868,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uy9lAsBtTi",
+              "end": 71,
+              "expanded_url": "https://x.com/tocotoco365/status/1912476567504318880/photo/1",
+              "media_key": "3_1911341853430968321",
+              "start": 48,
+              "url": "https://t.co/uy9lAsBtTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912476567504318880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 16277,
+          "like_count": 1594,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "砂狼シロコ 小鳥遊ホシノ\n#ブルアカ #BlueArchive Shiroko Hoshino https://t.co/uy9lAsBtTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 187,
+          "like_count": 40096,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 10594
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T15:24:42.000Z",
+        "description": "to-co-to-co\nI use (AI) to generate anime,comic fan art and origial\nPatreon🔞https://t.co/D7lKfzT3gU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/tocotoco",
+                "end": 98,
+                "expanded_url": "https://patreon.com/tocotoco",
+                "start": 75,
+                "url": "https://t.co/D7lKfzT3gU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/103145503",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/103145503",
+                "start": 0,
+                "url": "https://t.co/2DIKjMnTl8"
+              }
+            ]
+          }
+        },
+        "id": "1729521645013061632",
+        "name": "tocotoco",
+        "pinned_tweet_id": "1911389152219959637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729721042565029888/QUQMd-5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82513,
+          "following_count": 610,
+          "like_count": 23580,
+          "listed_count": 536,
+          "media_count": 2469,
+          "tweet_count": 19226
+        },
+        "url": "https://t.co/2DIKjMnTl8",
+        "username": "tocotoco365",
+        "verified": true
+      }
+    ]
+  }
+}

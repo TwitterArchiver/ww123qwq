@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985550258081034684",
+    "created_at": "2025-11-04T03:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T04:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985550258081034684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1561334508212723713",
+          "start": 3,
+          "username": "VVV8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985550258081034684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985525789321052501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VVV8964: 本毒枭又来进货了\n这次从温哥华的迷幻药店斥巨资采购了迷幻蘑菇，卡痛，4homet和mal仙人掌\n这些本来要100刀，但是因为canadapost还没有完全恢复运营，只能用其他快递，邮费就要40刀，有点心疼\n而且我最近一直忙着复习考试也吃不了，下周又去旅…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985525785042784256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44BLoXakAA5Imi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985525785302876163",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44BLpVbQAM7FSQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985525785940410371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44BLrtbQAMNhnU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985525786775068672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44BLu0bIAA6VUD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985550258081034684",
+        "created_at": "2025-11-04T03:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985550258081034684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1561334508212723713",
+              "start": 3,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985550258081034684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985525789321052501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VVV8964: 本毒枭又来进货了\n这次从温哥华的迷幻药店斥巨资采购了迷幻蘑菇，卡痛，4homet和mal仙人掌\n这些本来要100刀，但是因为canadapost还没有完全恢复运营，只能用其他快递，邮费就要40刀，有点心疼\n而且我最近一直忙着复习考试也吃不了，下周又去旅…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985525785042784256",
+            "3_1985525785302876163",
+            "3_1985525785940410371",
+            "3_1985525786775068672"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1985525789321052501",
+        "created_at": "2025-11-04T01:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T02:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985525789321052501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fv114DyP2B",
+              "end": 162,
+              "expanded_url": "https://x.com/VVV8964/status/1985525789321052501/photo/1",
+              "media_key": "3_1985525785042784256",
+              "start": 139,
+              "url": "https://t.co/Fv114DyP2B"
+            },
+            {
+              "display_url": "pic.x.com/Fv114DyP2B",
+              "end": 162,
+              "expanded_url": "https://x.com/VVV8964/status/1985525789321052501/photo/1",
+              "media_key": "3_1985525785302876163",
+              "start": 139,
+              "url": "https://t.co/Fv114DyP2B"
+            },
+            {
+              "display_url": "pic.x.com/Fv114DyP2B",
+              "end": 162,
+              "expanded_url": "https://x.com/VVV8964/status/1985525789321052501/photo/1",
+              "media_key": "3_1985525785940410371",
+              "start": 139,
+              "url": "https://t.co/Fv114DyP2B"
+            },
+            {
+              "display_url": "pic.x.com/Fv114DyP2B",
+              "end": 162,
+              "expanded_url": "https://x.com/VVV8964/status/1985525789321052501/photo/1",
+              "media_key": "3_1985525786775068672",
+              "start": 139,
+              "url": "https://t.co/Fv114DyP2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985525789321052501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 565,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本毒枭又来进货了\n这次从温哥华的迷幻药店斥巨资采购了迷幻蘑菇，卡痛，4homet和mal仙人掌\n这些本来要100刀，但是因为canadapost还没有完全恢复运营，只能用其他快递，邮费就要40刀，有点心疼\n而且我最近一直忙着复习考试也吃不了，下周又去旅游了，根本没什么吃的机会 https://t.co/Fv114DyP2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1063487741",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 220,
+          "like_count": 40278,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 10945
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "我是加拿大人，不要找我买毒品\n\n埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZ3Lh"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 356,
+          "like_count": 3796,
+          "listed_count": 9,
+          "media_count": 402,
+          "tweet_count": 5035
+        },
+        "url": "https://t.co/tuzURhZ3Lh",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

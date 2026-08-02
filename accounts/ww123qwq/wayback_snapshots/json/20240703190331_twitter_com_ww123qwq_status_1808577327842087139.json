@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1808333421082468679",
+    "created_at": "2024-07-03T19:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T20:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808577327842087139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_insky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808577327842087139",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808333421082468679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_insky 真的有人会买吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1808333421082468679",
+        "created_at": "2024-07-03T19:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T20:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808577327842087139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_insky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808577327842087139",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808333421082468679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_insky 真的有人会买吗"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808333411842695168"
+          ]
+        },
+        "author_id": "1244543552652054528",
+        "conversation_id": "1808333421082468679",
+        "created_at": "2024-07-03T02:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T03:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808333421082468679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/whSIdLdtPk",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Greenfish_insky/status/1808333421082468679/photo/1",
+              "media_key": "3_1808333411842695168",
+              "start": 17,
+              "url": "https://t.co/whSIdLdtPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808333421082468679",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5125,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好新潮的文字。出完家里干净了不少 https://t.co/whSIdLdtPk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 106,
+          "like_count": 40308,
+          "listed_count": 0,
+          "tweet_count": 10302
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以凡人的身份在地球游历 ｜🚪10000000",
+        "id": "1244543552652054528",
+        "location": "异世界",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "1807639040230838562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796457507369652225/H-J0Fpp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 339,
+          "like_count": 5789,
+          "listed_count": 5,
+          "tweet_count": 4825
+        },
+        "username": "Greenfish_insky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1984493734193684480"
+      ],
+      "media_source_tweet_id": [
+        "1984493857485308071"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1986091711463071776",
+    "created_at": "2025-11-05T15:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T16:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986091711463071776"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "男の娘"
+        },
+        {
+          "end": 86,
+          "start": 79,
+          "tag": "可爱の男孩子"
+        },
+        {
+          "end": 92,
+          "start": 87,
+          "tag": "作战记录"
+        },
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "里百合"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1966156346597978115",
+          "start": 3,
+          "username": "xinxinjiang77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tRI0ozms7U",
+          "end": 121,
+          "expanded_url": "https://x.com/xinxinjiang77/status/1984493857485308071/video/1",
+          "media_key": "13_1984493734193684480",
+          "start": 98,
+          "url": "https://t.co/tRI0ozms7U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986091711463071776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984493857485308071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xinxinjiang77: 烧鸡宝宝后面不满足被塞满，嘴巴里还要被塞满，真是天生的母勾。不过小宝贝的口技还是不错的，弄的我还是很舒服的呢。#男の娘 #可爱の男孩子 #作战记录 #里百合 https://t.co/tRI0ozms7U"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1986091711463071776].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1986091711463071776",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1986091711463071776"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42366,
+        "height": 1272,
+        "media_key": "13_1984493734193684480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984493734193684480/img/2AMKBAMxMt7_NKWJ.jpg",
+        "public_metrics": {
+          "view_count": 19146
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984493734193684480/vid/avc1/320x564/DLigHE1xCltLdUwp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984493734193684480/vid/avc1/480x848/ywZmqTK_Qc9LvWLV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984493734193684480/vid/avc1/720x1272/Mx-nKt1wWAJFLPSj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984493734193684480/pl/Q1KBGofFqWcSqVnX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984493734193684480"
+          ]
+        },
+        "author_id": "1966156346597978115",
+        "conversation_id": "1984493857485308071",
+        "created_at": "2025-11-01T05:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T06:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984493857485308071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "男の娘"
+            },
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "作战记录"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "里百合"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRI0ozms7U",
+              "end": 102,
+              "expanded_url": "https://x.com/xinxinjiang77/status/1984493857485308071/video/1",
+              "media_key": "13_1984493734193684480",
+              "start": 79,
+              "url": "https://t.co/tRI0ozms7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984493857485308071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 63667,
+          "like_count": 925,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "烧鸡宝宝后面不满足被塞满，嘴巴里还要被塞满，真是天生的母勾。不过小宝贝的口技还是不错的，弄的我还是很舒服的呢。#男の娘 #可爱の男孩子 #作战记录 #里百合 https://t.co/tRI0ozms7U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1048726302",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1985946207982965207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 224,
+          "like_count": 40384,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 11062
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T15:06:26.000Z",
+        "description": "原大号：@xinxinjiang66 3w粉，被冻结了，这是转生号。感谢互推互fo。男娘/168/59/坐标徐州/欢迎可爱的男娘药娘贴贴，涩涩，交流/接寄拍/测评/直男好友位有🚪。不定时删帖。扩列请私信。现在关注到上限了，很多回不了关注，不好意思，等好了，我一定回关。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "xinxinjiang66"
+              }
+            ]
+          }
+        },
+        "id": "1966156346597978115",
+        "location": "距离5.21km",
+        "name": "馨馨酱（转生互推版）",
+        "pinned_tweet_id": "1983557009728507918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966727387779067904/DL9D_nlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 188,
+          "like_count": 710,
+          "listed_count": 8,
+          "media_count": 12,
+          "tweet_count": 141
+        },
+        "username": "xinxinjiang77",
+        "verified": false
+      }
+    ]
+  }
+}

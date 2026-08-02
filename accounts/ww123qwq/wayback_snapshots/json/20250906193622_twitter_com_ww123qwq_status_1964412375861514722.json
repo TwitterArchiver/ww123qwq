@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964272050966843394"
+      ],
+      "media_source_tweet_id": [
+        "1964272067735654559"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1964412375861514722",
+    "created_at": "2025-09-06T19:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T20:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964412375861514722"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 16,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 47,
+          "start": 37,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1414719870520815620",
+          "start": 3,
+          "username": "Touyu_1210"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TNxqR70lpG",
+          "end": 71,
+          "expanded_url": "https://x.com/Touyu_1210/status/1964272067735654559/photo/1",
+          "media_key": "3_1964272050966843394",
+          "start": 48,
+          "url": "https://t.co/TNxqR70lpG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964412375861514722",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 596
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964272067735654559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Touyu_1210: #NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/TNxqR70lpG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_1964272050966843394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0J_BfAbUAIIFUq.jpg",
+        "width": 803
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964272050966843394"
+          ],
+          "media_source_tweet_id": [
+            "1964272067735654559"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1964412375861514722",
+        "created_at": "2025-09-06T19:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T20:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964412375861514722"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 16,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 47,
+              "start": 37,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1414719870520815620",
+              "start": 3,
+              "username": "Touyu_1210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNxqR70lpG",
+              "end": 71,
+              "expanded_url": "https://x.com/Touyu_1210/status/1964272067735654559/photo/1",
+              "media_key": "3_1964272050966843394",
+              "start": 48,
+              "url": "https://t.co/TNxqR70lpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964412375861514722",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 596
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964272067735654559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Touyu_1210: #NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/TNxqR70lpG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964272050966843394"
+          ]
+        },
+        "author_id": "1414719870520815620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1964272067735654559",
+        "created_at": "2025-09-06T10:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T11:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964272067735654559"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNxqR70lpG",
+              "end": 55,
+              "expanded_url": "https://x.com/Touyu_1210/status/1964272067735654559/photo/1",
+              "media_key": "3_1964272050966843394",
+              "start": 32,
+              "url": "https://t.co/TNxqR70lpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964272067735654559",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 48878,
+          "like_count": 3060,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 596
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE #NEEDY_pic https://t.co/TNxqR70lpG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 190,
+          "like_count": 39764,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 10612
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T22:54:42.000Z",
+        "description": "등유•TOUYU | 📧 tjsgo1210@naver.com | Do not use,repost my artwork 🚫 Ai learing is prohibited",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Touyu_1210",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/Touyu_1210",
+                "start": 0,
+                "url": "https://t.co/UkFFlsUBYW"
+              }
+            ]
+          }
+        },
+        "id": "1414719870520815620",
+        "location": "20⬆️ | 비팔🔕 | I.프루님 H.썬썬님",
+        "name": "ㄷㅇ໒꒱ 9코 BG23•24",
+        "pinned_tweet_id": "1959563917732319339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953763848596729862/OK0BCG4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27462,
+          "following_count": 139,
+          "like_count": 3918,
+          "listed_count": 98,
+          "media_count": 106,
+          "tweet_count": 4177
+        },
+        "url": "https://t.co/UkFFlsUBYW",
+        "username": "Touyu_1210",
+        "verified": true
+      }
+    ]
+  }
+}

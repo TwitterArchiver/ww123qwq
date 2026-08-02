@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892784695865208832"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1892776681472938360",
+    "created_at": "2025-02-21T03:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T04:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892784698470125680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1599546260402638848",
+          "start": 0,
+          "username": "chika_ichii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tLCLAZq7TS",
+          "end": 41,
+          "expanded_url": "https://x.com/ww123qwq/status/1892784698470125680/photo/1",
+          "media_key": "3_1892784695865208832",
+          "start": 18,
+          "url": "https://t.co/tLCLAZq7TS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892784698470125680",
+    "in_reply_to_user_id": "1599546260402638848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892781653325443144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chika_ichii ！开淫趴 https://t.co/tLCLAZq7TS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1892784695865208832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkSFpwlXcAAZK9G.jpg",
+        "width": 1220
+      },
+      {
+        "height": 221,
+        "media_key": "3_1892781645478211584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkSC4NAbsAAhx5Q.jpg",
+        "width": 228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892784695865208832"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1892776681472938360",
+        "created_at": "2025-02-21T03:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T04:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892784698470125680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1599546260402638848",
+              "start": 0,
+              "username": "chika_ichii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLCLAZq7TS",
+              "end": 41,
+              "expanded_url": "https://x.com/ww123qwq/status/1892784698470125680/photo/1",
+              "media_key": "3_1892784695865208832",
+              "start": 18,
+              "url": "https://t.co/tLCLAZq7TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892784698470125680",
+        "in_reply_to_user_id": "1599546260402638848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892781653325443144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chika_ichii ！开淫趴 https://t.co/tLCLAZq7TS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892781645478211584"
+          ]
+        },
+        "author_id": "1599546260402638848",
+        "conversation_id": "1892776681472938360",
+        "created_at": "2025-02-21T03:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T04:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892781653325443144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYGSZy5OPK",
+              "end": 33,
+              "expanded_url": "https://x.com/chika_ichii/status/1892781653325443144/photo/1",
+              "media_key": "3_1892781645478211584",
+              "start": 10,
+              "url": "https://t.co/nYGSZy5OPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892781653325443144",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892776681472938360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq https://t.co/nYGSZy5OPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "重度抑郁/中度焦虑/日常/碎碎念/社恐",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 163,
+          "like_count": 40007,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 10517
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T23:28:52.000Z",
+        "description": "🧊🔥冰棍必须是涩的！/千夏/あまねく奇跡の始発点/メンヘラの子/医師/日本語N2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chikaii",
+                "end": 23,
+                "expanded_url": "http://lit.link/chikaii",
+                "start": 0,
+                "url": "https://t.co/6I4EThYGLx"
+              }
+            ]
+          }
+        },
+        "id": "1599546260402638848",
+        "location": "東京都千代田区神田須田町1丁目12-3アルカディアビル",
+        "name": "冰棍好涩喵🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1878613884468379893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713906913589764096/h3IZfzmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 159,
+          "like_count": 340,
+          "listed_count": 5,
+          "media_count": 179,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/6I4EThYGLx",
+        "username": "chika_ichii",
+        "verified": true
+      }
+    ]
+  }
+}

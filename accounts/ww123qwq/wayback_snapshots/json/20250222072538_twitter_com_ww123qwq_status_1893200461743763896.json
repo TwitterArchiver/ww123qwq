@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893200433163968515"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1893200461743763896",
+    "created_at": "2025-02-22T07:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T08:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893200461743763896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pXnnIwryuD",
+          "end": 31,
+          "expanded_url": "https://x.com/ww123qwq/status/1893200461743763896/photo/1",
+          "media_key": "3_1893200433163968515",
+          "start": 8,
+          "url": "https://t.co/pXnnIwryuD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893200461743763896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沙狼白子抢银行 https://t.co/pXnnIwryuD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1893200433163968515",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkX_w2taoAM6qFi.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893200433163968515"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1893200461743763896",
+        "created_at": "2025-02-22T07:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T08:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893200461743763896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXnnIwryuD",
+              "end": 31,
+              "expanded_url": "https://x.com/ww123qwq/status/1893200461743763896/photo/1",
+              "media_key": "3_1893200433163968515",
+              "start": 8,
+              "url": "https://t.co/pXnnIwryuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893200461743763896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沙狼白子抢银行 https://t.co/pXnnIwryuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "重度抑郁/中度焦虑/日常/碎碎念/社恐/欧迪/欢迎扩列",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 165,
+          "like_count": 40009,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 10525
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

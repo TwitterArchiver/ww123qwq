@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2044582548005941455",
+    "created_at": "2026-04-16T01:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044582548005941455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837114188046684161",
+          "start": 3,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044582548005941455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044040665164845281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winterfruit_1: 鸡哥一到店，所有od的人便都看着他笑，有的叫道，“鸡哥，你推特账号又被马斯克封了！”他不回答，对柜里说，“温两碗魔爪，要一碟晚安。”便扫上了二维码。他们又故意的高声嚷道，“你一定又骚扰地雷女了！”鸡哥睁大眼睛说，“你怎么这样凭空污人清白………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2044582548005941455",
+        "created_at": "2026-04-16T01:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044582548005941455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837114188046684161",
+              "start": 3,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044582548005941455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044040665164845281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winterfruit_1: 鸡哥一到店，所有od的人便都看着他笑，有的叫道，“鸡哥，你推特账号又被马斯克封了！”他不回答，对柜里说，“温两碗魔爪，要一碟晚安。”便扫上了二维码。他们又故意的高声嚷道，“你一定又骚扰地雷女了！”鸡哥睁大眼睛说，“你怎么这样凭空污人清白………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2044040665164845281",
+        "created_at": "2026-04-14T13:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044040665164845281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044040665164845281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5992,
+          "like_count": 115,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥一到店，所有od的人便都看着他笑，有的叫道，“鸡哥，你推特账号又被马斯克封了！”他不回答，对柜里说，“温两碗魔爪，要一碟晚安。”便扫上了二维码。他们又故意的高声嚷道，“你一定又骚扰地雷女了！”鸡哥睁大眼睛说，“你怎么这样凭空污人清白……”“什么清白？我前天亲眼见你骚扰地雷女，吊着打。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 273,
+          "like_count": 42152,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 12621
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420\n药物百科：https://t.co/7hcA5pxk71",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 51,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 28,
+                "url": "https://t.co/7hcA5pxk71"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 1460,
+          "like_count": 40090,
+          "listed_count": 7,
+          "media_count": 1710,
+          "tweet_count": 11740
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

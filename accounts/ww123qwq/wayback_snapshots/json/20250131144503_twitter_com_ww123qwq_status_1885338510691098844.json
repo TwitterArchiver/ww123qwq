@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1885338510691098844",
+    "created_at": "2025-01-31T14:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T15:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885338510691098844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1178446062",
+          "start": 3,
+          "username": "naiyesama3"
+        },
+        {
+          "end": 32,
+          "id": "1724424691182366720",
+          "start": 20,
+          "username": "Asperatus99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885338510691098844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885115977790349710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naiyesama3: 今天是 @Asperatus99 家的束缚套装，名字叫做【蝶】束缚效果非常棒，穿戴起来也很方便，皮革的质地很好很贴肤，穿戴效果超级涩，而且兼容各种型号的贞操锁，全分件的设计初次穿戴可能会有点难度，但是穿戴成功之后再次穿戴就很简单啦，又涩又可爱咱超…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1885338510691098844].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1885338510691098844",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1885338510691098844"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885115964544737281",
+            "3_1885115973205975040",
+            "3_1885115966163738624",
+            "3_1885115971981238275"
+          ]
+        },
+        "author_id": "1178446062",
+        "conversation_id": "1885115977790349710",
+        "created_at": "2025-01-31T00:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T01:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885115977790349710"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "男の娘"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "伪娘"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "女装子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724424691182366720",
+              "start": 4,
+              "username": "Asperatus99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y1Cs6mGEuK",
+              "end": 170,
+              "expanded_url": "https://x.com/naiyesama3/status/1885115977790349710/photo/1",
+              "media_key": "3_1885115964544737281",
+              "start": 147,
+              "url": "https://t.co/Y1Cs6mGEuK"
+            },
+            {
+              "display_url": "pic.x.com/Y1Cs6mGEuK",
+              "end": 170,
+              "expanded_url": "https://x.com/naiyesama3/status/1885115977790349710/photo/1",
+              "media_key": "3_1885115973205975040",
+              "start": 147,
+              "url": "https://t.co/Y1Cs6mGEuK"
+            },
+            {
+              "display_url": "pic.x.com/Y1Cs6mGEuK",
+              "end": 170,
+              "expanded_url": "https://x.com/naiyesama3/status/1885115977790349710/photo/1",
+              "media_key": "3_1885115966163738624",
+              "start": 147,
+              "url": "https://t.co/Y1Cs6mGEuK"
+            },
+            {
+              "display_url": "pic.x.com/Y1Cs6mGEuK",
+              "end": 170,
+              "expanded_url": "https://x.com/naiyesama3/status/1885115977790349710/photo/1",
+              "media_key": "3_1885115971981238275",
+              "start": 147,
+              "url": "https://t.co/Y1Cs6mGEuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885115977790349710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 16036,
+          "like_count": 348,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "今天是 @Asperatus99 家的束缚套装，名字叫做【蝶】束缚效果非常棒，穿戴起来也很方便，皮革的质地很好很贴肤，穿戴效果超级涩，而且兼容各种型号的贞操锁，全分件的设计初次穿戴可能会有点难度，但是穿戴成功之后再次穿戴就很简单啦，又涩又可爱咱超级喜欢www~~♡\n#男の娘 #伪娘 #女装子 https://t.co/Y1Cs6mGEuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 161,
+          "like_count": 40090,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 10410
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-14T10:02:35.000Z",
+        "description": "这里是地区形态的大和鸭(163 46)，原号被冻结惹，喜欢大和的可以扩列聊天哦(学生党不要乱花钱哦😃)，我不定期会拍新套图，所有的都是直接发推上，不会保留(拍多少发多少)。会一直攒钱直到够买新衣服为止，求三连求转推www（磕）\n@naiyesama3 推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "naiyesama3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=yo2jPyEv",
+                "start": 0,
+                "url": "https://t.co/OdJksDwuHa"
+              }
+            ]
+          }
+        },
+        "id": "1178446062",
+        "name": "大和（白玉京版）",
+        "pinned_tweet_id": "1885115977790349710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771235902544834563/0oNgr0Yt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27315,
+          "following_count": 218,
+          "like_count": 5084,
+          "listed_count": 106,
+          "media_count": 149,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/OdJksDwuHa",
+        "username": "naiyesama3",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T13:51:17.000Z",
+        "description": "守信不弃，有鸟知更",
+        "id": "1724424691182366720",
+        "name": "有鸟知更",
+        "pinned_tweet_id": "1855783542393049235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764839183611498496/BCSFig4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5094,
+          "following_count": 61,
+          "like_count": 140,
+          "listed_count": 11,
+          "media_count": 41,
+          "tweet_count": 115
+        },
+        "username": "Asperatus99",
+        "verified": false
+      }
+    ]
+  }
+}

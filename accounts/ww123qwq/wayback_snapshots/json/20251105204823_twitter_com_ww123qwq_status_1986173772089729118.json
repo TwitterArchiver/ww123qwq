@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985862877467877398",
+    "created_at": "2025-11-05T20:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T21:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986173772089729118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1669250248265302020",
+          "start": 0,
+          "username": "xu96175836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986173772089729118",
+    "in_reply_to_user_id": "1669250248265302020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985862877467877398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu96175836 大记忆回复术：你好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1982054515806212096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4GsFKwWkAAT1SY.jpg",
+        "width": 434
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985862877467877398",
+        "created_at": "2025-11-05T20:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T21:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986173772089729118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669250248265302020",
+              "start": 0,
+              "username": "xu96175836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986173772089729118",
+        "in_reply_to_user_id": "1669250248265302020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985862877467877398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu96175836 大记忆回复术：你好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982054515806212096"
+          ]
+        },
+        "author_id": "1669250248265302020",
+        "conversation_id": "1985862877467877398",
+        "created_at": "2025-11-05T00:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T01:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985862877467877398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rbGWVfzsU",
+              "end": 38,
+              "expanded_url": "https://x.com/xu96175836/status/1985862877467877398/photo/1",
+              "media_key": "3_1982054515806212096",
+              "start": 15,
+              "url": "https://t.co/6rbGWVfzsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985862877467877398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 429,
+          "impression_count": 409742,
+          "like_count": 1481,
+          "quote_count": 5,
+          "reply_count": 182,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "在中国，万一遇到警察查手机… https://t.co/6rbGWVfzsU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w唯一电报  https://t.co/7z9W9wVbK1，注意防骗\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1048726302置顶非本人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "kirifuji00"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ww123qwq6",
+                "end": 72,
+                "expanded_url": "http://t.me/ww123qwq6",
+                "start": 49,
+                "url": "https://t.co/7z9W9wVbK1"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986097091161280725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 223,
+          "like_count": 40414,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 11104
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T07:47:28.000Z",
+        "description": "一个人的各种品性之中，德行是第一位的。\n优良的品性是真正的财富，而衬显这品性的是良好的教养。",
+        "id": "1669250248265302020",
+        "name": "雪柔",
+        "pinned_tweet_id": "1855778217598337030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690669189856444417/1SYUbSmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117420,
+          "following_count": 1479,
+          "like_count": 7433,
+          "listed_count": 337,
+          "media_count": 11108,
+          "tweet_count": 12138
+        },
+        "username": "xu96175836",
+        "verified": true
+      }
+    ]
+  }
+}

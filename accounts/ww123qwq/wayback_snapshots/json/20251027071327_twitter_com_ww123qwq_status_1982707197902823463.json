@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982660682144169984",
+        "3_1982660682173599744"
+      ],
+      "media_source_tweet_id": [
+        "1982660696480559245",
+        "1982660696480559245"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1982707197902823463",
+    "created_at": "2025-10-27T07:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T08:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982707197902823463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1676500088221478912",
+          "start": 3,
+          "username": "DOGYeah3376"
+        },
+        {
+          "end": 47,
+          "id": "1879395690230738944",
+          "start": 34,
+          "username": "Psych_Angel_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ioI1ac20tF",
+          "end": 71,
+          "expanded_url": "https://x.com/DOGYeah3376/status/1982660696480559245/photo/1",
+          "media_key": "3_1982660682144169984",
+          "start": 48,
+          "url": "https://t.co/ioI1ac20tF"
+        },
+        {
+          "display_url": "pic.x.com/ioI1ac20tF",
+          "end": 71,
+          "expanded_url": "https://x.com/DOGYeah3376/status/1982660696480559245/photo/1",
+          "media_key": "3_1982660682173599744",
+          "start": 48,
+          "url": "https://t.co/ioI1ac20tF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982707197902823463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982660696480559245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DOGYeah3376: dpt怎么也要离我们而去…\n图来自@Psych_Angel_ https://t.co/ioI1ac20tF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1982660682144169984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PTYsVWQAAjmXV.jpg",
+        "width": 700
+      },
+      {
+        "height": 954,
+        "media_key": "3_1982660682173599744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PTYscXUAAc6ML.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982660682144169984",
+            "3_1982660682173599744"
+          ],
+          "media_source_tweet_id": [
+            "1982660696480559245",
+            "1982660696480559245"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1982707197902823463",
+        "created_at": "2025-10-27T07:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982707197902823463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1676500088221478912",
+              "start": 3,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 47,
+              "id": "1879395690230738944",
+              "start": 34,
+              "username": "Psych_Angel_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ioI1ac20tF",
+              "end": 71,
+              "expanded_url": "https://x.com/DOGYeah3376/status/1982660696480559245/photo/1",
+              "media_key": "3_1982660682144169984",
+              "start": 48,
+              "url": "https://t.co/ioI1ac20tF"
+            },
+            {
+              "display_url": "pic.x.com/ioI1ac20tF",
+              "end": 71,
+              "expanded_url": "https://x.com/DOGYeah3376/status/1982660696480559245/photo/1",
+              "media_key": "3_1982660682173599744",
+              "start": 48,
+              "url": "https://t.co/ioI1ac20tF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982707197902823463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982660696480559245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DOGYeah3376: dpt怎么也要离我们而去…\n图来自@Psych_Angel_ https://t.co/ioI1ac20tF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982660682144169984",
+            "3_1982660682173599744"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1982660696480559245",
+        "created_at": "2025-10-27T04:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982660696480559245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1879395690230738944",
+              "start": 17,
+              "username": "Psych_Angel_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ioI1ac20tF",
+              "end": 54,
+              "expanded_url": "https://x.com/DOGYeah3376/status/1982660696480559245/photo/1",
+              "media_key": "3_1982660682144169984",
+              "start": 31,
+              "url": "https://t.co/ioI1ac20tF"
+            },
+            {
+              "display_url": "pic.x.com/ioI1ac20tF",
+              "end": 54,
+              "expanded_url": "https://x.com/DOGYeah3376/status/1982660696480559245/photo/1",
+              "media_key": "3_1982660682173599744",
+              "start": 31,
+              "url": "https://t.co/ioI1ac20tF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982660696480559245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 542,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "dpt怎么也要离我们而去…\n图来自@Psych_Angel_ https://t.co/ioI1ac20tF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 209,
+          "like_count": 40083,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 10764
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜間接使用繁體。只是為了好看。｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条🚬@yu_huacs｜小猫🐱@qbpdsslvy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 79,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "qbpdsslvy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "小皮🪼",
+        "pinned_tweet_id": "1980287770011857252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979171735669719041/xwbTRqej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1026,
+          "like_count": 55878,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 3692
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜💊#Drugtwt｜BD/DPDR｜soulmate:@BelovedUren8964｜🍧:@Chufeinya 🍜:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6thcutek1tten1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/6thcutek1tten1",
+                "start": 0,
+                "url": "https://t.co/nRpYRqPkdm"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "1978107837193523387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971805789750022147/X3CZsxHf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 613,
+          "like_count": 16954,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 7379
+        },
+        "url": "https://t.co/nRpYRqPkdm",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

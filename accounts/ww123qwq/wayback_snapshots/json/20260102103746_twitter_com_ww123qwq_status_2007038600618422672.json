@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2006663904722825443",
+    "created_at": "2026-01-02T10:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T11:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007038600618422672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1926313840557355008",
+          "start": 0,
+          "username": "yepa41"
+        },
+        {
+          "end": 17,
+          "id": "1494669485214633984",
+          "start": 8,
+          "username": "57crz3oA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20065…",
+          "end": 41,
+          "expanded_url": "https://x.com/i/status/2006501038036234475",
+          "start": 18,
+          "url": "https://t.co/fiOByAWgbv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007038600618422672",
+    "in_reply_to_user_id": "1926313840557355008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006501038036234475",
+        "type": "quoted"
+      },
+      {
+        "id": "2006709269841031384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yepa41 @57crz3oA https://t.co/fiOByAWgbv美好新年的贺礼（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_2006501024794906624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9iGDRhbkAA4GpT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2006663904722825443",
+        "created_at": "2026-01-02T10:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007038600618422672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1926313840557355008",
+              "start": 0,
+              "username": "yepa41"
+            },
+            {
+              "end": 17,
+              "id": "1494669485214633984",
+              "start": 8,
+              "username": "57crz3oA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20065…",
+              "end": 41,
+              "expanded_url": "https://x.com/i/status/2006501038036234475",
+              "start": 18,
+              "url": "https://t.co/fiOByAWgbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007038600618422672",
+        "in_reply_to_user_id": "1926313840557355008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006501038036234475",
+            "type": "quoted"
+          },
+          {
+            "id": "2006709269841031384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yepa41 @57crz3oA https://t.co/fiOByAWgbv美好新年的贺礼（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006501024794906624"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2006501038036234475",
+        "created_at": "2025-12-31T23:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T00:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006501038036234475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hd5viQxvT1",
+              "end": 47,
+              "expanded_url": "https://x.com/ww123qwq/status/2006501038036234475/photo/1",
+              "media_key": "3_2006501024794906624",
+              "start": 24,
+              "url": "https://t.co/hd5viQxvT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006501038036234475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10292,
+          "like_count": 29,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "傻b，n55嗑普瑞开电动车撞了护栏，疼死我了@ https://t.co/hd5viQxvT1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926313840557355008",
+        "conversation_id": "2006663904722825443",
+        "created_at": "2026-01-01T12:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006709269841031384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "57crz3oA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006709269841031384",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2642,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006663904722825443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@57crz3oA 2025劲爆前奏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 267,
+          "like_count": 40938,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 11959
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:26:40.000Z",
+        "description": "さよならだ人類、みんな吹き飛んじまえ，",
+        "id": "1926313840557355008",
+        "location": "百味轩",
+        "name": "斯德哥尔摩第二吉他手",
+        "pinned_tweet_id": "1990480589112422835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998174458197245952/_6TPH7JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 697,
+          "like_count": 69938,
+          "listed_count": 4,
+          "media_count": 626,
+          "tweet_count": 4368
+        },
+        "username": "yepa41",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "ad astra per aspera",
+        "id": "1494669485214633984",
+        "location": "距你14.9km",
+        "name": "s2R2304",
+        "pinned_tweet_id": "1931931078182547903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997726001468690433/TMiBRj75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 1319,
+          "like_count": 60230,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 3234
+        },
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ]
+  }
+}

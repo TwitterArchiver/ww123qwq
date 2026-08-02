@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898792717083369472"
+      ],
+      "media_source_tweet_id": [
+        "1898792724176032029"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1898816339294527506",
+    "created_at": "2025-03-09T19:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T20:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898816339294527506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658881840349061120",
+          "start": 3,
+          "username": "CJing3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UoT3jzgJRm",
+          "end": 36,
+          "expanded_url": "https://x.com/CJing3_/status/1898792724176032029/photo/1",
+          "media_key": "3_1898792717083369472",
+          "start": 13,
+          "url": "https://t.co/UoT3jzgJRm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898816339294527506",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898792724176032029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @CJing3_: https://t.co/UoT3jzgJRm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1898792717083369472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glnd6nvaYAA7yc4.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898792717083369472"
+          ],
+          "media_source_tweet_id": [
+            "1898792724176032029"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1898816339294527506",
+        "created_at": "2025-03-09T19:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T20:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898816339294527506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658881840349061120",
+              "start": 3,
+              "username": "CJing3_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UoT3jzgJRm",
+              "end": 36,
+              "expanded_url": "https://x.com/CJing3_/status/1898792724176032029/photo/1",
+              "media_key": "3_1898792717083369472",
+              "start": 13,
+              "url": "https://t.co/UoT3jzgJRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898816339294527506",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898792724176032029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @CJing3_: https://t.co/UoT3jzgJRm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898792717083369472"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1898792724176032029",
+        "created_at": "2025-03-09T17:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T18:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898792724176032029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UoT3jzgJRm",
+              "end": 23,
+              "expanded_url": "https://x.com/CJing3_/status/1898792724176032029/photo/1",
+              "media_key": "3_1898792717083369472",
+              "start": 0,
+              "url": "https://t.co/UoT3jzgJRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898792724176032029",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 630,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/UoT3jzgJRm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "重度抑郁/中度焦虑/日常/碎碎念/社恐/欧迪/欢迎扩列/家暴",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 172,
+          "like_count": 40011,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 10559
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "接图案定制",
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫",
+        "name": "楚鯨",
+        "pinned_tweet_id": "1894416543616045079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873334418095648768/ujJbwFFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9595,
+          "following_count": 528,
+          "like_count": 7109,
+          "listed_count": 16,
+          "media_count": 131,
+          "tweet_count": 384
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

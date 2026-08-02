@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991206212483125248"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401962477756162049",
+          "name": "Visual kei"
+        }
+      }
+    ],
+    "conversation_id": "1991206218975826332",
+    "created_at": "2025-11-19T18:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T19:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991206218975826332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zb7lIHgZoM",
+          "end": 104,
+          "expanded_url": "https://x.com/ww123qwq/status/1991206218975826332/photo/1",
+          "media_key": "3_1991206212483125248",
+          "start": 81,
+          "url": "https://t.co/Zb7lIHgZoM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991206218975826332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的哥特 金属 雷鬼 文化 锐舞 y2k   朋克 9al 地雷系 decore nyashka Visual Kei Emoboy 年上亚比长发男什么时候出现 https://t.co/Zb7lIHgZoM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 769,
+        "media_key": "3_1991206212483125248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6IvgBmbkAATumf.jpg",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991206212483125248"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401962477756162049",
+              "name": "Visual kei"
+            }
+          }
+        ],
+        "conversation_id": "1991206218975826332",
+        "created_at": "2025-11-19T18:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T19:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991206218975826332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zb7lIHgZoM",
+              "end": 104,
+              "expanded_url": "https://x.com/ww123qwq/status/1991206218975826332/photo/1",
+              "media_key": "3_1991206212483125248",
+              "start": 81,
+              "url": "https://t.co/Zb7lIHgZoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991206218975826332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的哥特 金属 雷鬼 文化 锐舞 y2k   朋克 9al 地雷系 decore nyashka Visual Kei Emoboy 年上亚比长发男什么时候出现 https://t.co/Zb7lIHgZoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "躯体化/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴党/地雷系/自伤/欢迎扩列加好友w唯一电报  非本，注意防骗\n🚪88/188/520/1314，女生免费，解锁色图置顶tg非本人推广自辨，出原味，接线下圆角，接露出，接任务，找金主，比较负能\n备用号@QwqQwe88396 坐标上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 251,
+          "like_count": 40660,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 11492
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

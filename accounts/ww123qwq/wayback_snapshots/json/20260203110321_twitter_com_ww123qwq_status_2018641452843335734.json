@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2018293006076629258",
+    "created_at": "2026-02-03T11:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T12:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018641452843335734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937173110136156160",
+          "start": 0,
+          "username": "0990ow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018641452843335734",
+    "in_reply_to_user_id": "1937173110136156160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018293006076629258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0990ow 没了（悲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018292999978110976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJqykRaUAASRpb.jpg",
+        "width": 1602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2018293006076629258",
+        "created_at": "2026-02-03T11:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018641452843335734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937173110136156160",
+              "start": 0,
+              "username": "0990ow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018641452843335734",
+        "in_reply_to_user_id": "1937173110136156160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018293006076629258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0990ow 没了（悲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018292999978110976"
+          ]
+        },
+        "author_id": "1937173110136156160",
+        "conversation_id": "2018293006076629258",
+        "created_at": "2026-02-02T11:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018293006076629258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PaYWnV7hll",
+              "end": 52,
+              "expanded_url": "https://x.com/0990ow/status/2018293006076629258/photo/1",
+              "media_key": "3_2018292999978110976",
+              "start": 29,
+              "url": "https://t.co/PaYWnV7hll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018293006076629258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 17796,
+          "like_count": 710,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "めじ飲も〜まだ一箱あったよなって確認したらこれで笑えない https://t.co/PaYWnV7hll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 260,
+          "like_count": 41198,
+          "listed_count": 5,
+          "media_count": 567,
+          "tweet_count": 12142
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T15:37:44.000Z",
+        "description": "0D・自傷 / 鍵垢▶︎@_0990ow_ / 避難垢▶︎ @_0990ow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 12,
+                "username": "_0990ow_"
+              },
+              {
+                "end": 38,
+                "start": 30,
+                "username": "_0990ow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/myz0e7s02fjycr…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/myz0e7s02fjycri?t=d0Qd5F&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/f7Tz4fIi82"
+              }
+            ]
+          }
+        },
+        "id": "1937173110136156160",
+        "location": "ケツデ力パキ病みピング一非公式アカウント",
+        "name": "・",
+        "pinned_tweet_id": "2015956822897913987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961826908972466176/gPIbuE-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 347,
+          "like_count": 81155,
+          "listed_count": 18,
+          "media_count": 326,
+          "tweet_count": 4963
+        },
+        "url": "https://t.co/f7Tz4fIi82",
+        "username": "0990ow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055976216767967232"
+      ],
+      "media_source_tweet_id": [
+        "2055976226611978344"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2056135290197365009",
+    "created_at": "2026-05-17T22:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T23:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056135290197365009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1414136224701321216",
+          "start": 3,
+          "username": "kogitune_od"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OxXF8foDUg",
+          "end": 51,
+          "expanded_url": "https://x.com/kogitune_od/status/2055976226611978344/photo/1",
+          "media_key": "3_2055976216767967232",
+          "start": 28,
+          "url": "https://t.co/OxXF8foDUg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056135290197365009",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055976226611978344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kogitune_od: 今グレフルさがしてる https://t.co/OxXF8foDUg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055976216767967232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhLeeMbMAAeiCT.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055976216767967232"
+          ],
+          "media_source_tweet_id": [
+            "2055976226611978344"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2056135290197365009",
+        "created_at": "2026-05-17T22:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T23:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056135290197365009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1414136224701321216",
+              "start": 3,
+              "username": "kogitune_od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxXF8foDUg",
+              "end": 51,
+              "expanded_url": "https://x.com/kogitune_od/status/2055976226611978344/photo/1",
+              "media_key": "3_2055976216767967232",
+              "start": 28,
+              "url": "https://t.co/OxXF8foDUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056135290197365009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055976226611978344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kogitune_od: 今グレフルさがしてる https://t.co/OxXF8foDUg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055976216767967232"
+          ]
+        },
+        "author_id": "1414136224701321216",
+        "conversation_id": "2055976226611978344",
+        "created_at": "2026-05-17T11:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055976226611978344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxXF8foDUg",
+              "end": 34,
+              "expanded_url": "https://x.com/kogitune_od/status/2055976226611978344/photo/1",
+              "media_key": "3_2055976216767967232",
+              "start": 11,
+              "url": "https://t.co/OxXF8foDUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055976226611978344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 771,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今グレフルさがしてる https://t.co/OxXF8foDUg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 278,
+          "like_count": 42789,
+          "listed_count": 4,
+          "media_count": 693,
+          "tweet_count": 12848
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T08:16:29.000Z",
+        "description": "OD･自傷垢\n/成人 / 躁鬱 / 不眠症 / 希死念慮/発達障害(ADHD､ASD) / 知的障害(手帳持ち)          \n                          ⚠️ここから先は自己責任です自傷にモザなしです⚠️\nペア画 @v4wccx /251兼彼女 @kai__panda",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 123,
+                "username": "v4wccx"
+              },
+              {
+                "end": 150,
+                "start": 139,
+                "username": "kai__panda"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3NWF5S6IA6LEO?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/UJyCXe0oX2"
+              }
+            ]
+          }
+        },
+        "id": "1414136224701321216",
+        "name": "子狐",
+        "pinned_tweet_id": "2056039913439830099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015836772450893824/17YEMawm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 48,
+          "like_count": 3885,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1228
+        },
+        "url": "https://t.co/UJyCXe0oX2",
+        "username": "kogitune_od",
+        "verified": false
+      }
+    ]
+  }
+}

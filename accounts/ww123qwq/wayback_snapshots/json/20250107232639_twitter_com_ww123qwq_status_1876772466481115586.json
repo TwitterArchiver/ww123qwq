@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1876529740787716345",
+    "created_at": "2025-01-07T23:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T00:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876772466481115586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876772466481115586",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876529740787716345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 中国上海类似于美国纽约"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1876529740787716345",
+        "created_at": "2025-01-07T23:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T00:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876772466481115586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876772466481115586",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876529740787716345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 中国上海类似于美国纽约"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876529737918709760"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1876529740787716345",
+        "created_at": "2025-01-07T07:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T08:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876529740787716345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WV6rHL0eTc",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1876529740787716345/photo/1",
+              "media_key": "3_1876529737918709760",
+              "start": 0,
+              "url": "https://t.co/WV6rHL0eTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876529740787716345",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 178269,
+          "like_count": 962,
+          "quote_count": 21,
+          "reply_count": 182,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WV6rHL0eTc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 124,
+          "like_count": 39633,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 10185
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1875403771435700438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28203,
+          "following_count": 896,
+          "like_count": 36335,
+          "listed_count": 78,
+          "media_count": 4722,
+          "tweet_count": 9447
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

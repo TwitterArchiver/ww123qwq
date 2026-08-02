@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2006553466328723937",
+    "created_at": "2026-01-01T15:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T16:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006754677304734041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1909839345034596352",
+          "start": 0,
+          "username": "8trju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006754677304734041",
+    "in_reply_to_user_id": "1909839345034596352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006553466328723937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8trju cos晴天娃娃🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1907,
+        "media_key": "3_2006434237650714624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9hJTwBaQAAq9kL.jpg",
+        "width": 858
+      },
+      {
+        "height": 1907,
+        "media_key": "3_2006434237642321922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9hJTv_aMAIgHfR.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2006553466328723937",
+        "created_at": "2026-01-01T15:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006754677304734041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1909839345034596352",
+              "start": 0,
+              "username": "8trju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006754677304734041",
+        "in_reply_to_user_id": "1909839345034596352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006553466328723937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8trju cos晴天娃娃🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006434237650714624",
+            "3_2006434237642321922"
+          ]
+        },
+        "author_id": "1909839345034596352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2006553466328723937",
+        "created_at": "2026-01-01T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006553466328723937"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 105,
+              "normalized_text": "カウボーイ",
+              "probability": 0.825,
+              "start": 101,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtgA8xrJJH",
+              "end": 175,
+              "expanded_url": "https://x.com/8trju/status/2006553466328723937/photo/1",
+              "media_key": "3_2006434237650714624",
+              "start": 152,
+              "url": "https://t.co/ZtgA8xrJJH"
+            },
+            {
+              "display_url": "pic.x.com/ZtgA8xrJJH",
+              "end": 175,
+              "expanded_url": "https://x.com/8trju/status/2006553466328723937/photo/1",
+              "media_key": "3_2006434237642321922",
+              "start": 152,
+              "url": "https://t.co/ZtgA8xrJJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006553466328723937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1300,
+          "impression_count": 1569700,
+          "like_count": 19063,
+          "quote_count": 179,
+          "reply_count": 46,
+          "retweet_count": 1562
+        },
+        "reply_settings": "everyone",
+        "text": "縄、手に入れた。\n準備できたよ。\nみんなさよなら。\nパパ、ママ、今まで育ててくれてありがとう\n\n僕…………………………………………………………………………………………………………………………………………カウボーイになります‼️‼️‼️ﾊﾟｶﾗｯﾊﾟｶﾗｯwwwwwww🏇ヒヒーン‼️‼️‼️wwwwww https://t.co/ZtgA8xrJJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 265,
+          "like_count": 40927,
+          "listed_count": 5,
+          "media_count": 514,
+          "tweet_count": 11943
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T05:23:07.000Z",
+        "description": "話題のツイートをDMで募集中",
+        "id": "1909839345034596352",
+        "name": "面白いツイート集",
+        "pinned_tweet_id": "1946848461565075513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000291177862664192/abjZWMC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15788,
+          "following_count": 14,
+          "like_count": 1579,
+          "listed_count": 18,
+          "media_count": 149,
+          "tweet_count": 195
+        },
+        "username": "8trju",
+        "verified": false
+      }
+    ]
+  }
+}

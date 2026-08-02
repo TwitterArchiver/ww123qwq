@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2037325400725221688",
+    "created_at": "2026-03-27T00:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T01:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037325400725221688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1946240021696040961",
+          "start": 3,
+          "username": "Noverdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037325400725221688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035741819619942820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Noverdose_DBD: ⚠️⚠️⚠️适用于与化工，不可食用，不可用于任何人体⚠️⚠️⚠️\n\n14丁二醇，1.5ml 10u\n亚硝酸脂，25ml  60u\n5me mitp，2ml   15u\n苄达明，500mg 17u\n\n只支持usdt支付以及支付宝口令红包，请私…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2037325400725221688",
+        "created_at": "2026-03-27T00:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037325400725221688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1946240021696040961",
+              "start": 3,
+              "username": "Noverdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037325400725221688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035741819619942820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Noverdose_DBD: ⚠️⚠️⚠️适用于与化工，不可食用，不可用于任何人体⚠️⚠️⚠️\n\n14丁二醇，1.5ml 10u\n亚硝酸脂，25ml  60u\n5me mitp，2ml   15u\n苄达明，500mg 17u\n\n只支持usdt支付以及支付宝口令红包，请私…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946240021696040961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2035741819619942820",
+        "created_at": "2026-03-22T15:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035741819619942820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035741819619942820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2245,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️⚠️⚠️适用于与化工，不可食用，不可用于任何人体⚠️⚠️⚠️\n\n14丁二醇，1.5ml 10u\n亚硝酸脂，25ml  60u\n5me mitp，2ml   15u\n苄达明，500mg 17u\n\n只支持usdt支付以及支付宝口令红包，请私信tg客服，以及邮费等方面提供服务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图/药物咨询/支持usdt。/上海/日本/匿名提问https://t.co/yODqqgeu12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/yinai",
+                "end": 128,
+                "expanded_url": "https://miyu.link/yinai",
+                "start": 105,
+                "url": "https://t.co/yODqqgeu12"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 264,
+          "like_count": 42041,
+          "listed_count": 4,
+          "media_count": 661,
+          "tweet_count": 12537
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "💊🍥\n策划药\n薄荷糖，彩虹糖，飘飘糖，模拟ald-52\n物质：rush，类GHB,DBT,MiPT,苄达明\nhrt药物：泰补，土色，日雌\ntg客服https://t.co/N6cqoO848L\n客服服务时间8.00-11.00 14.00-00.00",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/liuxing2778",
+                "end": 96,
+                "expanded_url": "http://t.me/liuxing2778",
+                "start": 73,
+                "url": "https://t.co/N6cqoO848L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liuxing2778",
+                "end": 23,
+                "expanded_url": "http://t.me/liuxing2778",
+                "start": 0,
+                "url": "https://t.co/N6cqoO848L"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "终之空",
+        "name": "超级后后后藤🚪40",
+        "pinned_tweet_id": "2035741819619942820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984269351256473600/z_4Rg7td_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 235,
+          "like_count": 881,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/N6cqoO848L",
+        "username": "Noverdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

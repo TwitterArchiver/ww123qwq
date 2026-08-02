@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003049811575189504"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2003049814389653802",
+    "created_at": "2025-12-22T10:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003049814389653802"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "mtf"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "小药娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1817584080437014528",
+          "start": 15,
+          "username": "N552AA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tNNxyIF2Sw",
+          "end": 57,
+          "expanded_url": "https://x.com/ww123qwq/status/2003049814389653802/photo/1",
+          "media_key": "3_2003049811575189504",
+          "start": 34,
+          "url": "https://t.co/tNNxyIF2Sw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003049814389653802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "速报: N552AA账号被封 @N552AA \n#mtf #小药娘 https://t.co/tNNxyIF2Sw"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [N552AA].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "N552AA",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "N552AA"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2003049811575189504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xDMOZaMAAQVdA.jpg",
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003049811575189504"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2003049814389653802",
+        "created_at": "2025-12-22T10:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003049814389653802"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "mtf"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "小药娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1817584080437014528",
+              "start": 15,
+              "username": "N552AA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNNxyIF2Sw",
+              "end": 57,
+              "expanded_url": "https://x.com/ww123qwq/status/2003049814389653802/photo/1",
+              "media_key": "3_2003049811575189504",
+              "start": 34,
+              "url": "https://t.co/tNNxyIF2Sw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003049814389653802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "速报: N552AA账号被封 @N552AA \n#mtf #小药娘 https://t.co/tNNxyIF2Sw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利/，也支持usdt。/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 263,
+          "like_count": 40916,
+          "listed_count": 5,
+          "media_count": 484,
+          "tweet_count": 11888
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

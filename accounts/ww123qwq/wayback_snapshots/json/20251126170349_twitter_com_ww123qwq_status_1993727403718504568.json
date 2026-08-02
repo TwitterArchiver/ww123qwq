@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1993727209232822272"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1993727403718504568",
+    "created_at": "2025-11-26T17:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T18:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993727403718504568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WIZSz2cjyK",
+          "end": 25,
+          "expanded_url": "https://x.com/ww123qwq/status/1993727403718504568/video/1",
+          "media_key": "7_1993727209232822272",
+          "start": 2,
+          "url": "https://t.co/WIZSz2cjyK"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "c00e5392b3fa46fb"
+    },
+    "id": "1993727403718504568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵 https://t.co/WIZSz2cjyK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12380,
+        "height": 720,
+        "media_key": "7_1993727209232822272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1993727209232822272/pu/img/1O2BYMTpIsHJBPZz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993727209232822272/pu/vid/avc1/480x270/ahFOLqBFxf-M6izs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993727209232822272/pu/vid/avc1/640x360/ZiRQXjV_Qd5hXxTz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1993727209232822272/pu/vid/avc1/1280x720/aLdT2i8l4Oe4hVL_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1993727209232822272/pu/pl/LO38sSDtVEA5Sd8O.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "places": [
+      {
+        "country": "Republic of Korea",
+        "country_code": "KR",
+        "full_name": "Republic of Korea",
+        "geo": {
+          "bbox": [
+            124.609017344135,
+            33.1130838713252,
+            130.940414999865,
+            38.6163989997748
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c00e5392b3fa46fb",
+        "name": "Republic of Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1993727209232822272"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1993727403718504568",
+        "created_at": "2025-11-26T17:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993727403718504568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIZSz2cjyK",
+              "end": 25,
+              "expanded_url": "https://x.com/ww123qwq/status/1993727403718504568/video/1",
+              "media_key": "7_1993727209232822272",
+              "start": 2,
+              "url": "https://t.co/WIZSz2cjyK"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1993727403718504568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵 https://t.co/WIZSz2cjyK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 262,
+          "like_count": 40722,
+          "listed_count": 3,
+          "media_count": 402,
+          "tweet_count": 11621
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069331563997790208",
+        "3_2069331965287727104"
+      ],
+      "media_source_tweet_id": [
+        "2069332148545298873",
+        "2069332148545298873"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071161563654902097",
+    "created_at": "2026-06-28T09:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071161563654902097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862765396111368192",
+          "start": 3,
+          "username": "LithusEric"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tNTWNA5iZq",
+          "end": 63,
+          "expanded_url": "https://x.com/LithusEric/status/2069332148545298873/photo/1",
+          "media_key": "3_2069331563997790208",
+          "start": 40,
+          "url": "https://t.co/tNTWNA5iZq"
+        },
+        {
+          "display_url": "pic.x.com/tNTWNA5iZq",
+          "end": 63,
+          "expanded_url": "https://x.com/LithusEric/status/2069332148545298873/photo/1",
+          "media_key": "3_2069331965287727104",
+          "start": 40,
+          "url": "https://t.co/tNTWNA5iZq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071161563654902097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069332148545298873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LithusEric: 每月任务：徐汇上精卫😇\n偶遇一只可爱的水色系喵 https://t.co/tNTWNA5iZq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1809,
+        "media_key": "3_2069331563997790208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe-F_qXgAAb6_7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069331965287727104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe-dWlWAAApMQj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069331563997790208",
+            "3_2069331965287727104"
+          ],
+          "media_source_tweet_id": [
+            "2069332148545298873",
+            "2069332148545298873"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071161563654902097",
+        "created_at": "2026-06-28T09:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071161563654902097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862765396111368192",
+              "start": 3,
+              "username": "LithusEric"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNTWNA5iZq",
+              "end": 63,
+              "expanded_url": "https://x.com/LithusEric/status/2069332148545298873/photo/1",
+              "media_key": "3_2069331563997790208",
+              "start": 40,
+              "url": "https://t.co/tNTWNA5iZq"
+            },
+            {
+              "display_url": "pic.x.com/tNTWNA5iZq",
+              "end": 63,
+              "expanded_url": "https://x.com/LithusEric/status/2069332148545298873/photo/1",
+              "media_key": "3_2069331965287727104",
+              "start": 40,
+              "url": "https://t.co/tNTWNA5iZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071161563654902097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069332148545298873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LithusEric: 每月任务：徐汇上精卫😇\n偶遇一只可爱的水色系喵 https://t.co/tNTWNA5iZq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069331563997790208",
+            "3_2069331965287727104"
+          ]
+        },
+        "author_id": "1862765396111368192",
+        "conversation_id": "2069332148545298873",
+        "created_at": "2026-06-23T08:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069332148545298873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNTWNA5iZq",
+              "end": 47,
+              "expanded_url": "https://x.com/LithusEric/status/2069332148545298873/photo/1",
+              "media_key": "3_2069331563997790208",
+              "start": 24,
+              "url": "https://t.co/tNTWNA5iZq"
+            },
+            {
+              "display_url": "pic.x.com/tNTWNA5iZq",
+              "end": 47,
+              "expanded_url": "https://x.com/LithusEric/status/2069332148545298873/photo/1",
+              "media_key": "3_2069331965287727104",
+              "start": 24,
+              "url": "https://t.co/tNTWNA5iZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069332148545298873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 105473,
+          "like_count": 490,
+          "quote_count": 5,
+          "reply_count": 60,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "每月任务：徐汇上精卫😇\n偶遇一只可爱的水色系喵 https://t.co/tNTWNA5iZq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 281,
+          "like_count": 43152,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 13086
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T07:47:47.000Z",
+        "description": "MTF | HRT since 2023 | GnRHa since 2026 | MDD | Chemistry Olympiad | High School Dropout | English/Chinese/Japanese",
+        "id": "1862765396111368192",
+        "location": "Shanghai",
+        "name": "Ericka Lithi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012882001116729344/N20yvaJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 69,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "LithusEric",
+        "verified": false
+      }
+    ]
+  }
+}

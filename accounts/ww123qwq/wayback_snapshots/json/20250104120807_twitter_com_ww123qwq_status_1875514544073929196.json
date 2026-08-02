@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1875514544073929196",
+    "created_at": "2025-01-04T12:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T13:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875514544073929196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "961832160377282560",
+          "start": 3,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875514544073929196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875142597246943527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iMoeAya: 芙宁娜处刑现场，芙宁娜被狠狠的驷马捆绑，吊起来等待着被天理维系着送上处刑架\n“看到旁边挂着的水神芙卡洛斯的帽子了吗？ 下一个就是你！竟然敢欺骗天理，罪人终将迎来审判！”\n“呜呜…不要，求求你…饶过我…谁来救救我QwQ”\n“你冒充水神，罪无可赦！”\n🪢@…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1875514544073929196].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1875514544073929196",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1875514544073929196"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875142588883496960"
+          ]
+        },
+        "author_id": "961832160377282560",
+        "conversation_id": "1875142597246943527",
+        "created_at": "2025-01-03T11:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T12:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875142597246943527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 134,
+              "id": "1560229773741215744",
+              "start": 125,
+              "username": "nngyfng1"
+            },
+            {
+              "end": 151,
+              "id": "1638094725935951873",
+              "start": 136,
+              "username": "xixidebaoxiang"
+            },
+            {
+              "end": 162,
+              "id": "1073552945906626565",
+              "start": 154,
+              "username": "acted16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hh9lbkBOf9",
+              "end": 186,
+              "expanded_url": "https://x.com/iMoeAya/status/1875142597246943527/photo/1",
+              "media_key": "3_1875142588883496960",
+              "start": 163,
+              "url": "https://t.co/hh9lbkBOf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875142597246943527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4083,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "芙宁娜处刑现场，芙宁娜被狠狠的驷马捆绑，吊起来等待着被天理维系着送上处刑架\n“看到旁边挂着的水神芙卡洛斯的帽子了吗？ 下一个就是你！竟然敢欺骗天理，罪人终将迎来审判！”\n“呜呜…不要，求求你…饶过我…谁来救救我QwQ”\n“你冒充水神，罪无可赦！”\n🪢@nngyfng1 🏠@xixidebaoxiang 📷 @acted16 https://t.co/hh9lbkBOf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 122,
+          "like_count": 39578,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 10104
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cmMax 想要变得可爱拍出可爱撩人的照片～\n无任何小号,所有小号(自称)都是恶意冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKV7PS"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1375479350548557828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504361534692413440/uxllOfC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25027,
+          "following_count": 3372,
+          "like_count": 144265,
+          "listed_count": 127,
+          "media_count": 977,
+          "tweet_count": 32204
+        },
+        "url": "https://t.co/3v3qwKV7PS",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

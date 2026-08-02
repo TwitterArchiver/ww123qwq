@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071049864755195904"
+      ],
+      "media_source_tweet_id": [
+        "2071049874347549098"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071203248644501591",
+    "created_at": "2026-06-28T12:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071203248644501591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/krq92qtzLt",
+          "end": 62,
+          "expanded_url": "https://x.com/smiroyama/status/2071049874347549098/photo/1",
+          "media_key": "3_2071049864755195904",
+          "start": 39,
+          "url": "https://t.co/krq92qtzLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071203248644501591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071049874347549098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 娜娜警官：ھەيران! 我的禁毒工作白做了！ https://t.co/krq92qtzLt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1675,
+        "media_key": "3_2071049864755195904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3Y4QzasAABjX0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071049864755195904"
+          ],
+          "media_source_tweet_id": [
+            "2071049874347549098"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071203248644501591",
+        "created_at": "2026-06-28T12:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071203248644501591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/krq92qtzLt",
+              "end": 62,
+              "expanded_url": "https://x.com/smiroyama/status/2071049874347549098/photo/1",
+              "media_key": "3_2071049864755195904",
+              "start": 39,
+              "url": "https://t.co/krq92qtzLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071203248644501591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071049874347549098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 娜娜警官：ھەيران! 我的禁毒工作白做了！ https://t.co/krq92qtzLt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071049864755195904"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071049874347549098",
+        "created_at": "2026-06-28T01:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071049874347549098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/krq92qtzLt",
+              "end": 47,
+              "expanded_url": "https://x.com/smiroyama/status/2071049874347549098/photo/1",
+              "media_key": "3_2071049864755195904",
+              "start": 24,
+              "url": "https://t.co/krq92qtzLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071049874347549098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 13788,
+          "like_count": 217,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "娜娜警官：ھەيران! 我的禁毒工作白做了！ https://t.co/krq92qtzLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 284,
+          "like_count": 43175,
+          "listed_count": 4,
+          "media_count": 711,
+          "tweet_count": 13098
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | friends: @Huang_Yut1ng @fukui_p26 好伙伴: @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064928216654217216/gHEvZe0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6856,
+          "following_count": 2472,
+          "like_count": 13315,
+          "listed_count": 21,
+          "media_count": 2221,
+          "tweet_count": 8125
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

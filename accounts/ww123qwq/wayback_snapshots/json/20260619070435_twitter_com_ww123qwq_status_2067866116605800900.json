@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067558210253565952"
+      ],
+      "media_source_tweet_id": [
+        "2067558252506923432"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067866116605800900",
+    "created_at": "2026-06-19T07:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067866116605800900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2766725377",
+          "start": 3,
+          "username": "748cm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ReRreQMFgr",
+          "end": 34,
+          "expanded_url": "https://x.com/748cm/status/2067558252506923432/photo/1",
+          "media_key": "3_2067558210253565952",
+          "start": 11,
+          "url": "https://t.co/ReRreQMFgr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067866116605800900",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067558252506923432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @748cm: https://t.co/ReRreQMFgr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2067558210253565952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFxPOKbMAA-YcR.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067558210253565952"
+          ],
+          "media_source_tweet_id": [
+            "2067558252506923432"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067866116605800900",
+        "created_at": "2026-06-19T07:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067866116605800900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2766725377",
+              "start": 3,
+              "username": "748cm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReRreQMFgr",
+              "end": 34,
+              "expanded_url": "https://x.com/748cm/status/2067558252506923432/photo/1",
+              "media_key": "3_2067558210253565952",
+              "start": 11,
+              "url": "https://t.co/ReRreQMFgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067866116605800900",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067558252506923432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @748cm: https://t.co/ReRreQMFgr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067558210253565952"
+          ]
+        },
+        "author_id": "2766725377",
+        "conversation_id": "2067558252506923432",
+        "created_at": "2026-06-18T10:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067558252506923432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ReRreQMFgr",
+              "end": 23,
+              "expanded_url": "https://x.com/748cm/status/2067558252506923432/photo/1",
+              "media_key": "3_2067558210253565952",
+              "start": 0,
+              "url": "https://t.co/ReRreQMFgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067558252506923432",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 11051,
+          "like_count": 1274,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ReRreQMFgr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 272,
+          "like_count": 42844,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12969
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-25T15:18:15.000Z",
+        "description": "hate me🧸🔪 / DM Open https://t.co/IutnivpC2k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Malice?fbclid=…",
+                "end": 43,
+                "expanded_url": "https://lit.link/Malice?fbclid=PAZXh0bgNhZW0CMT",
+                "start": 20,
+                "url": "https://t.co/IutnivpC2k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/MBOWQFP5QE0F?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/iAcwP4m5Yp"
+              }
+            ]
+          }
+        },
+        "id": "2766725377",
+        "location": "Created by \"AI\" 100%",
+        "name": "惡意",
+        "pinned_tweet_id": "2020760964371718331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925714997813932033/Uf7ZceDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125553,
+          "following_count": 208,
+          "like_count": 15398,
+          "listed_count": 630,
+          "media_count": 4138,
+          "tweet_count": 12894
+        },
+        "url": "https://t.co/iAcwP4m5Yp",
+        "username": "748cm",
+        "verified": true
+      }
+    ]
+  }
+}

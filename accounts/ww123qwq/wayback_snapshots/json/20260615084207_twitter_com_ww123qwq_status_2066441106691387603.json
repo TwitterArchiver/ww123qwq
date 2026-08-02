@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065718051249766400"
+      ],
+      "media_source_tweet_id": [
+        "2065718132019478831"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2066441106691387603",
+    "created_at": "2026-06-15T08:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066441106691387603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4287413238",
+          "start": 3,
+          "username": "riinougat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rUvWicWYdU",
+          "end": 48,
+          "expanded_url": "https://x.com/riinougat/status/2065718132019478831/photo/1",
+          "media_key": "3_2065718051249766400",
+          "start": 25,
+          "url": "https://t.co/rUvWicWYdU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066441106691387603",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 583
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065718132019478831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riinougat: まのさば\nアンアン https://t.co/rUvWicWYdU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_2065718051249766400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrnn3rawAA_re2.jpg",
+        "width": 1875
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065718051249766400"
+          ],
+          "media_source_tweet_id": [
+            "2065718132019478831"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2066441106691387603",
+        "created_at": "2026-06-15T08:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066441106691387603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4287413238",
+              "start": 3,
+              "username": "riinougat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUvWicWYdU",
+              "end": 48,
+              "expanded_url": "https://x.com/riinougat/status/2065718132019478831/photo/1",
+              "media_key": "3_2065718051249766400",
+              "start": 25,
+              "url": "https://t.co/rUvWicWYdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066441106691387603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 583
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065718132019478831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riinougat: まのさば\nアンアン https://t.co/rUvWicWYdU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065718051249766400"
+          ]
+        },
+        "author_id": "4287413238",
+        "conversation_id": "2065718132019478831",
+        "created_at": "2026-06-13T08:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065718132019478831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUvWicWYdU",
+              "end": 33,
+              "expanded_url": "https://x.com/riinougat/status/2065718132019478831/photo/1",
+              "media_key": "3_2065718051249766400",
+              "start": 10,
+              "url": "https://t.co/rUvWicWYdU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065718132019478831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 371,
+          "impression_count": 38695,
+          "like_count": 4222,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 583
+        },
+        "reply_settings": "everyone",
+        "text": "まのさば\nアンアン https://t.co/rUvWicWYdU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 265,
+          "like_count": 42695,
+          "listed_count": 4,
+          "media_count": 699,
+          "tweet_count": 12876
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-19T07:33:44.000Z",
+        "description": "Illustrator |   ケモ耳      好き",
+        "id": "4287413238",
+        "location": "AI学習禁止",
+        "name": "riinougat",
+        "pinned_tweet_id": "2064647437168599268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061350414273142784/5qcuLH8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 549,
+          "like_count": 1291,
+          "listed_count": 45,
+          "media_count": 33,
+          "tweet_count": 715
+        },
+        "username": "riinougat",
+        "verified": false
+      }
+    ]
+  }
+}

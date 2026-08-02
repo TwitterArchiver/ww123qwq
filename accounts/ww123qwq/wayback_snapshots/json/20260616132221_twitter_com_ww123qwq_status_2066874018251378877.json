@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066749891045699584"
+      ],
+      "media_source_tweet_id": [
+        "2066749897144160399"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2066874018251378877",
+    "created_at": "2026-06-16T13:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066874018251378877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1081248663827968000",
+          "start": 3,
+          "username": "sosakuneta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rVTekOf4RC",
+          "end": 39,
+          "expanded_url": "https://x.com/sosakuneta/status/2066749897144160399/photo/1",
+          "media_key": "3_2066749891045699584",
+          "start": 16,
+          "url": "https://t.co/rVTekOf4RC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066874018251378877",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 317
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066749897144160399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sosakuneta: https://t.co/rVTekOf4RC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066749891045699584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6SE2dbMAAeecM.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066749891045699584"
+          ],
+          "media_source_tweet_id": [
+            "2066749897144160399"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2066874018251378877",
+        "created_at": "2026-06-16T13:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066874018251378877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1081248663827968000",
+              "start": 3,
+              "username": "sosakuneta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVTekOf4RC",
+              "end": 39,
+              "expanded_url": "https://x.com/sosakuneta/status/2066749897144160399/photo/1",
+              "media_key": "3_2066749891045699584",
+              "start": 16,
+              "url": "https://t.co/rVTekOf4RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066874018251378877",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 317
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066749897144160399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sosakuneta: https://t.co/rVTekOf4RC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066749891045699584"
+          ]
+        },
+        "author_id": "1081248663827968000",
+        "conversation_id": "2066749897144160399",
+        "created_at": "2026-06-16T05:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066749897144160399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVTekOf4RC",
+              "end": 23,
+              "expanded_url": "https://x.com/sosakuneta/status/2066749897144160399/photo/1",
+              "media_key": "3_2066749891045699584",
+              "start": 0,
+              "url": "https://t.co/rVTekOf4RC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066749897144160399",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 21147,
+          "like_count": 2771,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 317
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rVTekOf4RC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 266,
+          "like_count": 42731,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 12901
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-04T17:59:04.000Z",
+        "description": "赫井苹果（あかいりんご）の雑多垢。@rinngososaku←本垢(絵だけ見たい人向け) 一次創作と雑多 成人済 一次創作壁打ち@oor_cs FA→ #赫井果樹園 skeb→https://t.co/zQgBOlOJ10",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 76,
+                "tag": "赫井果樹園"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "rinngososaku"
+              },
+              {
+                "end": 71,
+                "start": 64,
+                "username": "oor_cs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sosakuneta",
+                "end": 111,
+                "expanded_url": "https://skeb.jp/@sosakuneta",
+                "start": 88,
+                "url": "https://t.co/zQgBOlOJ10"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akairinngo.booth.pm",
+                "end": 23,
+                "expanded_url": "https://akairinngo.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/bOeW8CTyQS"
+              }
+            ]
+          }
+        },
+        "id": "1081248663827968000",
+        "name": "組織液💢",
+        "pinned_tweet_id": "2051498745049825640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914719294921056256/4dyYs9Ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111003,
+          "following_count": 568,
+          "like_count": 81695,
+          "listed_count": 453,
+          "media_count": 4065,
+          "tweet_count": 62939
+        },
+        "url": "https://t.co/bOeW8CTyQS",
+        "username": "sosakuneta",
+        "verified": true
+      }
+    ]
+  }
+}

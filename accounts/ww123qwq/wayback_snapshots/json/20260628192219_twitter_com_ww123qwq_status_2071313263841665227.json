@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071084335999168512"
+      ],
+      "media_source_tweet_id": [
+        "2071084346770133239"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071313263841665227",
+    "created_at": "2026-06-28T19:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071313263841665227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922389433510461442",
+          "start": 3,
+          "username": "RieXwX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/44QzWuBTqm",
+          "end": 42,
+          "expanded_url": "https://x.com/RieXwX/status/2071084346770133239/photo/1",
+          "media_key": "3_2071084335999168512",
+          "start": 19,
+          "url": "https://t.co/44QzWuBTqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071313263841665227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071084346770133239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RieXwX: 最正宗的时期 https://t.co/44QzWuBTqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1490,
+        "media_key": "3_2071084335999168512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL34OwMbMAA-iuN.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071084335999168512"
+          ],
+          "media_source_tweet_id": [
+            "2071084346770133239"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071313263841665227",
+        "created_at": "2026-06-28T19:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071313263841665227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922389433510461442",
+              "start": 3,
+              "username": "RieXwX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/44QzWuBTqm",
+              "end": 42,
+              "expanded_url": "https://x.com/RieXwX/status/2071084346770133239/photo/1",
+              "media_key": "3_2071084335999168512",
+              "start": 19,
+              "url": "https://t.co/44QzWuBTqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071313263841665227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071084346770133239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RieXwX: 最正宗的时期 https://t.co/44QzWuBTqm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071084335999168512"
+          ]
+        },
+        "author_id": "1922389433510461442",
+        "conversation_id": "2071084346770133239",
+        "created_at": "2026-06-28T04:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071084346770133239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44QzWuBTqm",
+              "end": 30,
+              "expanded_url": "https://x.com/RieXwX/status/2071084346770133239/photo/1",
+              "media_key": "3_2071084335999168512",
+              "start": 7,
+              "url": "https://t.co/44QzWuBTqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071084346770133239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 15344,
+          "like_count": 2371,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "最正宗的时期 https://t.co/44QzWuBTqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 284,
+          "like_count": 43221,
+          "listed_count": 4,
+          "media_count": 711,
+          "tweet_count": 13108
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T20:32:33.000Z",
+        "description": "愛してるならもっと強く殴って",
+        "id": "1922389433510461442",
+        "name": "リエ様",
+        "pinned_tweet_id": "1934267577569853845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978013469522960384/Ykrg_bKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9746,
+          "following_count": 52,
+          "like_count": 348,
+          "listed_count": 12,
+          "media_count": 350,
+          "tweet_count": 1251
+        },
+        "url": "",
+        "username": "RieXwX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990811360800763904"
+      ],
+      "media_source_tweet_id": [
+        "1990811392731988081"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1991208221298815245",
+    "created_at": "2025-11-19T18:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T19:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991208221298815245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6JW3mjQteh",
+          "end": 67,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1990811392731988081/photo/1",
+          "media_key": "3_1990811360800763904",
+          "start": 44,
+          "url": "https://t.co/6JW3mjQteh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991208221298815245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990811392731988081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 谁还记得以前qq刚刚打开的这个界面\n路过请上香 https://t.co/6JW3mjQteh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1990811360800763904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6DIYodXcAAxuX5.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990811360800763904"
+          ],
+          "media_source_tweet_id": [
+            "1990811392731988081"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1991208221298815245",
+        "created_at": "2025-11-19T18:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T19:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991208221298815245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6JW3mjQteh",
+              "end": 67,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1990811392731988081/photo/1",
+              "media_key": "3_1990811360800763904",
+              "start": 44,
+              "url": "https://t.co/6JW3mjQteh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991208221298815245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990811392731988081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 谁还记得以前qq刚刚打开的这个界面\n路过请上香 https://t.co/6JW3mjQteh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990811360800763904"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1990811392731988081",
+        "created_at": "2025-11-18T15:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990811392731988081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6JW3mjQteh",
+              "end": 47,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1990811392731988081/photo/1",
+              "media_key": "3_1990811360800763904",
+              "start": 24,
+              "url": "https://t.co/6JW3mjQteh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990811392731988081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 749866,
+          "like_count": 6364,
+          "quote_count": 25,
+          "reply_count": 217,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "谁还记得以前qq刚刚打开的这个界面\n路过请上香 https://t.co/6JW3mjQteh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "躯体化/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴党/地雷系/自伤/欢迎扩列加好友w唯一电报  非本，注意防骗\n🚪88/188/520/1314，女生免费，解锁色图置顶tg非本人推广自辨，出原味，接线下圆角，接露出，接任务，找金主，比较负能\n备用号@QwqQwe88396 坐标上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 251,
+          "like_count": 40663,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 11495
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9167,
+          "following_count": 7690,
+          "like_count": 27161,
+          "listed_count": 18,
+          "media_count": 6364,
+          "tweet_count": 40970
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

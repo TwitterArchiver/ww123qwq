@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1794327188478804124",
+    "created_at": "2024-05-25T11:18:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T12:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794327188478804124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1732001776944185344",
+          "start": 3,
+          "username": "interdosegir1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794327188478804124",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793928446428803572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @interdosegir1: 搞一点抽奖，我也是没活了，转关评，6.1开\n一等奖，右美沙芬六盒不折现\n二等奖，右美沙芬四盒不折现\n三等奖，拼手气红包随机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1794327188478804124",
+        "created_at": "2024-05-25T11:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T12:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794327188478804124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1732001776944185344",
+              "start": 3,
+              "username": "interdosegir1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794327188478804124",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793928446428803572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @interdosegir1: 搞一点抽奖，我也是没活了，转关评，6.1开\n一等奖，右美沙芬六盒不折现\n二等奖，右美沙芬四盒不折现\n三等奖，拼手气红包随机"
+      },
+      {
+        "attachments": {},
+        "author_id": "1732001776944185344",
+        "conversation_id": "1793928446428803572",
+        "created_at": "2024-05-24T08:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T09:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793928446428803572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793928446428803572",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18971,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 83,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "搞一点抽奖，我也是没活了，转关评，6.1开\n一等奖，右美沙芬六盒不折现\n二等奖，右美沙芬四盒不折现\n三等奖，拼手气红包随机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775825619340689408/yGyXtAtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 101,
+          "like_count": 40927,
+          "listed_count": 0,
+          "tweet_count": 10267
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T11:39:48.000Z",
+        "description": "而我要做后现代的爱神。门槛188，520，1314",
+        "id": "1732001776944185344",
+        "name": "人青",
+        "pinned_tweet_id": "1776763983036551386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766119503329648640/UhDQH6kC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 59,
+          "like_count": 28,
+          "listed_count": 15,
+          "tweet_count": 275
+        },
+        "username": "interdosegir1",
+        "verified": false
+      }
+    ]
+  }
+}

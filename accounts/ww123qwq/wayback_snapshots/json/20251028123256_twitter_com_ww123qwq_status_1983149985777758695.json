@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982786671805366272"
+      ],
+      "media_source_tweet_id": [
+        "1982786877150171337"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983149985777758695",
+    "created_at": "2025-10-28T12:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T13:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983149985777758695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975050357547167744",
+          "start": 3,
+          "username": "sasaki01116"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NtQaLi3QkJ",
+          "end": 40,
+          "expanded_url": "https://x.com/sasaki01116/status/1982786877150171337/photo/1",
+          "media_key": "3_1982786671805366272",
+          "start": 17,
+          "url": "https://t.co/NtQaLi3QkJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983149985777758695",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982786877150171337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasaki01116: https://t.co/NtQaLi3QkJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_1982786671805366272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RF-QZWgAA9bAK.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982786671805366272"
+          ],
+          "media_source_tweet_id": [
+            "1982786877150171337"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983149985777758695",
+        "created_at": "2025-10-28T12:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T13:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983149985777758695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975050357547167744",
+              "start": 3,
+              "username": "sasaki01116"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NtQaLi3QkJ",
+              "end": 40,
+              "expanded_url": "https://x.com/sasaki01116/status/1982786877150171337/photo/1",
+              "media_key": "3_1982786671805366272",
+              "start": 17,
+              "url": "https://t.co/NtQaLi3QkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983149985777758695",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982786877150171337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasaki01116: https://t.co/NtQaLi3QkJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982786671805366272"
+          ]
+        },
+        "author_id": "1975050357547167744",
+        "conversation_id": "1982786877150171337",
+        "created_at": "2025-10-27T12:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982786877150171337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NtQaLi3QkJ",
+              "end": 23,
+              "expanded_url": "https://x.com/sasaki01116/status/1982786877150171337/photo/1",
+              "media_key": "3_1982786671805366272",
+              "start": 0,
+              "url": "https://t.co/NtQaLi3QkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982786877150171337",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 28515,
+          "like_count": 1651,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NtQaLi3QkJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 210,
+          "like_count": 40149,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 10793
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T04:08:16.000Z",
+        "description": "本垢になりました サブ▶︎【@sasakinonise】 鍵垢(厳選)▶︎【@Gekioko0101】ファンアートタグ▶︎ #ささきのアート ささきって読む アイコン▶︎ @luce_052 ヘッダー▶︎ @gxoq_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 62,
+                "tag": "ささきのアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "sasakinonise"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "Gekioko0101"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "luce_052"
+              },
+              {
+                "end": 109,
+                "start": 103,
+                "username": "gxoq_"
+              }
+            ]
+          }
+        },
+        "id": "1975050357547167744",
+        "name": "🈂️🈂️🌳のさき",
+        "pinned_tweet_id": "1982781848536174931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982773082554060800/SR_F-7jX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 168,
+          "like_count": 216,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 98
+        },
+        "username": "sasaki01116",
+        "verified": false
+      }
+    ]
+  }
+}

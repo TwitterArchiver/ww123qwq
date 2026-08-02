@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2018347253056905440",
+    "created_at": "2026-02-03T16:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T17:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018731085673476318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1622592119700623361",
+          "start": 0,
+          "username": "Kusutobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018731085673476318",
+    "in_reply_to_user_id": "1622592119700623361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018347253056905440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusutobi 我也要抽一口🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12633,
+        "height": 1280,
+        "media_key": "13_2018347173369323520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018347173369323520/img/kwItxsV0p25Fr0WC.jpg",
+        "public_metrics": {
+          "view_count": 17977
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018347173369323520/vid/avc1/320x568/13l6YkQwHvhsDSHk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018347173369323520/vid/avc1/480x852/2HKSxW_MMSx_FFI4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018347173369323520/vid/avc1/720x1280/OADgjh3sSo8D-mjV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018347173369323520/pl/_ITVrHz7U6B6E_2F.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2018347253056905440",
+        "created_at": "2026-02-03T16:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T17:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018731085673476318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1622592119700623361",
+              "start": 0,
+              "username": "Kusutobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018731085673476318",
+        "in_reply_to_user_id": "1622592119700623361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018347253056905440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi 我也要抽一口🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018347173369323520"
+          ]
+        },
+        "author_id": "1622592119700623361",
+        "conversation_id": "2018347253056905440",
+        "created_at": "2026-02-02T15:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018347253056905440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLSFrovlhu",
+              "end": 67,
+              "expanded_url": "https://x.com/Kusutobi/status/2018347253056905440/video/1",
+              "media_key": "13_2018347173369323520",
+              "start": 44,
+              "url": "https://t.co/XLSFrovlhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018347253056905440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 22970,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "嗯想拍自己抽🍃的视频然后放叶子的时候不小心放了点种子进去 抽一半种子爆了一下吓我一雷。 https://t.co/XLSFrovlhu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 261,
+          "like_count": 41216,
+          "listed_count": 5,
+          "media_count": 576,
+          "tweet_count": 12156
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:44:50.000Z",
+        "description": "Kusutobi个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/只发发日常或者有关NY化学的内容/可咨询药物或者产品问题/NY化学@NY_Kusutobi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "NY_Kusutobi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/cZPJ1V4JG9"
+              }
+            ]
+          }
+        },
+        "id": "1622592119700623361",
+        "name": "Kusutobi",
+        "pinned_tweet_id": "2016490186662613366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836678158843592704/68oNNMoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 102,
+          "like_count": 756,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/cZPJ1V4JG9",
+        "username": "Kusutobi",
+        "verified": false
+      }
+    ]
+  }
+}

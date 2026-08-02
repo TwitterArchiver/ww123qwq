@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1879855173184671853",
+    "created_at": "2025-01-17T06:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T07:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880146684468154546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867157221345464320",
+          "start": 0,
+          "username": "Eglantine257"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880146684468154546",
+    "in_reply_to_user_id": "1867157221345464320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879855173184671853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eglantine257 回这个，发肤受之于父母，不敢毁伤孝之始也，大孝子不剪头发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1879855173184671853",
+        "created_at": "2025-01-17T06:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T07:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880146684468154546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867157221345464320",
+              "start": 0,
+              "username": "Eglantine257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880146684468154546",
+        "in_reply_to_user_id": "1867157221345464320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879855173184671853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eglantine257 回这个，发肤受之于父母，不敢毁伤孝之始也，大孝子不剪头发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879855163558834176",
+            "3_1879855164066332672"
+          ]
+        },
+        "author_id": "1867157221345464320",
+        "conversation_id": "1879855173184671853",
+        "created_at": "2025-01-16T11:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T12:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879855173184671853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wuGf9VnkOM",
+              "end": 48,
+              "expanded_url": "https://x.com/Eglantine257/status/1879855173184671853/photo/1",
+              "media_key": "3_1879855163558834176",
+              "start": 25,
+              "url": "https://t.co/wuGf9VnkOM"
+            },
+            {
+              "display_url": "pic.x.com/wuGf9VnkOM",
+              "end": 48,
+              "expanded_url": "https://x.com/Eglantine257/status/1879855173184671853/photo/1",
+              "media_key": "3_1879855164066332672",
+              "start": 25,
+              "url": "https://t.co/wuGf9VnkOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879855173184671853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2975,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家里人为了催我剪头发像疯了一样...不知道怎么办 https://t.co/wuGf9VnkOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈冰棍喵🍥🌶️🍆🍡🍢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 143,
+          "like_count": 39928,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 10276
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T10:39:24.000Z",
+        "description": "God save strawberry jam and all the different varieties!",
+        "id": "1867157221345464320",
+        "name": "Eglantine🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867158944692723712/bLCMAQdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 407,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 94
+        },
+        "username": "Eglantine257",
+        "verified": false
+      }
+    ]
+  }
+}

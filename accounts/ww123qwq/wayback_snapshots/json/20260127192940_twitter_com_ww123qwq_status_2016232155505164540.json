@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897889792379310080"
+      ],
+      "media_source_tweet_id": [
+        "1897889815481532917"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2016232155505164540",
+    "created_at": "2026-01-27T19:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T20:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016232155505164540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658881840349061120",
+          "start": 3,
+          "username": "CJing3_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uqrOZceDTG",
+          "end": 36,
+          "expanded_url": "https://x.com/CJing3_/status/1897889815481532917/photo/1",
+          "media_key": "3_1897889792379310080",
+          "start": 13,
+          "url": "https://t.co/uqrOZceDTG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016232155505164540",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 760
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897889815481532917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CJing3_: https://t.co/uqrOZceDTG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016232155505164540].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016232155505164540",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016232155505164540"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1897889792379310080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlaotfGb0AA2B3B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897889792379310080"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "conversation_id": "1897889815481532917",
+        "created_at": "2025-03-07T05:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T06:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897889815481532917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqrOZceDTG",
+              "end": 23,
+              "expanded_url": "https://x.com/CJing3_/status/1897889815481532917/photo/1",
+              "media_key": "3_1897889792379310080",
+              "start": 0,
+              "url": "https://t.co/uqrOZceDTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897889815481532917",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 499,
+          "impression_count": 119065,
+          "like_count": 6266,
+          "quote_count": 13,
+          "reply_count": 3,
+          "retweet_count": 760
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uqrOZceDTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 263,
+          "like_count": 41061,
+          "listed_count": 5,
+          "media_count": 561,
+          "tweet_count": 12105
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "",
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫",
+        "name": "楚鯨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003866770214658049/ySQGbvN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10410,
+          "following_count": 433,
+          "like_count": 9142,
+          "listed_count": 19,
+          "media_count": 129,
+          "tweet_count": 383
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

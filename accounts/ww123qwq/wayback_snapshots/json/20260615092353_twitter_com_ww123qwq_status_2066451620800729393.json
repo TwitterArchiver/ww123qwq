@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066445727715463168",
+        "3_2066445727409340416",
+        "3_2066445727396700161",
+        "3_2066445727400853504"
+      ],
+      "media_source_tweet_id": [
+        "2066445738217988437",
+        "2066445738217988437",
+        "2066445738217988437",
+        "2066445738217988437"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066451620800729393",
+    "created_at": "2026-06-15T09:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066451620800729393"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "非绿"
+        },
+        {
+          "end": 51,
+          "start": 47,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "纯绿"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "女仆"
+        },
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "cos"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "右美沙芬"
+        },
+        {
+          "end": 76,
+          "start": 71,
+          "tag": "普瑞巴林"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "地陪"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "陪玩"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2051195377420992512",
+          "start": 3,
+          "username": "Rain7x6y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EWHm3IWOuy",
+          "end": 108,
+          "expanded_url": "https://x.com/Rain7x6y/status/2066445738217988437/photo/1",
+          "media_key": "3_2066445727715463168",
+          "start": 85,
+          "url": "https://t.co/EWHm3IWOuy"
+        },
+        {
+          "display_url": "pic.x.com/EWHm3IWOuy",
+          "end": 108,
+          "expanded_url": "https://x.com/Rain7x6y/status/2066445738217988437/photo/1",
+          "media_key": "3_2066445727409340416",
+          "start": 85,
+          "url": "https://t.co/EWHm3IWOuy"
+        },
+        {
+          "display_url": "pic.x.com/EWHm3IWOuy",
+          "end": 108,
+          "expanded_url": "https://x.com/Rain7x6y/status/2066445738217988437/photo/1",
+          "media_key": "3_2066445727396700161",
+          "start": 85,
+          "url": "https://t.co/EWHm3IWOuy"
+        },
+        {
+          "display_url": "pic.x.com/EWHm3IWOuy",
+          "end": 108,
+          "expanded_url": "https://x.com/Rain7x6y/status/2066445738217988437/photo/1",
+          "media_key": "3_2066445727400853504",
+          "start": 85,
+          "url": "https://t.co/EWHm3IWOuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066451620800729393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066445738217988437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rain7x6y: 我在上海開了一家女僕cos桌遊店喔！請私信我！以下引流 \n#非绿 #爸爸活 #纯绿 #女仆 #cos #右美沙芬 #普瑞巴林 #地陪 #陪玩 https://t.co/EWHm3IWOuy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066451620800729393].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066451620800729393",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066451620800729393"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066445727715463168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK19cNwakAAnJqY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066445727409340416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK19cMnbgAAh56-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2066445727396700161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK19cMkaoAE7fJs.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2066445727400853504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK19cMlaAAAwTcM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066445727715463168",
+            "3_2066445727409340416",
+            "3_2066445727396700161",
+            "3_2066445727400853504"
+          ]
+        },
+        "author_id": "2051195377420992512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066445738217988437",
+        "created_at": "2026-06-15T09:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066445738217988437"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "非绿"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "纯绿"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "女仆"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "cos"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "普瑞巴林"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "地陪"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "陪玩"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWHm3IWOuy",
+              "end": 94,
+              "expanded_url": "https://x.com/Rain7x6y/status/2066445738217988437/photo/1",
+              "media_key": "3_2066445727715463168",
+              "start": 71,
+              "url": "https://t.co/EWHm3IWOuy"
+            },
+            {
+              "display_url": "pic.x.com/EWHm3IWOuy",
+              "end": 94,
+              "expanded_url": "https://x.com/Rain7x6y/status/2066445738217988437/photo/1",
+              "media_key": "3_2066445727409340416",
+              "start": 71,
+              "url": "https://t.co/EWHm3IWOuy"
+            },
+            {
+              "display_url": "pic.x.com/EWHm3IWOuy",
+              "end": 94,
+              "expanded_url": "https://x.com/Rain7x6y/status/2066445738217988437/photo/1",
+              "media_key": "3_2066445727396700161",
+              "start": 71,
+              "url": "https://t.co/EWHm3IWOuy"
+            },
+            {
+              "display_url": "pic.x.com/EWHm3IWOuy",
+              "end": 94,
+              "expanded_url": "https://x.com/Rain7x6y/status/2066445738217988437/photo/1",
+              "media_key": "3_2066445727400853504",
+              "start": 71,
+              "url": "https://t.co/EWHm3IWOuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066445738217988437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我在上海開了一家女僕cos桌遊店喔！請私信我！以下引流 \n#非绿 #爸爸活 #纯绿 #女仆 #cos #右美沙芬 #普瑞巴林 #地陪 #陪玩 https://t.co/EWHm3IWOuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 265,
+          "like_count": 42695,
+          "listed_count": 4,
+          "media_count": 699,
+          "tweet_count": 12878
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T07:03:35.000Z",
+        "description": "經營了一個女僕cos桌遊店！\n是否有人來？請私信我\n前世@naijin66998\n喜欢的人@lilibr0k3n33 @ovocaize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "naijin66998"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "lilibr0k3n33"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "ovocaize"
+              }
+            ]
+          }
+        },
+        "id": "2051195377420992512",
+        "name": "冬雪Rain2️⃣女仆店七月开",
+        "pinned_tweet_id": "2066445738217988437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060579127489617920/-COMe4oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 106,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 181
+        },
+        "username": "Rain7x6y",
+        "verified": false
+      }
+    ]
+  }
+}

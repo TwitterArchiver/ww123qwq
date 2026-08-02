@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1876240244078719434",
+    "created_at": "2025-01-06T15:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T16:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876297206816526792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "954724026806448128",
+          "start": 0,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876297206816526792",
+    "in_reply_to_user_id": "954724026806448128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876240244078719434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libertyelysium 合乎粥礼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1876240244078719434",
+        "created_at": "2025-01-06T15:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876297206816526792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876297206816526792",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876240244078719434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium 合乎粥礼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "1876240244078719434",
+        "created_at": "2025-01-06T12:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T13:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876240244078719434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876240244078719434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2425,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打开推特timeline一看，女人的丝袜脚、男娘的丝袜脚、男同的白袜脚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 124,
+          "like_count": 39596,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 10142
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90的忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "黄小姐今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853809858203811840/NRmse9nN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6393,
+          "following_count": 538,
+          "like_count": 68514,
+          "listed_count": 20,
+          "media_count": 1575,
+          "tweet_count": 24819
+        },
+        "username": "libertyelysium",
+        "verified": true
+      }
+    ]
+  }
+}

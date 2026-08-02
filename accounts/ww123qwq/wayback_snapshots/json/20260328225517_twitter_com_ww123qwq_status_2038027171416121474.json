@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038027159835738112"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2038027171416121474",
+    "created_at": "2026-03-28T22:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T23:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038027171416121474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IUUgPF9bxe",
+          "end": 40,
+          "expanded_url": "https://x.com/ww123qwq/status/2038027171416121474/photo/1",
+          "media_key": "3_2038027159835738112",
+          "start": 17,
+          "url": "https://t.co/IUUgPF9bxe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038027171416121474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就这么吃，愚美被禁了都怪发抖音的 https://t.co/IUUgPF9bxe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038027159835738112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEiG52ibgAA-9RO.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038027159835738112"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2038027171416121474",
+        "created_at": "2026-03-28T22:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T23:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038027171416121474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IUUgPF9bxe",
+              "end": 40,
+              "expanded_url": "https://x.com/ww123qwq/status/2038027171416121474/photo/1",
+              "media_key": "3_2038027159835738112",
+              "start": 17,
+              "url": "https://t.co/IUUgPF9bxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038027171416121474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这么吃，愚美被禁了都怪发抖音的 https://t.co/IUUgPF9bxe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "策划药薄荷糖，彩虹糖，飘\n飘糖，模拟ald-52物质：rush，类\nGHB,DBT,MiPT,苄达明hrt药物：泰补，土色，日雌，推特私聊",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 267,
+          "like_count": 42040,
+          "listed_count": 4,
+          "media_count": 666,
+          "tweet_count": 12553
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

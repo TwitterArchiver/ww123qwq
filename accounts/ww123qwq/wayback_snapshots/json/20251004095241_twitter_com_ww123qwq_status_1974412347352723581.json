@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1974035126922465280"
+      ],
+      "media_source_tweet_id": [
+        "1974035734488105186"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1974412347352723581",
+    "created_at": "2025-10-04T09:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T10:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974412347352723581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1964446286662553601",
+          "start": 3,
+          "username": "chibikki__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eg3jLkpRc5",
+          "end": 41,
+          "expanded_url": "https://x.com/chibikki__/status/1974035734488105186/photo/1",
+          "media_key": "16_1974035126922465280",
+          "start": 18,
+          "url": "https://t.co/eg3jLkpRc5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974412347352723581",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 490
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974035734488105186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chibikki__: 目 https://t.co/eg3jLkpRc5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_1974035126922465280",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G2UufTJbUAANxWy.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G2UufTJbUAANxWy.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1974035126922465280"
+          ],
+          "media_source_tweet_id": [
+            "1974035734488105186"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1974412347352723581",
+        "created_at": "2025-10-04T09:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T10:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974412347352723581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1964446286662553601",
+              "start": 3,
+              "username": "chibikki__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eg3jLkpRc5",
+              "end": 41,
+              "expanded_url": "https://x.com/chibikki__/status/1974035734488105186/photo/1",
+              "media_key": "16_1974035126922465280",
+              "start": 18,
+              "url": "https://t.co/eg3jLkpRc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974412347352723581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 490
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974035734488105186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chibikki__: 目 https://t.co/eg3jLkpRc5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1974035126922465280"
+          ]
+        },
+        "author_id": "1964446286662553601",
+        "conversation_id": "1974035734488105186",
+        "created_at": "2025-10-03T08:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T09:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974035734488105186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eg3jLkpRc5",
+              "end": 25,
+              "expanded_url": "https://x.com/chibikki__/status/1974035734488105186/photo/1",
+              "media_key": "16_1974035126922465280",
+              "start": 2,
+              "url": "https://t.co/eg3jLkpRc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974035734488105186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 395,
+          "impression_count": 41735,
+          "like_count": 5000,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 490
+        },
+        "reply_settings": "everyone",
+        "text": "目 https://t.co/eg3jLkpRc5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 202,
+          "like_count": 39843,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 10663
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T21:51:25.000Z",
+        "description": "work📧: chibikki.work@gmail.com | https://t.co/M0xP3CTqqd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "potofu.me/chibikki",
+                "end": 56,
+                "expanded_url": "https://potofu.me/chibikki",
+                "start": 33,
+                "url": "https://t.co/M0xP3CTqqd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/chibikki",
+                "end": 23,
+                "expanded_url": "https://patreon.com/chibikki",
+                "start": 0,
+                "url": "https://t.co/wb5r8wpPIr"
+              }
+            ]
+          }
+        },
+        "id": "1964446286662553601",
+        "location": "UTC+07:00",
+        "name": "chibikki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968795536322142209/5yh1Uhle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3344,
+          "following_count": 125,
+          "like_count": 334,
+          "listed_count": 6,
+          "media_count": 16,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/wb5r8wpPIr",
+        "username": "chibikki__",
+        "verified": false
+      }
+    ]
+  }
+}

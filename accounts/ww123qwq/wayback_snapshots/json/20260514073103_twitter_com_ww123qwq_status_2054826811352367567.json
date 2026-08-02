@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2054646593144398064",
+    "created_at": "2026-05-14T07:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054826811352367567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880109814241746944",
+          "start": 0,
+          "username": "fallenleavesw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054826811352367567",
+    "in_reply_to_user_id": "1880109814241746944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054646593144398064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fallenleavesw 半斤八两罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2054646593144398064",
+        "created_at": "2026-05-14T07:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054826811352367567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880109814241746944",
+              "start": 0,
+              "username": "fallenleavesw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054826811352367567",
+        "in_reply_to_user_id": "1880109814241746944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054646593144398064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fallenleavesw 半斤八两罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880109814241746944",
+        "conversation_id": "2054646593144398064",
+        "created_at": "2026-05-13T19:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T20:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054646593144398064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054646593144398064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2665,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一天和日本人共事，说到他不想回日本。\n\n“因为日本太无聊了。”\n\n“え？”\n\n“没有蘑菇也没有大麻…”\n\n“？”\n\n太性情了哥们、能处能处。\n\n然后聊到他未成年的朋友已经溜冰溜⬆️，很开心地一起“哇唔大家的人生都已经完蛋了”\n\n我现在知道日本青年的精神状态是什么样了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 279,
+          "like_count": 42746,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12824
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:28:13.000Z",
+        "description": "會和雪一起歸天",
+        "id": "1880109814241746944",
+        "location": "Toronto, Ontario",
+        "name": "枯葉🍐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993024820426985473/tnWOr9SV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 596,
+          "like_count": 29143,
+          "listed_count": 4,
+          "media_count": 580,
+          "tweet_count": 5693
+        },
+        "username": "fallenleavesw",
+        "verified": true
+      }
+    ]
+  }
+}

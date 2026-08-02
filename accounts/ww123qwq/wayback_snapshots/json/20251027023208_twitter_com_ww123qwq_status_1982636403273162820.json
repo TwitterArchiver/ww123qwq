@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982386703554764800"
+      ],
+      "media_source_tweet_id": [
+        "1982386772517826738"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1982636403273162820",
+    "created_at": "2025-10-27T02:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T03:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982636403273162820"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "岛风"
+        },
+        {
+          "end": 39,
+          "start": 29,
+          "tag": "shimakaze"
+        },
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "丁字裤"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "721727910634065920",
+          "start": 3,
+          "username": "RieeQvQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eSTuhlNgUX",
+          "end": 68,
+          "expanded_url": "https://x.com/RieeQvQ/status/1982386772517826738/photo/1",
+          "media_key": "3_1982386703554764800",
+          "start": 45,
+          "url": "https://t.co/eSTuhlNgUX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982636403273162820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982386772517826738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RieeQvQ: 丁字裤什么的扔掉就好了 #岛风 #shimakaze #丁字裤 https://t.co/eSTuhlNgUX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1982386703554764800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LaNCjW4AATL0w.jpg",
+        "width": 2381
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982386703554764800"
+          ],
+          "media_source_tweet_id": [
+            "1982386772517826738"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1982636403273162820",
+        "created_at": "2025-10-27T02:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982636403273162820"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "岛风"
+            },
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "shimakaze"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "丁字裤"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "721727910634065920",
+              "start": 3,
+              "username": "RieeQvQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSTuhlNgUX",
+              "end": 68,
+              "expanded_url": "https://x.com/RieeQvQ/status/1982386772517826738/photo/1",
+              "media_key": "3_1982386703554764800",
+              "start": 45,
+              "url": "https://t.co/eSTuhlNgUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982636403273162820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982386772517826738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RieeQvQ: 丁字裤什么的扔掉就好了 #岛风 #shimakaze #丁字裤 https://t.co/eSTuhlNgUX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982386703554764800"
+          ]
+        },
+        "author_id": "721727910634065920",
+        "conversation_id": "1982386772517826738",
+        "created_at": "2025-10-26T10:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T11:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982386772517826738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "岛风"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "shimakaze"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "丁字裤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSTuhlNgUX",
+              "end": 55,
+              "expanded_url": "https://x.com/RieeQvQ/status/1982386772517826738/photo/1",
+              "media_key": "3_1982386703554764800",
+              "start": 32,
+              "url": "https://t.co/eSTuhlNgUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982386772517826738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 39188,
+          "like_count": 1266,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "丁字裤什么的扔掉就好了 #岛风 #shimakaze #丁字裤 https://t.co/eSTuhlNgUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 208,
+          "like_count": 40072,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 10758
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-17T15:51:57.000Z",
+        "description": "EN/CN/JP 164cm/54kg 不接推广 不收门槛 接受投喂！！~         \n欢迎私信骚扰排忧解难 R18里号@Rielewd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "Rielewd"
+              }
+            ]
+          }
+        },
+        "id": "721727910634065920",
+        "location": "neilaworld",
+        "name": "Rie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966047212540190720/p0S18y0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10729,
+          "following_count": 82,
+          "like_count": 2037,
+          "listed_count": 51,
+          "media_count": 126,
+          "tweet_count": 552
+        },
+        "username": "RieeQvQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "1260987765946109952",
+          "name": "Holistic healing/nutrition"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Healthy Eating",
+          "id": "917859184368009216",
+          "name": "Healthy Eating"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2066876903525687694",
+    "created_at": "2026-06-16T13:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066876903525687694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sauricat/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/sauricat/status/2066818208653361431",
+          "start": 16,
+          "url": "https://t.co/QXetXOCVOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066876903525687694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066818208653361431",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "化妆穿搭我倒是会，有些有点难办 https://t.co/QXetXOCVOP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Healthy Eating",
+              "id": "917859184368009216",
+              "name": "Healthy Eating"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2066876903525687694",
+        "created_at": "2026-06-16T13:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066876903525687694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sauricat/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/sauricat/status/2066818208653361431",
+              "start": 16,
+              "url": "https://t.co/QXetXOCVOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066876903525687694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066818208653361431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "化妆穿搭我倒是会，有些有点难办 https://t.co/QXetXOCVOP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Healthy Eating",
+              "id": "917859184368009216",
+              "name": "Healthy Eating"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2066818208653361431",
+        "created_at": "2026-06-16T09:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066818208653361431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066818208653361431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我还是想搞教育。我这次想搞跨性别生存生活技能电视大学。\n小班化教学，教师带教辅导。上完一节课，考核通过，发一百元现金奖励。\n拟定课纲：\n1. 基本算术和常用单位转换\n2. 计算机使用操作基础\n3. 个人财务管理基础\n4. 身体和精神健康基础\n5. 电动自行车驾驶安全\n6. 食品料理和食品安全\n7. 家庭整理和个人卫生\n8. 应用文写作和电子通讯交流\n9. 基础法律常识与合同防骗\n还有什么？大家想想。\n\n别搞化妆穿搭了那个都太高级了。我需要群策群力，这里面有些我也不会，我得补课。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1635,
+          "like_count": 22,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我还是想搞教育。我这次想搞跨性别生存生活技能电视大学。\n小班化教学，教师带教辅导。上完一节课，考核通过，发一百元现金奖励。\n拟定课纲：\n1. 基本算术和常用单位转换\n2. 计算机使用操作基础\n3. 个人财务管理基础\n4. 身体和精神健康基础\n5. 电动自行车驾驶安全\n6. 食品料理和食品安全\n7."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 266,
+          "like_count": 42739,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 12911
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EIuJD"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "Shu the Internet Squirrel",
+        "pinned_tweet_id": "2066818208653361431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11180,
+          "following_count": 1032,
+          "like_count": 34330,
+          "listed_count": 35,
+          "media_count": 618,
+          "tweet_count": 12219
+        },
+        "url": "https://t.co/Q8ag0EIuJD",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

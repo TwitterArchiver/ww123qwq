@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993442019717632000"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1993442027963634151",
+    "created_at": "2025-11-25T22:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T23:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993442027963634151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pLHy2RUo9f",
+          "end": 30,
+          "expanded_url": "https://x.com/ww123qwq/status/1993442027963634151/photo/1",
+          "media_key": "3_1993442019717632000",
+          "start": 7,
+          "url": "https://t.co/pLHy2RUo9f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993442027963634151",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "od不明药物 https://t.co/pLHy2RUo9f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993442019717632000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6og9ImbUAA_s0a.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993442019717632000"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1993442027963634151",
+        "created_at": "2025-11-25T22:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T23:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993442027963634151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLHy2RUo9f",
+              "end": 30,
+              "expanded_url": "https://x.com/ww123qwq/status/1993442027963634151/photo/1",
+              "media_key": "3_1993442019717632000",
+              "start": 7,
+              "url": "https://t.co/pLHy2RUo9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993442027963634151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od不明药物 https://t.co/pLHy2RUo9f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ https://t.co/ueFhLFryDx接受药圈新闻投稿@QwqQwe88396逃生仓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 81,
+                "start": 69,
+                "username": "QwqQwe88396"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/asiadrug/",
+                "end": 61,
+                "expanded_url": "https://t.me/asiadrug/",
+                "start": 38,
+                "url": "https://t.co/ueFhLFryDx"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 259,
+          "like_count": 40722,
+          "listed_count": 3,
+          "media_count": 389,
+          "tweet_count": 11601
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

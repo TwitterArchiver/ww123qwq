@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1991378256294203583",
+    "created_at": "2025-11-20T21:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T22:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991618678446780725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1596887209835388928",
+          "start": 0,
+          "username": "Kuruolyuuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991618678446780725",
+    "in_reply_to_user_id": "1596887209835388928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991378256294203583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuruolyuuki 全名叫啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1991378256294203583",
+        "created_at": "2025-11-20T21:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T22:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991618678446780725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1596887209835388928",
+              "start": 0,
+              "username": "Kuruolyuuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991618678446780725",
+        "in_reply_to_user_id": "1596887209835388928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991378256294203583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuruolyuuki 全名叫啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596887209835388928",
+        "conversation_id": "1991378256294203583",
+        "created_at": "2025-11-20T05:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T06:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991378256294203583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991378256294203583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 57092,
+          "like_count": 148,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "替西是真牛逼吧我朋友从130斤到现在85斤了我不知道她打了多少反正太猛了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "躯体化/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴党/地雷系/自伤/欢迎扩列加好友w唯一电报  非本，注意防骗\n🚪88/188/520/1314，女生免费，解锁色图置顶tg非本人推广自辨，出原味，接线下圆角，接露出，接任务，找金主，比较负能\n备用号@QwqQwe88396 坐标上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 256,
+          "like_count": 40684,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 11526
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T15:22:45.000Z",
+        "description": "ちょっとした独り言と、好きなデザインと、私のかけら",
+        "id": "1596887209835388928",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Zeconky",
+        "pinned_tweet_id": "1935325553655169244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896281317945556992/GQLzpVr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2371,
+          "following_count": 340,
+          "like_count": 3690,
+          "listed_count": 2,
+          "media_count": 1172,
+          "tweet_count": 7475
+        },
+        "username": "Kuruolyuuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2047265828299825245",
+    "created_at": "2026-04-23T15:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047340129698877479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1670452601891229697",
+          "start": 0,
+          "username": "miya_Az1uya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047340129698877479",
+    "in_reply_to_user_id": "1670452601891229697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047265828299825245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miya_Az1uya 安全感这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047265808011927552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlZZ89aoAAZerU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2047265828299825245",
+        "created_at": "2026-04-23T15:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047340129698877479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1670452601891229697",
+              "start": 0,
+              "username": "miya_Az1uya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047340129698877479",
+        "in_reply_to_user_id": "1670452601891229697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047265828299825245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miya_Az1uya 安全感这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047265808011927552"
+          ]
+        },
+        "author_id": "1670452601891229697",
+        "conversation_id": "2047265828299825245",
+        "created_at": "2026-04-23T10:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047265828299825245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SboGLVM7NN",
+              "end": 37,
+              "expanded_url": "https://x.com/miya_Az1uya/status/2047265828299825245/photo/1",
+              "media_key": "3_2047265808011927552",
+              "start": 14,
+              "url": "https://t.co/SboGLVM7NN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047265828299825245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 461,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呵呵以我的用量能吃一年了 https://t.co/SboGLVM7NN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 276,
+          "like_count": 42262,
+          "listed_count": 4,
+          "media_count": 682,
+          "tweet_count": 12665
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T15:25:17.000Z",
+        "description": "🚪200解锁课表/388闲聊开放pyq\n⚠️纯绿不聊黄无福利，过门不退",
+        "id": "1670452601891229697",
+        "location": "北京",
+        "name": "悲愤的玉子烧",
+        "pinned_tweet_id": "2034258509236453437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020171398816362498/Ib2CstJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2945,
+          "following_count": 138,
+          "like_count": 5624,
+          "listed_count": 8,
+          "media_count": 90,
+          "tweet_count": 2385
+        },
+        "username": "miya_Az1uya",
+        "verified": false
+      }
+    ]
+  }
+}

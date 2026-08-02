@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985632725844611241",
+    "created_at": "2025-11-04T18:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T19:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985771923285164208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960389326258495492",
+          "start": 0,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985771923285164208",
+    "in_reply_to_user_id": "1960389326258495492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985632725844611241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@looolzaozimin 羡慕到处玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83800,
+        "height": 960,
+        "media_key": "13_1985632503504551936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985632503504551936/img/ln_8ujEi3Kk4JuvB.jpg",
+        "public_metrics": {
+          "view_count": 7113
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985632503504551936/vid/avc1/320x426/kCZf0VPTaqRydo8Y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985632503504551936/vid/avc1/480x640/0jsT0UGX9AR_1VTI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985632503504551936/vid/avc1/720x960/AzURlB0H7bFtKY80.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985632503504551936/pl/Vr7oNM47AcbjeaYS.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985632725844611241",
+        "created_at": "2025-11-04T18:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T19:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985771923285164208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960389326258495492",
+              "start": 0,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985771923285164208",
+        "in_reply_to_user_id": "1960389326258495492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985632725844611241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looolzaozimin 羡慕到处玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985632503504551936"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "1985632725844611241",
+        "created_at": "2025-11-04T08:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T09:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985632725844611241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKmnPMeCGC",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/1985632725844611241/video/1",
+              "media_key": "13_1985632503504551936",
+              "start": 0,
+              "url": "https://t.co/fKmnPMeCGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985632725844611241",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 10355,
+          "like_count": 230,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fKmnPMeCGC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩906910481",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 222,
+          "like_count": 40349,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 11019
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "我叫小藻性别是怪诞小精灵喜欢我的话请给我钱吧，没有家一直在流浪",
+        "id": "1960389326258495492",
+        "location": "🚪188",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979667185812258816/DUbJWtJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18722,
+          "following_count": 16,
+          "like_count": 51,
+          "listed_count": 21,
+          "media_count": 45,
+          "tweet_count": 89
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

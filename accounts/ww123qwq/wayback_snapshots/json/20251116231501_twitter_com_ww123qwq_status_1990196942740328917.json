@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988801017409085440",
+        "3_1988801072241209345"
+      ],
+      "media_source_tweet_id": [
+        "1989152805974864140",
+        "1989152805974864140"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1990196942740328917",
+    "created_at": "2025-11-16T23:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T00:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990196942740328917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685784710285266944",
+          "start": 3,
+          "username": "mhtqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0c0mcqMIW4",
+          "end": 47,
+          "expanded_url": "https://x.com/mhtqwq/status/1989152805974864140/photo/1",
+          "media_key": "3_1988801017409085440",
+          "start": 24,
+          "url": "https://t.co/0c0mcqMIW4"
+        },
+        {
+          "display_url": "pic.x.com/0c0mcqMIW4",
+          "end": 47,
+          "expanded_url": "https://x.com/mhtqwq/status/1989152805974864140/photo/1",
+          "media_key": "3_1988801072241209345",
+          "start": 24,
+          "url": "https://t.co/0c0mcqMIW4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990196942740328917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989152805974864140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mhtqwq: 这防熊枪怎么这么眼熟？ https://t.co/0c0mcqMIW4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 681,
+        "media_key": "3_1988801017409085440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mj_PuaoAAjQf2.jpg",
+        "width": 1200
+      },
+      {
+        "height": 622,
+        "media_key": "3_1988801072241209345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mkCb_acAENtvZ.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988801017409085440",
+            "3_1988801072241209345"
+          ],
+          "media_source_tweet_id": [
+            "1989152805974864140",
+            "1989152805974864140"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1990196942740328917",
+        "created_at": "2025-11-16T23:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990196942740328917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685784710285266944",
+              "start": 3,
+              "username": "mhtqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0c0mcqMIW4",
+              "end": 47,
+              "expanded_url": "https://x.com/mhtqwq/status/1989152805974864140/photo/1",
+              "media_key": "3_1988801017409085440",
+              "start": 24,
+              "url": "https://t.co/0c0mcqMIW4"
+            },
+            {
+              "display_url": "pic.x.com/0c0mcqMIW4",
+              "end": 47,
+              "expanded_url": "https://x.com/mhtqwq/status/1989152805974864140/photo/1",
+              "media_key": "3_1988801072241209345",
+              "start": 24,
+              "url": "https://t.co/0c0mcqMIW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990196942740328917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989152805974864140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mhtqwq: 这防熊枪怎么这么眼熟？ https://t.co/0c0mcqMIW4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988801017409085440",
+            "3_1988801072241209345"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "1989152805974864140",
+        "created_at": "2025-11-14T02:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989152805974864140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0c0mcqMIW4",
+              "end": 35,
+              "expanded_url": "https://x.com/mhtqwq/status/1989152805974864140/photo/1",
+              "media_key": "3_1988801017409085440",
+              "start": 12,
+              "url": "https://t.co/0c0mcqMIW4"
+            },
+            {
+              "display_url": "pic.x.com/0c0mcqMIW4",
+              "end": 35,
+              "expanded_url": "https://x.com/mhtqwq/status/1989152805974864140/photo/1",
+              "media_key": "3_1988801072241209345",
+              "start": 12,
+              "url": "https://t.co/0c0mcqMIW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989152805974864140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1289,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这防熊枪怎么这么眼熟？ https://t.co/0c0mcqMIW4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "躯体化/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴党/地雷系/自伤/欢迎扩列加好友w唯一电报  非本，注意防骗\n🚪88/188/520/1314，女生免费，解锁色图置顶tg非本人推广自辨，出原味，接线下圆角，接露出，接任务，找金主，比较负能\n备用号@QwqQwe88396 坐标上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 128,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 248,
+          "like_count": 40657,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 11463
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜差点一口气活了｜不建政｜Minecraft｜格雷科寄｜p社战犯｜❤️@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3887,
+          "following_count": 429,
+          "like_count": 9066,
+          "listed_count": 6,
+          "media_count": 1517,
+          "tweet_count": 8430
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": false
+      }
+    ]
+  }
+}

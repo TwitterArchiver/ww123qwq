@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1969969378130341888"
+      ],
+      "media_source_tweet_id": [
+        "1971394290501947508"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1987966360836841752",
+    "created_at": "2025-11-10T19:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T20:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987966360836841752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1358976382215155713",
+          "start": 3,
+          "username": "astolfofofofo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mE4UhUvBmx",
+          "end": 111,
+          "expanded_url": "https://x.com/astolfofofofo/status/1971394290501947508/video/1",
+          "media_key": "13_1969969378130341888",
+          "start": 88,
+          "url": "https://t.co/mE4UhUvBmx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987966360836841752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3956
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971394290501947508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @astolfofofofo: 135 Urethral ⚡️electric shock⛲️\n(English subtitles)\n尿道电击⚡️喷射⛲️(中文字幕) https://t.co/mE4UhUvBmx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1987966360836841752].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1987966360836841752",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1987966360836841752"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 128778,
+        "height": 1920,
+        "media_key": "13_1969969378130341888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969969378130341888/img/tbiT9_acF_k2efEj.jpg",
+        "public_metrics": {
+          "view_count": 1004520
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969969378130341888/vid/avc1/320x568/dL9fpYQCQRBRC4H9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969969378130341888/vid/avc1/480x852/WcSnmOeXCd7Q8n4p.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969969378130341888/vid/avc1/720x1280/FLaoeJ5WaAbdCRHx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969969378130341888/pl/EblosUok_zFxwxGM.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969969378130341888"
+          ]
+        },
+        "author_id": "1358976382215155713",
+        "conversation_id": "1971394290501947508",
+        "created_at": "2025-09-26T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971394290501947508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mE4UhUvBmx",
+              "end": 92,
+              "expanded_url": "https://x.com/astolfofofofo/status/1971394290501947508/video/1",
+              "media_key": "13_1969969378130341888",
+              "start": 69,
+              "url": "https://t.co/mE4UhUvBmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971394290501947508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 20782,
+          "impression_count": 1637564,
+          "like_count": 37328,
+          "quote_count": 31,
+          "reply_count": 155,
+          "retweet_count": 3956
+        },
+        "reply_settings": "everyone",
+        "text": "135 Urethral ⚡️electric shock⛲️\n(English subtitles)\n尿道电击⚡️喷射⛲️(中文字幕) https://t.co/mE4UhUvBmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴休学圆角攒钱中/地雷系/欢迎扩列加好友w唯一电报  非本，注意防骗\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1051287723置顶tg非本人推广自辨，出原味私信，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 232,
+          "like_count": 40577,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 11294
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-09T03:10:04.000Z",
+        "description": "cosplay/#男の娘/#Crossdresser\n中文/日本語/English\nsupport me完整视频：\n【https://t.co/bb3Tx9wYoT】\nhttps://t.co/JEytkxRF2h",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "男の娘"
+              },
+              {
+                "end": 26,
+                "start": 13,
+                "tag": "Crossdresser"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/astolfofofofo",
+                "end": 82,
+                "expanded_url": "https://linktr.ee/astolfofofofo",
+                "start": 59,
+                "url": "https://t.co/bb3Tx9wYoT"
+              },
+              {
+                "display_url": "fans.ly/r/astolfofofofo",
+                "end": 107,
+                "expanded_url": "https://fans.ly/r/astolfofofofo",
+                "start": 84,
+                "url": "https://t.co/JEytkxRF2h"
+              }
+            ]
+          }
+        },
+        "id": "1358976382215155713",
+        "location": "黄金树",
+        "name": "阿福福福福",
+        "pinned_tweet_id": "1682208776558989312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1409869932742025221/Mu2H23lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870868,
+          "following_count": 731,
+          "like_count": 2036,
+          "listed_count": 4207,
+          "media_count": 385,
+          "tweet_count": 15988
+        },
+        "username": "astolfofofofo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038311831165603841"
+      ],
+      "media_source_tweet_id": [
+        "2038311833900363821"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2038522795655827880",
+    "created_at": "2026-03-30T07:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038522795655827880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1885154179922227200",
+          "start": 3,
+          "username": "Snow_Xue_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QcbYgofX7X",
+          "end": 46,
+          "expanded_url": "https://x.com/Snow_Xue_/status/2038311833900363821/photo/1",
+          "media_key": "3_2038311831165603841",
+          "start": 23,
+          "url": "https://t.co/QcbYgofX7X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038522795655827880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038311833900363821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snow_Xue_: 我要解脱了。。 https://t.co/QcbYgofX7X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2038311831165603841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmJz54aEAEo-Ol.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038311831165603841"
+          ],
+          "media_source_tweet_id": [
+            "2038311833900363821"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038522795655827880",
+        "created_at": "2026-03-30T07:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038522795655827880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1885154179922227200",
+              "start": 3,
+              "username": "Snow_Xue_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcbYgofX7X",
+              "end": 46,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2038311833900363821/photo/1",
+              "media_key": "3_2038311831165603841",
+              "start": 23,
+              "url": "https://t.co/QcbYgofX7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038522795655827880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038311833900363821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Snow_Xue_: 我要解脱了。。 https://t.co/QcbYgofX7X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038311831165603841"
+          ]
+        },
+        "author_id": "1885154179922227200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038311833900363821",
+        "created_at": "2026-03-29T17:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038311833900363821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcbYgofX7X",
+              "end": 31,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2038311833900363821/photo/1",
+              "media_key": "3_2038311831165603841",
+              "start": 8,
+              "url": "https://t.co/QcbYgofX7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038311833900363821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3472,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我要解脱了。。 https://t.co/QcbYgofX7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "策划药薄荷糖，彩虹糖，飘\n飘糖，模拟ald-52物质：rush，类\nGHB,DBT,MiPT,苄达明hrt药物：泰补，土色，日雌，推特私聊",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 270,
+          "like_count": 42040,
+          "listed_count": 4,
+          "media_count": 666,
+          "tweet_count": 12560
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 位于** | 不见证（懒得管那些了，以前见过） | 没咋割手 | o！长在春风中，活在药效里！ | 没染上乌蒙 | 咱想咱老婆了 | 生产日期2010.3.16 | 纯s | 家长不管党（od割手也都不管 | hrt🍥2025.11 |\n| b站：屑冷雪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2038268504164671749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 1406,
+          "like_count": 46965,
+          "listed_count": 3,
+          "media_count": 632,
+          "tweet_count": 4651
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

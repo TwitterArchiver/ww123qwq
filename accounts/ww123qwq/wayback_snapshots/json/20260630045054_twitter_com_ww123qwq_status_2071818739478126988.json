@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071618310769422438",
+    "created_at": "2026-06-30T04:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T05:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071818739478126988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1163664985911775232",
+          "start": 0,
+          "username": "duogeyu"
+        },
+        {
+          "end": 19,
+          "id": "1995266194576961536",
+          "start": 9,
+          "username": "skyseafor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071818739478126988",
+    "in_reply_to_user_id": "1163664985911775232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071658618328662198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duogeyu @skyseafor 私聊我，有QQ吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "16_2071658609679929344",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMACh4XaEAAKOFp.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMACh4XaEAAKOFp.mp4"
+          }
+        ],
+        "width": 330
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071618310769422438",
+        "created_at": "2026-06-30T04:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071818739478126988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1163664985911775232",
+              "start": 0,
+              "username": "duogeyu"
+            },
+            {
+              "end": 19,
+              "id": "1995266194576961536",
+              "start": 9,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071818739478126988",
+        "in_reply_to_user_id": "1163664985911775232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071658618328662198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duogeyu @skyseafor 私聊我，有QQ吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2071658609679929344"
+          ]
+        },
+        "author_id": "1163664985911775232",
+        "conversation_id": "2071618310769422438",
+        "created_at": "2026-06-29T18:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T19:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071658618328662198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLYaCggXuQ",
+              "end": 42,
+              "expanded_url": "https://x.com/duogeyu/status/2071658618328662198/photo/1",
+              "media_key": "16_2071658609679929344",
+              "start": 19,
+              "url": "https://t.co/tLYaCggXuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071658618328662198",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071618310769422438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 刚刚在你们后边 https://t.co/tLYaCggXuQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 285,
+          "like_count": 43346,
+          "listed_count": 4,
+          "media_count": 719,
+          "tweet_count": 13175
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-20T04:12:17.000Z",
+        "description": "多多多多多！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duogeyu.com",
+                "end": 23,
+                "expanded_url": "http://duogeyu.com",
+                "start": 0,
+                "url": "https://t.co/iIZbFC8YwH"
+              }
+            ]
+          }
+        },
+        "id": "1163664985911775232",
+        "name": "多多Duogeyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063139748823416832/Ul43du9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 349,
+          "like_count": 1886,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/iIZbFC8YwH",
+        "username": "duogeyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 205,
+          "like_count": 887,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

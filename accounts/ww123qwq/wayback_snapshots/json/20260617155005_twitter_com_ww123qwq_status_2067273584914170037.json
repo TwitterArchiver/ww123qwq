@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067194412418097542",
+    "created_at": "2026-06-17T15:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067273584914170037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067273584914170037",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067194412418097542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067194412418097542",
+        "created_at": "2026-06-17T15:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067273584914170037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067273584914170037",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067194412418097542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "2067194412418097542",
+        "created_at": "2026-06-17T10:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067194412418097542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067194412418097542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 16148,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后悔当地雷女了，16岁出来打工到25攒了8w多都花进去了，这个月房租也没忍住给推的牛郎开香槟了。唉，饿了三天颗粒未进，蜷缩桥洞下等死，开香槟每次都花好几千，太难受了，刚才厚着脸皮登录了那个五六年没动过的sns想找人救济，发现以前的同学朋友很多都把我删了，只剩6个在线。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 271,
+          "like_count": 42781,
+          "listed_count": 4,
+          "media_count": 704,
+          "tweet_count": 12938
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2065825622069477682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31453,
+          "following_count": 4543,
+          "like_count": 16447,
+          "listed_count": 33,
+          "media_count": 4844,
+          "tweet_count": 35723
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

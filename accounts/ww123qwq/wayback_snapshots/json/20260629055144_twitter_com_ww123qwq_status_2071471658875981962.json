@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071235557183864832"
+      ],
+      "media_source_tweet_id": [
+        "2071235562447724907"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071471658875981962",
+    "created_at": "2026-06-29T05:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071471658875981962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1217996696367427592",
+          "start": 3,
+          "username": "annaS2S2_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/592M2Tj3v3",
+          "end": 38,
+          "expanded_url": "https://x.com/annaS2S2_/status/2071235562447724907/photo/1",
+          "media_key": "3_2071235557183864832",
+          "start": 15,
+          "url": "https://t.co/592M2Tj3v3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071471658875981962",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071235562447724907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @annaS2S2_: https://t.co/592M2Tj3v3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2071235557183864832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6Bw_AaQAASDOU.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071235557183864832"
+          ],
+          "media_source_tweet_id": [
+            "2071235562447724907"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071471658875981962",
+        "created_at": "2026-06-29T05:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071471658875981962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1217996696367427592",
+              "start": 3,
+              "username": "annaS2S2_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/592M2Tj3v3",
+              "end": 38,
+              "expanded_url": "https://x.com/annaS2S2_/status/2071235562447724907/photo/1",
+              "media_key": "3_2071235557183864832",
+              "start": 15,
+              "url": "https://t.co/592M2Tj3v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071471658875981962",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071235562447724907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @annaS2S2_: https://t.co/592M2Tj3v3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071235557183864832"
+          ]
+        },
+        "author_id": "1217996696367427592",
+        "conversation_id": "2071235562447724907",
+        "created_at": "2026-06-28T14:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071235562447724907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/592M2Tj3v3",
+              "end": 23,
+              "expanded_url": "https://x.com/annaS2S2_/status/2071235562447724907/photo/1",
+              "media_key": "3_2071235557183864832",
+              "start": 0,
+              "url": "https://t.co/592M2Tj3v3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071235562447724907",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 21266,
+          "like_count": 2342,
+          "quote_count": 12,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/592M2Tj3v3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 283,
+          "like_count": 43232,
+          "listed_count": 4,
+          "media_count": 712,
+          "tweet_count": 13115
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T02:27:03.000Z",
+        "description": "",
+        "id": "1217996696367427592",
+        "location": "insta ♡ S2S2anna",
+        "name": "アンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976071581660258304/UVTALPCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6802,
+          "following_count": 63,
+          "like_count": 2828,
+          "listed_count": 40,
+          "media_count": 42,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "annaS2S2_",
+        "verified": false
+      }
+    ]
+  }
+}

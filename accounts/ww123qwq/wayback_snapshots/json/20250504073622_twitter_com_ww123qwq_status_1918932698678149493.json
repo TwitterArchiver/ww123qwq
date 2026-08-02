@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1918932698678149493",
+    "created_at": "2025-05-04T07:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T08:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918932698678149493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1521553831775158273",
+          "start": 3,
+          "username": "ww123qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918932698678149493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917232908747833852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ww123qwq: 群主，你叫我办的事我办不了。 五一那天酒店水床和情趣房没有了， 房间最多入住四个活物 ，你一个人点九个男娘的确有点办不到 。香薰蜡烛皮鞭项圈这些要你自己准备 ，我给你发私信不理我我就只能在群里说了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1918932698678149493",
+        "created_at": "2025-05-04T07:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T08:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918932698678149493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1521553831775158273",
+              "start": 3,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918932698678149493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917232908747833852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ww123qwq: 群主，你叫我办的事我办不了。 五一那天酒店水床和情趣房没有了， 房间最多入住四个活物 ，你一个人点九个男娘的确有点办不到 。香薰蜡烛皮鞭项圈这些要你自己准备 ，我给你发私信不理我我就只能在群里说了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1917232908747833852",
+        "created_at": "2025-04-29T15:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T16:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917232908747833852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917232908747833852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 387,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "群主，你叫我办的事我办不了。 五一那天酒店水床和情趣房没有了， 房间最多入住四个活物 ，你一个人点九个男娘的确有点办不到 。香薰蜡烛皮鞭项圈这些要你自己准备 ，我给你发私信不理我我就只能在群里说了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 189,
+          "like_count": 40042,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 10618
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

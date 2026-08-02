@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874629747583696896",
+        "3_1874629747592089600"
+      ],
+      "media_source_tweet_id": [
+        "1874629764344054142",
+        "1874629764344054142"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1883922648046133455",
+    "created_at": "2025-01-27T16:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T17:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883922648046133455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1638893284218261504",
+          "start": 3,
+          "username": "Benzyl_titanium"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0FQxFI7Tz3",
+          "end": 75,
+          "expanded_url": "https://x.com/Benzyl_titanium/status/1874629764344054142/photo/1",
+          "media_key": "3_1874629747583696896",
+          "start": 52,
+          "url": "https://t.co/0FQxFI7Tz3"
+        },
+        {
+          "display_url": "pic.x.com/0FQxFI7Tz3",
+          "end": 75,
+          "expanded_url": "https://x.com/Benzyl_titanium/status/1874629764344054142/photo/1",
+          "media_key": "3_1874629747592089600",
+          "start": 52,
+          "url": "https://t.co/0FQxFI7Tz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883922648046133455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874629764344054142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Benzyl_titanium: 创新迷幻疗法：二甲基色胺(DMT)治疗抑郁焦虑，又可以吸毒了 https://t.co/0FQxFI7Tz3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1952,
+        "media_key": "3_1874629747583696896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgQF0r4bQAAMiL0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1542,
+        "media_key": "3_1874629747592089600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgQF0r6bUAA9_SG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874629747583696896",
+            "3_1874629747592089600"
+          ],
+          "media_source_tweet_id": [
+            "1874629764344054142",
+            "1874629764344054142"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1883922648046133455",
+        "created_at": "2025-01-27T16:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T17:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883922648046133455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1638893284218261504",
+              "start": 3,
+              "username": "Benzyl_titanium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FQxFI7Tz3",
+              "end": 75,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1874629764344054142/photo/1",
+              "media_key": "3_1874629747583696896",
+              "start": 52,
+              "url": "https://t.co/0FQxFI7Tz3"
+            },
+            {
+              "display_url": "pic.x.com/0FQxFI7Tz3",
+              "end": 75,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1874629764344054142/photo/1",
+              "media_key": "3_1874629747592089600",
+              "start": 52,
+              "url": "https://t.co/0FQxFI7Tz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883922648046133455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874629764344054142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Benzyl_titanium: 创新迷幻疗法：二甲基色胺(DMT)治疗抑郁焦虑，又可以吸毒了 https://t.co/0FQxFI7Tz3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874629747583696896",
+            "3_1874629747592089600"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1874629764344054142",
+        "created_at": "2025-01-02T01:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T02:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874629764344054142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FQxFI7Tz3",
+              "end": 54,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1874629764344054142/photo/1",
+              "media_key": "3_1874629747583696896",
+              "start": 31,
+              "url": "https://t.co/0FQxFI7Tz3"
+            },
+            {
+              "display_url": "pic.x.com/0FQxFI7Tz3",
+              "end": 54,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1874629764344054142/photo/1",
+              "media_key": "3_1874629747592089600",
+              "start": 31,
+              "url": "https://t.co/0FQxFI7Tz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874629764344054142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6840,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "创新迷幻疗法：二甲基色胺(DMT)治疗抑郁焦虑，又可以吸毒了 https://t.co/0FQxFI7Tz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 152,
+          "like_count": 40054,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 10363
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 @sibianjitai 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,计算机辅助药物设计",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "sibianjitai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/gbEi4JVXn5"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1689695640509435907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843324662987780096/d7hU3bqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 507,
+          "like_count": 8290,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/gbEi4JVXn5",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1804855261137719675",
+    "created_at": "2024-06-24T16:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-24T17:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805275773265428599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1416635602250854400",
+          "start": 0,
+          "username": "anoyode0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805275773265428599",
+    "in_reply_to_user_id": "1416635602250854400",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804855261137719675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anoyode0 健帽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1804855261137719675",
+        "created_at": "2024-06-24T16:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-24T17:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805275773265428599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1416635602250854400",
+              "start": 0,
+              "username": "anoyode0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805275773265428599",
+        "in_reply_to_user_id": "1416635602250854400",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804855261137719675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anoyode0 健帽"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804855255739625472"
+          ]
+        },
+        "author_id": "1416635602250854400",
+        "conversation_id": "1804855261137719675",
+        "created_at": "2024-06-23T12:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T13:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804855261137719675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uOSJVk7coy",
+              "end": 23,
+              "expanded_url": "https://twitter.com/anoyode0/status/1804855261137719675/photo/1",
+              "media_key": "3_1804855255739625472",
+              "start": 0,
+              "url": "https://t.co/uOSJVk7coy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804855261137719675",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15845,
+          "impression_count": 2644922,
+          "like_count": 155140,
+          "quote_count": 89,
+          "reply_count": 97,
+          "retweet_count": 12778
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uOSJVk7coy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 106,
+          "like_count": 40285,
+          "listed_count": 0,
+          "tweet_count": 10291
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T05:47:12.000Z",
+        "description": "Illustrator｜Skeb▶https://t.co/xfIA9rtzwG ｜お仕事(企業様向け)▶︎anoyode0★https://t.co/kGSBIqEgvh｜お仕事(個人様向け)▶︎ https://t.co/fqzGVBE7ke｜#あのよ見ろよ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 124,
+                "tag": "あのよ見ろよ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/anoyode0/",
+                "end": 40,
+                "expanded_url": "http://skeb.jp/anoyode0/",
+                "start": 17,
+                "url": "https://t.co/xfIA9rtzwG"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 86,
+                "expanded_url": "http://gmail.com",
+                "start": 63,
+                "url": "https://t.co/kGSBIqEgvh"
+              },
+              {
+                "display_url": "skima.jp/profile?id=273…",
+                "end": 123,
+                "expanded_url": "https://skima.jp/profile?id=273643",
+                "start": 100,
+                "url": "https://t.co/fqzGVBE7ke"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/anoyode",
+                "end": 23,
+                "expanded_url": "https://lit.link/anoyode",
+                "start": 0,
+                "url": "https://t.co/mSkxExRfRm"
+              }
+            ]
+          }
+        },
+        "id": "1416635602250854400",
+        "location": "その他依頼方法･支援サイトはこちら☟",
+        "name": "Anoyo@お仕事募集中",
+        "pinned_tweet_id": "1797977146469831042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784229532012273664/R28CBKtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114719,
+          "following_count": 99,
+          "like_count": 3708,
+          "listed_count": 488,
+          "tweet_count": 1279
+        },
+        "url": "https://t.co/mSkxExRfRm",
+        "username": "anoyode0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1969053092969607321",
+    "created_at": "2025-09-19T23:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T00:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969179023990235405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676500088221478912",
+          "start": 0,
+          "username": "DOGYeah3376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969179023990235405",
+    "in_reply_to_user_id": "1676500088221478912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969053092969607321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOGYeah3376 普瑞好吃（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1969053092969607321",
+        "created_at": "2025-09-19T23:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T00:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969179023990235405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969179023990235405",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969053092969607321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 普瑞好吃（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1969053090709110784"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1969053092969607321",
+        "created_at": "2025-09-19T14:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T15:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969053092969607321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969053092969607321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天玩玉米还是pr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 190,
+          "like_count": 39748,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 10626
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "天堂",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1964325142726922456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 922,
+          "like_count": 40630,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 2545
+        },
+        "username": "DOGYeah3376",
+        "verified": false
+      }
+    ]
+  }
+}

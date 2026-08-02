@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1792758274967953516",
+    "created_at": "2025-11-05T19:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T20:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986156966520275439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986156966520275439",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792758274967953516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 加料吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1792758274967953516",
+        "created_at": "2025-11-05T19:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T20:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986156966520275439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986156966520275439",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792758274967953516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 加料吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1792758274967953516",
+        "created_at": "2024-05-21T03:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T04:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792758274967953516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "电子烟"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "悦刻五代"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792758274967953516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 166956,
+          "like_count": 173,
+          "quote_count": 3,
+          "reply_count": 233,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "开个反馈贴orz\n以后纸烟和电子烟放这里！\n#电子烟 #悦刻五代"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w唯一电报  https://t.co/7z9W9wVbK1，注意防骗\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1048726302置顶非本人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "kirifuji00"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ww123qwq6",
+                "end": 72,
+                "expanded_url": "http://t.me/ww123qwq6",
+                "start": 49,
+                "url": "https://t.co/7z9W9wVbK1"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986097091161280725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 223,
+          "like_count": 40407,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 11092
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx_hrt中_They/it_习惯性点赞_过量_aspd_愛🩵@LoRaZePaM0128 @CoFfffEeeeE1 @Akinoyo_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "LoRaZePaM0128"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Akinoyo_"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932288019887001600/qzDa0LNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4214,
+          "following_count": 2218,
+          "like_count": 118156,
+          "listed_count": 7,
+          "media_count": 1655,
+          "tweet_count": 17589
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

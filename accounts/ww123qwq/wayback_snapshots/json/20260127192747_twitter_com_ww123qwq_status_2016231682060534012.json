@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015954073741361154",
+        "3_2015954073787498496",
+        "3_2015954073787490304",
+        "3_2015954073779109889"
+      ],
+      "media_source_tweet_id": [
+        "2015954080318029833",
+        "2015954080318029833",
+        "2015954080318029833",
+        "2015954080318029833"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016231682060534012",
+    "created_at": "2026-01-27T19:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T20:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016231682060534012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015026740847153152",
+          "start": 3,
+          "username": "j30ez"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CT2kdNoYFT",
+          "end": 50,
+          "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+          "media_key": "3_2015954073741361154",
+          "start": 27,
+          "url": "https://t.co/CT2kdNoYFT"
+        },
+        {
+          "display_url": "pic.x.com/CT2kdNoYFT",
+          "end": 50,
+          "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+          "media_key": "3_2015954073787498496",
+          "start": 27,
+          "url": "https://t.co/CT2kdNoYFT"
+        },
+        {
+          "display_url": "pic.x.com/CT2kdNoYFT",
+          "end": 50,
+          "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+          "media_key": "3_2015954073787490304",
+          "start": 27,
+          "url": "https://t.co/CT2kdNoYFT"
+        },
+        {
+          "display_url": "pic.x.com/CT2kdNoYFT",
+          "end": 50,
+          "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+          "media_key": "3_2015954073779109889",
+          "start": 27,
+          "url": "https://t.co/CT2kdNoYFT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016231682060534012",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015954080318029833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @j30ez: 私(病み垢)の自認だいたいこれ https://t.co/CT2kdNoYFT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2015954073741361154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_objJDbAAI_-5F.jpg",
+        "width": 1280
+      },
+      {
+        "height": 324,
+        "media_key": "3_2015954073787498496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_objJObAAAj7RY.jpg",
+        "width": 576
+      },
+      {
+        "height": 720,
+        "media_key": "3_2015954073787490304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_objJOa4AAV9zT.jpg",
+        "width": 1280
+      },
+      {
+        "height": 578,
+        "media_key": "3_2015954073779109889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_objJMbAAEYz5J.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015954073741361154",
+            "3_2015954073787498496",
+            "3_2015954073787490304",
+            "3_2015954073779109889"
+          ],
+          "media_source_tweet_id": [
+            "2015954080318029833",
+            "2015954080318029833",
+            "2015954080318029833",
+            "2015954080318029833"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016231682060534012",
+        "created_at": "2026-01-27T19:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T20:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016231682060534012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015026740847153152",
+              "start": 3,
+              "username": "j30ez"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CT2kdNoYFT",
+              "end": 50,
+              "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+              "media_key": "3_2015954073741361154",
+              "start": 27,
+              "url": "https://t.co/CT2kdNoYFT"
+            },
+            {
+              "display_url": "pic.x.com/CT2kdNoYFT",
+              "end": 50,
+              "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+              "media_key": "3_2015954073787498496",
+              "start": 27,
+              "url": "https://t.co/CT2kdNoYFT"
+            },
+            {
+              "display_url": "pic.x.com/CT2kdNoYFT",
+              "end": 50,
+              "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+              "media_key": "3_2015954073787490304",
+              "start": 27,
+              "url": "https://t.co/CT2kdNoYFT"
+            },
+            {
+              "display_url": "pic.x.com/CT2kdNoYFT",
+              "end": 50,
+              "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+              "media_key": "3_2015954073779109889",
+              "start": 27,
+              "url": "https://t.co/CT2kdNoYFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016231682060534012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015954080318029833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @j30ez: 私(病み垢)の自認だいたいこれ https://t.co/CT2kdNoYFT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015954073741361154",
+            "3_2015954073787498496",
+            "3_2015954073787490304",
+            "3_2015954073779109889"
+          ]
+        },
+        "author_id": "2015026740847153152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015954080318029833",
+        "created_at": "2026-01-27T01:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T02:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015954080318029833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CT2kdNoYFT",
+              "end": 39,
+              "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+              "media_key": "3_2015954073741361154",
+              "start": 16,
+              "url": "https://t.co/CT2kdNoYFT"
+            },
+            {
+              "display_url": "pic.x.com/CT2kdNoYFT",
+              "end": 39,
+              "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+              "media_key": "3_2015954073787498496",
+              "start": 16,
+              "url": "https://t.co/CT2kdNoYFT"
+            },
+            {
+              "display_url": "pic.x.com/CT2kdNoYFT",
+              "end": 39,
+              "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+              "media_key": "3_2015954073787490304",
+              "start": 16,
+              "url": "https://t.co/CT2kdNoYFT"
+            },
+            {
+              "display_url": "pic.x.com/CT2kdNoYFT",
+              "end": 39,
+              "expanded_url": "https://x.com/j30ez/status/2015954080318029833/photo/1",
+              "media_key": "3_2015954073779109889",
+              "start": 16,
+              "url": "https://t.co/CT2kdNoYFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015954080318029833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 435,
+          "impression_count": 98889,
+          "like_count": 4526,
+          "quote_count": 96,
+          "reply_count": 20,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "私(病み垢)の自認だいたいこれ https://t.co/CT2kdNoYFT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 263,
+          "like_count": 41059,
+          "listed_count": 5,
+          "media_count": 561,
+          "tweet_count": 12104
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T11:40:15.000Z",
+        "description": "09 ツイ廃 病み垢 /サブ@utuutuutusine/厳選@hatumu1231ファンアートタグ▶︎ #はつむのアート",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "はつむのアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "utuutuutusine"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "hatumu1231"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCnUFw…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCnUFwzO177BcwGbEs45eIbg?si=ZxTgWsJ2FB7wnIGh",
+                "start": 0,
+                "url": "https://t.co/7MLIq7h8RX"
+              }
+            ]
+          }
+        },
+        "id": "2015026740847153152",
+        "location": "凍結×10 自己満動画▶︎",
+        "name": "フェニックスはつむ💚⭐️🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015793628010909696/1O1qaXaJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 110,
+          "like_count": 224,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/7MLIq7h8RX",
+        "username": "j30ez",
+        "verified": false
+      }
+    ]
+  }
+}

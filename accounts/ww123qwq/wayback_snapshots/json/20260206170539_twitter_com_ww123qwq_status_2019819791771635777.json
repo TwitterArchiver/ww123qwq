@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2019460541555863564",
+    "created_at": "2026-02-06T17:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T18:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019819791771635777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014799643159494658",
+          "start": 0,
+          "username": "qiqin239298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019819791771635777",
+    "in_reply_to_user_id": "2014799643159494658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019460541555863564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqin239298 伊曲康唑的抑制效果比西柚汁好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2019460541555863564",
+        "created_at": "2026-02-06T17:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019819791771635777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014799643159494658",
+              "start": 0,
+              "username": "qiqin239298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019819791771635777",
+        "in_reply_to_user_id": "2014799643159494658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019460541555863564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqin239298 伊曲康唑的抑制效果比西柚汁好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014799643159494658",
+        "conversation_id": "2019460541555863564",
+        "created_at": "2026-02-05T17:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T18:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019460541555863564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019460541555863564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃了0.4mg*9阿普唑仑配西柚汁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 262,
+          "like_count": 41322,
+          "listed_count": 5,
+          "media_count": 583,
+          "tweet_count": 12188
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T20:37:34.000Z",
+        "description": "-Niniko 其实什么都可以，Ftx 双相情感障碍 od|sh|ed ht160 cw39 gw36 自甘堕落的人，除非被吞了看不到基本都会回，暂时不加任何墙内",
+        "id": "2014799643159494658",
+        "location": "距离你5km",
+        "name": "反流性食管炎",
+        "pinned_tweet_id": "2019646181979439465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017542698757197824/Y9J32OS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 111,
+          "like_count": 1172,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 222
+        },
+        "username": "qiqin239298",
+        "verified": false
+      }
+    ]
+  }
+}

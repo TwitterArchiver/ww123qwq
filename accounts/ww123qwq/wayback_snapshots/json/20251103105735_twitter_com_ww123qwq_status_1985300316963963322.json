@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1984953814055784448"
+      ],
+      "media_source_tweet_id": [
+        "1984953890069245981"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985300316963963322",
+    "created_at": "2025-11-03T10:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T11:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985300316963963322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1950521580288884736",
+          "start": 3,
+          "username": "AmeKam10623"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/saQs9goCog",
+          "end": 45,
+          "expanded_url": "https://x.com/AmeKam10623/status/1984953890069245981/photo/1",
+          "media_key": "16_1984953814055784448",
+          "start": 22,
+          "url": "https://t.co/saQs9goCog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985300316963963322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984953890069245981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmeKam10623: 早期。。 https://t.co/saQs9goCog"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1984953814055784448",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G4v4-iZaEAAyDWr.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G4v4-iZaEAAyDWr.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1984953814055784448"
+          ],
+          "media_source_tweet_id": [
+            "1984953890069245981"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985300316963963322",
+        "created_at": "2025-11-03T10:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985300316963963322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1950521580288884736",
+              "start": 3,
+              "username": "AmeKam10623"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/saQs9goCog",
+              "end": 45,
+              "expanded_url": "https://x.com/AmeKam10623/status/1984953890069245981/photo/1",
+              "media_key": "16_1984953814055784448",
+              "start": 22,
+              "url": "https://t.co/saQs9goCog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985300316963963322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984953890069245981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmeKam10623: 早期。。 https://t.co/saQs9goCog"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1984953814055784448"
+          ]
+        },
+        "author_id": "1950521580288884736",
+        "conversation_id": "1984953890069245981",
+        "created_at": "2025-11-02T12:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T13:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984953890069245981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/saQs9goCog",
+              "end": 28,
+              "expanded_url": "https://x.com/AmeKam10623/status/1984953890069245981/photo/1",
+              "media_key": "16_1984953814055784448",
+              "start": 5,
+              "url": "https://t.co/saQs9goCog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984953890069245981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8991,
+          "like_count": 291,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "早期。。 https://t.co/saQs9goCog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1063487741",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 220,
+          "like_count": 40268,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 10930
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "花沢あめ/花泽雨ame ADHD/边缘性人格障碍/双相/07/泛性戀/isfp/暴力美学 再多了解我一点吧",
+        "id": "1950521580288884736",
+        "location": "🚪199/288/388/520/1314",
+        "name": "あめ",
+        "pinned_tweet_id": "1984762857284850029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976741567936503808/JDjxRGex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6709,
+          "following_count": 127,
+          "like_count": 299,
+          "listed_count": 15,
+          "media_count": 53,
+          "tweet_count": 383
+        },
+        "username": "AmeKam10623",
+        "verified": false
+      }
+    ]
+  }
+}

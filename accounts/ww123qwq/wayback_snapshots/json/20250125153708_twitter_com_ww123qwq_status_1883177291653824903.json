@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1883082371282735362",
+    "created_at": "2025-01-25T15:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T16:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883177291653824903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1558395418110636033",
+          "start": 0,
+          "username": "LeeinCN_Offical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883177291653824903",
+    "in_reply_to_user_id": "1558395418110636033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883082371282735362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeinCN_Offical 我超，轮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1883082371282735362",
+        "created_at": "2025-01-25T15:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T16:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883177291653824903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1558395418110636033",
+              "start": 0,
+              "username": "LeeinCN_Offical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883177291653824903",
+        "in_reply_to_user_id": "1558395418110636033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883082371282735362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeinCN_Offical 我超，轮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883082368141160448"
+          ]
+        },
+        "author_id": "1558395418110636033",
+        "conversation_id": "1883082371282735362",
+        "created_at": "2025-01-25T09:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T10:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883082371282735362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIaxlluMAo",
+              "end": 28,
+              "expanded_url": "https://x.com/LeeinCN_Offical/status/1883082371282735362/photo/1",
+              "media_key": "3_1883082368141160448",
+              "start": 5,
+              "url": "https://t.co/WIaxlluMAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883082371282735362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5172,
+          "like_count": 99,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這什麼錢 https://t.co/WIaxlluMAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，🚪88",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 147,
+          "like_count": 39999,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 10327
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T10:10:12.000Z",
+        "description": "Taiwanese🇹🇼‖廢文很多‖私訊低響應率‖落榜藝術生‖逃生艙@lilaoshuNo1&鎖帳@lilaoshuzuikeai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "lilaoshuNo1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "lilaoshuzuikeai"
+              }
+            ]
+          }
+        },
+        "id": "1558395418110636033",
+        "location": "Taiwan ‖ Chengdu",
+        "name": "Lee老鼠不是米老鼠",
+        "pinned_tweet_id": "1786622156564316240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798977011546984449/ft8z1wEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 871,
+          "like_count": 4390,
+          "listed_count": 5,
+          "media_count": 2654,
+          "tweet_count": 12896
+        },
+        "username": "LeeinCN_Offical",
+        "verified": false
+      }
+    ]
+  }
+}

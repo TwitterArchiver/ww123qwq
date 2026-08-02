@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983427022241079296"
+      ],
+      "media_source_tweet_id": [
+        "1983427025017933953"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983820507612119114",
+    "created_at": "2025-10-30T08:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T09:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983820507612119114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1532058956461375488",
+          "start": 3,
+          "username": "crivirdo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VD079YXTk3",
+          "end": 37,
+          "expanded_url": "https://x.com/crivirdo/status/1983427025017933953/photo/1",
+          "media_key": "3_1983427022241079296",
+          "start": 14,
+          "url": "https://t.co/VD079YXTk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983820507612119114",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 720
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983427025017933953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crivirdo: https://t.co/VD079YXTk3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1983427022241079296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4aMXjqXIAAEaeU.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983427022241079296"
+          ],
+          "media_source_tweet_id": [
+            "1983427025017933953"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983820507612119114",
+        "created_at": "2025-10-30T08:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T09:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983820507612119114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1532058956461375488",
+              "start": 3,
+              "username": "crivirdo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VD079YXTk3",
+              "end": 37,
+              "expanded_url": "https://x.com/crivirdo/status/1983427025017933953/photo/1",
+              "media_key": "3_1983427022241079296",
+              "start": 14,
+              "url": "https://t.co/VD079YXTk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983820507612119114",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 720
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983427025017933953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crivirdo: https://t.co/VD079YXTk3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983427022241079296"
+          ]
+        },
+        "author_id": "1532058956461375488",
+        "conversation_id": "1983427025017933953",
+        "created_at": "2025-10-29T06:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T07:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983427025017933953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VD079YXTk3",
+              "end": 23,
+              "expanded_url": "https://x.com/crivirdo/status/1983427025017933953/photo/1",
+              "media_key": "3_1983427022241079296",
+              "start": 0,
+              "url": "https://t.co/VD079YXTk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983427025017933953",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 33749,
+          "like_count": 5544,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 720
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VD079YXTk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 215,
+          "like_count": 40206,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 10846
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T17:58:24.000Z",
+        "description": "Dont report just block!! Thank youc: | I dont fb ppl under 15 and I would prefer if you didnt follow thx &stay safe🫶 | priv: @crivird0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "crivird0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crivirdo.straw.page",
+                "end": 23,
+                "expanded_url": "https://crivirdo.straw.page/",
+                "start": 0,
+                "url": "https://t.co/UFhQWUkO70"
+              }
+            ]
+          }
+        },
+        "id": "1532058956461375488",
+        "location": "He/HIM,, 🇩🇰",
+        "name": "riຖ ໐f Şhtຟt 🍊 // Inpatient",
+        "pinned_tweet_id": "1924206410297991310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924205142410153985/DIk-b4Sh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 796,
+          "like_count": 9996,
+          "listed_count": 9,
+          "media_count": 574,
+          "tweet_count": 2168
+        },
+        "url": "https://t.co/UFhQWUkO70",
+        "username": "crivirdo",
+        "verified": false
+      }
+    ]
+  }
+}

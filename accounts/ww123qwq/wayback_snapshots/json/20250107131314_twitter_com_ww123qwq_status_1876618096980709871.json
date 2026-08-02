@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1876564475543003463",
+    "created_at": "2025-01-07T13:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T14:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876618096980709871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1598723832230998016",
+          "start": 0,
+          "username": "Kotorixxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876618096980709871",
+    "in_reply_to_user_id": "1598723832230998016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876564475543003463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kotorixxxxxx 可爱？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1876564475543003463",
+        "created_at": "2025-01-07T13:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T14:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876618096980709871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598723832230998016",
+              "start": 0,
+              "username": "Kotorixxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876618096980709871",
+        "in_reply_to_user_id": "1598723832230998016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876564475543003463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kotorixxxxxx 可爱？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876564245950963713"
+          ]
+        },
+        "author_id": "1598723832230998016",
+        "conversation_id": "1876564475543003463",
+        "created_at": "2025-01-07T09:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T10:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876564475543003463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzHQ2UCW9I",
+              "end": 47,
+              "expanded_url": "https://x.com/Kotorixxxxxx/status/1876564475543003463/photo/1",
+              "media_key": "3_1876564245950963713",
+              "start": 24,
+              "url": "https://t.co/bzHQ2UCW9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876564475543003463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1062,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "芙蓉王（买来就是当常服穿的233 混入地球人！ https://t.co/bzHQ2UCW9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 124,
+          "like_count": 39621,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 10162
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T17:00:54.000Z",
+        "description": "希望大家都能开心呢",
+        "id": "1598723832230998016",
+        "location": "成都",
+        "name": "南小彩🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787455166813544448/EdRCLjMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7797,
+          "following_count": 579,
+          "like_count": 3854,
+          "listed_count": 20,
+          "media_count": 408,
+          "tweet_count": 3812
+        },
+        "username": "Kotorixxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

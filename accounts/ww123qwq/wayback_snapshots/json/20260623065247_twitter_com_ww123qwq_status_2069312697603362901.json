@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2069126007794376923",
+    "created_at": "2026-06-23T06:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T07:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069312697603362901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051195377420992512",
+          "start": 0,
+          "username": "Rain7x6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069312697603362901",
+    "in_reply_to_user_id": "2051195377420992512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069126007794376923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain7x6y 给你用的局麻吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069125989821751296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLcDIALaoAAwbVn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2069126007794376923",
+        "created_at": "2026-06-23T06:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T07:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069312697603362901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051195377420992512",
+              "start": 0,
+              "username": "Rain7x6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069312697603362901",
+        "in_reply_to_user_id": "2051195377420992512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069126007794376923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain7x6y 给你用的局麻吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069125989821751296"
+          ]
+        },
+        "author_id": "2051195377420992512",
+        "conversation_id": "2069126007794376923",
+        "created_at": "2026-06-22T18:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069126007794376923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSzivoCPDD",
+              "end": 27,
+              "expanded_url": "https://x.com/Rain7x6y/status/2069126007794376923/photo/1",
+              "media_key": "3_2069125989821751296",
+              "start": 4,
+              "url": "https://t.co/JSzivoCPDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069126007794376923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呵呵呵 https://t.co/JSzivoCPDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 277,
+          "like_count": 43025,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 13025
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T07:03:35.000Z",
+        "description": "",
+        "id": "2051195377420992512",
+        "name": "冬雪Rain2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060579127489617920/-COMe4oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 117,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "Rain7x6y",
+        "verified": false
+      }
+    ]
+  }
+}

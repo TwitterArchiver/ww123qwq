@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982570405668814848"
+      ],
+      "media_source_tweet_id": [
+        "1982570407699095632"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983101854423888212",
+    "created_at": "2025-10-28T09:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T10:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983101854423888212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734307035812933632",
+          "start": 3,
+          "username": "mimsknew"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FGcuE41AQ5",
+          "end": 37,
+          "expanded_url": "https://x.com/mimsknew/status/1982570407699095632/photo/1",
+          "media_key": "3_1982570405668814848",
+          "start": 14,
+          "url": "https://t.co/FGcuE41AQ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983101854423888212",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4596
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982570407699095632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimsknew: https://t.co/FGcuE41AQ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_1982570405668814848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OBR6QXgAAoHpG.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982570405668814848"
+          ],
+          "media_source_tweet_id": [
+            "1982570407699095632"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983101854423888212",
+        "created_at": "2025-10-28T09:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983101854423888212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734307035812933632",
+              "start": 3,
+              "username": "mimsknew"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGcuE41AQ5",
+              "end": 37,
+              "expanded_url": "https://x.com/mimsknew/status/1982570407699095632/photo/1",
+              "media_key": "3_1982570405668814848",
+              "start": 14,
+              "url": "https://t.co/FGcuE41AQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983101854423888212",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4596
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982570407699095632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimsknew: https://t.co/FGcuE41AQ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982570405668814848"
+          ]
+        },
+        "author_id": "1734307035812933632",
+        "conversation_id": "1982570407699095632",
+        "created_at": "2025-10-26T22:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T23:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982570407699095632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGcuE41AQ5",
+              "end": 23,
+              "expanded_url": "https://x.com/mimsknew/status/1982570407699095632/photo/1",
+              "media_key": "3_1982570405668814848",
+              "start": 0,
+              "url": "https://t.co/FGcuE41AQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982570407699095632",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1862,
+          "impression_count": 152612,
+          "like_count": 20556,
+          "quote_count": 177,
+          "reply_count": 49,
+          "retweet_count": 4596
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FGcuE41AQ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 210,
+          "like_count": 40135,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 10783
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T20:20:19.000Z",
+        "description": "ᯓ★ˎˊ˗ edtwt sw131 cw106 ugw96 BMI 17.6 Dms open alt @worstjunkrexic FR/ENG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "worstjunkrexic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "archiveofourown.org/users/Microwav…",
+                "end": 23,
+                "expanded_url": "https://archiveofourown.org/users/Microwavedplastic",
+                "start": 0,
+                "url": "https://t.co/ASudNxxduI"
+              }
+            ]
+          }
+        },
+        "id": "1734307035812933632",
+        "name": "Mims",
+        "pinned_tweet_id": "1966235351141470577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982670295862284288/Wzeo272L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 974,
+          "like_count": 7947,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 3193
+        },
+        "url": "https://t.co/ASudNxxduI",
+        "username": "mimsknew",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993964708274307072"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1993964711642312744",
+    "created_at": "2025-11-27T08:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T09:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993964711642312744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YkAuC39wIH",
+          "end": 74,
+          "expanded_url": "https://x.com/ww123qwq/status/1993964711642312744/photo/1",
+          "media_key": "3_1993964708274307072",
+          "start": 51,
+          "url": "https://t.co/YkAuC39wIH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993964711642312744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你花200请女神吃饭，女神会嫌弃餐厅低档视你为舔狗。\n你花200请od妹od，那你就是她眼中的神明。 https://t.co/YkAuC39wIH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_1993964708274307072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6v8VnNbAAAmzmI.jpg",
+        "width": 1051
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993964708274307072"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1993964711642312744",
+        "created_at": "2025-11-27T08:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993964711642312744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YkAuC39wIH",
+              "end": 74,
+              "expanded_url": "https://x.com/ww123qwq/status/1993964711642312744/photo/1",
+              "media_key": "3_1993964708274307072",
+              "start": 51,
+              "url": "https://t.co/YkAuC39wIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993964711642312744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你花200请女神吃饭，女神会嫌弃餐厅低档视你为舔狗。\n你花200请od妹od，那你就是她眼中的神明。 https://t.co/YkAuC39wIH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 261,
+          "like_count": 40722,
+          "listed_count": 3,
+          "media_count": 405,
+          "tweet_count": 11625
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

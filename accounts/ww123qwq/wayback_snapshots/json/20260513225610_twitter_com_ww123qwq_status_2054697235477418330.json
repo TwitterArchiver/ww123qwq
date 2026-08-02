@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2054441137205887310",
+    "created_at": "2026-05-13T22:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T23:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054697235477418330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768935696646238208",
+          "start": 0,
+          "username": "PsycheRabbiiOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054697235477418330",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054441137205887310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PsycheRabbiiOwO 用氢氟酸还是，下油锅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1835,
+        "media_key": "3_2054441129639358464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILXUpAbMAARcuX.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2054441137205887310",
+        "created_at": "2026-05-13T22:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T23:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054697235477418330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054697235477418330",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054441137205887310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 用氢氟酸还是，下油锅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054441129639358464"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2054441137205887310",
+        "created_at": "2026-05-13T05:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054441137205887310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4awa7kHpg",
+              "end": 34,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2054441137205887310/photo/1",
+              "media_key": "3_2054441129639358464",
+              "start": 11,
+              "url": "https://t.co/F4awa7kHpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054441137205887310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 30306,
+          "like_count": 166,
+          "quote_count": 6,
+          "reply_count": 54,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "自切一定要销毁！！！ https://t.co/F4awa7kHpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 280,
+          "like_count": 42716,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12818
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 1462,
+          "like_count": 13300,
+          "listed_count": 2,
+          "media_count": 270,
+          "tweet_count": 2394
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

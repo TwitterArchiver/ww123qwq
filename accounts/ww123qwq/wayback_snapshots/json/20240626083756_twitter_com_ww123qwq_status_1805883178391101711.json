@@ -1,0 +1,235 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1804857256883941376"
+      ],
+      "media_source_tweet_id": [
+        "1804857265419370504"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1805883178391101711",
+    "created_at": "2024-06-26T08:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T09:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805883178391101711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1608112197200408576",
+          "start": 3,
+          "username": "___z_z_oO_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/FJHlKMFxCz",
+          "end": 39,
+          "expanded_url": "https://twitter.com/___z_z_oO_/status/1804857265419370504/photo/1",
+          "media_key": "3_1804857256883941376",
+          "start": 16,
+          "url": "https://t.co/FJHlKMFxCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805883178391101711",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1621
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804857265419370504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @___z_z_oO_: https://t.co/FJHlKMFxCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1804857256883941376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQwkHNLacAAMXsn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804857256883941376"
+          ],
+          "media_source_tweet_id": [
+            "1804857265419370504"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1805883178391101711",
+        "created_at": "2024-06-26T08:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T09:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805883178391101711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1608112197200408576",
+              "start": 3,
+              "username": "___z_z_oO_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FJHlKMFxCz",
+              "end": 39,
+              "expanded_url": "https://twitter.com/___z_z_oO_/status/1804857265419370504/photo/1",
+              "media_key": "3_1804857256883941376",
+              "start": 16,
+              "url": "https://t.co/FJHlKMFxCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805883178391101711",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1621
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804857265419370504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @___z_z_oO_: https://t.co/FJHlKMFxCz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804857256883941376"
+          ]
+        },
+        "author_id": "1608112197200408576",
+        "conversation_id": "1804857265419370504",
+        "created_at": "2024-06-23T12:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T13:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804857265419370504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FJHlKMFxCz",
+              "end": 23,
+              "expanded_url": "https://twitter.com/___z_z_oO_/status/1804857265419370504/photo/1",
+              "media_key": "3_1804857256883941376",
+              "start": 0,
+              "url": "https://t.co/FJHlKMFxCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804857265419370504",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1483,
+          "impression_count": 216460,
+          "like_count": 18354,
+          "quote_count": 30,
+          "reply_count": 28,
+          "retweet_count": 1621
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FJHlKMFxCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 106,
+          "like_count": 40282,
+          "listed_count": 0,
+          "tweet_count": 10291
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T14:48:01.000Z",
+        "description": "人生踏んだり蹴ったり切ったり飲んだりです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7c9kt4yg9j7r9q…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/7c9kt4yg9j7r9qz?t=WAzj1o&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/lY7LT4ILWG"
+              }
+            ]
+          }
+        },
+        "id": "1608112197200408576",
+        "location": "病絵垢・ネガツイ有・依頼DM",
+        "name": "うりゃ。",
+        "pinned_tweet_id": "1791397828788650173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769754318910201856/C9EbnFVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7090,
+          "following_count": 116,
+          "like_count": 2005,
+          "listed_count": 30,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/lY7LT4ILWG",
+        "username": "___z_z_oO_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983551548753076268",
+    "created_at": "2025-10-29T15:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T16:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983551548753076268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983551548753076268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983451202781319186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 为什么睿鹤和喜思平药效差异如此之大？\n（AI回复）\n\n先放结论（最可能的原因从强到弱）\n1.两家做法不同：粉末 vs 小颗粒/小丸（颗粒包衣） → 溶出速度不一样，所以上劲体感不一样。\n2.Cmax/Tmax 曲线形状不一样（上升有多陡），尽管总…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983551548753076268",
+        "created_at": "2025-10-29T15:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983551548753076268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983551548753076268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983451202781319186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 为什么睿鹤和喜思平药效差异如此之大？\n（AI回复）\n\n先放结论（最可能的原因从强到弱）\n1.两家做法不同：粉末 vs 小颗粒/小丸（颗粒包衣） → 溶出速度不一样，所以上劲体感不一样。\n2.Cmax/Tmax 曲线形状不一样（上升有多陡），尽管总…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "1983451202781319186",
+        "created_at": "2025-10-29T08:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T09:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983451202781319186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983451202781319186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么睿鹤和喜思平药效差异如此之大？\n（AI回复）\n\n先放结论（最可能的原因从强到弱）\n1.两家做法不同：粉末 vs 小颗粒/小丸（颗粒包衣） → 溶出速度不一样，所以上劲体感不一样。\n2.Cmax/Tmax 曲线形状不一样（上升有多陡），尽管总吸收AUC差不多。\n\n1. 制剂工艺：为什么同一成分还能“上头速度”差这么多？\n\n普瑞巴林是一个水溶性很高的小分子氨基酸类似物，本身并不需要特别复杂的载体才能吸收；理论上任何通过一致性评价的仿制胶囊，口服后最终进血的总量（AUC）应该接近原研（乐瑞卡/Lyrica/喜思平系），生物利用度都可以到90%以上。 \n但——“多久升到那个血药峰值”“峰值爬得多陡”并不是监管里最严的指标，只要还在允许区间内，它可以有性格差。\n\n常见两种做法：\n•直接填粉型（很多便宜仿制/集采厂）： 把普瑞巴林的晶体/微粉+少量崩解辅料（淀粉、微晶纤维素、乳糖、聚维酮之类）直接灌进硬明胶胶囊。\n这种一到胃里，胶囊壳化掉，里面就是散粉，几乎立刻分散 -> 很快就能被小肠吸收。结果就是：血药浓度上升很陡，主观“冲、松、想贴人”来得突然。\n这类往往就是你说的“睿鹤”：在滥用圈子里它被夸成“上得最快、最冲、性价比最高的150 mg国产普瑞巴林”，甚至被拿来和喜斯平、亚宝、龙赛特对比，说其他都没它猛。 \n这个评价基本就是在夸它Tmax短、Cmax陡。\n•小颗粒/微丸型（一些高价/老牌厂家，比如‘喜斯平’那一路）： 胶囊里不是松散粉末，而是一堆小颗粒/小丸，每一颗都做过轻微的黏合、致密，甚至有一点点包衣（注意：不是正式“缓释片/缓释胶囊”，只是让溶出更平滑，避免一下子全散）。\n这会让药粉溶出来慢一些，胃排空+小肠吸收的节奏更平顺。所以体感是：不是“啪一下脑袋糊掉”，而是慢慢暖、慢慢松。\n用户主观上就会说“喜斯平怎么这么慢啊”。\n\n总结成一句：睿鹤像是速溶咖啡，喜斯平像是现磨手冲。\n咖啡因最后都会进你血，但刺激的立起边是完全不一样的。\n\n⸻\n\n2. 为什么“上得猛”会被觉得更好？\n\n普瑞巴林带来的那种“整个人软掉、社交欲/贴贴欲上升、边界感变薄”的愉悦，很大一块其实是血药浓度快速爬坡时的大脑反应，有点像瞬间从0到1，而不是慢慢从0到0.2再到0.4。\n\n换句话说：\n•同样150 mg，谁的Tmax更早、Cmax上升更陡 → 谁更像“马上醉一口”。\n•谁更平滑，就更像慢慢困、慢慢融掉，甚至会让人误判成“没上来，我是不是需要再吃一粒”，从而过量。\n\n监管看的是疗效/安全（镇痛、抗惊厥、纤维肌痛之类），这些都跟整体暴露量有关；而你在意的是“rush感/情绪开放度/想撒娇的那一下”，这更多受“上升曲线的斜率”影响，后者在仿制之间确实可以肉眼不同，即使说明书上两边都写着“普瑞巴林胶囊 150 mg，可与或不与食物同服，每日2次”等标准话。 \n\n所以：你不是幻觉。你感到的差别在药动学上是合理的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2686,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么睿鹤和喜思平药效差异如此之大？\n（AI回复）\n\n先放结论（最可能的原因从强到弱）\n1.两家做法不同：粉末 vs 小颗粒/小丸（颗粒包衣） → 溶出速度不一样，所以上劲体感不一样。\n2.Cmax/Tmax 曲线形状不一样（上升有多陡），尽管总吸收AUC差不多。\n\n1."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 208,
+          "like_count": 40169,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 10806
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "小雨不乖，请你抱紧。🌧Transfem·HRT since2022🍥CS→Fullstack/LLM🌐双相情感障碍💔blogger✒️旅游✈历史📚政治🕴️暴论📢 #odtwt #お薬もぐもぐ #藥物濫用 #shtwt #drugtwt #メンヘラ #病み垢さんと繋がりたい ❤🩵@wawoqu2772",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "odtwt"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "tag": "お薬もぐもぐ"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "藥物濫用"
+              },
+              {
+                "end": 108,
+                "start": 102,
+                "tag": "shtwt"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "wawoqu2772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "1981300758495842461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4252,
+          "following_count": 1502,
+          "like_count": 21328,
+          "listed_count": 12,
+          "media_count": 763,
+          "tweet_count": 7049
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

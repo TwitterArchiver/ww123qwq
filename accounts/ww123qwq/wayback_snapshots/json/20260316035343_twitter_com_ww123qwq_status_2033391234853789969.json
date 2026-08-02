@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2032760985946370438",
+    "created_at": "2026-03-16T03:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T04:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033391234853789969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1965380107557896195",
+          "start": 0,
+          "username": "SouWu64708"
+        },
+        {
+          "end": 26,
+          "id": "1916824571128287232",
+          "start": 12,
+          "username": "fayoubaike666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033391234853789969",
+    "in_reply_to_user_id": "1965380107557896195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032785600496152993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SouWu64708 @fayoubaike666 加巴喷叮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2032760985946370438",
+        "created_at": "2026-03-16T03:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T04:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033391234853789969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1965380107557896195",
+              "start": 0,
+              "username": "SouWu64708"
+            },
+            {
+              "end": 26,
+              "id": "1916824571128287232",
+              "start": 12,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033391234853789969",
+        "in_reply_to_user_id": "1965380107557896195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032785600496152993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SouWu64708 @fayoubaike666 加巴喷叮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965380107557896195",
+        "conversation_id": "2032760985946370438",
+        "created_at": "2026-03-14T11:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032785600496152993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916824571128287232",
+              "start": 0,
+              "username": "fayoubaike666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032785600496152993",
+        "in_reply_to_user_id": "1916824571128287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2473,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032760985946370438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike666 下一个普瑞巴林是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图/药物咨询/支持usdt。/上海/日本/匿名提问https://t.co/yODqqgeu12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/yinai",
+                "end": 128,
+                "expanded_url": "https://miyu.link/yinai",
+                "start": 105,
+                "url": "https://t.co/yODqqgeu12"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 262,
+          "like_count": 41870,
+          "listed_count": 4,
+          "media_count": 644,
+          "tweet_count": 12436
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T11:42:04.000Z",
+        "description": "",
+        "id": "1965380107557896195",
+        "name": "緒山星奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027006704173625344/v7atgr0x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 307,
+          "like_count": 2534,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 256
+        },
+        "username": "SouWu64708",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "由法友百科Sakura与Meng运营\n个人博客：https://t.co/N5OWFEYlEo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 47,
+                "expanded_url": "https://pr80.bid/",
+                "start": 24,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 23,
+                "expanded_url": "https://pr80.bid/",
+                "start": 0,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          }
+        },
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "法友百科#物质研究",
+        "pinned_tweet_id": "2031291592368337051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 359,
+          "like_count": 162,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/N5OWFEYlEo",
+        "username": "fayoubaike666",
+        "verified": false
+      }
+    ]
+  }
+}

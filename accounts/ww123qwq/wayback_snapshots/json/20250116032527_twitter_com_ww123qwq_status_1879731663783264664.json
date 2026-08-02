@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "1879731663783264664",
+    "created_at": "2025-01-16T03:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T04:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879731663783264664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1580969668491476992",
+          "start": 3,
+          "username": "Maidens_Reve"
+        },
+        {
+          "end": 121,
+          "id": "1580969668491476992",
+          "start": 108,
+          "username": "Maidens_Reve"
+        }
+      ],
+      "urls": [
+        {
+          "description": "【セット内容】・ジャケット【サイズ】（cm）フリーサイズ肩幅：44バスト：120着丈：77上記のサイズ表はあくまでも参考であり、実際の場合は1cm～3cmの誤差が生じる場合がございますので何卒ご了承お願いいたします。ご注文から30〜45営業日で発送予定製品によってサイズ・色味に若干の個体差が生じる場合がございます。撮影状況やご覧になる環境（端末・モニター）により、実物の色味、質感等が商品写真と異なって見える場合がございます。管理番号2307",
+          "display_url": "maidensreve.kawaiishop.jp/items/95302926",
+          "end": 98,
+          "expanded_url": "https://maidensreve.kawaiishop.jp/items/95302926",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/1879453609433391104/lB50FJfN?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1879453609433391104/lB50FJfN?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 75,
+          "status": 200,
+          "title": "地雷系・天使界隈うさ耳レースジャケット | Maiden's Rêve",
+          "unwound_url": "https://maidensreve.kawaiishop.jp/items/95302926",
+          "url": "https://t.co/CXdRS5WKRt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879731663783264664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 434
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879453553363943520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maidens_Reve: 💕Maiden's Rêve\n    プレゼントキャンペーン°˖✧\n\n🎁地雷系・天使界隈うさ耳レースジャケット🎁\nhttps://t.co/CXdRS5WKRt\n\n🎀参加条件🎀\n→@Maidens_Reveをフォロー\n→このツイートをRT…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1879731663783264664",
+        "created_at": "2025-01-16T03:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T04:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879731663783264664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1580969668491476992",
+              "start": 3,
+              "username": "Maidens_Reve"
+            },
+            {
+              "end": 121,
+              "id": "1580969668491476992",
+              "start": 108,
+              "username": "Maidens_Reve"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【セット内容】・ジャケット【サイズ】（cm）フリーサイズ肩幅：44バスト：120着丈：77上記のサイズ表はあくまでも参考であり、実際の場合は1cm～3cmの誤差が生じる場合がございますので何卒ご了承お願いいたします。ご注文から30〜45営業日で発送予定製品によってサイズ・色味に若干の個体差が生じる場合がございます。撮影状況やご覧になる環境（端末・モニター）により、実物の色味、質感等が商品写真と異なって見える場合がございます。管理番号2307",
+              "display_url": "maidensreve.kawaiishop.jp/items/95302926",
+              "end": 98,
+              "expanded_url": "https://maidensreve.kawaiishop.jp/items/95302926",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/1879453609433391104/lB50FJfN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1879453609433391104/lB50FJfN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 75,
+              "status": 200,
+              "title": "地雷系・天使界隈うさ耳レースジャケット | Maiden's Rêve",
+              "unwound_url": "https://maidensreve.kawaiishop.jp/items/95302926",
+              "url": "https://t.co/CXdRS5WKRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879731663783264664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 434
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879453553363943520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maidens_Reve: 💕Maiden's Rêve\n    プレゼントキャンペーン°˖✧\n\n🎁地雷系・天使界隈うさ耳レースジャケット🎁\nhttps://t.co/CXdRS5WKRt\n\n🎀参加条件🎀\n→@Maidens_Reveをフォロー\n→このツイートをRT…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879453539178868737",
+            "3_1879453549396123648"
+          ]
+        },
+        "author_id": "1580969668491476992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1879453553363943520",
+        "created_at": "2025-01-15T09:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T10:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879453553363943520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 103,
+              "id": "1580969668491476992",
+              "start": 90,
+              "username": "Maidens_Reve"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【セット内容】・ジャケット【サイズ】（cm）フリーサイズ肩幅：44バスト：120着丈：77上記のサイズ表はあくまでも参考であり、実際の場合は1cm～3cmの誤差が生じる場合がございますので何卒ご了承お願いいたします。ご注文から30〜45営業日で発送予定製品によってサイズ・色味に若干の個体差が生じる場合がございます。撮影状況やご覧になる環境（端末・モニター）により、実物の色味、質感等が商品写真と異なって見える場合がございます。管理番号2307",
+              "display_url": "maidensreve.kawaiishop.jp/items/95302926",
+              "end": 80,
+              "expanded_url": "https://maidensreve.kawaiishop.jp/items/95302926",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/1879453609433391104/lB50FJfN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1879453609433391104/lB50FJfN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "地雷系・天使界隈うさ耳レースジャケット | Maiden's Rêve",
+              "unwound_url": "https://maidensreve.kawaiishop.jp/items/95302926",
+              "url": "https://t.co/CXdRS5WKRt"
+            },
+            {
+              "display_url": "pic.x.com/mrYLXKemck",
+              "end": 187,
+              "expanded_url": "https://x.com/Maidens_Reve/status/1879453553363943520/photo/1",
+              "media_key": "3_1879453539178868737",
+              "start": 164,
+              "url": "https://t.co/mrYLXKemck"
+            },
+            {
+              "display_url": "pic.x.com/mrYLXKemck",
+              "end": 187,
+              "expanded_url": "https://x.com/Maidens_Reve/status/1879453553363943520/photo/1",
+              "media_key": "3_1879453549396123648",
+              "start": 164,
+              "url": "https://t.co/mrYLXKemck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879453553363943520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 16021,
+          "like_count": 376,
+          "quote_count": 20,
+          "reply_count": 92,
+          "retweet_count": 434
+        },
+        "reply_settings": "everyone",
+        "text": "💕Maiden's Rêve\n    プレゼントキャンペーン°˖✧\n\n🎁地雷系・天使界隈うさ耳レースジャケット🎁\nhttps://t.co/CXdRS5WKRt\n\n🎀参加条件🎀\n→@Maidens_Reveをフォロー\n→このツイートをRT\n\n🎀締め切り🎀\n　2月15日\n\n❣ご希望のカラーをコメント/引用RTで当選確率アップ❣ https://t.co/mrYLXKemck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 142,
+          "like_count": 39916,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 10271
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T17:12:21.000Z",
+        "description": "ロリータ・地雷系・量産型、可愛い服を多数取り扱っているファッションサイトです。♡\n無料プレゼント抽選キャンペーンを開催しますのでたくさん応募してください♡\n※偽アカウントにご注意ください！※",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maidensreve.kawaiishop.jp",
+                "end": 23,
+                "expanded_url": "https://maidensreve.kawaiishop.jp/",
+                "start": 0,
+                "url": "https://t.co/d6n3EENLy8"
+              }
+            ]
+          }
+        },
+        "id": "1580969668491476992",
+        "location": "♡みんなで可愛くなりましょう♡",
+        "name": "Maiden's Rêve❤（メイデンズ・レーブ）",
+        "pinned_tweet_id": "1874787755496218975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583369042114805760/ReSLCbkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87400,
+          "following_count": 4144,
+          "like_count": 6,
+          "listed_count": 637,
+          "media_count": 8303,
+          "tweet_count": 9853
+        },
+        "url": "https://t.co/d6n3EENLy8",
+        "username": "Maidens_Reve",
+        "verified": true
+      }
+    ]
+  }
+}

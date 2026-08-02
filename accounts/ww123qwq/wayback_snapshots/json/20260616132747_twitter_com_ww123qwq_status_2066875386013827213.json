@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "2063215677377495087",
+    "created_at": "2026-06-16T13:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066875386013827213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1479187565530198017",
+          "start": 0,
+          "username": "tt_lv_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066875386013827213",
+    "in_reply_to_user_id": "1479187565530198017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063215677377495087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tt_lv_ 截图在WeChat用🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2063215671115382784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIDuLPaAAAT3EH.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2063215677377495087",
+        "created_at": "2026-06-16T13:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066875386013827213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1479187565530198017",
+              "start": 0,
+              "username": "tt_lv_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066875386013827213",
+        "in_reply_to_user_id": "1479187565530198017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063215677377495087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tt_lv_ 截图在WeChat用🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063215671115382784"
+          ]
+        },
+        "author_id": "1479187565530198017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2063215677377495087",
+        "created_at": "2026-06-06T11:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063215677377495087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "These stickers were made in LINE Sticker Maker.",
+              "display_url": "line.me/S/sticker/3431…",
+              "end": 76,
+              "expanded_url": "https://line.me/S/sticker/34317266?_from=lcm",
+              "images": [
+                {
+                  "height": 240,
+                  "url": "https://pbs.twimg.com/news_img/2065828839302049792/MklNOl_U?format=png&name=orig",
+                  "width": 240
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065828839302049792/MklNOl_U?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "lobster_20260517172055 – LINE stickers | LINE STORE",
+              "unwound_url": "https://store.line.me/stickershop/product/34317266",
+              "url": "https://t.co/OUll2iyVZN"
+            },
+            {
+              "display_url": "pic.x.com/SNNwU9PtwH",
+              "end": 100,
+              "expanded_url": "https://x.com/tt_lv_/status/2063215677377495087/photo/1",
+              "media_key": "3_2063215671115382784",
+              "start": 77,
+              "url": "https://t.co/SNNwU9PtwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063215677377495087",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 224129,
+          "like_count": 2581,
+          "quote_count": 87,
+          "reply_count": 43,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "チャンネル登録者5万人記念でLINEスタンプが発売開始しました！\nろぶたさんを可愛がってやってください🙌\nhttps://t.co/OUll2iyVZN https://t.co/SNNwU9PtwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 266,
+          "like_count": 42734,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 12908
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T20:26:35.000Z",
+        "description": "Splatoon3 XP4973 全ルールXP4200↑ フェス1位12回 Xマッチ最終1位8回 ガチキング決定戦グランドファイナル優勝 初代センバツイベントマッチ1位 \nFA:#ろぶた絵 サブ@tt_Iv_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "ろぶた絵"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 97,
+                "username": "tt_Iv_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lob_star_?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@lob_star_?si=RWJZkWfxh3WaBdVx",
+                "start": 0,
+                "url": "https://t.co/JC03djHCyg"
+              }
+            ]
+          }
+        },
+        "id": "1479187565530198017",
+        "name": "ろぶすた〜",
+        "pinned_tweet_id": "2028405266509910499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882639882516140034/U2ZFiufG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34221,
+          "following_count": 813,
+          "like_count": 28936,
+          "listed_count": 129,
+          "media_count": 1972,
+          "tweet_count": 34077
+        },
+        "url": "https://t.co/JC03djHCyg",
+        "username": "tt_lv_",
+        "verified": false
+      }
+    ]
+  }
+}

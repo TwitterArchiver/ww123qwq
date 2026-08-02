@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067559391994560512"
+      ],
+      "media_source_tweet_id": [
+        "2067559398348865632"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2067645667221320005",
+    "created_at": "2026-06-18T16:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067645667221320005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1722230637627899904",
+          "start": 3,
+          "username": "ma1ma1helmes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TTUu3CVdQT",
+          "end": 74,
+          "expanded_url": "https://x.com/ma1ma1helmes/status/2067559398348865632/photo/1",
+          "media_key": "3_2067559391994560512",
+          "start": 51,
+          "url": "https://t.co/TTUu3CVdQT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067645667221320005",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067559398348865632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ma1ma1helmes: 脳内快楽物質\n\n※AIイラスト\n フリーイラスト・フリーアイコン https://t.co/TTUu3CVdQT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2067559391994560512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFyUAfbwAAnXLq.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067559391994560512"
+          ],
+          "media_source_tweet_id": [
+            "2067559398348865632"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2067645667221320005",
+        "created_at": "2026-06-18T16:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067645667221320005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1722230637627899904",
+              "start": 3,
+              "username": "ma1ma1helmes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTUu3CVdQT",
+              "end": 74,
+              "expanded_url": "https://x.com/ma1ma1helmes/status/2067559398348865632/photo/1",
+              "media_key": "3_2067559391994560512",
+              "start": 51,
+              "url": "https://t.co/TTUu3CVdQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067645667221320005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067559398348865632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ma1ma1helmes: 脳内快楽物質\n\n※AIイラスト\n フリーイラスト・フリーアイコン https://t.co/TTUu3CVdQT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067559391994560512"
+          ]
+        },
+        "author_id": "1722230637627899904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2067559398348865632",
+        "created_at": "2026-06-18T10:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067559398348865632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTUu3CVdQT",
+              "end": 56,
+              "expanded_url": "https://x.com/ma1ma1helmes/status/2067559398348865632/photo/1",
+              "media_key": "3_2067559391994560512",
+              "start": 33,
+              "url": "https://t.co/TTUu3CVdQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067559398348865632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1866,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "脳内快楽物質\n\n※AIイラスト\n フリーイラスト・フリーアイコン https://t.co/TTUu3CVdQT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 271,
+          "like_count": 42831,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12966
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T12:32:49.000Z",
+        "description": "『病んでる姿こそ麗しい』,Niji journey,声劇台本,サブ垢 @kana48a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "kana48a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kurumai",
+                "end": 23,
+                "expanded_url": "http://lit.link/kurumai",
+                "start": 0,
+                "url": "https://t.co/UMkzcucj7W"
+              }
+            ]
+          }
+        },
+        "id": "1722230637627899904",
+        "location": "06:有償依頼お待ちしてます",
+        "name": "まいﾏｲﾂﾑﾘ/mai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062432685931606016/LdnP0b4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5668,
+          "following_count": 210,
+          "like_count": 28386,
+          "listed_count": 24,
+          "media_count": 3293,
+          "tweet_count": 7060
+        },
+        "url": "https://t.co/UMkzcucj7W",
+        "username": "ma1ma1helmes",
+        "verified": false
+      }
+    ]
+  }
+}

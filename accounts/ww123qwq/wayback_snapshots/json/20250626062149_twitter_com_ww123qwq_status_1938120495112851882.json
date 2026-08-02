@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1937695640764711194",
+    "created_at": "2025-06-26T06:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T07:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938120495112851882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1899975409124728833",
+          "start": 0,
+          "username": "Rose_jaune_uu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938120495112851882",
+    "in_reply_to_user_id": "1899975409124728833",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937695640764711194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rose_jaune_uu xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1937695629859561472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuQT6LSbIAA-_ti.jpg",
+        "width": 1309
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1937695640764711194",
+        "created_at": "2025-06-26T06:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T07:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938120495112851882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1899975409124728833",
+              "start": 0,
+              "username": "Rose_jaune_uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938120495112851882",
+        "in_reply_to_user_id": "1899975409124728833",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937695640764711194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rose_jaune_uu xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937695629859561472"
+          ]
+        },
+        "author_id": "1899975409124728833",
+        "conversation_id": "1937695640764711194",
+        "created_at": "2025-06-25T02:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T03:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937695640764711194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1MkL0oUCc",
+              "end": 23,
+              "expanded_url": "https://x.com/Rose_jaune_uu/status/1937695640764711194/photo/1",
+              "media_key": "3_1937695629859561472",
+              "start": 0,
+              "url": "https://t.co/u1MkL0oUCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937695640764711194",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 4831,
+          "like_count": 842,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/u1MkL0oUCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 190,
+          "like_count": 39927,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 10617
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T00:07:02.000Z",
+        "description": "猫在上网",
+        "id": "1899975409124728833",
+        "name": "Evil cute u",
+        "pinned_tweet_id": "1905012355370738072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923369478181756928/1Pbt-wbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 19,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 131
+        },
+        "username": "Rose_jaune_uu",
+        "verified": false
+      }
+    ]
+  }
+}

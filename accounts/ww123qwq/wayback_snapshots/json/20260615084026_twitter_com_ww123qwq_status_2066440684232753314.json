@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061382157013299200"
+      ],
+      "media_source_tweet_id": [
+        "2061402388234445041"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2066440684232753314",
+    "created_at": "2026-06-15T08:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066440684232753314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1461896544500682755",
+          "start": 3,
+          "username": "omega_yukichi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JFsQk4QUEy",
+          "end": 54,
+          "expanded_url": "https://x.com/omega_yukichi/status/2061402388234445041/photo/1",
+          "media_key": "3_2061382157013299200",
+          "start": 31,
+          "url": "https://t.co/JFsQk4QUEy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066440684232753314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2773
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061402388234445041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @omega_yukichi: こんなの…正しくない！ https://t.co/JFsQk4QUEy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2061382157013299200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuAJm8bMAAJNWL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061382157013299200"
+          ],
+          "media_source_tweet_id": [
+            "2061402388234445041"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2066440684232753314",
+        "created_at": "2026-06-15T08:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066440684232753314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1461896544500682755",
+              "start": 3,
+              "username": "omega_yukichi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFsQk4QUEy",
+              "end": 54,
+              "expanded_url": "https://x.com/omega_yukichi/status/2061402388234445041/photo/1",
+              "media_key": "3_2061382157013299200",
+              "start": 31,
+              "url": "https://t.co/JFsQk4QUEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066440684232753314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2773
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061402388234445041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @omega_yukichi: こんなの…正しくない！ https://t.co/JFsQk4QUEy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061382157013299200"
+          ]
+        },
+        "author_id": "1461896544500682755",
+        "conversation_id": "2061402388234445041",
+        "created_at": "2026-06-01T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061402388234445041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFsQk4QUEy",
+              "end": 35,
+              "expanded_url": "https://x.com/omega_yukichi/status/2061402388234445041/photo/1",
+              "media_key": "3_2061382157013299200",
+              "start": 12,
+              "url": "https://t.co/JFsQk4QUEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061402388234445041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5953,
+          "impression_count": 2834376,
+          "like_count": 30705,
+          "quote_count": 54,
+          "reply_count": 76,
+          "retweet_count": 2773
+        },
+        "reply_settings": "everyone",
+        "text": "こんなの…正しくない！ https://t.co/JFsQk4QUEy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 265,
+          "like_count": 42695,
+          "listed_count": 4,
+          "media_count": 699,
+          "tweet_count": 12874
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T03:18:07.000Z",
+        "description": "#まのさばネタバレ いのさいA-6",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "まのさばネタバレ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@omega_yukichi",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@omega_yukichi",
+                "start": 0,
+                "url": "https://t.co/S2azF2Pq65"
+              }
+            ]
+          }
+        },
+        "id": "1461896544500682755",
+        "name": "おめがゆきち@C108(土)東ナ-32a",
+        "pinned_tweet_id": "2058888813779493168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971195776408911872/wRauOFOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5618,
+          "following_count": 301,
+          "like_count": 41739,
+          "listed_count": 20,
+          "media_count": 293,
+          "tweet_count": 4796
+        },
+        "url": "https://t.co/S2azF2Pq65",
+        "username": "omega_yukichi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981910452356415488"
+      ],
+      "media_source_tweet_id": [
+        "1981910483713266136"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1984072519444525159",
+    "created_at": "2025-10-31T01:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T02:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984072519444525159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2367020880",
+          "start": 3,
+          "username": "Cherry_YGG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bvipa1YtlQ",
+          "end": 52,
+          "expanded_url": "https://x.com/Cherry_YGG/status/1981910483713266136/photo/1",
+          "media_key": "3_1981910452356415488",
+          "start": 29,
+          "url": "https://t.co/Bvipa1YtlQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984072519444525159",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981910483713266136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cherry_YGG: 🌱ゆーリアル\nﾌﾄﾓｯﾓ https://t.co/Bvipa1YtlQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984072519444525159].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984072519444525159",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984072519444525159"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1981910452356415488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4EpDklWgAADh8k.jpg",
+        "width": 3202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981910452356415488"
+          ]
+        },
+        "author_id": "2367020880",
+        "conversation_id": "1981910483713266136",
+        "created_at": "2025-10-25T02:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T03:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981910483713266136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bvipa1YtlQ",
+              "end": 36,
+              "expanded_url": "https://x.com/Cherry_YGG/status/1981910483713266136/photo/1",
+              "media_key": "3_1981910452356415488",
+              "start": 13,
+              "url": "https://t.co/Bvipa1YtlQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981910483713266136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 4403,
+          "like_count": 278,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "🌱ゆーリアル\nﾌﾄﾓｯﾓ https://t.co/Bvipa1YtlQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 215,
+          "like_count": 40208,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 10856
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-01T12:43:05.000Z",
+        "description": "🍓",
+        "id": "2367020880",
+        "name": "バカトラ🍓🍓🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809867772668833792/rRpXW-FE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 709,
+          "like_count": 17801,
+          "listed_count": 24,
+          "media_count": 1132,
+          "tweet_count": 6215
+        },
+        "username": "Cherry_YGG",
+        "verified": false
+      }
+    ]
+  }
+}

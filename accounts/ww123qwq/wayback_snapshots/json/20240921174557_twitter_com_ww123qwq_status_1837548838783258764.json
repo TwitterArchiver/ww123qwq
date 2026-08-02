@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1837383402506670520",
+    "created_at": "2024-09-21T17:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T18:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837548838783258764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1747138924450029568",
+          "start": 0,
+          "username": "od_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837548838783258764",
+    "in_reply_to_user_id": "1747138924450029568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837383402506670520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_wiki 看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1837383402506670520",
+        "created_at": "2024-09-21T17:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T18:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837548838783258764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1747138924450029568",
+              "start": 0,
+              "username": "od_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837548838783258764",
+        "in_reply_to_user_id": "1747138924450029568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837383402506670520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_wiki 看看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837383391832125440",
+            "3_1837383392893325316"
+          ]
+        },
+        "author_id": "1747138924450029568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1837383402506670520",
+        "created_at": "2024-09-21T06:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T07:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837383402506670520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kh6kruifyu",
+              "end": 35,
+              "expanded_url": "https://twitter.com/od_wiki/status/1837383402506670520/photo/1",
+              "media_key": "3_1837383391832125440",
+              "start": 12,
+              "url": "https://t.co/kh6kruIfyU"
+            },
+            {
+              "display_url": "pic.x.com/kh6kruifyu",
+              "end": 35,
+              "expanded_url": "https://twitter.com/od_wiki/status/1837383402506670520/photo/1",
+              "media_key": "3_1837383392893325316",
+              "start": 12,
+              "url": "https://t.co/kh6kruIfyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837383402506670520",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3161,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "已买，试试😍😍😍😍😍😍 https://t.co/kh6kruIfyU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 111,
+          "like_count": 40203,
+          "listed_count": 0,
+          "tweet_count": 10263
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "个人Galgame站：https://t.co/OXiOIO9QLM\n个人博客：https://t.co/jzBbyyNnJF\n赌狗俱乐部：https://t.co/VGq4FK04Cv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "58game.xyz",
+                "end": 34,
+                "expanded_url": "https://58game.xyz/",
+                "start": 11,
+                "url": "https://t.co/OXiOIO9QLM"
+              },
+              {
+                "display_url": "hiv.icu",
+                "end": 63,
+                "expanded_url": "https://hiv.icu/",
+                "start": 40,
+                "url": "https://t.co/jzBbyyNnJF"
+              },
+              {
+                "display_url": "t.me/dugoujulebu",
+                "end": 93,
+                "expanded_url": "https://t.me/dugoujulebu",
+                "start": 70,
+                "url": "https://t.co/VGq4FK04Cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "✟°ʚ胖猫ɞ°✟",
+        "pinned_tweet_id": "1836034369275773338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12655,
+          "following_count": 5695,
+          "like_count": 5292,
+          "listed_count": 13,
+          "tweet_count": 3857
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

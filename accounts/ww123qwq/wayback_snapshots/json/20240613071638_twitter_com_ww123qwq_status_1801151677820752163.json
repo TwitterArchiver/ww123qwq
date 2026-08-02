@@ -1,0 +1,252 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1800502179704512512"
+      ],
+      "media_source_tweet_id": [
+        "1800505765272174692"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1801151677820752163",
+    "created_at": "2024-06-13T07:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T08:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801151677820752163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1286270708322992129",
+          "start": 3,
+          "username": "u61_meguru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/UWdYG824Rf",
+          "end": 56,
+          "expanded_url": "https://twitter.com/internerd_gir1/status/1800505765272174692/photo/1",
+          "media_key": "3_1800502179704512512",
+          "start": 33,
+          "url": "https://t.co/UWdYG824Rf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801151677820752163",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1382
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800505765272174692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @u61_meguru: 繧ｫ繝ｼ繝峨′髢九°繧後∪縺励◆ https://t.co/UWdYG824Rf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1800502179704512512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPyrMWaaoAAhsmK.jpg",
+        "width": 2477
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800502179704512512"
+          ],
+          "media_source_tweet_id": [
+            "1800505765272174692"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1801151677820752163",
+        "created_at": "2024-06-13T07:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T08:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801151677820752163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1286270708322992129",
+              "start": 3,
+              "username": "u61_meguru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UWdYG824Rf",
+              "end": 56,
+              "expanded_url": "https://twitter.com/internerd_gir1/status/1800505765272174692/photo/1",
+              "media_key": "3_1800502179704512512",
+              "start": 33,
+              "url": "https://t.co/UWdYG824Rf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801151677820752163",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1382
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800505765272174692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @u61_meguru: 繧ｫ繝ｼ繝峨′髢九°繧後∪縺励◆ https://t.co/UWdYG824Rf"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800502179704512512"
+          ]
+        },
+        "author_id": "1286270708322992129",
+        "conversation_id": "1800505765272174692",
+        "created_at": "2024-06-11T12:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T13:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800505765272174692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UWdYG824Rf",
+              "end": 40,
+              "expanded_url": "https://twitter.com/internerd_gir1/status/1800505765272174692/photo/1",
+              "media_key": "3_1800502179704512512",
+              "start": 17,
+              "url": "https://t.co/UWdYG824Rf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800505765272174692",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1615,
+          "impression_count": 371057,
+          "like_count": 14527,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 1382
+        },
+        "reply_settings": "everyone",
+        "text": "繧ｫ繝ｼ繝峨′髢九°繧後∪縺励◆ https://t.co/UWdYG824Rf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 107,
+          "like_count": 40244,
+          "listed_count": 0,
+          "tweet_count": 10284
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T12:03:41.000Z",
+        "description": "不安を刈る魔法少女  sub @internerd_gir1 配信場所⇒ https://t.co/hWOjvAILyW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "internerd_gir1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/u61_meguru",
+                "end": 60,
+                "expanded_url": "https://www.twitch.tv/u61_meguru",
+                "start": 37,
+                "url": "https://t.co/hWOjvAILyW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/internerd",
+                "end": 23,
+                "expanded_url": "https://lit.link/internerd",
+                "start": 0,
+                "url": "https://t.co/wU6H1nnJLg"
+              }
+            ]
+          }
+        },
+        "id": "1286270708322992129",
+        "name": "虚ヰめぐる",
+        "pinned_tweet_id": "1800897353228144874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800897722398257152/MweEjibE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 47,
+          "like_count": 2447,
+          "listed_count": 12,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/wU6H1nnJLg",
+        "username": "u61_meguru",
+        "verified": false
+      }
+    ]
+  }
+}

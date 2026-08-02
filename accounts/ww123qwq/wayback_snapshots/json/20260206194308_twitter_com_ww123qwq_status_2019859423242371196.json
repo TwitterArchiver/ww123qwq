@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019561027780902912"
+      ],
+      "media_source_tweet_id": [
+        "2019561072769003692"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2019859423242371196",
+    "created_at": "2026-02-06T19:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T20:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019859423242371196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "90055603",
+          "start": 3,
+          "username": "ji10me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DwJi7SVM37",
+          "end": 50,
+          "expanded_url": "https://x.com/ji10me/status/2019561072769003692/photo/1",
+          "media_key": "3_2019561027780902912",
+          "start": 27,
+          "url": "https://t.co/DwJi7SVM37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019859423242371196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019561072769003692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ji10me: おはにゃ～🐾\nきんようび✨️ https://t.co/DwJi7SVM37"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2104,
+        "media_key": "3_2019561027780902912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAbsDf8agAA-5jY.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019561027780902912"
+          ],
+          "media_source_tweet_id": [
+            "2019561072769003692"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2019859423242371196",
+        "created_at": "2026-02-06T19:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T20:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019859423242371196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "90055603",
+              "start": 3,
+              "username": "ji10me"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DwJi7SVM37",
+              "end": 50,
+              "expanded_url": "https://x.com/ji10me/status/2019561072769003692/photo/1",
+              "media_key": "3_2019561027780902912",
+              "start": 27,
+              "url": "https://t.co/DwJi7SVM37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019859423242371196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019561072769003692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ji10me: おはにゃ～🐾\nきんようび✨️ https://t.co/DwJi7SVM37"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019561027780902912"
+          ]
+        },
+        "author_id": "90055603",
+        "conversation_id": "2019561072769003692",
+        "created_at": "2026-02-05T23:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T00:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019561072769003692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DwJi7SVM37",
+              "end": 38,
+              "expanded_url": "https://x.com/ji10me/status/2019561072769003692/photo/1",
+              "media_key": "3_2019561027780902912",
+              "start": 15,
+              "url": "https://t.co/DwJi7SVM37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019561072769003692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 20193,
+          "like_count": 2030,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "おはにゃ～🐾\nきんようび✨️ https://t.co/DwJi7SVM37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 263,
+          "like_count": 41359,
+          "listed_count": 5,
+          "media_count": 585,
+          "tweet_count": 12201
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-15T00:27:22.000Z",
+        "description": "🐈‍⬛　🔁リポスト頂けるとうれしいにゃ..\n最新の技術に興味があります! 最近はAI(プログラミング・Art生成)・Blender・電子工作・3Dプリント🛠️ VR探窟家（NewWold巡り勢）VRChat:JTOME パートナー宇津保さん@Utuhodou　オリジナルキャラ:ひのえ🐈‍⬛じとめ🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 120,
+                "username": "Utuhodou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jp.pinterest.com/ji10mee/aiart/",
+                "end": 23,
+                "expanded_url": "https://jp.pinterest.com/ji10mee/aiart/",
+                "start": 0,
+                "url": "https://t.co/6hGFaGPxUm"
+              }
+            ]
+          }
+        },
+        "id": "90055603",
+        "location": "🇯🇵",
+        "name": "ジトメ",
+        "pinned_tweet_id": "2019561072769003692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910280636063219712/grwjk-64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18325,
+          "following_count": 3360,
+          "like_count": 505977,
+          "listed_count": 223,
+          "media_count": 6923,
+          "tweet_count": 114085
+        },
+        "url": "https://t.co/6hGFaGPxUm",
+        "username": "ji10me",
+        "verified": false
+      }
+    ]
+  }
+}

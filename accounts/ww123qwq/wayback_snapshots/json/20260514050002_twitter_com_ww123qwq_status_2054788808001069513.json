@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054492605619294208",
+        "3_2054492605615083520"
+      ],
+      "media_source_tweet_id": [
+        "2054492613060014432",
+        "2054492613060014432"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2054788808001069513",
+    "created_at": "2026-05-14T05:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054788808001069513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1732495901313421312",
+          "start": 3,
+          "username": "00rr111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xStKsZoTxu",
+          "end": 62,
+          "expanded_url": "https://x.com/00rr111/status/2054492613060014432/photo/1",
+          "media_key": "3_2054492605619294208",
+          "start": 39,
+          "url": "https://t.co/xStKsZoTxu"
+        },
+        {
+          "display_url": "pic.x.com/xStKsZoTxu",
+          "end": 62,
+          "expanded_url": "https://x.com/00rr111/status/2054492613060014432/photo/1",
+          "media_key": "3_2054492605615083520",
+          "start": 39,
+          "url": "https://t.co/xStKsZoTxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054788808001069513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054492613060014432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @00rr111: R-15🦊🐙吸血！\n※流血表現有り！\n※微センシ！ https://t.co/xStKsZoTxu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054788808001069513].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054788808001069513",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054788808001069513"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2054492605619294208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMGI7-a0AAIQ2q.jpg",
+        "width": 1035
+      },
+      {
+        "height": 799,
+        "media_key": "3_2054492605615083520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMGI79akAAfPu_.jpg",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054492605619294208",
+            "3_2054492605615083520"
+          ]
+        },
+        "author_id": "1732495901313421312",
+        "conversation_id": "2054492613060014432",
+        "created_at": "2026-05-13T09:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054492613060014432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xStKsZoTxu",
+              "end": 49,
+              "expanded_url": "https://x.com/00rr111/status/2054492613060014432/photo/1",
+              "media_key": "3_2054492605619294208",
+              "start": 26,
+              "url": "https://t.co/xStKsZoTxu"
+            },
+            {
+              "display_url": "pic.x.com/xStKsZoTxu",
+              "end": 49,
+              "expanded_url": "https://x.com/00rr111/status/2054492613060014432/photo/1",
+              "media_key": "3_2054492605615083520",
+              "start": 26,
+              "url": "https://t.co/xStKsZoTxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054492613060014432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 9131,
+          "like_count": 891,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "R-15🦊🐙吸血！\n※流血表現有り！\n※微センシ！ https://t.co/xStKsZoTxu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 279,
+          "like_count": 42731,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12821
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T20:23:20.000Z",
+        "description": "20↑描いたり描かなかったり\n超かぐ超ネタバレあり！",
+        "id": "1732495901313421312",
+        "name": "おり",
+        "pinned_tweet_id": "2052722192979464552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048567313851629568/Nl2-II-q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 22,
+          "like_count": 134,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 118
+        },
+        "username": "00rr111",
+        "verified": false
+      }
+    ]
+  }
+}

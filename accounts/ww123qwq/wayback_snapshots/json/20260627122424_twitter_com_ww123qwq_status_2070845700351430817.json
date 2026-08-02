@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070313846808395776"
+      ],
+      "media_source_tweet_id": [
+        "2070313850876961044"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404837255722639362",
+          "name": "Shin Megami Tensei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404837255722639362",
+          "name": "Shin Megami Tensei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "2070845700351430817",
+    "created_at": "2026-06-27T12:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070845700351430817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1451940693061120005",
+          "start": 3,
+          "username": "foilsick_ennui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dp6CYLoBAW",
+          "end": 49,
+          "expanded_url": "https://x.com/foilsick_ennui/status/2070313850876961044/photo/1",
+          "media_key": "3_2070313846808395776",
+          "start": 26,
+          "url": "https://t.co/dp6CYLoBAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070845700351430817",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 411
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070313850876961044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @foilsick_ennui: Urge. https://t.co/dp6CYLoBAW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070313846808395776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLs7eYSWQAAvCPf.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070313846808395776"
+          ],
+          "media_source_tweet_id": [
+            "2070313850876961044"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404837255722639362",
+              "name": "Shin Megami Tensei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404837255722639362",
+              "name": "Shin Megami Tensei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2070845700351430817",
+        "created_at": "2026-06-27T12:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070845700351430817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1451940693061120005",
+              "start": 3,
+              "username": "foilsick_ennui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dp6CYLoBAW",
+              "end": 49,
+              "expanded_url": "https://x.com/foilsick_ennui/status/2070313850876961044/photo/1",
+              "media_key": "3_2070313846808395776",
+              "start": 26,
+              "url": "https://t.co/dp6CYLoBAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070845700351430817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 411
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070313850876961044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @foilsick_ennui: Urge. https://t.co/dp6CYLoBAW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070313846808395776"
+          ]
+        },
+        "author_id": "1451940693061120005",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404837255722639362",
+              "name": "Shin Megami Tensei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404837255722639362",
+              "name": "Shin Megami Tensei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2070313850876961044",
+        "created_at": "2026-06-26T01:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070313850876961044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dp6CYLoBAW",
+              "end": 29,
+              "expanded_url": "https://x.com/foilsick_ennui/status/2070313850876961044/photo/1",
+              "media_key": "3_2070313846808395776",
+              "start": 6,
+              "url": "https://t.co/dp6CYLoBAW"
+            },
+            {
+              "display_url": "x.com/foilsick_ennui…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/foilsick_ennui/status/2070306066169024900",
+              "start": 30,
+              "url": "https://t.co/Vx5vKZA0yn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070313850876961044",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 416,
+          "impression_count": 37840,
+          "like_count": 3660,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 411
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070306066169024900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Urge. https://t.co/dp6CYLoBAW https://t.co/Vx5vKZA0yn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 278,
+          "like_count": 43114,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 13071
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T15:57:06.000Z",
+        "description": "@Foilsick_Inure — main | メイン\npfp by @KimoFestAlt\nAme-Chan fictive ,, not source-seperated\npersonal alter acc\nあめちゃん未分離フィクティブ | ソース依存型\nキャラクター型アルターの個人アカウント",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "Foilsick_Inure"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "KimoFestAlt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "necroame.straw.page",
+                "end": 23,
+                "expanded_url": "https://necroame.straw.page",
+                "start": 0,
+                "url": "https://t.co/bqH5mzc0KH"
+              }
+            ]
+          }
+        },
+        "id": "1451940693061120005",
+        "name": "♰ 𓏼 あめ ◞",
+        "pinned_tweet_id": "2067961582236188745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070352229169541120/12w72rdf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 73,
+          "like_count": 3410,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/bqH5mzc0KH",
+        "username": "foilsick_ennui",
+        "verified": false
+      }
+    ]
+  }
+}

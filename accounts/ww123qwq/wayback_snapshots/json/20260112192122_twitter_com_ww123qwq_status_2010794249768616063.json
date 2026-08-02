@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2010680948678144236",
+    "created_at": "2026-01-12T19:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T20:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010794249768616063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885607134366482432",
+          "start": 0,
+          "username": "aritaki01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010794249768616063",
+    "in_reply_to_user_id": "1885607134366482432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010680948678144236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aritaki01 想喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010680942206328832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dfqfTbIAANzCl.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2010680948678144236",
+        "created_at": "2026-01-12T19:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T20:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010794249768616063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885607134366482432",
+              "start": 0,
+              "username": "aritaki01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010794249768616063",
+        "in_reply_to_user_id": "1885607134366482432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010680948678144236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aritaki01 想喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010680942206328832"
+          ]
+        },
+        "author_id": "1885607134366482432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2010680948678144236",
+        "created_at": "2026-01-12T11:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010680948678144236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIYkuKBCCd",
+              "end": 28,
+              "expanded_url": "https://x.com/aritaki01/status/2010680948678144236/photo/1",
+              "media_key": "3_2010680942206328832",
+              "start": 5,
+              "url": "https://t.co/sIYkuKBCCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010680948678144236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 16035,
+          "like_count": 1536,
+          "quote_count": 10,
+          "reply_count": 14,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "おもろい https://t.co/sIYkuKBCCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 267,
+          "like_count": 41013,
+          "listed_count": 5,
+          "media_count": 541,
+          "tweet_count": 12053
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T08:32:40.000Z",
+        "description": "ウツヒョー",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aritaF9y",
+                "end": 23,
+                "expanded_url": "https://lit.link/aritaF9y",
+                "start": 0,
+                "url": "https://t.co/ebFmLZlTRY"
+              }
+            ]
+          }
+        },
+        "id": "1885607134366482432",
+        "location": "ここ弱点🆗",
+        "name": "有田",
+        "pinned_tweet_id": "1928828253751361928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885609739117379584/HWkxeHS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 834,
+          "like_count": 144894,
+          "listed_count": 29,
+          "media_count": 364,
+          "tweet_count": 5908
+        },
+        "url": "https://t.co/ebFmLZlTRY",
+        "username": "aritaki01",
+        "verified": false
+      }
+    ]
+  }
+}

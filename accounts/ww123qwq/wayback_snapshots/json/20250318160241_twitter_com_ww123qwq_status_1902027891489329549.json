@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1901633169260237195",
+    "created_at": "2025-03-18T16:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T17:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902027891489329549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1222199363847327744",
+          "start": 0,
+          "username": "Mikuma1936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902027891489329549",
+    "in_reply_to_user_id": "1222199363847327744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901633169260237195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikuma1936 被查水表了吗（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43264,
+        "height": 1920,
+        "media_key": "7_1901633031678697472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1901633031678697472/pu/img/Isc3hD7ZyvfDgkHG.jpg",
+        "public_metrics": {
+          "view_count": 2279
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901633031678697472/pu/vid/avc1/320x690/9gbMTIyK6FCLXkTb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901633031678697472/pu/vid/avc1/480x1036/kYEvMjzPx-pweGzb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901633031678697472/pu/vid/avc1/720x1556/5Ypsl1D98flhTOow.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1901633031678697472/pu/pl/AuVWI06epuCOBBjL.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1901633169260237195",
+        "created_at": "2025-03-18T16:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902027891489329549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1222199363847327744",
+              "start": 0,
+              "username": "Mikuma1936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902027891489329549",
+        "in_reply_to_user_id": "1222199363847327744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901633169260237195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikuma1936 被查水表了吗（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1901633031678697472"
+          ]
+        },
+        "author_id": "1222199363847327744",
+        "conversation_id": "1901633169260237195",
+        "created_at": "2025-03-17T13:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T14:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901633169260237195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4Wi0UhXQO",
+              "end": 37,
+              "expanded_url": "https://x.com/Mikuma1936/status/1901633169260237195/video/1",
+              "media_key": "7_1901633031678697472",
+              "start": 14,
+              "url": "https://t.co/R4Wi0UhXQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901633169260237195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "整个大活\n在烟台市政府门口"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8968,
+          "like_count": 37,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "整个大活\n在烟台市政府门口 https://t.co/R4Wi0UhXQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "重度抑郁/中度焦虑/日常/碎碎念/社恐/od/家暴/欢迎扩列",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 188,
+          "like_count": 40046,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 10591
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-28T16:46:59.000Z",
+        "description": "小药娘/OD/双相/军迷/德棍/精日/英吹/美分/乌贼/台独/化学专业/数竞/穷玩车的/臭外地的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/mikuma…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/mikuma1936.bsky.social",
+                "start": 0,
+                "url": "https://t.co/coQ3AGsDs6"
+              }
+            ]
+          }
+        },
+        "id": "1222199363847327744",
+        "location": "木衛三·Ganymede",
+        "name": "🍥Mikuma⚓三隈🏳️‍⚧️(党卫军第17装甲掷弹兵师限定版:坚守阵地,直到最后一个排撤出)",
+        "pinned_tweet_id": "1874418807294578705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792915151596732416/gqkmbRRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4071,
+          "following_count": 1064,
+          "like_count": 78797,
+          "listed_count": 15,
+          "media_count": 1494,
+          "tweet_count": 9696
+        },
+        "url": "https://t.co/coQ3AGsDs6",
+        "username": "Mikuma1936",
+        "verified": true
+      }
+    ]
+  }
+}

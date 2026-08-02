@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1740017262432796672"
+      ],
+      "media_source_tweet_id": [
+        "1740017339700301921"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1985742880716345464",
+    "created_at": "2025-11-04T16:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985742880716345464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1041386796",
+          "start": 3,
+          "username": "xoxoamanda98"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ceHzPx1rxg",
+          "end": 60,
+          "expanded_url": "https://x.com/hirobakun/status/1740017339700301921/video/1",
+          "media_key": "7_1740017262432796672",
+          "start": 37,
+          "url": "https://t.co/ceHzPx1rxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985742880716345464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985653226658807956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xoxoamanda98: え、なんでこんなブニブニなの？？\n\n https://t.co/ceHzPx1rxg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24905,
+        "height": 960,
+        "media_key": "7_1740017262432796672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1740017262432796672/pu/img/9fV3XFC4V2VklGTv.jpg",
+        "public_metrics": {
+          "view_count": 4781681
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1740017262432796672/pu/vid/avc1/320x568/9UX1wBYpUi22hsUL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1740017262432796672/pu/vid/avc1/480x852/SsYopG4O9iRk-lqw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1740017262432796672/pu/vid/avc1/540x960/bnC4mcGz1bryE4vv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1740017262432796672/pu/pl/YgeF_JGKDkA0xLBP.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1740017262432796672"
+          ],
+          "media_source_tweet_id": [
+            "1740017339700301921"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985742880716345464",
+        "created_at": "2025-11-04T16:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985742880716345464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1041386796",
+              "start": 3,
+              "username": "xoxoamanda98"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ceHzPx1rxg",
+              "end": 60,
+              "expanded_url": "https://x.com/hirobakun/status/1740017339700301921/video/1",
+              "media_key": "7_1740017262432796672",
+              "start": 37,
+              "url": "https://t.co/ceHzPx1rxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985742880716345464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985653226658807956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xoxoamanda98: え、なんでこんなブニブニなの？？\n\n https://t.co/ceHzPx1rxg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1740017262432796672"
+          ],
+          "media_source_tweet_id": [
+            "1740017339700301921"
+          ]
+        },
+        "author_id": "1041386796",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985653226658807956",
+        "created_at": "2025-11-04T10:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985653226658807956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ceHzPx1rxg",
+              "end": 42,
+              "expanded_url": "https://x.com/hirobakun/status/1740017339700301921/video/1",
+              "media_key": "7_1740017262432796672",
+              "start": 19,
+              "url": "https://t.co/ceHzPx1rxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985653226658807956",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 377057,
+          "like_count": 698,
+          "quote_count": 35,
+          "reply_count": 60,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "え、なんでこんなブニブニなの？？\n\n https://t.co/ceHzPx1rxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩906910481",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 222,
+          "like_count": 40339,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 11007
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-28T05:22:40.000Z",
+        "description": "",
+        "id": "1041386796",
+        "name": "リトルグリーン⛳️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985653543177498624/ra7feoNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 0,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 390
+        },
+        "username": "xoxoamanda98",
+        "verified": false
+      }
+    ]
+  }
+}

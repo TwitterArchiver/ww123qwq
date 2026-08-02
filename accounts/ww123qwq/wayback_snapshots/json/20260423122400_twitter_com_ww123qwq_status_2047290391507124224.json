@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2047258906737680506",
+    "created_at": "2026-04-23T12:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047290391507124224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2031715041196875776",
+          "start": 0,
+          "username": "wu_si114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047290391507124224",
+    "in_reply_to_user_id": "2031715041196875776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047258906737680506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu_si114514 西柚汁总会买成血橙的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2047258824994856960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlTDfMaIAAKibw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2047258906737680506",
+        "created_at": "2026-04-23T12:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047290391507124224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2031715041196875776",
+              "start": 0,
+              "username": "wu_si114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047290391507124224",
+        "in_reply_to_user_id": "2031715041196875776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047258906737680506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si114514 西柚汁总会买成血橙的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047258824994856960"
+          ]
+        },
+        "author_id": "2031715041196875776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047258906737680506",
+        "created_at": "2026-04-23T10:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047258906737680506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mKIVdC5nb7",
+              "end": 35,
+              "expanded_url": "https://x.com/wu_si114514/status/2047258906737680506/photo/1",
+              "media_key": "3_2047258824994856960",
+              "start": 12,
+              "url": "https://t.co/mKIVdC5nb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047258906737680506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1447,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没有右美沙芬谁喝你😭😭 https://t.co/mKIVdC5nb7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 277,
+          "like_count": 42239,
+          "listed_count": 4,
+          "media_count": 681,
+          "tweet_count": 12660
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "@rinii165892的最强嘴替 \n有事请私信大号/关注大号的才回fo【大号正常期间锁推】\nxtx/无证含糖/od&sh/生产日期 2012 09 17/全家都是精神病/没素质见人就骂的cs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "msk坟头",
+        "name": "8964霖（完全仇恨邪恶msk）",
+        "pinned_tweet_id": "2047257307072118954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 402,
+          "like_count": 1847,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1147
+        },
+        "username": "wu_si114514",
+        "verified": false
+      }
+    ]
+  }
+}

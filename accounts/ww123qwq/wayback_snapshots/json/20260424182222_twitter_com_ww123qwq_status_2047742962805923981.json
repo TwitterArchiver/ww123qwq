@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2047624090706493809",
+    "created_at": "2026-04-24T18:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T19:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047742962805923981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047742962805923981",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047624090706493809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele ghb过量导致呼吸抑制，叠加乙醇的呼吸抑制导致死亡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2047616553219129344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqYaArWAAA_kSs.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1194,
+        "media_key": "3_2047619013136502785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqapMlWUAEErSv.jpg",
+        "width": 718
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2047619153985474560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqaxZSXEAAs3ip.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2047624090706493809",
+        "created_at": "2026-04-24T18:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047742962805923981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047742962805923981",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047624090706493809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele ghb过量导致呼吸抑制，叠加乙醇的呼吸抑制导致死亡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047616553219129344",
+            "3_2047619013136502785",
+            "3_2047619153985474560"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2047624090706493809",
+        "created_at": "2026-04-24T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047624090706493809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEgpVCeMsZ",
+              "end": 160,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047624090706493809/photo/1",
+              "media_key": "3_2047616553219129344",
+              "start": 137,
+              "url": "https://t.co/NEgpVCeMsZ"
+            },
+            {
+              "display_url": "pic.x.com/NEgpVCeMsZ",
+              "end": 160,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047624090706493809/photo/1",
+              "media_key": "3_2047619013136502785",
+              "start": 137,
+              "url": "https://t.co/NEgpVCeMsZ"
+            },
+            {
+              "display_url": "pic.x.com/NEgpVCeMsZ",
+              "end": 160,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047624090706493809/photo/1",
+              "media_key": "3_2047619153985474560",
+              "start": 137,
+              "url": "https://t.co/NEgpVCeMsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047624090706493809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“武大郎生病过量饮用，当场身亡！”\n4月23日，中国妇女报 在报道 「 4名男子 在酒吧使用合成毒品蓄意下毒、谋害未成年人、致15岁女童死亡」 这一事件时\n将其表述为「15岁少女凌晨误饮饮品致死」。\n\n中国妇女报作为一个权威媒体，刻意用标题博眼球博流量，严重歪曲了事实核心\n从责编、校对、审核、监制皆对 “四名男子的加害行为”进行隐瞒，也未能旗帜鲜明地谴责性侵、投毒、雇佣童工等严重犯罪行为\n反而以“别投毒、别喝新潮饮品”的表述，变相将防范责任向受害者方转移，让阅读者误以为受害者咎由自取、弱化了犯罪者的过错"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 101252,
+          "like_count": 857,
+          "quote_count": 10,
+          "reply_count": 100,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "“武大郎生病过量饮用，当场身亡！”\n4月23日，中国妇女报 在报道 「 4名男子 在酒吧使用合成毒品蓄意下毒、谋害未成年人、致15岁女童死亡」 这一事件时\n将其表述为「15岁少女凌晨误饮饮品致死」。\n\n中国妇女报作为一个权威媒体，刻意用标题博眼球博流量，严重歪曲了事实核心 https://t.co/NEgpVCeMsZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 280,
+          "like_count": 42297,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 12685
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200615,
+          "following_count": 1037,
+          "like_count": 9423,
+          "listed_count": 8635,
+          "media_count": 45709,
+          "tweet_count": 52793
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

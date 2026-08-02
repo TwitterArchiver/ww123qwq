@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1885094428273934567",
+    "created_at": "2025-01-31T15:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T16:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885351947517255783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1807952210052997120",
+          "start": 0,
+          "username": "HUAIQSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885351947517255783",
+    "in_reply_to_user_id": "1807952210052997120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885094428273934567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HUAIQSB 好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1885094428273934567",
+        "created_at": "2025-01-31T15:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T16:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885351947517255783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1807952210052997120",
+              "start": 0,
+              "username": "HUAIQSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885351947517255783",
+        "in_reply_to_user_id": "1807952210052997120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885094428273934567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HUAIQSB 好玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1885094319771553792"
+          ]
+        },
+        "author_id": "1807952210052997120",
+        "conversation_id": "1885094428273934567",
+        "created_at": "2025-01-30T22:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T23:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885094428273934567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5auoVcCC3",
+              "end": 55,
+              "expanded_url": "https://x.com/HUAIQSB/status/1885094428273934567/video/1",
+              "media_key": "13_1885094319771553792",
+              "start": 32,
+              "url": "https://t.co/d5auoVcCC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885094428273934567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 308092,
+          "like_count": 522,
+          "quote_count": 10,
+          "reply_count": 221,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "中国人的孩子就是工具，过年把该子放在餐桌上给红包，看着真傻逼！ https://t.co/d5auoVcCC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 161,
+          "like_count": 40091,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 10411
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T01:40:38.000Z",
+        "description": "个人独立媒体！",
+        "id": "1807952210052997120",
+        "location": "Kutchan-cho, Hokkaidō",
+        "name": "坏球时报",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849517216598794241/r3_G0Cxx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29584,
+          "following_count": 392,
+          "like_count": 14641,
+          "listed_count": 85,
+          "media_count": 2101,
+          "tweet_count": 3096
+        },
+        "username": "HUAIQSB",
+        "verified": false
+      }
+    ]
+  }
+}

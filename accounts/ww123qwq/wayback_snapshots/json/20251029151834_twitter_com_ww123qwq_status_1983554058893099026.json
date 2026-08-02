@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983299564406005760"
+      ],
+      "media_source_tweet_id": [
+        "1983299572291289585"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983554058893099026",
+    "created_at": "2025-10-29T15:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T16:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983554058893099026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893209290921672704",
+          "start": 3,
+          "username": "guagua_me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QX0Q6LZbYp",
+          "end": 38,
+          "expanded_url": "https://x.com/guagua_me/status/1983299572291289585/photo/1",
+          "media_key": "3_1983299564406005760",
+          "start": 15,
+          "url": "https://t.co/QX0Q6LZbYp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983554058893099026",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 491
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983299572291289585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guagua_me: https://t.co/QX0Q6LZbYp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_1983299564406005760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4YYciObYAA7EKI.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983299564406005760"
+          ],
+          "media_source_tweet_id": [
+            "1983299572291289585"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983554058893099026",
+        "created_at": "2025-10-29T15:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983554058893099026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893209290921672704",
+              "start": 3,
+              "username": "guagua_me"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QX0Q6LZbYp",
+              "end": 38,
+              "expanded_url": "https://x.com/guagua_me/status/1983299572291289585/photo/1",
+              "media_key": "3_1983299564406005760",
+              "start": 15,
+              "url": "https://t.co/QX0Q6LZbYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983554058893099026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 491
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983299572291289585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guagua_me: https://t.co/QX0Q6LZbYp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983299564406005760"
+          ]
+        },
+        "author_id": "1893209290921672704",
+        "conversation_id": "1983299572291289585",
+        "created_at": "2025-10-28T22:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T23:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983299572291289585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QX0Q6LZbYp",
+              "end": 23,
+              "expanded_url": "https://x.com/guagua_me/status/1983299572291289585/photo/1",
+              "media_key": "3_1983299564406005760",
+              "start": 0,
+              "url": "https://t.co/QX0Q6LZbYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983299572291289585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 46396,
+          "like_count": 6330,
+          "quote_count": 11,
+          "reply_count": 17,
+          "retweet_count": 491
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QX0Q6LZbYp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 208,
+          "like_count": 40170,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 10807
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T08:01:01.000Z",
+        "description": "私信除門檻外拉黑",
+        "id": "1893209290921672704",
+        "name": "瓜",
+        "pinned_tweet_id": "1970127324197888091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922933433099223040/rOaUlFix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20197,
+          "following_count": 20,
+          "like_count": 622,
+          "listed_count": 57,
+          "media_count": 37,
+          "tweet_count": 73
+        },
+        "username": "guagua_me",
+        "verified": false
+      }
+    ]
+  }
+}

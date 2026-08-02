@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2051349251662426616",
+    "created_at": "2026-05-04T17:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051349251662426616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039052178791514112",
+          "start": 3,
+          "username": "Dodoeqiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051349251662426616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051289824741761132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dodoeqiu: 所以在给抽烟成瘾 槟榔成瘾洗白吗，都是成瘾滥用行为 比什么高大上。可以反对od行为，那么同时你要反对一切成瘾行为。\n\n抽烟有目共睹伤肺，槟榔脸方张口困难，酒精伤身中毒发疯。这些都是常见的成瘾行为，也对自身他人有一定量的危害。\n同时我身边的许多oder…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2051349251662426616",
+        "created_at": "2026-05-04T17:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051349251662426616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039052178791514112",
+              "start": 3,
+              "username": "Dodoeqiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051349251662426616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051289824741761132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dodoeqiu: 所以在给抽烟成瘾 槟榔成瘾洗白吗，都是成瘾滥用行为 比什么高大上。可以反对od行为，那么同时你要反对一切成瘾行为。\n\n抽烟有目共睹伤肺，槟榔脸方张口困难，酒精伤身中毒发疯。这些都是常见的成瘾行为，也对自身他人有一定量的危害。\n同时我身边的许多oder…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039052178791514112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2051289824741761132",
+        "created_at": "2026-05-04T13:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051289824741761132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaming00742313…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/yaming00742313/status/1881602939556630964",
+              "start": 146,
+              "url": "https://t.co/fRuThYNRAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051289824741761132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2075,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881602939556630964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以在给抽烟成瘾 槟榔成瘾洗白吗，都是成瘾滥用行为 比什么高大上。可以反对od行为，那么同时你要反对一切成瘾行为。\n\n抽烟有目共睹伤肺，槟榔脸方张口困难，酒精伤身中毒发疯。这些都是常见的成瘾行为，也对自身他人有一定量的危害。\n同时我身边的许多oder也承认od的危害，所以还有什么要说的吗。 https://t.co/fRuThYNRAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 276,
+          "like_count": 42545,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12769
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T18:49:19.000Z",
+        "description": "互fo直接关注 看到会回（微查成分。\n餐券女｜厌现实公畜 如果你的二次元或网络味道很浓 我并不会在意你的性别｜接🏠\n 我腦子有病說的話別當真 https://t.co/mR3FqUdsn2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 94,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 71,
+                "url": "https://t.co/mR3FqUdsn2"
+              }
+            ]
+          }
+        },
+        "id": "2039052178791514112",
+        "location": "男🚪52  ",
+        "name": "骄奢淫逸暴劣合体代名词",
+        "pinned_tweet_id": "2048866297807831256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043551394872041472/YmIL7O7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 347,
+          "like_count": 1302,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1038
+        },
+        "username": "Dodoeqiu",
+        "verified": false
+      }
+    ]
+  }
+}

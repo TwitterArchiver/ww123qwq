@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071167177777205249"
+      ],
+      "media_source_tweet_id": [
+        "2071169955278807400"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071477956904710260",
+    "created_at": "2026-06-29T06:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071477956904710260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995266194576961536",
+          "start": 3,
+          "username": "skyseafor"
+        },
+        {
+          "end": 46,
+          "id": "2045513838850641921",
+          "start": 35,
+          "username": "inline_int"
+        },
+        {
+          "end": 76,
+          "id": "1738907027362209792",
+          "start": 60,
+          "username": "ElysiumFengxuan"
+        },
+        {
+          "end": 86,
+          "id": "1521553831775158273",
+          "start": 77,
+          "username": "ww123qwq"
+        },
+        {
+          "end": 97,
+          "id": "1995266194576961536",
+          "start": 87,
+          "username": "skyseafor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xG4S8YLh2T",
+          "end": 121,
+          "expanded_url": "https://x.com/skyseafor/status/2071169955278807400/photo/1",
+          "media_key": "3_2071167177777205249",
+          "start": 98,
+          "url": "https://t.co/xG4S8YLh2T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071477956904710260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071169955278807400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skyseafor: 上海萨莉亚贴贴喵~ 设备不够我不露脸咯 @inline_int  @LithusEric @ElysiumFengxuan @ww123qwq @skyseafor https://t.co/xG4S8YLh2T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071167177777205249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5Dkx3b0AEWunD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071167177777205249"
+          ],
+          "media_source_tweet_id": [
+            "2071169955278807400"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071477956904710260",
+        "created_at": "2026-06-29T06:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071477956904710260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995266194576961536",
+              "start": 3,
+              "username": "skyseafor"
+            },
+            {
+              "end": 46,
+              "id": "2045513838850641921",
+              "start": 35,
+              "username": "inline_int"
+            },
+            {
+              "end": 76,
+              "id": "1738907027362209792",
+              "start": 60,
+              "username": "ElysiumFengxuan"
+            },
+            {
+              "end": 86,
+              "id": "1521553831775158273",
+              "start": 77,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 97,
+              "id": "1995266194576961536",
+              "start": 87,
+              "username": "skyseafor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xG4S8YLh2T",
+              "end": 121,
+              "expanded_url": "https://x.com/skyseafor/status/2071169955278807400/photo/1",
+              "media_key": "3_2071167177777205249",
+              "start": 98,
+              "url": "https://t.co/xG4S8YLh2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071477956904710260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071169955278807400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skyseafor: 上海萨莉亚贴贴喵~ 设备不够我不露脸咯 @inline_int  @LithusEric @ElysiumFengxuan @ww123qwq @skyseafor https://t.co/xG4S8YLh2T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071167177777205249"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071169955278807400",
+        "created_at": "2026-06-28T09:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:42:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071167313311883328",
+          "2071169955278807400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "2045513838850641921",
+              "start": 20,
+              "username": "inline_int"
+            },
+            {
+              "end": 44,
+              "id": "1862765396111368192",
+              "start": 33,
+              "username": "LithusEric"
+            },
+            {
+              "end": 61,
+              "id": "1738907027362209792",
+              "start": 45,
+              "username": "ElysiumFengxuan"
+            },
+            {
+              "end": 71,
+              "id": "1521553831775158273",
+              "start": 62,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 82,
+              "id": "1995266194576961536",
+              "start": 72,
+              "username": "skyseafor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xG4S8YLh2T",
+              "end": 106,
+              "expanded_url": "https://x.com/skyseafor/status/2071169955278807400/photo/1",
+              "media_key": "3_2071167177777205249",
+              "start": 83,
+              "url": "https://t.co/xG4S8YLh2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071169955278807400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1402,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "上海萨莉亚贴贴喵~ 设备不够我不露脸咯 @inline_int  @LithusEric @ElysiumFengxuan @ww123qwq @skyseafor https://t.co/xG4S8YLh2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 283,
+          "like_count": 43259,
+          "listed_count": 4,
+          "media_count": 713,
+          "tweet_count": 13134
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不要查我的成分/ 不是女生 / 可我喜欢你 / crypto / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 205,
+          "like_count": 860,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 580
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /mtx?/HRT2026.3.9/小证2026.4.12/INTP/中焦重抑/前ODer/高中生长假中/OIer/音游人/CNCSer/MC/不键政/看成分互fo/发发梗图/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵喵喵🍥",
+        "pinned_tweet_id": "2068232879453192300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064010530184990720/ZPdr6smn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 1067,
+          "like_count": 1921,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||178cm55kg||已有对象||妹妹 @JoelQinmetme ||欢迎互fo||推上私信加QQvx||希望交朋友||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "笼子里",
+        "name": "Beruiiu_Fengxuan",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064170314767257600/IXyxtfdQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 2629,
+          "like_count": 6868,
+          "listed_count": 11,
+          "media_count": 1255,
+          "tweet_count": 10200
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      }
+    ]
+  }
+}

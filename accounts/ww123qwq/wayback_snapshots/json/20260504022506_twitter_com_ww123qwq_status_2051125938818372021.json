@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2051066583066484884",
+    "created_at": "2026-05-04T02:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T03:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051125938818372021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2030612448160698368",
+          "start": 0,
+          "username": "kumakuma9919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051125938818372021",
+    "in_reply_to_user_id": "2030612448160698368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051066583066484884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumakuma9919 好好休息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2051066583066484884",
+        "created_at": "2026-05-04T02:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T03:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051125938818372021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2030612448160698368",
+              "start": 0,
+              "username": "kumakuma9919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051125938818372021",
+        "in_reply_to_user_id": "2030612448160698368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051066583066484884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumakuma9919 好好休息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030612448160698368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2051066583066484884",
+        "created_at": "2026-05-03T22:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T23:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051066583066484884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051066583066484884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "まさかの高熱\n文学フリマオワタオワタ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 276,
+          "like_count": 42514,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12744
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T11:52:22.000Z",
+        "description": "ぬいぐるみを抱いて寝るおじ\nおでーコミュ管理人",
+        "id": "2030612448160698368",
+        "name": "文学フリマ東京な青ちゅ〜≒ラリックマ",
+        "pinned_tweet_id": "2051066583066484884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030613876560265216/0KbOudZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 451,
+          "like_count": 14406,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 1734
+        },
+        "username": "kumakuma9919",
+        "verified": false
+      }
+    ]
+  }
+}

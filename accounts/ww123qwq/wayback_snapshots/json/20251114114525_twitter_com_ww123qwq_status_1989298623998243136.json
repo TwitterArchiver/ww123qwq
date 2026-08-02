@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1989298623998243136",
+    "created_at": "2025-11-14T11:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989298623998243136"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 1,
+          "normalized_text": "恭喜",
+          "probability": 0.7209,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/N552AA/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/N552AA/status/1989203497196360046",
+          "start": 3,
+          "url": "https://t.co/FCDqbqltAb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989298623998243136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989203497196360046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜 https://t.co/FCDqbqltAb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989203490242195459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sSCP3acAMgVwT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1989298623998243136",
+        "created_at": "2025-11-14T11:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989298623998243136"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "恭喜",
+              "probability": 0.7209,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/N552AA/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/N552AA/status/1989203497196360046",
+              "start": 3,
+              "url": "https://t.co/FCDqbqltAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989298623998243136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989203497196360046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜 https://t.co/FCDqbqltAb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989203490242195459"
+          ]
+        },
+        "author_id": "1817584080437014528",
+        "conversation_id": "1989203497196360046",
+        "created_at": "2025-11-14T05:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989203497196360046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zBnhTqdvDn",
+              "end": 27,
+              "expanded_url": "https://x.com/N552AA/status/1989203497196360046/photo/1",
+              "media_key": "3_1989203490242195459",
+              "start": 4,
+              "url": "https://t.co/zBnhTqdvDn"
+            },
+            {
+              "display_url": "x.com/N552AA/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/N552AA/status/1989134460118536208",
+              "start": 28,
+              "url": "https://t.co/kHUv9MRBKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989203497196360046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3706,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989134460118536208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开到了 https://t.co/zBnhTqdvDn https://t.co/kHUv9MRBKz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴休学圆角攒钱中/地雷系/欢迎扩列加好友w唯一电报  非本，注意防骗\n@kirifuji00🚪88/188/520/1314，个人群欢迎来玩1051287723置顶tg非本人推广自辨，出原味私信，接线下上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 233,
+          "like_count": 40605,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 11378
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/ADHD/BPD/断续含糖/\n小证：2025-11-14/坐标上海/半家长党/抱抱最最可爱的姐姐: @yizhikapaiqaq 妹妹:@suikahsnya/主人：@ayumi_0222_\n/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "suikahsnya"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "ayumi_0222_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004171713146880/ZhbhI7xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 1008,
+          "like_count": 4015,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

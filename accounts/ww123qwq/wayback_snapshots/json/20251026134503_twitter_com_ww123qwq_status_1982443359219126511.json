@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1982416196055269583",
+    "created_at": "2025-10-26T13:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T14:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982443359219126511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943704460813041665",
+          "start": 0,
+          "username": "kasaikoxyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982443359219126511",
+    "in_reply_to_user_id": "1943704460813041665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982416196055269583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasaikoxyg 泥会弹吉他吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982416186403921920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4L1BKuXIAA7SMb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1982416196055269583",
+        "created_at": "2025-10-26T13:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982443359219126511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943704460813041665",
+              "start": 0,
+              "username": "kasaikoxyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982443359219126511",
+        "in_reply_to_user_id": "1943704460813041665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982416196055269583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasaikoxyg 泥会弹吉他吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982416186403921920"
+          ]
+        },
+        "author_id": "1943704460813041665",
+        "conversation_id": "1982416196055269583",
+        "created_at": "2025-10-26T11:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982416196055269583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8BzSDVeG6",
+              "end": 33,
+              "expanded_url": "https://x.com/kasaikoxyg/status/1982416196055269583/photo/1",
+              "media_key": "3_1982416186403921920",
+              "start": 10,
+              "url": "https://t.co/j8BzSDVeG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982416196055269583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级棒的无弦吉他！ https://t.co/j8BzSDVeG6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 208,
+          "like_count": 40042,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 10736
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎耐杀王，成功又活一天",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 709,
+          "like_count": 12953,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 3811
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      }
+    ]
+  }
+}

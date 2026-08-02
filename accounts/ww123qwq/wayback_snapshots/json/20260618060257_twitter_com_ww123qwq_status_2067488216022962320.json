@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067188340508569600"
+      ],
+      "media_source_tweet_id": [
+        "2067188445173190974"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067488216022962320",
+    "created_at": "2026-06-18T06:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067488216022962320"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 13,
+          "tag": "NEEDY_pic"
+        },
+        {
+          "end": 44,
+          "start": 24,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813933132036317184",
+          "start": 3,
+          "username": "0hp_x_p"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a8TFCDsfHJ",
+          "end": 68,
+          "expanded_url": "https://x.com/0hp_x_p/status/2067188445173190974/photo/1",
+          "media_key": "3_2067188340508569600",
+          "start": 45,
+          "url": "https://t.co/a8TFCDsfHJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067488216022962320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1420
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067188445173190974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0hp_x_p: #NEEDY_pic\n#NEEDY_GIRL_OVERDOSE https://t.co/a8TFCDsfHJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2067188340508569600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAg19_XsAAHCEH.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067188340508569600"
+          ],
+          "media_source_tweet_id": [
+            "2067188445173190974"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067488216022962320",
+        "created_at": "2026-06-18T06:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067488216022962320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 13,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 44,
+              "start": 24,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813933132036317184",
+              "start": 3,
+              "username": "0hp_x_p"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8TFCDsfHJ",
+              "end": 68,
+              "expanded_url": "https://x.com/0hp_x_p/status/2067188445173190974/photo/1",
+              "media_key": "3_2067188340508569600",
+              "start": 45,
+              "url": "https://t.co/a8TFCDsfHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067488216022962320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1420
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067188445173190974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0hp_x_p: #NEEDY_pic\n#NEEDY_GIRL_OVERDOSE https://t.co/a8TFCDsfHJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067188340508569600"
+          ]
+        },
+        "author_id": "1813933132036317184",
+        "conversation_id": "2067188445173190974",
+        "created_at": "2026-06-17T10:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067188445173190974"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "NEEDY_pic"
+            },
+            {
+              "end": 31,
+              "start": 11,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8TFCDsfHJ",
+              "end": 55,
+              "expanded_url": "https://x.com/0hp_x_p/status/2067188445173190974/photo/1",
+              "media_key": "3_2067188340508569600",
+              "start": 32,
+              "url": "https://t.co/a8TFCDsfHJ"
+            },
+            {
+              "display_url": "x.com/aarondapisacra…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/aarondapisacrap/status/2063959050514289015",
+              "start": 56,
+              "url": "https://t.co/FcZ9bayIjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067188445173190974",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2326,
+          "impression_count": 130824,
+          "like_count": 14862,
+          "quote_count": 32,
+          "reply_count": 10,
+          "retweet_count": 1420
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063959050514289015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#NEEDY_pic\n#NEEDY_GIRL_OVERDOSE https://t.co/a8TFCDsfHJ https://t.co/FcZ9bayIjs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 271,
+          "like_count": 42795,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12950
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T13:45:56.000Z",
+        "description": "𓆩❤︎︎𓆪 Illustrator | イラストレーター | NEEDY GIRL OVERDOSE fanart中心 | commissions closed | AI学習禁止 | 無断転載禁止 | No AI training • Do not repost ♡ DE/EN/JP",
+        "id": "1813933132036317184",
+        "name": "ちい",
+        "pinned_tweet_id": "2066511606297583622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031737260996169730/cWdYtYoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 343,
+          "like_count": 2283,
+          "listed_count": 6,
+          "media_count": 36,
+          "tweet_count": 124
+        },
+        "username": "0hp_x_p",
+        "verified": false
+      }
+    ]
+  }
+}

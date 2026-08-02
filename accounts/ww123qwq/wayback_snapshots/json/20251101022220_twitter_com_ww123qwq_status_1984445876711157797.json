@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1984057485305766361",
+    "created_at": "2025-11-01T02:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T03:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984445876711157797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786001369587187712",
+          "start": 0,
+          "username": "quachill0312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984445876711157797",
+    "in_reply_to_user_id": "1786001369587187712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984057485305766361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quachill0312 是谁又o大了捏🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1984057463017259008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4jJwCkbQAAc-tN.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1984057485305766361",
+        "created_at": "2025-11-01T02:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T03:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984445876711157797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786001369587187712",
+              "start": 0,
+              "username": "quachill0312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984445876711157797",
+        "in_reply_to_user_id": "1786001369587187712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984057485305766361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quachill0312 是谁又o大了捏🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984057463017259008"
+          ]
+        },
+        "author_id": "1786001369587187712",
+        "conversation_id": "1984057485305766361",
+        "created_at": "2025-10-31T00:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T01:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984057485305766361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cs5qfr8m3e",
+              "end": 45,
+              "expanded_url": "https://x.com/quachill0312/status/1984057485305766361/photo/1",
+              "media_key": "3_1984057463017259008",
+              "start": 22,
+              "url": "https://t.co/Cs5qfr8m3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984057485305766361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 71103,
+          "like_count": 2522,
+          "quote_count": 12,
+          "reply_count": 9,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "歌舞伎町入って1分でこれ\nすげえやこの場所 https://t.co/Cs5qfr8m3e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1060531885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 219,
+          "like_count": 40249,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 10896
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T11:54:56.000Z",
+        "description": "社会不適合者です｜FA #く絵ちる｜リンクまとめhttps://t.co/jy1wGSpvj1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "く絵ちる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/quachill",
+                "end": 47,
+                "expanded_url": "https://lit.link/quachill",
+                "start": 24,
+                "url": "https://t.co/jy1wGSpvj1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@quachill?si=9…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@quachill?si=9wpK4SC6fQ0VnZ2O",
+                "start": 0,
+                "url": "https://t.co/y5ZiCo5s7K"
+              }
+            ]
+          }
+        },
+        "id": "1786001369587187712",
+        "name": "鈴木くあちる",
+        "pinned_tweet_id": "1979023981966487889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786019299037163520/YyEX1e00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 15,
+          "like_count": 4699,
+          "listed_count": 5,
+          "media_count": 890,
+          "tweet_count": 2797
+        },
+        "url": "https://t.co/y5ZiCo5s7K",
+        "username": "quachill0312",
+        "verified": false
+      }
+    ]
+  }
+}

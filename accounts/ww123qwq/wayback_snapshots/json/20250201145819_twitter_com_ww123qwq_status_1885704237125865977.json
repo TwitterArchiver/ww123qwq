@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1885417139986645214",
+    "created_at": "2025-02-01T14:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T15:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885704237125865977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885704237125865977",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885417139986645214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria 好耶一起欧迪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1885417139986645214",
+        "created_at": "2025-02-01T14:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T15:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885704237125865977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885704237125865977",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885417139986645214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria 好耶一起欧迪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885417126137094144",
+            "3_1885417126149693440"
+          ]
+        },
+        "author_id": "1794154221194932224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1885417139986645214",
+        "created_at": "2025-01-31T19:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T20:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885417139986645214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VaYMA0EoUc",
+              "end": 57,
+              "expanded_url": "https://x.com/NagiVictoria/status/1885417139986645214/photo/1",
+              "media_key": "3_1885417126137094144",
+              "start": 34,
+              "url": "https://t.co/VaYMA0EoUc"
+            },
+            {
+              "display_url": "pic.x.com/VaYMA0EoUc",
+              "end": 57,
+              "expanded_url": "https://x.com/NagiVictoria/status/1885417139986645214/photo/1",
+              "media_key": "3_1885417126149693440",
+              "start": 34,
+              "url": "https://t.co/VaYMA0EoUc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885417139986645214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11542,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回广州了\n点个外卖尝尝\n好好倒个时差\n后天去深圳\n5号飞上海开药趴 https://t.co/VaYMA0EoUc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 162,
+          "like_count": 40101,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 10420
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "阅尽人生冷暖后 保有童心与对生活的热爱 做到包容 笃定 自然向美 我希望拥有这样的人生 爸爸@nekomakiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "nekomakiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "机厅厕所隔间",
+        "name": "Nagi 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1885003507704479925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882689504978350080/iCWHUndQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3096,
+          "following_count": 753,
+          "like_count": 12116,
+          "listed_count": 5,
+          "media_count": 1470,
+          "tweet_count": 11309
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      }
+    ]
+  }
+}

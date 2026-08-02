@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2066441088748167168"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2066441090425847926",
+    "created_at": "2026-06-15T08:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066441090425847926"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066441090425847926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跨圈皇帝到底是谁小藻n55冰棍"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-06-22T08:42:02.000Z",
+        "id": "2066441088748167168",
+        "options": [
+          {
+            "label": "冰棍",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "n55",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2066441088748167168"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2066441090425847926",
+        "created_at": "2026-06-15T08:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066441090425847926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066441090425847926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨圈皇帝到底是谁小藻n55冰棍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 265,
+          "like_count": 42695,
+          "listed_count": 4,
+          "media_count": 699,
+          "tweet_count": 12876
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

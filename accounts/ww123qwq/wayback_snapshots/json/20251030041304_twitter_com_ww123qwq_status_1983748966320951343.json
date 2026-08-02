@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983748962986446848"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983458332808769750",
+    "created_at": "2025-10-30T04:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983748966320951343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882936483662663680",
+          "start": 0,
+          "username": "jngyn298282"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HCAQsB0h6f",
+          "end": 46,
+          "expanded_url": "https://x.com/ww123qwq/status/1983748966320951343/photo/1",
+          "media_key": "3_1983748962986446848",
+          "start": 23,
+          "url": "https://t.co/HCAQsB0h6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983748966320951343",
+    "in_reply_to_user_id": "1882936483662663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983736212910436556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jngyn298282 药物会带来幸福感的 https://t.co/HCAQsB0h6f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 621,
+        "media_key": "3_1983748962986446848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4exK-ZbUAA77wO.jpg",
+        "width": 617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983748962986446848"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983458332808769750",
+        "created_at": "2025-10-30T04:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983748966320951343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882936483662663680",
+              "start": 0,
+              "username": "jngyn298282"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HCAQsB0h6f",
+              "end": 46,
+              "expanded_url": "https://x.com/ww123qwq/status/1983748966320951343/photo/1",
+              "media_key": "3_1983748962986446848",
+              "start": 23,
+              "url": "https://t.co/HCAQsB0h6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983748966320951343",
+        "in_reply_to_user_id": "1882936483662663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983736212910436556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jngyn298282 药物会带来幸福感的 https://t.co/HCAQsB0h6f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882936483662663680",
+        "conversation_id": "1983458332808769750",
+        "created_at": "2025-10-30T03:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983736212910436556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983736212910436556",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983554931933212737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 渴药批会有幸福吗🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 211,
+          "like_count": 40189,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 10826
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:40:25.000Z",
+        "description": "我看着幸福的日子被我给摧毁后开心地闭上了眼",
+        "id": "1882936483662663680",
+        "name": "镜音",
+        "pinned_tweet_id": "1983521365727891517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882937483756765184/OocuXoje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 143,
+          "like_count": 11781,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1314
+        },
+        "username": "jngyn298282",
+        "verified": false
+      }
+    ]
+  }
+}

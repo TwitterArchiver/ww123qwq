@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995910492905504771"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1995910498156675225",
+    "created_at": "2025-12-02T17:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T18:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995910498156675225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XzuLR1Zl6j",
+          "end": 29,
+          "expanded_url": "https://x.com/ww123qwq/status/1995910498156675225/photo/1",
+          "media_key": "3_1995910492905504771",
+          "start": 6,
+          "url": "https://t.co/XzuLR1Zl6j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995910498156675225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美味小饮料 https://t.co/XzuLR1Zl6j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_1995910492905504771",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LmBL0bgAMVrma.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995910492905504771"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1995910498156675225",
+        "created_at": "2025-12-02T17:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995910498156675225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzuLR1Zl6j",
+              "end": 29,
+              "expanded_url": "https://x.com/ww123qwq/status/1995910498156675225/photo/1",
+              "media_key": "3_1995910492905504771",
+              "start": 6,
+              "url": "https://t.co/XzuLR1Zl6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995910498156675225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美味小饮料 https://t.co/XzuLR1Zl6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/🚪52/88/188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1995591006411186236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 262,
+          "like_count": 40719,
+          "listed_count": 3,
+          "media_count": 402,
+          "tweet_count": 11640
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

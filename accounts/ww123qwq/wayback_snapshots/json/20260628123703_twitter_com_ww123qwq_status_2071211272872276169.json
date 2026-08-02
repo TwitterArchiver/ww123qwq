@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2070898304557166876",
+    "created_at": "2026-06-28T12:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071211272872276169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1745165412441206784",
+          "start": 0,
+          "username": "kikobaby90s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071211272872276169",
+    "in_reply_to_user_id": "1745165412441206784",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070898304557166876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikobaby90s pr80"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2070898304557166876",
+        "created_at": "2026-06-28T12:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071211272872276169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "kikobaby90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071211272872276169",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070898304557166876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikobaby90s pr80"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2070898304557166876",
+        "created_at": "2026-06-27T15:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070898304557166876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070898304557166876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3138,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我得滥用点什么物质才能幸福呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 284,
+          "like_count": 43178,
+          "listed_count": 4,
+          "media_count": 711,
+          "tweet_count": 13099
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良 🚪128/188/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6XJc4"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "Vancouver",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 39,
+          "like_count": 311,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/IQ4Lz6XJc4",
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

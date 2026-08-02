@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071145057932259328"
+      ],
+      "media_source_tweet_id": [
+        "2071145063594577978"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071162301806199115",
+    "created_at": "2026-06-28T09:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071162301806199115"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 14,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        },
+        {
+          "end": 46,
+          "start": 36,
+          "tag": "NEEDY_pic"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634889685532311552",
+          "start": 3,
+          "username": "0984mony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PnlQQGebbP",
+          "end": 70,
+          "expanded_url": "https://x.com/0984mony/status/2071145063594577978/photo/1",
+          "media_key": "3_2071145057932259328",
+          "start": 47,
+          "url": "https://t.co/PnlQQGebbP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071162301806199115",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071145063594577978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0984mony: #NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/PnlQQGebbP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071145057932259328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4vdPBbsAAKWAP.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071145057932259328"
+          ],
+          "media_source_tweet_id": [
+            "2071145063594577978"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071162301806199115",
+        "created_at": "2026-06-28T09:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071162301806199115"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 14,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 46,
+              "start": 36,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634889685532311552",
+              "start": 3,
+              "username": "0984mony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PnlQQGebbP",
+              "end": 70,
+              "expanded_url": "https://x.com/0984mony/status/2071145063594577978/photo/1",
+              "media_key": "3_2071145057932259328",
+              "start": 47,
+              "url": "https://t.co/PnlQQGebbP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071162301806199115",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071145063594577978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0984mony: #NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/PnlQQGebbP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071145057932259328"
+          ]
+        },
+        "author_id": "1634889685532311552",
+        "conversation_id": "2071145063594577978",
+        "created_at": "2026-06-28T08:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071145063594577978"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            },
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "NEEDY_pic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PnlQQGebbP",
+              "end": 56,
+              "expanded_url": "https://x.com/0984mony/status/2071145063594577978/photo/1",
+              "media_key": "3_2071145057932259328",
+              "start": 33,
+              "url": "https://t.co/PnlQQGebbP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071145063594577978",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 1790,
+          "like_count": 386,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "#NEEDY_GIRL_OVERDOSE \n#NEEDY_pic https://t.co/PnlQQGebbP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 281,
+          "like_count": 43155,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 13087
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T12:10:58.000Z",
+        "description": "₍ᐢ. ̯.ᐢ₎🪽",
+        "id": "1634889685532311552",
+        "name": "Tede",
+        "pinned_tweet_id": "2039878087714992347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741978605352349696/8YcJoY_w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3179,
+          "following_count": 104,
+          "like_count": 659,
+          "listed_count": 5,
+          "media_count": 34,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "0984mony",
+        "verified": false
+      }
+    ]
+  }
+}

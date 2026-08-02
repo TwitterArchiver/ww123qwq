@@ -1,0 +1,701 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050544015582588928"
+      ],
+      "media_source_tweet_id": [
+        "2050544022843011406"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232400471546941440",
+          "name": "Nijisanji"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2051109783772549413",
+    "created_at": "2026-05-04T01:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T02:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051109783772549413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1245127337735143424",
+          "start": 3,
+          "username": "Nelta_Rene"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hbhzva9HT2",
+          "end": 102,
+          "expanded_url": "https://x.com/Nelta_Rene/status/2050544022843011406/photo/1",
+          "media_key": "3_2050544015582588928",
+          "start": 79,
+          "url": "https://t.co/Hbhzva9HT2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051109783772549413",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 619
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050544022843011406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nelta_Rene: にじさんじ所属 夢追翔さまのオリジナル曲『貪欲を患う』のMV用イラストを描かせていただきました！\nよろしくお願いいたします！ https://t.co/Hbhzva9HT2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 506,
+        "media_key": "3_2050544015582588928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHT-6v0acAAKpBd.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050544015582588928"
+          ],
+          "media_source_tweet_id": [
+            "2050544022843011406"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2051109783772549413",
+        "created_at": "2026-05-04T01:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051109783772549413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1245127337735143424",
+              "start": 3,
+              "username": "Nelta_Rene"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hbhzva9HT2",
+              "end": 102,
+              "expanded_url": "https://x.com/Nelta_Rene/status/2050544022843011406/photo/1",
+              "media_key": "3_2050544015582588928",
+              "start": 79,
+              "url": "https://t.co/Hbhzva9HT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051109783772549413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050544022843011406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nelta_Rene: にじさんじ所属 夢追翔さまのオリジナル曲『貪欲を患う』のMV用イラストを描かせていただきました！\nよろしくお願いいたします！ https://t.co/Hbhzva9HT2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050544015582588928"
+          ]
+        },
+        "author_id": "1245127337735143424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1232400471546941440",
+              "name": "Nijisanji"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "2050544022843011406",
+        "created_at": "2026-05-02T11:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050544022843011406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hbhzva9HT2",
+              "end": 86,
+              "expanded_url": "https://x.com/Nelta_Rene/status/2050544022843011406/photo/1",
+              "media_key": "3_2050544015582588928",
+              "start": 63,
+              "url": "https://t.co/Hbhzva9HT2"
+            },
+            {
+              "display_url": "x.com/kakeru_yumeoi/…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/kakeru_yumeoi/status/2050532250660565410",
+              "start": 87,
+              "url": "https://t.co/ElBbcB1pyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050544022843011406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 103797,
+          "like_count": 4305,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050532250660565410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "にじさんじ所属 夢追翔さまのオリジナル曲『貪欲を患う』のMV用イラストを描かせていただきました！\nよろしくお願いいたします！ https://t.co/Hbhzva9HT2 https://t.co/ElBbcB1pyG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 276,
+          "like_count": 42491,
+          "listed_count": 4,
+          "media_count": 686,
+          "tweet_count": 12730
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-31T23:14:36.000Z",
+        "description": "🎀🧠🫀お絵描き🎈🥩🍓🥀 無断転載/学習❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/neltarene",
+                "end": 23,
+                "expanded_url": "https://lit.link/neltarene",
+                "start": 0,
+                "url": "https://t.co/ecn046kqH2"
+              }
+            ]
+          }
+        },
+        "id": "1245127337735143424",
+        "location": "Japan",
+        "name": "寝田ルネ🥀",
+        "pinned_tweet_id": "2050544022843011406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852601628018556928/4FpQ0KDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44767,
+          "following_count": 588,
+          "like_count": 8515,
+          "listed_count": 476,
+          "media_count": 586,
+          "tweet_count": 5621
+        },
+        "url": "https://t.co/ecn046kqH2",
+        "username": "Nelta_Rene",
+        "verified": false
+      }
+    ]
+  }
+}

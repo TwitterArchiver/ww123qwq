@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1875783419390763014",
+    "created_at": "2025-01-06T15:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T16:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876282898820845658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876282898820845658",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875783419390763014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena 中国美国就是利益冲突呗，现在中国威胁到美国的利益了，关系当然不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1875783419390763014",
+        "created_at": "2025-01-06T15:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876282898820845658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876282898820845658",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875783419390763014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena 中国美国就是利益冲突呗，现在中国威胁到美国的利益了，关系当然不好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875783416895115264"
+          ]
+        },
+        "author_id": "1844025283676094464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1875783419390763014",
+        "created_at": "2025-01-05T05:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T06:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875783419390763014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNMYiK63fp",
+              "end": 165,
+              "expanded_url": "https://x.com/Konekoutena/status/1875783419390763014/photo/1",
+              "media_key": "3_1875783416895115264",
+              "start": 142,
+              "url": "https://t.co/JNMYiK63fp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875783419390763014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人认为邓江胡时期中美关系好，而习近平时期恶化了。于是认为恶化是习近平造成的，这是一个因果倒置的错误认知，忽视了邓江胡时期中国的体量和习时期的体量完全不在一个级别上。邓江胡时期中国只是给美国生产低端制造业的经济殖民地，对美国的产业不构成任何威胁。而在习时代中国经历了多年的资本和技术积累，已经完成产业升级。不再是低端的代工厂，而是在高端制造业上对美国构成巨大的威胁，而美国却对中国的产能产生巨大的依赖。这很像当年的日本。所以无论中国是否民主是否战狼，都必然会遭到美国的打压。其实可以了解一战前的德意志帝国史。现在的美国其实是大英帝国的继承，而当年大英帝国和德意志帝国产生对抗，就是因为德意志帝国的实力已经对英国全球霸权构成威胁。最终爆发一战。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 133819,
+          "like_count": 559,
+          "quote_count": 5,
+          "reply_count": 131,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "很多人认为邓江胡时期中美关系好，而习近平时期恶化了。于是认为恶化是习近平造成的，这是一个因果倒置的错误认知，忽视了邓江胡时期中国的体量和习时期的体量完全不在一个级别上。邓江胡时期中国只是给美国生产低端制造业的经济殖民地，对美国的产业不构成任何威胁。而在习时代中国经历了多年的资本和… https://t.co/JNMYiK63fp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 122,
+          "like_count": 39592,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 10127
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "关注枫糖喵，关注枫糖谢谢喵........一只博学的男娘|文学少女|喜欢玩梗和地狱笑话|日本在住|友好所有观点立场，不键政对线只玩梗|互fo请留言｜油管频道https://t.co/YwVMVLgU2j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena?s…",
+                "end": 101,
+                "expanded_url": "https://youtube.com/@konekoutena?si=Eu9nTBFT2tTC6T4C",
+                "start": 78,
+                "url": "https://t.co/YwVMVLgU2j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@konekoutena?si=Eu9nTBFT2tTC6T4C",
+                "start": 0,
+                "url": "https://t.co/YwVMVLgU2j"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1872189727379697860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869197200443805696/LKOOi2LF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5336,
+          "following_count": 987,
+          "like_count": 2215,
+          "listed_count": 13,
+          "media_count": 2298,
+          "tweet_count": 5857
+        },
+        "url": "https://t.co/YwVMVLgU2j",
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

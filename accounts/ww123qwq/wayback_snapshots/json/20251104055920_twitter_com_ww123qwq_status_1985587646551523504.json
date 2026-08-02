@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985292505823482075",
+    "created_at": "2025-11-04T05:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T06:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985587646551523504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583711070098640896",
+          "start": 0,
+          "username": "PriestleyZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985587646551523504",
+    "in_reply_to_user_id": "1583711070098640896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985292505823482075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PriestleyZZZ 男娘怎么你了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985292505823482075",
+        "created_at": "2025-11-04T05:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T06:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985587646551523504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583711070098640896",
+              "start": 0,
+              "username": "PriestleyZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985587646551523504",
+        "in_reply_to_user_id": "1583711070098640896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985292505823482075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriestleyZZZ 男娘怎么你了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583711070098640896",
+        "conversation_id": "1985292505823482075",
+        "created_at": "2025-11-03T10:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985292505823482075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985292505823482075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3545,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "麻痹所有群都有傻逼男娘和异装癖当显眼包，先不经意露出一下自己女装就有一群弱智捧臭脚了，然后群聊瞬间恶臭你妈死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1063487741",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 221,
+          "like_count": 40290,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 10958
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T06:45:55.000Z",
+        "description": "可以叫我Pri / 医学生",
+        "id": "1583711070098640896",
+        "location": "生活向上委員會",
+        "name": "Priestley🍃",
+        "pinned_tweet_id": "1974954639377478000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970500540422565888/GiGXPVjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 810,
+          "like_count": 35699,
+          "listed_count": 6,
+          "media_count": 1374,
+          "tweet_count": 20206
+        },
+        "username": "PriestleyZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

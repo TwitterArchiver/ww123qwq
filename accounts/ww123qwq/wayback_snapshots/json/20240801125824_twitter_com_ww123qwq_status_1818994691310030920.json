@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1818321521158533253",
+    "created_at": "2024-08-01T12:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T13:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818994691310030920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1130781616274468864",
+          "start": 0,
+          "username": "SHIGURE_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818994691310030920",
+    "in_reply_to_user_id": "1130781616274468864",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818321521158533253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHIGURE_QAQ 镜子好脏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1818321521158533253",
+        "created_at": "2024-08-01T12:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T13:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818994691310030920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SHIGURE_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818994691310030920",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818321521158533253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIGURE_QAQ 镜子好脏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1818321514346983424"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "1818321521158533253",
+        "created_at": "2024-07-30T16:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T17:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818321521158533253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/oq26znV1ip",
+              "end": 71,
+              "expanded_url": "https://twitter.com/SHIGURE_QAQ/status/1818321521158533253/photo/1",
+              "media_key": "3_1818321514346983424",
+              "start": 48,
+              "url": "https://t.co/oq26znV1ip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818321521158533253",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 111505,
+          "like_count": 642,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "之前说的长得像〇液的润滑剂…看起来好假啊\n\n看来还是需要抓几个受害者榨瓶真的出来拍（bushi https://t.co/oq26znV1ip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 110,
+          "like_count": 40271,
+          "listed_count": 0,
+          "tweet_count": 10300
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "在杭州丨性少数友好丨🏹丨🐈丨🚴丨🔫丨 ⚠️警告：图片有隐写，随意转载可能导致封禁⚠️",
+        "id": "1130781616274468864",
+        "location": "开普勒-452b,KOI-7016.01",
+        "name": "时雨",
+        "pinned_tweet_id": "1810609226974470453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816809090989072384/SewSZR6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55989,
+          "following_count": 2139,
+          "like_count": 47814,
+          "listed_count": 83,
+          "tweet_count": 5021
+        },
+        "username": "SHIGURE_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

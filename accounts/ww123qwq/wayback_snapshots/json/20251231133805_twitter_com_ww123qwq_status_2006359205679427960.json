@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2006242044084355575",
+    "created_at": "2025-12-31T13:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T14:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006359205679427960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1462208415837655043",
+          "start": 0,
+          "username": "Prechaska"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006359205679427960",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006242044084355575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prechaska 行动力Max"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2006242044084355575",
+        "created_at": "2025-12-31T13:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T14:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006359205679427960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006359205679427960",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006242044084355575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 行动力Max"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2006242044084355575",
+        "created_at": "2025-12-31T05:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006242044084355575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006242044084355575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 430,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林药效上来直接把家里扫了又拖了一遍👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 266,
+          "like_count": 40920,
+          "listed_count": 5,
+          "media_count": 507,
+          "tweet_count": 11932
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化中）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 95,
+          "like_count": 1404,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1077
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

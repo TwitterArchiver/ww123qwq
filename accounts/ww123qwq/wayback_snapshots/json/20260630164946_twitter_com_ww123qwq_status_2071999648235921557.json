@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071535890967801856"
+      ],
+      "media_source_tweet_id": [
+        "2071535893597544959"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071999648235921557",
+    "created_at": "2026-06-30T16:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071999648235921557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2054099511279296512",
+          "start": 3,
+          "username": "666666666ZT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YSMy9xmlb3",
+          "end": 69,
+          "expanded_url": "https://x.com/666666666ZT/status/2071535893597544959/photo/1",
+          "media_key": "3_2071535890967801856",
+          "start": 46,
+          "url": "https://t.co/YSMy9xmlb3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071999648235921557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071535893597544959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @666666666ZT: 我找生产保安魔术贴的厂家做的 他发来的样图你们觉得怎么样 https://t.co/YSMy9xmlb3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2071535890967801856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-S6tibsAAk_MZ.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071535890967801856"
+          ],
+          "media_source_tweet_id": [
+            "2071535893597544959"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071999648235921557",
+        "created_at": "2026-06-30T16:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071999648235921557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2054099511279296512",
+              "start": 3,
+              "username": "666666666ZT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSMy9xmlb3",
+              "end": 69,
+              "expanded_url": "https://x.com/666666666ZT/status/2071535893597544959/photo/1",
+              "media_key": "3_2071535890967801856",
+              "start": 46,
+              "url": "https://t.co/YSMy9xmlb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071999648235921557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071535893597544959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @666666666ZT: 我找生产保安魔术贴的厂家做的 他发来的样图你们觉得怎么样 https://t.co/YSMy9xmlb3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071535890967801856"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2071535893597544959",
+        "created_at": "2026-06-29T10:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071535893597544959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSMy9xmlb3",
+              "end": 52,
+              "expanded_url": "https://x.com/666666666ZT/status/2071535893597544959/photo/1",
+              "media_key": "3_2071535890967801856",
+              "start": 29,
+              "url": "https://t.co/YSMy9xmlb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071535893597544959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 21169,
+          "like_count": 221,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我找生产保安魔术贴的厂家做的 他发来的样图你们觉得怎么样 https://t.co/YSMy9xmlb3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 284,
+          "like_count": 43364,
+          "listed_count": 4,
+          "media_count": 720,
+          "tweet_count": 13179
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 166,
+          "like_count": 21,
+          "listed_count": 5,
+          "media_count": 42,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": false
+      }
+    ]
+  }
+}

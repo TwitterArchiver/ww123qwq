@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2017376430079021427",
+    "created_at": "2026-01-31T09:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T10:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017530080285888577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017530080285888577",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017376430079021427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 属鼠：你要鸡巴干嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2017376427721760768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_8pLCiaIAAebpT.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2017376430079021427",
+        "created_at": "2026-01-31T09:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017530080285888577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017530080285888577",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017376430079021427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 属鼠：你要鸡巴干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017376427721760768"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "2017376430079021427",
+        "created_at": "2026-01-30T23:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T00:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017376430079021427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGzEo9Qmrt",
+              "end": 36,
+              "expanded_url": "https://x.com/yu_huacs/status/2017376430079021427/photo/1",
+              "media_key": "3_2017376427721760768",
+              "start": 13,
+              "url": "https://t.co/QGzEo9Qmrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017376430079021427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4389,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "鼠鼠:给...给我的吗？ https://t.co/QGzEo9Qmrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 261,
+          "like_count": 41127,
+          "listed_count": 5,
+          "media_count": 564,
+          "tweet_count": 12127
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "不知名的yu huacs 泛性恋 混乱与淫乱的集合体 友所有群体  爱着你们深 深的喜欢着你们\n成分复杂 双相焦虑治疗中 overdose lain 了解公路车 在役公路车s works old venge\n第二人格 @yuhuacs5570\n最好の兄弟 @Lizzy6315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "yuhuacs5570"
+              },
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Lizzy6315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdoNl"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "尼特",
+        "name": "余华成霜",
+        "pinned_tweet_id": "2013269313436708916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009204093987028992/H3zOBPI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 1069,
+          "like_count": 102024,
+          "listed_count": 8,
+          "media_count": 1866,
+          "tweet_count": 17396
+        },
+        "url": "https://t.co/fGARwmdoNl",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

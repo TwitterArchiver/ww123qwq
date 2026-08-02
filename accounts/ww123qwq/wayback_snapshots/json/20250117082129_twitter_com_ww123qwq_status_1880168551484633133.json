@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1880168551484633133",
+    "created_at": "2025-01-17T08:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T09:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880168551484633133"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 122,
+          "tag": "cosplay"
+        },
+        {
+          "end": 138,
+          "start": 131,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531822673512341506",
+          "start": 3,
+          "username": "Kirishima503"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880168551484633133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879821182255714451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kirishima503: 对不起我投降了 我超级粘人也超级喜欢你 你不理我 我就没有办法好好做事 忘记说晚安我就睡不着 偶尔故意冷淡是想看你的反应 我也不喜欢别人 我只对你这样 但我忍不住了 今天是肯德基疯狂星期四可以vivo50吗\n#cosplay #可爱的男孩子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1880168551484633133",
+        "created_at": "2025-01-17T08:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T09:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880168551484633133"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 122,
+              "tag": "cosplay"
+            },
+            {
+              "end": 138,
+              "start": 131,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531822673512341506",
+              "start": 3,
+              "username": "Kirishima503"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880168551484633133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879821182255714451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kirishima503: 对不起我投降了 我超级粘人也超级喜欢你 你不理我 我就没有办法好好做事 忘记说晚安我就睡不着 偶尔故意冷淡是想看你的反应 我也不喜欢别人 我只对你这样 但我忍不住了 今天是肯德基疯狂星期四可以vivo50吗\n#cosplay #可爱的男孩子…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879820916533932032"
+          ]
+        },
+        "author_id": "1531822673512341506",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1879821182255714451",
+        "created_at": "2025-01-16T09:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T10:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879821182255714451"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 104,
+              "tag": "cosplay"
+            },
+            {
+              "end": 120,
+              "start": 113,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 123,
+              "start": 121,
+              "tag": "腿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/chBLoAaU0d",
+              "end": 147,
+              "expanded_url": "https://x.com/Kirishima503/status/1879821182255714451/photo/1",
+              "media_key": "3_1879820916533932032",
+              "start": 124,
+              "url": "https://t.co/chBLoAaU0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879821182255714451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3932,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我投降了 我超级粘人也超级喜欢你 你不理我 我就没有办法好好做事 忘记说晚安我就睡不着 偶尔故意冷淡是想看你的反应 我也不喜欢别人 我只对你这样 但我忍不住了 今天是肯德基疯狂星期四可以vivo50吗\n#cosplay #可爱的男孩子 #腿 https://t.co/chBLoAaU0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈冰棍喵🍥🌶️🍆🍡🍢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 143,
+          "like_count": 39935,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 10281
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T02:19:28.000Z",
+        "description": "Лети на луну💜💚❤️🧡💛\n🚪25，自辨\n礼貌なひとが好きです",
+        "id": "1531822673512341506",
+        "location": "多兰古雷格",
+        "name": "霧島散香",
+        "pinned_tweet_id": "1877907548747260226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873918933759389696/9mgvqY8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 3057,
+          "like_count": 1847,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 672
+        },
+        "username": "Kirishima503",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024500310874750977"
+      ],
+      "media_source_tweet_id": [
+        "2024500320748130450"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2024785278628774002",
+    "created_at": "2026-02-20T09:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T10:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024785278628774002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2008065990987587585",
+          "start": 3,
+          "username": "yxxVat1MpY24179"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oZL7dcF7j8",
+          "end": 49,
+          "expanded_url": "https://x.com/yxxVat1MpY24179/status/2024500320748130450/photo/1",
+          "media_key": "3_2024500310874750977",
+          "start": 26,
+          "url": "https://t.co/oZL7dcF7j8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024785278628774002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024500320748130450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yxxVat1MpY24179: 転落人生 https://t.co/oZL7dcF7j8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2024500310874750977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh4TnVbgAEY1wY.jpg",
+        "width": 707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024500310874750977"
+          ],
+          "media_source_tweet_id": [
+            "2024500320748130450"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2024785278628774002",
+        "created_at": "2026-02-20T09:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024785278628774002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2008065990987587585",
+              "start": 3,
+              "username": "yxxVat1MpY24179"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZL7dcF7j8",
+              "end": 49,
+              "expanded_url": "https://x.com/yxxVat1MpY24179/status/2024500320748130450/photo/1",
+              "media_key": "3_2024500310874750977",
+              "start": 26,
+              "url": "https://t.co/oZL7dcF7j8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024785278628774002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024500320748130450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yxxVat1MpY24179: 転落人生 https://t.co/oZL7dcF7j8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024500310874750977"
+          ]
+        },
+        "author_id": "2008065990987587585",
+        "conversation_id": "2024500320748130450",
+        "created_at": "2026-02-19T15:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024500320748130450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZL7dcF7j8",
+              "end": 28,
+              "expanded_url": "https://x.com/yxxVat1MpY24179/status/2024500320748130450/photo/1",
+              "media_key": "3_2024500310874750977",
+              "start": 5,
+              "url": "https://t.co/oZL7dcF7j8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024500320748130450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 14583,
+          "like_count": 1874,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "転落人生 https://t.co/oZL7dcF7j8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本，纸烟代购/电子烟代购",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 260,
+          "like_count": 41693,
+          "listed_count": 5,
+          "media_count": 618,
+          "tweet_count": 12384
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T06:40:39.000Z",
+        "description": "尨転生🌱 躁鬱 摂食 薬中🌱 ましゅhttps://t.co/4AWlWcPZ7Q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/m3g6ixaabdtnjv…",
+                "end": 41,
+                "expanded_url": "https://marshmallow-qa.com/m3g6ixaabdtnjvq?t=ASpFNR&utm_medium=url_text&utm_source=promotion",
+                "start": 18,
+                "url": "https://t.co/4AWlWcPZ7Q"
+              }
+            ]
+          }
+        },
+        "id": "2008065990987587585",
+        "name": "むい",
+        "pinned_tweet_id": "2021234242819064100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023829266572660736/ylLOWNSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 35,
+          "like_count": 2947,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 524
+        },
+        "username": "yxxVat1MpY24179",
+        "verified": false
+      }
+    ]
+  }
+}

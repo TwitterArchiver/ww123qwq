@@ -1,0 +1,570 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051631464593420288"
+      ],
+      "media_source_tweet_id": [
+        "2051631535015735606"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2052217266025251213",
+    "created_at": "2026-05-07T02:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052217266025251213"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 15,
+          "tag": "ブルーアーカイブ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1062007935243509760",
+          "start": 3,
+          "username": "heoburi35"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EKp4VUmb3R",
+          "end": 48,
+          "expanded_url": "https://x.com/heoburi35/status/2051631535015735606/photo/1",
+          "media_key": "3_2051631464593420288",
+          "start": 25,
+          "url": "https://t.co/EKp4VUmb3R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052217266025251213",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 539
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051631535015735606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heoburi35: #ブルーアーカイブ https://t.co/EKp4VUmb3R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2051631464593420288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjb8nEa8AAEy93.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051631464593420288"
+          ],
+          "media_source_tweet_id": [
+            "2051631535015735606"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2052217266025251213",
+        "created_at": "2026-05-07T02:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052217266025251213"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "ブルーアーカイブ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1062007935243509760",
+              "start": 3,
+              "username": "heoburi35"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKp4VUmb3R",
+              "end": 48,
+              "expanded_url": "https://x.com/heoburi35/status/2051631535015735606/photo/1",
+              "media_key": "3_2051631464593420288",
+              "start": 25,
+              "url": "https://t.co/EKp4VUmb3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052217266025251213",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 539
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051631535015735606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heoburi35: #ブルーアーカイブ https://t.co/EKp4VUmb3R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051631464593420288"
+          ]
+        },
+        "author_id": "1062007935243509760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2051631535015735606",
+        "created_at": "2026-05-05T11:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051631535015735606"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "ブルーアーカイブ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKp4VUmb3R",
+              "end": 33,
+              "expanded_url": "https://x.com/heoburi35/status/2051631535015735606/photo/1",
+              "media_key": "3_2051631464593420288",
+              "start": 10,
+              "url": "https://t.co/EKp4VUmb3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051631535015735606",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 717,
+          "impression_count": 35440,
+          "like_count": 5007,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 539
+        },
+        "reply_settings": "everyone",
+        "text": "#ブルーアーカイブ https://t.co/EKp4VUmb3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 280,
+          "like_count": 42664,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12786
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-12T15:43:17.000Z",
+        "description": "난 거북이야.\nhttps://t.co/fzecbhkbqW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/40163021",
+                "end": 31,
+                "expanded_url": "https://www.pixiv.net/users/40163021",
+                "start": 8,
+                "url": "https://t.co/fzecbhkbqW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chzzk.naver.com/a531c7e8aaa435…",
+                "end": 23,
+                "expanded_url": "https://chzzk.naver.com/a531c7e8aaa43595107fcb3eaa8495fc",
+                "start": 0,
+                "url": "https://t.co/pWmZCOexXV"
+              }
+            ]
+          }
+        },
+        "id": "1062007935243509760",
+        "name": "허부리",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945126075043872770/lv3fRFge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94716,
+          "following_count": 1351,
+          "like_count": 15167,
+          "listed_count": 501,
+          "media_count": 376,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/pWmZCOexXV",
+        "username": "heoburi35",
+        "verified": true
+      }
+    ]
+  }
+}

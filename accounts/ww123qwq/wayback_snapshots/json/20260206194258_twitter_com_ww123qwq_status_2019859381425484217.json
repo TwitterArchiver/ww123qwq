@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019722246936522752",
+        "3_2019722246932357120",
+        "3_2019722246928101376",
+        "3_2019722246932271104"
+      ],
+      "media_source_tweet_id": [
+        "2019722255358722393",
+        "2019722255358722393",
+        "2019722255358722393",
+        "2019722255358722393"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2019859381425484217",
+    "created_at": "2026-02-06T19:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T20:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019859381425484217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737861608393895936",
+          "start": 3,
+          "username": "Ruzhen21"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q8tl6hmTKG",
+          "end": 64,
+          "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+          "media_key": "3_2019722246936522752",
+          "start": 41,
+          "url": "https://t.co/q8tl6hmTKG"
+        },
+        {
+          "display_url": "pic.x.com/q8tl6hmTKG",
+          "end": 64,
+          "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+          "media_key": "3_2019722246932357120",
+          "start": 41,
+          "url": "https://t.co/q8tl6hmTKG"
+        },
+        {
+          "display_url": "pic.x.com/q8tl6hmTKG",
+          "end": 64,
+          "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+          "media_key": "3_2019722246928101376",
+          "start": 41,
+          "url": "https://t.co/q8tl6hmTKG"
+        },
+        {
+          "display_url": "pic.x.com/q8tl6hmTKG",
+          "end": 64,
+          "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+          "media_key": "3_2019722246932271104",
+          "start": 41,
+          "url": "https://t.co/q8tl6hmTKG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019859381425484217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019722255358722393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruzhen21: 极乐百科是骗子频道，管理骗完钱删人，进去问直接踢人。 https://t.co/q8tl6hmTKG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2019722246936522752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAd-rsGa8AA7EpS.jpg",
+        "width": 461
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2019722246932357120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAd-rsFbYAAiiI-.jpg",
+        "width": 461
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2019722246928101376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAd-rsEacAAPW0j.jpg",
+        "width": 461
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2019722246932271104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAd-rsFaEAAQIB5.jpg",
+        "width": 461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019722246936522752",
+            "3_2019722246932357120",
+            "3_2019722246928101376",
+            "3_2019722246932271104"
+          ],
+          "media_source_tweet_id": [
+            "2019722255358722393",
+            "2019722255358722393",
+            "2019722255358722393",
+            "2019722255358722393"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019859381425484217",
+        "created_at": "2026-02-06T19:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T20:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019859381425484217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737861608393895936",
+              "start": 3,
+              "username": "Ruzhen21"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8tl6hmTKG",
+              "end": 64,
+              "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+              "media_key": "3_2019722246936522752",
+              "start": 41,
+              "url": "https://t.co/q8tl6hmTKG"
+            },
+            {
+              "display_url": "pic.x.com/q8tl6hmTKG",
+              "end": 64,
+              "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+              "media_key": "3_2019722246932357120",
+              "start": 41,
+              "url": "https://t.co/q8tl6hmTKG"
+            },
+            {
+              "display_url": "pic.x.com/q8tl6hmTKG",
+              "end": 64,
+              "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+              "media_key": "3_2019722246928101376",
+              "start": 41,
+              "url": "https://t.co/q8tl6hmTKG"
+            },
+            {
+              "display_url": "pic.x.com/q8tl6hmTKG",
+              "end": 64,
+              "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+              "media_key": "3_2019722246932271104",
+              "start": 41,
+              "url": "https://t.co/q8tl6hmTKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019859381425484217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019722255358722393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ruzhen21: 极乐百科是骗子频道，管理骗完钱删人，进去问直接踢人。 https://t.co/q8tl6hmTKG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019722246936522752",
+            "3_2019722246932357120",
+            "3_2019722246928101376",
+            "3_2019722246932271104"
+          ]
+        },
+        "author_id": "1737861608393895936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019722255358722393",
+        "created_at": "2026-02-06T10:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019722255358722393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8tl6hmTKG",
+              "end": 50,
+              "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+              "media_key": "3_2019722246936522752",
+              "start": 27,
+              "url": "https://t.co/q8tl6hmTKG"
+            },
+            {
+              "display_url": "pic.x.com/q8tl6hmTKG",
+              "end": 50,
+              "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+              "media_key": "3_2019722246932357120",
+              "start": 27,
+              "url": "https://t.co/q8tl6hmTKG"
+            },
+            {
+              "display_url": "pic.x.com/q8tl6hmTKG",
+              "end": 50,
+              "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+              "media_key": "3_2019722246928101376",
+              "start": 27,
+              "url": "https://t.co/q8tl6hmTKG"
+            },
+            {
+              "display_url": "pic.x.com/q8tl6hmTKG",
+              "end": 50,
+              "expanded_url": "https://x.com/Ruzhen21/status/2019722255358722393/photo/1",
+              "media_key": "3_2019722246932271104",
+              "start": 27,
+              "url": "https://t.co/q8tl6hmTKG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019722255358722393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12107,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "极乐百科是骗子频道，管理骗完钱删人，进去问直接踢人。 https://t.co/q8tl6hmTKG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 263,
+          "like_count": 41358,
+          "listed_count": 5,
+          "media_count": 585,
+          "tweet_count": 12200
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T15:44:40.000Z",
+        "description": "活得纯粹，成为纯粹。",
+        "id": "1737861608393895936",
+        "name": "如真",
+        "pinned_tweet_id": "1836516034901328056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737877918083432448/bvvqxbPf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254,
+          "following_count": 94,
+          "like_count": 1018,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 585
+        },
+        "username": "Ruzhen21",
+        "verified": false
+      }
+    ]
+  }
+}

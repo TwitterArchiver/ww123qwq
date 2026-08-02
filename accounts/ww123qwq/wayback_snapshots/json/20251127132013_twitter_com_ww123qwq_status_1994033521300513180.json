@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1993971373195317273",
+    "created_at": "2025-11-27T13:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T14:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994033521300513180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1868203874726887424",
+          "start": 0,
+          "username": "daozhir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994033521300513180",
+    "in_reply_to_user_id": "1868203874726887424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993971373195317273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daozhir 羡慕🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993971365037412352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wCZFlbEAAZ0Uk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1993971373195317273",
+        "created_at": "2025-11-27T13:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994033521300513180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1868203874726887424",
+              "start": 0,
+              "username": "daozhir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994033521300513180",
+        "in_reply_to_user_id": "1868203874726887424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993971373195317273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daozhir 羡慕🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993971365037412352"
+          ]
+        },
+        "author_id": "1868203874726887424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993971373195317273",
+        "created_at": "2025-11-27T09:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993971373195317273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FgwlJw8LJB",
+              "end": 45,
+              "expanded_url": "https://x.com/daozhir/status/1993971373195317273/photo/1",
+              "media_key": "3_1993971365037412352",
+              "start": 22,
+              "url": "https://t.co/FgwlJw8LJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993971373195317273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1631,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1650mg pr80+烟+酒\n我要爽死了 https://t.co/FgwlJw8LJB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 262,
+          "like_count": 40726,
+          "listed_count": 3,
+          "media_count": 405,
+          "tweet_count": 11632
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:58:21.000Z",
+        "description": "叫我小倒就好丨16岁丨lesbian丨overdose丨精神疾病患者丨LGBTQ+全友好🏳️‍🌈 丨 只fo同类丨 sub丨0 丨欢迎找我聊聊天丨请多关照",
+        "id": "1868203874726887424",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "name": "我活着，无声的淌血",
+        "pinned_tweet_id": "1988931748185645459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222275498012674/zZ3PsBCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 327,
+          "like_count": 972,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 490
+        },
+        "username": "daozhir",
+        "verified": false
+      }
+    ]
+  }
+}

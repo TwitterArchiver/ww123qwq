@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070356776353239040"
+      ],
+      "media_source_tweet_id": [
+        "2070356778903323109"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2070550333538070781",
+    "created_at": "2026-06-26T16:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070550333538070781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673364955171782657",
+          "start": 3,
+          "username": "kxk1388574"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K3muWhPTLG",
+          "end": 96,
+          "expanded_url": "https://x.com/kxk1388574/status/2070356778903323109/photo/1",
+          "media_key": "3_2070356776353239040",
+          "start": 73,
+          "url": "https://t.co/K3muWhPTLG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070550333538070781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070356778903323109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kxk1388574: 6月26日是第39个国际禁毒日。国家禁毒办提醒您：滥用麻精药品就是吸毒。你我参与，拒绝滥用，守护未来，健康人生。 https://t.co/K3muWhPTLG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2070356776353239040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtihNTbkAACL5u.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070356776353239040"
+          ],
+          "media_source_tweet_id": [
+            "2070356778903323109"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070550333538070781",
+        "created_at": "2026-06-26T16:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070550333538070781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673364955171782657",
+              "start": 3,
+              "username": "kxk1388574"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3muWhPTLG",
+              "end": 96,
+              "expanded_url": "https://x.com/kxk1388574/status/2070356778903323109/photo/1",
+              "media_key": "3_2070356776353239040",
+              "start": 73,
+              "url": "https://t.co/K3muWhPTLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070550333538070781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070356778903323109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kxk1388574: 6月26日是第39个国际禁毒日。国家禁毒办提醒您：滥用麻精药品就是吸毒。你我参与，拒绝滥用，守护未来，健康人生。 https://t.co/K3muWhPTLG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070356776353239040"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070356778903323109",
+        "created_at": "2026-06-26T04:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070356778903323109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3muWhPTLG",
+              "end": 80,
+              "expanded_url": "https://x.com/kxk1388574/status/2070356778903323109/photo/1",
+              "media_key": "3_2070356776353239040",
+              "start": 57,
+              "url": "https://t.co/K3muWhPTLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070356778903323109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6280,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "6月26日是第39个国际禁毒日。国家禁毒办提醒您：滥用麻精药品就是吸毒。你我参与，拒绝滥用，守护未来，健康人生。 https://t.co/K3muWhPTLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 279,
+          "like_count": 43077,
+          "listed_count": 4,
+          "media_count": 707,
+          "tweet_count": 13053
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9952,
+          "following_count": 5870,
+          "like_count": 53685,
+          "listed_count": 15,
+          "media_count": 1002,
+          "tweet_count": 7851
+        },
+        "url": "",
+        "username": "kxk1388574",
+        "verified": true
+      }
+    ]
+  }
+}

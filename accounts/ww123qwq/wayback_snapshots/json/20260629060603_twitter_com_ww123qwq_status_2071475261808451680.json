@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071475261808451680",
+    "created_at": "2026-06-29T06:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071475261808451680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1521553831775158273",
+          "start": 3,
+          "username": "ww123qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071475261808451680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071273878282711043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ww123qwq: 跳大神喝符水发力了，东亚大区一样的抽象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071475261808451680",
+        "created_at": "2026-06-29T06:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071475261808451680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1521553831775158273",
+              "start": 3,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071475261808451680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071273878282711043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ww123qwq: 跳大神喝符水发力了，东亚大区一样的抽象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071273878282711043",
+        "created_at": "2026-06-28T16:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071273878282711043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fox_Sakura233/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Fox_Sakura233/status/2071232715182293463",
+              "start": 20,
+              "url": "https://t.co/NivXqO3O2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071273878282711043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071232715182293463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跳大神喝符水发力了，东亚大区一样的抽象 https://t.co/NivXqO3O2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 283,
+          "like_count": 43250,
+          "listed_count": 4,
+          "media_count": 713,
+          "tweet_count": 13128
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

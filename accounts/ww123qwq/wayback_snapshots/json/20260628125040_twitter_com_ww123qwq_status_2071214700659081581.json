@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071214700659081581",
+    "created_at": "2026-06-28T12:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071214700659081581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2018899974453612544",
+          "start": 3,
+          "username": "nisimura_kenta2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071214700659081581",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 493
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069733122334478847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nisimura_kenta2: 男に生まれることの1番の悲劇は二次性徴。かわいかった男の子が突然、むさ苦しいナニカへと変貌してしまう。顔がデカくなったり、アゴが伸びたり、鼻がデカくなったりして全体的にキモくなる。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071214700659081581",
+        "created_at": "2026-06-28T12:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071214700659081581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2018899974453612544",
+              "start": 3,
+              "username": "nisimura_kenta2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071214700659081581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 493
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069733122334478847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nisimura_kenta2: 男に生まれることの1番の悲劇は二次性徴。かわいかった男の子が突然、むさ苦しいナニカへと変貌してしまう。顔がデカくなったり、アゴが伸びたり、鼻がデカくなったりして全体的にキモくなる。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018899974453612544",
+        "conversation_id": "2069733122334478847",
+        "created_at": "2026-06-24T10:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069733122334478847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069733122334478847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1054,
+          "impression_count": 5852008,
+          "like_count": 8444,
+          "quote_count": 268,
+          "reply_count": 75,
+          "retweet_count": 493
+        },
+        "reply_settings": "everyone",
+        "text": "男に生まれることの1番の悲劇は二次性徴。かわいかった男の子が突然、むさ苦しいナニカへと変貌してしまう。顔がデカくなったり、アゴが伸びたり、鼻がデカくなったりして全体的にキモくなる。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 284,
+          "like_count": 43187,
+          "listed_count": 4,
+          "media_count": 711,
+          "tweet_count": 13100
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T04:11:00.000Z",
+        "description": "政府の手厚い支援が必要",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6nzaxn5y1ychv8…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/6nzaxn5y1ychv8?t=sVuSF4&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/dMCYyHV8DI"
+              }
+            ]
+          }
+        },
+        "id": "2018899974453612544",
+        "location": "k=1  ｳﾊﾞﾖﾋﾞ",
+        "name": "かんのか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056147776766197760/QIyOZ1D-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 520,
+          "like_count": 93610,
+          "listed_count": 21,
+          "media_count": 158,
+          "tweet_count": 2830
+        },
+        "url": "https://t.co/dMCYyHV8DI",
+        "username": "nisimura_kenta2",
+        "verified": false
+      }
+    ]
+  }
+}

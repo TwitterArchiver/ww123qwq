@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018698773783035905"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2018698787628151290",
+    "created_at": "2026-02-03T14:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T15:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018698787628151290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/afycSd6pUQ",
+          "end": 40,
+          "expanded_url": "https://x.com/ww123qwq/status/2018698787628151290/photo/1",
+          "media_key": "3_2018698773783035905",
+          "start": 17,
+          "url": "https://t.co/afycSd6pUQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018698787628151290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来品鉴一下带罂粟壳的神秘小药丸😋 https://t.co/afycSd6pUQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018698773783035905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPb1tfawAEY8zK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018698773783035905"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2018698787628151290",
+        "created_at": "2026-02-03T14:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018698787628151290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/afycSd6pUQ",
+              "end": 40,
+              "expanded_url": "https://x.com/ww123qwq/status/2018698787628151290/photo/1",
+              "media_key": "3_2018698773783035905",
+              "start": 17,
+              "url": "https://t.co/afycSd6pUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018698787628151290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来品鉴一下带罂粟壳的神秘小药丸😋 https://t.co/afycSd6pUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 261,
+          "like_count": 41214,
+          "listed_count": 5,
+          "media_count": 574,
+          "tweet_count": 12152
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

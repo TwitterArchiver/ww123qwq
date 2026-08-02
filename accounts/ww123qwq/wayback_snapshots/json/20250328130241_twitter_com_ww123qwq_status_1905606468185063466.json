@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1905606468185063466",
+    "created_at": "2025-03-28T13:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T14:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905606468185063466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiaoyanboluooo…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/jiaoyanboluooo/status/1905392050780209592",
+          "start": 37,
+          "url": "https://t.co/R8VnPtelpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905606468185063466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905392050780209592",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想要变成鲨鲨\n*软软的\n*很可爱\n*没有烦恼\n*被人拥抱\n*被很多人喜欢 https://t.co/R8VnPtelpx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1905606468185063466",
+        "created_at": "2025-03-28T13:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T14:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905606468185063466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiaoyanboluooo…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/jiaoyanboluooo/status/1905392050780209592",
+              "start": 37,
+              "url": "https://t.co/R8VnPtelpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905606468185063466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905392050780209592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要变成鲨鲨\n*软软的\n*很可爱\n*没有烦恼\n*被人拥抱\n*被很多人喜欢 https://t.co/R8VnPtelpx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704469304077611008",
+        "conversation_id": "1905392050780209592",
+        "created_at": "2025-03-27T22:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T23:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905392050780209592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AsdQWD358224/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/AsdQWD358224/status/1905233080178401562",
+              "start": 37,
+              "url": "https://t.co/ernBqeWDJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905392050780209592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1701,
+          "like_count": 28,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905233080178401562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要变成鲨鲨\n*软软的\n*很可爱\n*没有烦恼\n*被人拥抱\n*被很多人喜欢 https://t.co/ernBqeWDJx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "抑郁/焦虑/日常/碎碎念/社恐/od/家暴/欢迎扩列",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 184,
+          "like_count": 40066,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 10602
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/抑郁/臭蝈蝻/深柜/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m/无证含糖/我的⭐️💢@snmqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "snmqwq"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "1904531366127317042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845701516545638400/CJz4quM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 1843,
+          "like_count": 5617,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 1377
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

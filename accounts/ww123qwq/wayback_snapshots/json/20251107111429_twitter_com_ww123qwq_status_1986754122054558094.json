@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986745225243729921"
+      ],
+      "media_source_tweet_id": [
+        "1986745255195189422"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1986754122054558094",
+    "created_at": "2025-11-07T11:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986754122054558094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1817584080437014528",
+          "start": 3,
+          "username": "N552AA"
+        },
+        {
+          "end": 27,
+          "id": "1769594666977210368",
+          "start": 16,
+          "username": "aiaijiang_"
+        },
+        {
+          "end": 44,
+          "id": "1870430200506535936",
+          "start": 29,
+          "username": "zhshfngwis8964"
+        },
+        {
+          "end": 52,
+          "id": "1817584080437014528",
+          "start": 45,
+          "username": "N552AA"
+        },
+        {
+          "end": 62,
+          "id": "1521553831775158273",
+          "start": 53,
+          "username": "ww123qwq"
+        },
+        {
+          "end": 79,
+          "id": "1225361330351169536",
+          "start": 64,
+          "username": "Shachar_memory"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yrhTJtYqiw",
+          "end": 127,
+          "expanded_url": "https://x.com/N552AA/status/1986745255195189422/photo/1",
+          "media_key": "3_1986745225243729921",
+          "start": 104,
+          "url": "https://t.co/yrhTJtYqiw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986754122054558094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986745255195189422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N552AA: 贴贴～\n@aiaijiang_ \n@zhshfngwis8964\n@N552AA\n@ww123qwq \n@Shachar_memory \nmaimai buddies plus（卡） https://t.co/yrhTJtYqiw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986745225243729921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JWQZHbIAECmzF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986745225243729921"
+          ],
+          "media_source_tweet_id": [
+            "1986745255195189422"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1986754122054558094",
+        "created_at": "2025-11-07T11:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986754122054558094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1817584080437014528",
+              "start": 3,
+              "username": "N552AA"
+            },
+            {
+              "end": 27,
+              "id": "1769594666977210368",
+              "start": 16,
+              "username": "aiaijiang_"
+            },
+            {
+              "end": 44,
+              "id": "1870430200506535936",
+              "start": 29,
+              "username": "zhshfngwis8964"
+            },
+            {
+              "end": 52,
+              "id": "1817584080437014528",
+              "start": 45,
+              "username": "N552AA"
+            },
+            {
+              "end": 62,
+              "id": "1521553831775158273",
+              "start": 53,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 79,
+              "id": "1225361330351169536",
+              "start": 64,
+              "username": "Shachar_memory"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrhTJtYqiw",
+              "end": 127,
+              "expanded_url": "https://x.com/N552AA/status/1986745255195189422/photo/1",
+              "media_key": "3_1986745225243729921",
+              "start": 104,
+              "url": "https://t.co/yrhTJtYqiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986754122054558094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986745255195189422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N552AA: 贴贴～\n@aiaijiang_ \n@zhshfngwis8964\n@N552AA\n@ww123qwq \n@Shachar_memory \nmaimai buddies plus（卡） https://t.co/yrhTJtYqiw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986745225243729921"
+          ]
+        },
+        "author_id": "1817584080437014528",
+        "conversation_id": "1986745255195189422",
+        "created_at": "2025-11-07T10:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986745255195189422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1769594666977210368",
+              "start": 4,
+              "username": "aiaijiang_"
+            },
+            {
+              "end": 32,
+              "id": "1870430200506535936",
+              "start": 17,
+              "username": "zhshfngwis8964"
+            },
+            {
+              "end": 40,
+              "id": "1817584080437014528",
+              "start": 33,
+              "username": "N552AA"
+            },
+            {
+              "end": 50,
+              "id": "1521553831775158273",
+              "start": 41,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 67,
+              "id": "1225361330351169536",
+              "start": 52,
+              "username": "Shachar_memory"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrhTJtYqiw",
+              "end": 115,
+              "expanded_url": "https://x.com/N552AA/status/1986745255195189422/photo/1",
+              "media_key": "3_1986745225243729921",
+              "start": 92,
+              "url": "https://t.co/yrhTJtYqiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986745255195189422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴～\n@aiaijiang_ \n@zhshfngwis8964\n@N552AA\n@ww123qwq \n@Shachar_memory \nmaimai buddies plus（卡） https://t.co/yrhTJtYqiw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w唯一电报  https://t.co/7z9W9wVbK1非本，注意防骗\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1048726302置顶tg非本人推广自辨，出原味",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "kirifuji00"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ww123qwq6",
+                "end": 72,
+                "expanded_url": "http://t.me/ww123qwq6",
+                "start": 49,
+                "url": "https://t.co/7z9W9wVbK1"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986097091161280725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 223,
+          "like_count": 40455,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 11156
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/ADHD/BPD/断续含糖/坐标上海/有小证/抱抱最最可爱的姐姐: @yizhikapaiqaq/主人：@ayumi_0222_ @nahida_miao\n/长在春风中，活在药效里。/上海市贴贴微信群群主",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 81,
+                "start": 69,
+                "username": "ayumi_0222_"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "username": "nahida_miao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004171713146880/ZhbhI7xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 986,
+          "like_count": 3882,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1358
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T05:21:16.000Z",
+        "description": "无证含糖已炸柜 肉肉系 偏4i/INTJ药娘，攒钱做srs，绝赞私信请直接入门 不过🚪不回 私信过🚪128口令红包 支持usdt",
+        "id": "1769594666977210368",
+        "location": "上海",
+        "name": "爱爱酱🍥🏳️‍⚧",
+        "pinned_tweet_id": "1982443687872508365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893620196599881728/7N6JyNGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9489,
+          "following_count": 142,
+          "like_count": 360,
+          "listed_count": 35,
+          "media_count": 107,
+          "tweet_count": 895
+        },
+        "username": "aiaijiang_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T11:24:58.000Z",
+        "description": "一只可爱的🧀🍥风味石英猫 出厂日期:08.01.13  24.08.22持证  24.04.20hrt  🚪50(24陪聊，语音，视频，解锁线下） https://t.co/8j5umnDm0Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zhshfngwis",
+                "end": 97,
+                "expanded_url": "http://t.me/zhshfngwis",
+                "start": 74,
+                "url": "https://t.co/8j5umnDm0Z"
+              }
+            ]
+          }
+        },
+        "id": "1870430200506535936",
+        "name": "芝士🍥风味石英",
+        "pinned_tweet_id": "1986385059520086441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870430376776327168/QVVqE23n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 467,
+          "like_count": 6990,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 2691
+        },
+        "username": "zhshfngwis8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T10:12:06.000Z",
+        "description": "illustration｜3DCG｜中文/English 【绘画｜记录｜树洞 ——纪念我存在过的痕迹，我的记忆，我的故事】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58737098",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/58737098",
+                "start": 0,
+                "url": "https://t.co/NMq96ijXFK"
+              }
+            ]
+          }
+        },
+        "id": "1225361330351169536",
+        "location": "SAMUCELA",
+        "name": "邈黎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984534218547085312/2G0i2_uF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 191,
+          "like_count": 64,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/NMq96ijXFK",
+        "username": "Shachar_memory",
+        "verified": false
+      }
+    ]
+  }
+}

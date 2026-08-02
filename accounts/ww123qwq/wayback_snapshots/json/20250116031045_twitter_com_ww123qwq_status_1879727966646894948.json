@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1879149185586561025",
+        "3_1879149185569845248",
+        "3_1879149185565605888"
+      ],
+      "media_source_tweet_id": [
+        "1879149449953567172",
+        "1879149449953567172",
+        "1879149449953567172"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1879727966646894948",
+    "created_at": "2025-01-16T03:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T04:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879727966646894948"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "露出"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1204451526611128320",
+          "start": 3,
+          "username": "Jimoo314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FPlRGwmico",
+          "end": 105,
+          "expanded_url": "https://x.com/Jimoo314/status/1879149449953567172/video/1",
+          "media_key": "13_1879149185586561025",
+          "start": 82,
+          "url": "https://t.co/FPlRGwmico"
+        },
+        {
+          "display_url": "pic.x.com/FPlRGwmico",
+          "end": 105,
+          "expanded_url": "https://x.com/Jimoo314/status/1879149449953567172/video/1",
+          "media_key": "3_1879149185569845248",
+          "start": 82,
+          "url": "https://t.co/FPlRGwmico"
+        },
+        {
+          "display_url": "pic.x.com/FPlRGwmico",
+          "end": 105,
+          "expanded_url": "https://x.com/Jimoo314/status/1879149449953567172/video/1",
+          "media_key": "3_1879149185565605888",
+          "start": 82,
+          "url": "https://t.co/FPlRGwmico"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879727966646894948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879149449953567172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jimoo314: 零下二度 某废弃拆迁工地露出挤奶尿尿🫣旁边偶尔还有施工的工人，看到我会不会把我qj了啊🤣很社恐，确实不敢打招呼。。而且好冷啊🥶 #露出 https://t.co/FPlRGwmico"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1879727966646894948].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1879727966646894948",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1879727966646894948"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28741,
+        "height": 1080,
+        "media_key": "13_1879149185586561025",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1879149185586561025/img/x1mAsiMjr5WMu6Fn.jpg",
+        "public_metrics": {
+          "view_count": 44372
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1879149185586561025/vid/avc1/1440x1080/8XClSA8o9lhK3BcB.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1879149185586561025/pl/6q_NoJK5oM1gad4q.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1879149185586561025/vid/avc1/960x720/-Qy4akuoQAKvBq9l.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1879149185586561025/vid/avc1/480x360/qO9m-czuDTazL5nF.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1879149185586561025/vid/avc1/360x270/xKoBShxtkPnZN_Ti.mp4?tag=16"
+          }
+        ],
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1879149185569845248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhQUOmXa8AAnGd6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1879149185565605888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhQUOmWaQAAkaF_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1879149185586561025",
+            "3_1879149185569845248",
+            "3_1879149185565605888"
+          ]
+        },
+        "author_id": "1204451526611128320",
+        "conversation_id": "1879149449953567172",
+        "created_at": "2025-01-14T12:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T13:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879149449953567172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "露出"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FPlRGwmico",
+              "end": 91,
+              "expanded_url": "https://x.com/Jimoo314/status/1879149449953567172/video/1",
+              "media_key": "13_1879149185586561025",
+              "start": 68,
+              "url": "https://t.co/FPlRGwmico"
+            },
+            {
+              "display_url": "pic.x.com/FPlRGwmico",
+              "end": 91,
+              "expanded_url": "https://x.com/Jimoo314/status/1879149449953567172/video/1",
+              "media_key": "3_1879149185569845248",
+              "start": 68,
+              "url": "https://t.co/FPlRGwmico"
+            },
+            {
+              "display_url": "pic.x.com/FPlRGwmico",
+              "end": 91,
+              "expanded_url": "https://x.com/Jimoo314/status/1879149449953567172/video/1",
+              "media_key": "3_1879149185565605888",
+              "start": 68,
+              "url": "https://t.co/FPlRGwmico"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879149449953567172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 145136,
+          "like_count": 823,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "零下二度 某废弃拆迁工地露出挤奶尿尿🫣旁边偶尔还有施工的工人，看到我会不会把我qj了啊🤣很社恐，确实不敢打招呼。。而且好冷啊🥶 #露出 https://t.co/FPlRGwmico"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，乐子壬",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 142,
+          "like_count": 39915,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 10270
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-10T17:23:26.000Z",
+        "description": "江浙沪 是药娘不是ts没整过容 门槛99私信口令红包开启绿泡泡好友位 无门槛不回复任何打招呼问线下价格消息。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/jimoo314",
+                "end": 23,
+                "expanded_url": "http://patreon.com/jimoo314",
+                "start": 0,
+                "url": "https://t.co/NZKp3xSeB9"
+              }
+            ]
+          }
+        },
+        "id": "1204451526611128320",
+        "location": "私信口令99好友位",
+        "name": "冷漠酱Jimoo🏳️‍⚧️",
+        "pinned_tweet_id": "1879149449953567172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849093519883042816/zXOJx0Eb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60852,
+          "following_count": 271,
+          "like_count": 4107,
+          "listed_count": 251,
+          "media_count": 81,
+          "tweet_count": 3175
+        },
+        "url": "https://t.co/NZKp3xSeB9",
+        "username": "Jimoo314",
+        "verified": true
+      }
+    ]
+  }
+}

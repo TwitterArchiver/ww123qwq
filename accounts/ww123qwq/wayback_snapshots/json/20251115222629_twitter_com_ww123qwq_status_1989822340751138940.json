@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1989822340751138940",
+    "created_at": "2025-11-15T22:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T23:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989822340751138940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ww123qwq/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/ww123qwq/status/1989685049407816079",
+          "start": 2,
+          "url": "https://t.co/fk9o2u6Mm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989822340751138940",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989685049407816079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1 https://t.co/fk9o2u6Mm1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3206,
+        "height": 960,
+        "media_key": "7_1989685017195548674",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989685017195548674/pu/img/MyUnafgwaDZtfVeD.jpg",
+        "public_metrics": {
+          "view_count": 93
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989685017195548674/pu/vid/avc1/320x426/-X6ekbHwDvRvG6D0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989685017195548674/pu/vid/avc1/480x640/BARtXRx3vCkNFHcF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989685017195548674/pu/vid/avc1/720x960/0xUJMVnMv-qpP8XM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989685017195548674/pu/pl/3NUpZHok2sSvnHnR.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1989822340751138940",
+        "created_at": "2025-11-15T22:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T23:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989822340751138940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ww123qwq/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/ww123qwq/status/1989685049407816079",
+              "start": 2,
+              "url": "https://t.co/fk9o2u6Mm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989822340751138940",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989685049407816079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1 https://t.co/fk9o2u6Mm1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989685017195548674"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1989685049407816079",
+        "created_at": "2025-11-15T13:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989685049407816079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QvxkU2Jkfi",
+              "end": 72,
+              "expanded_url": "https://x.com/ww123qwq/status/1989685049407816079/video/1",
+              "media_key": "7_1989685017195548674",
+              "start": 49,
+              "url": "https://t.co/QvxkU2Jkfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989685049407816079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 190,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "公安局派出所吃公家饭，加了+8t普瑞,那又如何警察压根不管，药效爽死了，公安局派出所od吸度谁敢 https://t.co/QvxkU2Jkfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴休学圆角攒钱中/地雷系/欢迎扩列加好友w唯一电报  非本，注意防骗\n@kirifuji00🚪88/188/520/1314，女生免费解锁色图个人群欢迎来玩1051287723置顶tg非本人推广自辨，出原味，接线下，接露出，接任务，找金主上海，比较负能",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 244,
+          "like_count": 40620,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 11411
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

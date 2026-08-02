@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1997689696416346203",
+    "created_at": "2025-12-07T15:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T16:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997689696416346203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jingyin_8964/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/jingyin_8964/status/1997539919460524399",
+          "start": 19,
+          "url": "https://t.co/H1nP2iGH5j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997689696416346203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997539919460524399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没在开玩笑，上海有没有oder扩列 https://t.co/H1nP2iGH5j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1997689696416346203",
+        "created_at": "2025-12-07T15:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997689696416346203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingyin_8964/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/jingyin_8964/status/1997539919460524399",
+              "start": 19,
+              "url": "https://t.co/H1nP2iGH5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997689696416346203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997539919460524399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没在开玩笑，上海有没有oder扩列 https://t.co/H1nP2iGH5j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965531250447568896",
+        "conversation_id": "1997539919460524399",
+        "created_at": "2025-12-07T05:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T06:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997539919460524399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AigXiApbPKiX3/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/AigXiApbPKiX3/status/1997530645954953715",
+              "start": 19,
+              "url": "https://t.co/VahGUMQrad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997539919460524399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 984,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997530645954953715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没在开玩笑，黄冈有没有oder扩列 https://t.co/VahGUMQrad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，支持支付宝口令红包，usdt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1997666501986312595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 266,
+          "like_count": 40762,
+          "listed_count": 3,
+          "media_count": 419,
+          "tweet_count": 11702
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼",
+        "id": "1965531250447568896",
+        "name": "镜音（二代目）",
+        "pinned_tweet_id": "1996620377464975755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 82,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 81
+        },
+        "username": "jingyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

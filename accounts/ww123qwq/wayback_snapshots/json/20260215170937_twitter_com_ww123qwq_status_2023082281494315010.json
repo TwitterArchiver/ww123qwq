@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2022222846257508728",
+    "created_at": "2026-02-15T17:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023082281494315010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454357453282414593",
+          "start": 0,
+          "username": "Glico_happy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023082281494315010",
+    "in_reply_to_user_id": "1454357453282414593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022222846257508728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glico_happy 耐冻王这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1999,
+        "media_key": "3_2022222840280592384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBg9YObMAAAa4V.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2022222846257508728",
+        "created_at": "2026-02-15T17:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023082281494315010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454357453282414593",
+              "start": 0,
+              "username": "Glico_happy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023082281494315010",
+        "in_reply_to_user_id": "1454357453282414593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022222846257508728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glico_happy 耐冻王这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022222840280592384"
+          ]
+        },
+        "author_id": "1454357453282414593",
+        "conversation_id": "2022222846257508728",
+        "created_at": "2026-02-13T08:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022222846257508728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lsT6EGoaa",
+              "end": 54,
+              "expanded_url": "https://x.com/Glico_happy/status/2022222846257508728/photo/1",
+              "media_key": "3_2022222840280592384",
+              "start": 31,
+              "url": "https://t.co/6lsT6EGoaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022222846257508728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1422,
+          "impression_count": 234567,
+          "like_count": 9801,
+          "quote_count": 12,
+          "reply_count": 60,
+          "retweet_count": 407
+        },
+        "reply_settings": "everyone",
+        "text": "真冬にラバー✖️競泳水着を着る女です\nとても寒かったです❄️ https://t.co/6lsT6EGoaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本，外烟代购需要私聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 260,
+          "like_count": 41649,
+          "listed_count": 5,
+          "media_count": 613,
+          "tweet_count": 12346
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-30T08:00:23.000Z",
+        "description": "𝐋𝐀𝐓𝐄𝐗、𝐄𝐍𝐀𝐌𝐄𝐋、𝐙𝐄𝐍𝐓𝐀𝐈 ║ タグ #ぐりったー ║ ぐりこ通販https://t.co/lq6mmxceNJ ║ 各SNS ▶︎https://t.co/WQwzsBOht8 ║ 2/23CC福岡A館 あ 16b",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "ぐりったー"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "glico201.booth.pm",
+                "end": 62,
+                "expanded_url": "https://glico201.booth.pm/",
+                "start": 39,
+                "url": "https://t.co/lq6mmxceNJ"
+              },
+              {
+                "display_url": "fanme.link/@Glico_happy",
+                "end": 95,
+                "expanded_url": "https://fanme.link/@Glico_happy",
+                "start": 72,
+                "url": "https://t.co/WQwzsBOht8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1BUUCQ5T9RXWC?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/1AcNvhuQNL"
+              }
+            ]
+          }
+        },
+        "id": "1454357453282414593",
+        "location": "\"REPOST IS PROHIBITED\"",
+        "name": "🍬✨ぐりこ✨🍬",
+        "pinned_tweet_id": "2018278745308803239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739421160763494400/-VqIj3al_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280075,
+          "following_count": 461,
+          "like_count": 36883,
+          "listed_count": 1117,
+          "media_count": 1732,
+          "tweet_count": 35846
+        },
+        "url": "https://t.co/1AcNvhuQNL",
+        "username": "Glico_happy",
+        "verified": true
+      }
+    ]
+  }
+}

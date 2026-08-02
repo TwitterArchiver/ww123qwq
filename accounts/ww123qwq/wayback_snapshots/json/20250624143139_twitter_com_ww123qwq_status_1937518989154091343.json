@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1937514390498213890"
+      ],
+      "media_source_tweet_id": [
+        "1937514423868162086"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1937518989154091343",
+    "created_at": "2025-06-24T14:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T15:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937518989154091343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1842587173494927360",
+          "start": 3,
+          "username": "sgxiaoshen3121"
+        },
+        {
+          "end": 28,
+          "id": "1512976991976402949",
+          "start": 20,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4xe5hHlwMV",
+          "end": 66,
+          "expanded_url": "https://x.com/sgxiaoshen3121/status/1937514423868162086/video/1",
+          "media_key": "7_1937514390498213890",
+          "start": 43,
+          "url": "https://t.co/4xe5hHlwMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937518989154091343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937514423868162086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sgxiaoshen3121: @bghtnya 冰棍你是个香香软软的小蛋糕 https://t.co/4xe5hHlwMV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937518989154091343].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937518989154091343",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937518989154091343"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7800,
+        "height": 1280,
+        "media_key": "7_1937514390498213890",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1937514390498213890/pu/img/6U9oe5tRaiiTQfgj.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937514390498213890/pu/vid/avc1/320x568/_7oss6GzPbyUkbiF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937514390498213890/pu/vid/avc1/480x852/lNvlAJmq2YskCgk0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937514390498213890/pu/vid/avc1/720x1280/nABS1TsQSHzYWnvA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1937514390498213890/pu/pl/eIggxL3Y4Nxwlk63.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1937514390498213890"
+          ]
+        },
+        "author_id": "1842587173494927360",
+        "conversation_id": "1937514423868162086",
+        "created_at": "2025-06-24T14:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T15:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937514423868162086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4xe5hHlwMV",
+              "end": 46,
+              "expanded_url": "https://x.com/sgxiaoshen3121/status/1937514423868162086/video/1",
+              "media_key": "7_1937514390498213890",
+              "start": 23,
+              "url": "https://t.co/4xe5hHlwMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937514423868162086",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@bghtnya 冰棍你是个香香软软的小蛋糕 https://t.co/4xe5hHlwMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 189,
+          "like_count": 39928,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 10620
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T15:26:46.000Z",
+        "description": "iP上海滴09年mtf🍥，半个家长党？（应该是吧）ENFP。丑郭楠哥布林一只。计划7.6复旦儿科刷阻断）期待手术，欢迎同类找小岚玩捏🚪88口令或赞赏码",
+        "id": "1842587173494927360",
+        "name": "小岚爱鱼板🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880313754371641344/Lc9MLg0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4696,
+          "following_count": 50,
+          "like_count": 77,
+          "listed_count": 8,
+          "media_count": 75,
+          "tweet_count": 484
+        },
+        "username": "sgxiaoshen3121",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6705,
+          "following_count": 2008,
+          "like_count": 149850,
+          "listed_count": 14,
+          "media_count": 2795,
+          "tweet_count": 37287
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

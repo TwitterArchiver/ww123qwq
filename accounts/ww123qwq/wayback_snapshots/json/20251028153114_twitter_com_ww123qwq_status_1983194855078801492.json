@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983129443209228289"
+      ],
+      "media_source_tweet_id": [
+        "1983129448875774045"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983194855078801492",
+    "created_at": "2025-10-28T15:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T16:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983194855078801492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1699421377520951296",
+          "start": 3,
+          "username": "Maorou_K8M"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iUev1Hikgl",
+          "end": 107,
+          "expanded_url": "https://x.com/Maorou_K8M/status/1983129448875774045/photo/1",
+          "media_key": "3_1983129443209228289",
+          "start": 84,
+          "url": "https://t.co/iUev1Hikgl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983194855078801492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983129448875774045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maorou_K8M: 举报➕转发 成功后 抽评论区两个998门槛和一个100块钱口令红包（或者直接发口令红包在推 你们去抢也可以 到时候定时间？ 你们觉得呢 https://t.co/iUev1Hikgl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983194855078801492].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983194855078801492",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983194855078801492"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983129443209228289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4V9uLYasAEWgpZ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983129443209228289"
+          ]
+        },
+        "author_id": "1699421377520951296",
+        "conversation_id": "1983129448875774045",
+        "created_at": "2025-10-28T11:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983129448875774045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUev1Hikgl",
+              "end": 91,
+              "expanded_url": "https://x.com/Maorou_K8M/status/1983129448875774045/photo/1",
+              "media_key": "3_1983129443209228289",
+              "start": 68,
+              "url": "https://t.co/iUev1Hikgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983129448875774045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 16209,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "举报➕转发 成功后 抽评论区两个998门槛和一个100块钱口令红包（或者直接发口令红包在推 你们去抢也可以 到时候定时间？ 你们觉得呢 https://t.co/iUev1Hikgl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 210,
+          "like_count": 40158,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 10798
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T13:56:58.000Z",
+        "description": "请叫我民子 人体改造/自私/穿刺/分舌/药物依赖/纹身/焦虑/畏惧死亡/埋钉/身高172 ➕lx🚪998zfb口令红包带姓 私信只回复门槛💗只接绿色线下陪玩 一日女友～～～～本人只玩X/ins/b站 （推特所有账号请看背景图",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/minminshummk8?…",
+                "end": 23,
+                "expanded_url": "https://x.com/minminshummk8?s=21",
+                "start": 0,
+                "url": "https://t.co/nxyoMtR0W7"
+              }
+            ]
+          }
+        },
+        "id": "1699421377520951296",
+        "location": "ins：maorou_k8m",
+        "name": "樁山民子",
+        "pinned_tweet_id": "1860308396878233852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907057618428018688/B5puhO_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240317,
+          "following_count": 41,
+          "like_count": 456,
+          "listed_count": 625,
+          "media_count": 374,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/nxyoMtR0W7",
+        "username": "Maorou_K8M",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1999562260872916992"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1999562285505712254",
+    "created_at": "2025-12-12T19:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T20:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999562285505712254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tvCHRmj4wO",
+          "end": 27,
+          "expanded_url": "https://x.com/ww123qwq/status/1999562285505712254/video/1",
+          "media_key": "7_1999562260872916992",
+          "start": 4,
+          "url": "https://t.co/tvCHRmj4wO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999562285505712254",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吨吨吨 https://t.co/tvCHRmj4wO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5330,
+        "height": 720,
+        "media_key": "7_1999562260872916992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1999562260872916992/pu/img/BX5EbM-bSZgwRNXx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999562260872916992/pu/vid/avc1/480x270/K21ArJpjfChU4Sjc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999562260872916992/pu/vid/avc1/640x360/6_lJ8NG26EedtlKb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999562260872916992/pu/vid/avc1/1280x720/qMKHC-zR_Sa2pUO6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1999562260872916992/pu/pl/cr0arZbA5rwwDZcD.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1999562260872916992"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1999562285505712254",
+        "created_at": "2025-12-12T19:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T20:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999562285505712254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvCHRmj4wO",
+              "end": 27,
+              "expanded_url": "https://x.com/ww123qwq/status/1999562285505712254/video/1",
+              "media_key": "7_1999562260872916992",
+              "start": 4,
+              "url": "https://t.co/tvCHRmj4wO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999562285505712254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吨吨吨 https://t.co/tvCHRmj4wO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，支持支付宝口令红包，usdt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1998095512386601453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 264,
+          "like_count": 40800,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 11764
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983384717207732414",
+    "created_at": "2025-11-04T13:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T14:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985702924560052604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1583711070098640896",
+          "start": 0,
+          "username": "PriestleyZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985702924560052604",
+    "in_reply_to_user_id": "1583711070098640896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983384717207732414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PriestleyZZZ 只炒大a(这辈子有了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1173,
+        "media_key": "3_1983384709616021509",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Zl4o2asAUe4wU.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983384717207732414",
+        "created_at": "2025-11-04T13:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T14:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985702924560052604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1583711070098640896",
+              "start": 0,
+              "username": "PriestleyZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985702924560052604",
+        "in_reply_to_user_id": "1583711070098640896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983384717207732414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriestleyZZZ 只炒大a(这辈子有了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983384709616021509"
+          ]
+        },
+        "author_id": "1583711070098640896",
+        "conversation_id": "1983384717207732414",
+        "created_at": "2025-10-29T04:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T05:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983384717207732414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbAZwOUHqy",
+              "end": 23,
+              "expanded_url": "https://x.com/PriestleyZZZ/status/1983384717207732414/photo/1",
+              "media_key": "3_1983384709616021509",
+              "start": 0,
+              "url": "https://t.co/XbAZwOUHqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983384717207732414",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1355,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XbAZwOUHqy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1063487741",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 221,
+          "like_count": 40312,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 10983
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T06:45:55.000Z",
+        "description": "可以叫我Pri / 医学生",
+        "id": "1583711070098640896",
+        "location": "生活向上委員會",
+        "name": "Priestley🍃",
+        "pinned_tweet_id": "1974954639377478000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970500540422565888/GiGXPVjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 810,
+          "like_count": 35701,
+          "listed_count": 6,
+          "media_count": 1374,
+          "tweet_count": 20206
+        },
+        "username": "PriestleyZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

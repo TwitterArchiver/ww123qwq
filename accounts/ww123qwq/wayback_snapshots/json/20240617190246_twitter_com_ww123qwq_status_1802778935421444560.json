@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1802716696429334873",
+    "created_at": "2024-06-17T19:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T20:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802778935421444560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1598723832230998016",
+          "start": 0,
+          "username": "Kotorixxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802778935421444560",
+    "in_reply_to_user_id": "1598723832230998016",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802716696429334873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kotorixxxxxx 你以前是不是有个同名账号注销了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1802716696429334873",
+        "created_at": "2024-06-17T19:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T20:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802778935421444560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598723832230998016",
+              "start": 0,
+              "username": "Kotorixxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802778935421444560",
+        "in_reply_to_user_id": "1598723832230998016",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802716696429334873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kotorixxxxxx 你以前是不是有个同名账号注销了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1598723832230998016",
+        "conversation_id": "1802716696429334873",
+        "created_at": "2024-06-17T14:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T15:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802716696429334873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802716696429334873",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 814,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两天一个奇怪的梦 我做老师和一个学生关系很好他经常帮我还找我聊天好温柔 然后我就表白 被拒绝了...说只是想知道考题我说不行 他说行的就把手往卷子上拿我没抢过他他还因为我表白威胁我说要是以后不听他的话就告发我..可恶的男高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 107,
+          "like_count": 40267,
+          "listed_count": 0,
+          "tweet_count": 10289
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T17:00:54.000Z",
+        "description": "希望大家都能开心呢",
+        "id": "1598723832230998016",
+        "name": "南小彩",
+        "pinned_tweet_id": "1739386927131017608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787455166813544448/EdRCLjMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 238,
+          "like_count": 1882,
+          "listed_count": 3,
+          "tweet_count": 2030
+        },
+        "username": "Kotorixxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

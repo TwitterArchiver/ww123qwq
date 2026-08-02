@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1983180230648049667"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983180320561345025",
+    "created_at": "2025-10-28T14:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T15:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983180320561345025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R7lMheSRcB",
+          "end": 30,
+          "expanded_url": "https://x.com/ww123qwq/status/1983180320561345025/video/1",
+          "media_key": "7_1983180230648049667",
+          "start": 7,
+          "url": "https://t.co/R7lMheSRcB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983180320561345025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "点击输入文本 https://t.co/R7lMheSRcB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32739,
+        "height": 1280,
+        "media_key": "7_1983180230648049667",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1983180230648049667/pu/img/kve1gIT3MNOFs3sg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983180230648049667/pu/vid/avc1/320x568/9Z57YzMqKZbudYYT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983180230648049667/pu/vid/avc1/480x852/5x4IirKXIJqUdkyz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1983180230648049667/pu/vid/avc1/720x1280/5Omlr8S1mdZT14vY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1983180230648049667/pu/pl/pTW_pWRFDnxYkYmY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1983180230648049667"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983180320561345025",
+        "created_at": "2025-10-28T14:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983180320561345025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7lMheSRcB",
+              "end": 30,
+              "expanded_url": "https://x.com/ww123qwq/status/1983180320561345025/video/1",
+              "media_key": "7_1983180230648049667",
+              "start": 7,
+              "url": "https://t.co/R7lMheSRcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983180320561345025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "点击输入文本 https://t.co/R7lMheSRcB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 210,
+          "like_count": 40151,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 10795
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

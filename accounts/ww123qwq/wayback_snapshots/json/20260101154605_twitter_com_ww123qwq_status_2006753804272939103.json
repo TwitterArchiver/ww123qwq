@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006753793007067137",
+        "3_2006753790377230336"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2006753804272939103",
+    "created_at": "2026-01-01T15:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T16:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006753804272939103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nRMiHTkKX7",
+          "end": 32,
+          "expanded_url": "https://x.com/ww123qwq/status/2006753804272939103/photo/1",
+          "media_key": "3_2006753793007067137",
+          "start": 9,
+          "url": "https://t.co/nRMiHTkKX7"
+        },
+        {
+          "display_url": "pic.x.com/nRMiHTkKX7",
+          "end": 32,
+          "expanded_url": "https://x.com/ww123qwq/status/2006753804272939103/photo/1",
+          "media_key": "3_2006753790377230336",
+          "start": 9,
+          "url": "https://t.co/nRMiHTkKX7"
+        },
+        {
+          "display_url": "x.com/57crz3oA/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/57crz3oA/status/2006663904722825443",
+          "start": 33,
+          "url": "https://t.co/rg6BCastrF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006753804272939103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006663904722825443",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "od开车把我撞得 https://t.co/nRMiHTkKX7 https://t.co/rg6BCastrF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006753804272939103].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006753804272939103",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006753804272939103"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006753793007067137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lr8UfaoAE5C8i.jpg",
+        "width": 917
+      },
+      {
+        "height": 917,
+        "media_key": "3_2006753790377230336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lr8KsagAAQnnB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2006663904722825443",
+        "created_at": "2026-01-01T09:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T10:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006663904722825443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jamesniko0302/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/jamesniko0302/status/2006613062070186288",
+              "start": 35,
+              "url": "https://t.co/JdIYNupl8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006663904722825443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11934,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006613062070186288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "继大闹医院 虚空舞萌之后，n55先生的第三大作——od骑车震撼首发！ https://t.co/JdIYNupl8D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 265,
+          "like_count": 40927,
+          "listed_count": 5,
+          "media_count": 514,
+          "tweet_count": 11941
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "ad astra per aspera",
+        "id": "1494669485214633984",
+        "location": "距你14.9km",
+        "name": "s2R2304",
+        "pinned_tweet_id": "1931931078182547903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997726001468690433/TMiBRj75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 1322,
+          "like_count": 60223,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 3227
+        },
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ]
+  }
+}

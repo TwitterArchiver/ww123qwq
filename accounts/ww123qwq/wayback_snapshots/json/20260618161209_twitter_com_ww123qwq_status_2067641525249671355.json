@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067231666427600896",
+        "3_2067231666687582209"
+      ],
+      "media_source_tweet_id": [
+        "2067231674434564405",
+        "2067231674434564405"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067641525249671355",
+    "created_at": "2026-06-18T16:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067641525249671355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766858890636120064",
+          "start": 3,
+          "username": "Linyue7523"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MyOlQ8FP8P",
+          "end": 69,
+          "expanded_url": "https://x.com/Linyue7523/status/2067231674434564405/photo/1",
+          "media_key": "3_2067231666427600896",
+          "start": 46,
+          "url": "https://t.co/MyOlQ8FP8P"
+        },
+        {
+          "display_url": "pic.x.com/MyOlQ8FP8P",
+          "end": 69,
+          "expanded_url": "https://x.com/Linyue7523/status/2067231674434564405/photo/1",
+          "media_key": "3_2067231666687582209",
+          "start": 46,
+          "url": "https://t.co/MyOlQ8FP8P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067641525249671355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067231674434564405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Linyue7523: 当有人说动漫角色换个衣服头发就认不出来了\n我：Belike https://t.co/MyOlQ8FP8P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2067231666427600896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBIP3nbIAAlG28.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1072,
+        "media_key": "3_2067231666687582209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBIP4laIAEwdSh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067231666427600896",
+            "3_2067231666687582209"
+          ],
+          "media_source_tweet_id": [
+            "2067231674434564405",
+            "2067231674434564405"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067641525249671355",
+        "created_at": "2026-06-18T16:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067641525249671355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766858890636120064",
+              "start": 3,
+              "username": "Linyue7523"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MyOlQ8FP8P",
+              "end": 69,
+              "expanded_url": "https://x.com/Linyue7523/status/2067231674434564405/photo/1",
+              "media_key": "3_2067231666427600896",
+              "start": 46,
+              "url": "https://t.co/MyOlQ8FP8P"
+            },
+            {
+              "display_url": "pic.x.com/MyOlQ8FP8P",
+              "end": 69,
+              "expanded_url": "https://x.com/Linyue7523/status/2067231674434564405/photo/1",
+              "media_key": "3_2067231666687582209",
+              "start": 46,
+              "url": "https://t.co/MyOlQ8FP8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067641525249671355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067231674434564405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Linyue7523: 当有人说动漫角色换个衣服头发就认不出来了\n我：Belike https://t.co/MyOlQ8FP8P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067231666427600896",
+            "3_2067231666687582209"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2067231674434564405",
+        "created_at": "2026-06-17T13:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067231674434564405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MyOlQ8FP8P",
+              "end": 53,
+              "expanded_url": "https://x.com/Linyue7523/status/2067231674434564405/photo/1",
+              "media_key": "3_2067231666427600896",
+              "start": 30,
+              "url": "https://t.co/MyOlQ8FP8P"
+            },
+            {
+              "display_url": "pic.x.com/MyOlQ8FP8P",
+              "end": 53,
+              "expanded_url": "https://x.com/Linyue7523/status/2067231674434564405/photo/1",
+              "media_key": "3_2067231666687582209",
+              "start": 30,
+              "url": "https://t.co/MyOlQ8FP8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067231674434564405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 847,
+          "impression_count": 197519,
+          "like_count": 6518,
+          "quote_count": 18,
+          "reply_count": 70,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "当有人说动漫角色换个衣服头发就认不出来了\n我：Belike https://t.co/MyOlQ8FP8P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 271,
+          "like_count": 42817,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12961
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "各位旅客，广铁U彩提示您，前方到站是：广州南站…",
+        "id": "1766858890636120064",
+        "location": "番禺广场站A口",
+        "name": "鸢尾Iris",
+        "pinned_tweet_id": "2044094304029753392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062739950303645696/-fV9DFgo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3902,
+          "following_count": 1693,
+          "like_count": 22095,
+          "listed_count": 4,
+          "media_count": 363,
+          "tweet_count": 3069
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

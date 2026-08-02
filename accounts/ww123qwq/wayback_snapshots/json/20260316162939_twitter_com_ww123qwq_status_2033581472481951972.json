@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2033077578358260224",
+    "created_at": "2026-03-16T16:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T17:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033581472481951972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743330426985594881",
+          "start": 0,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033581472481951972",
+    "in_reply_to_user_id": "1743330426985594881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033077578358260224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianggejiang 可以配个烟嘴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033077555650236416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDbxQ-FaEAAuJeg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2033077578358260224",
+        "created_at": "2026-03-16T16:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033581472481951972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743330426985594881",
+              "start": 0,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033581472481951972",
+        "in_reply_to_user_id": "1743330426985594881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033077578358260224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianggejiang 可以配个烟嘴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033077555650236416"
+          ]
+        },
+        "author_id": "1743330426985594881",
+        "conversation_id": "2033077578358260224",
+        "created_at": "2026-03-15T07:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T08:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033077578358260224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rr95uvfxxZ",
+              "end": 61,
+              "expanded_url": "https://x.com/jianggejiang/status/2033077578358260224/photo/1",
+              "media_key": "3_2033077555650236416",
+              "start": 38,
+              "url": "https://t.co/Rr95uvfxxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033077578358260224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 646,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拿到了嘿嘿 虽然我买的蓝莓口香糖和蓝莓没啥关系 口香糖的味道倒很重 非常甜 https://t.co/Rr95uvfxxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图/药物咨询/支持usdt。/上海/日本/匿名提问https://t.co/yODqqgeu12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/yinai",
+                "end": 128,
+                "expanded_url": "https://miyu.link/yinai",
+                "start": 105,
+                "url": "https://t.co/yODqqgeu12"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 262,
+          "like_count": 41870,
+          "listed_count": 4,
+          "media_count": 644,
+          "tweet_count": 12441
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "-烟代找我 外烟电子烟💚🏳️‍🌈\n-叫我姜鴿江/阿团/JunoPhilip/J \n-CN/ENG🤏\n-从你妈逼良\n-🚪66￥ 详🔝plq\n-英文号:@jiangziqiqqq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "jiangziqiqqq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang",
+                "start": 0,
+                "url": "https://t.co/VcDqc5C3ZD"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "Ion Jupiter",
+        "name": "姜鸽江",
+        "pinned_tweet_id": "2006394995960578049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009286095666909184/pgYHbdAK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 826,
+          "like_count": 3678,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 2972
+        },
+        "url": "https://t.co/VcDqc5C3ZD",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

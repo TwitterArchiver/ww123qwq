@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069350754855559168"
+      ],
+      "media_source_tweet_id": [
+        "2069350770328346946"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2069476770261442826",
+    "created_at": "2026-06-23T17:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069476770261442826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3250610916",
+          "start": 3,
+          "username": "sgkg108"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wRyf4ZiSR3",
+          "end": 52,
+          "expanded_url": "https://x.com/sgkg108/status/2069350770328346946/photo/1",
+          "media_key": "3_2069350754855559168",
+          "start": 29,
+          "url": "https://t.co/wRyf4ZiSR3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069476770261442826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 917
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069350770328346946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sgkg108: 抢银行成功后在天台庆祝的二人组 https://t.co/wRyf4ZiSR3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069350754855559168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfPjDLaIAAz6Ee.jpg",
+        "width": 1871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069350754855559168"
+          ],
+          "media_source_tweet_id": [
+            "2069350770328346946"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2069476770261442826",
+        "created_at": "2026-06-23T17:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069476770261442826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3250610916",
+              "start": 3,
+              "username": "sgkg108"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRyf4ZiSR3",
+              "end": 52,
+              "expanded_url": "https://x.com/sgkg108/status/2069350770328346946/photo/1",
+              "media_key": "3_2069350754855559168",
+              "start": 29,
+              "url": "https://t.co/wRyf4ZiSR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069476770261442826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 917
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069350770328346946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sgkg108: 抢银行成功后在天台庆祝的二人组 https://t.co/wRyf4ZiSR3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069350754855559168"
+          ]
+        },
+        "author_id": "3250610916",
+        "conversation_id": "2069350770328346946",
+        "created_at": "2026-06-23T09:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069350770328346946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRyf4ZiSR3",
+              "end": 39,
+              "expanded_url": "https://x.com/sgkg108/status/2069350770328346946/photo/1",
+              "media_key": "3_2069350754855559168",
+              "start": 16,
+              "url": "https://t.co/wRyf4ZiSR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069350770328346946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1013,
+          "impression_count": 53392,
+          "like_count": 7175,
+          "quote_count": 59,
+          "reply_count": 38,
+          "retweet_count": 917
+        },
+        "reply_settings": "everyone",
+        "text": "抢银行成功后在天台庆祝的二人组 https://t.co/wRyf4ZiSR3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 278,
+          "like_count": 43037,
+          "listed_count": 4,
+          "media_count": 707,
+          "tweet_count": 13032
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-20T12:45:02.000Z",
+        "description": "Fanart/OC/🎨爬墙很快，什么都想画/转载请标注原主页，🚫商用禁止❌🚫AI禁止❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sgkg_3?igsh=MX…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sgkg_3?igsh=MXZ1bHNhdmNpOWFkYg==",
+                "start": 0,
+                "url": "https://t.co/pPXKWiV6ml"
+              }
+            ]
+          }
+        },
+        "id": "3250610916",
+        "location": "深海大菠萝",
+        "name": "🦂—SGKG—🦂",
+        "pinned_tweet_id": "1739648581953564830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471035495002132480/xU-Azr96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139042,
+          "following_count": 530,
+          "like_count": 24609,
+          "listed_count": 594,
+          "media_count": 1543,
+          "tweet_count": 7359
+        },
+        "url": "https://t.co/pPXKWiV6ml",
+        "username": "sgkg108",
+        "verified": false
+      }
+    ]
+  }
+}

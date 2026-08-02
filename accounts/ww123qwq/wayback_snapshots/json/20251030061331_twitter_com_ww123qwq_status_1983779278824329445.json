@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983557009728507918",
+    "created_at": "2025-10-30T06:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T07:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983779278824329445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1966156346597978115",
+          "start": 0,
+          "username": "xinxinjiang77"
+        },
+        {
+          "end": 29,
+          "id": "1910324259127439360",
+          "start": 15,
+          "username": "xinxinjiang66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983779278824329445",
+    "in_reply_to_user_id": "1966156346597978115",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983557009728507918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxinjiang77 @xinxinjiang66 互f"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [xinxinjiang66].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xinxinjiang66",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xinxinjiang66"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1983556996256473088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4cClCmboAAwOFW.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1983556996252176384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4cClClaEAAJoPr.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983557009728507918",
+        "created_at": "2025-10-30T06:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T07:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983779278824329445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1966156346597978115",
+              "start": 0,
+              "username": "xinxinjiang77"
+            },
+            {
+              "end": 29,
+              "id": "1910324259127439360",
+              "start": 15,
+              "username": "xinxinjiang66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983779278824329445",
+        "in_reply_to_user_id": "1966156346597978115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983557009728507918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxinjiang77 @xinxinjiang66 互f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983556996256473088",
+            "3_1983556996252176384"
+          ]
+        },
+        "author_id": "1966156346597978115",
+        "conversation_id": "1983557009728507918",
+        "created_at": "2025-10-29T15:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983557009728507918"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "男の娘"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "伪娘"
+            },
+            {
+              "end": 55,
+              "start": 48,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "男娘"
+            },
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910324259127439360",
+              "start": 2,
+              "username": "xinxinjiang66"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MAPE86DJmj",
+              "end": 91,
+              "expanded_url": "https://x.com/xinxinjiang77/status/1983557009728507918/photo/1",
+              "media_key": "3_1983556996256473088",
+              "start": 68,
+              "url": "https://t.co/MAPE86DJmj"
+            },
+            {
+              "display_url": "pic.x.com/MAPE86DJmj",
+              "end": 91,
+              "expanded_url": "https://x.com/xinxinjiang77/status/1983557009728507918/photo/1",
+              "media_key": "3_1983556996252176384",
+              "start": 68,
+              "url": "https://t.co/MAPE86DJmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983557009728507918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5211,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "原号@xinxinjiang66 被封了，这是转生号，感谢灌注，互fo，互推。#男の娘 #伪娘 #可爱の男孩子 #男娘 #可爱的男孩子 https://t.co/MAPE86DJmj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 215,
+          "like_count": 40204,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 10841
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T15:06:26.000Z",
+        "description": "原大号：@xinxinjiang66 3w粉，被冻结了，这是转生号。感谢互推互fo。男娘/168/59/坐标徐州/欢迎可爱的男娘药娘贴贴，涩涩，交流/接寄拍/测评/直男好友位有🚪。不定时删帖。扩列请私信。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "xinxinjiang66"
+              }
+            ]
+          }
+        },
+        "id": "1966156346597978115",
+        "location": "距离5.21km",
+        "name": "馨馨酱（转生互推版）",
+        "pinned_tweet_id": "1983557009728507918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966727387779067904/DL9D_nlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 113,
+          "like_count": 146,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 22
+        },
+        "username": "xinxinjiang77",
+        "verified": false
+      }
+    ]
+  }
+}

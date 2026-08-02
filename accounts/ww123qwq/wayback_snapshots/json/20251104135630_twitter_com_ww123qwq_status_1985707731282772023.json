@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1985707731282772023",
+    "created_at": "2025-11-04T13:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T14:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985707731282772023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1422093855235715076",
+          "start": 3,
+          "username": "bkyssj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985707731282772023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985140127149309963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @bkyssj: 请自残逼和健全逼互相屏蔽彼此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1985707731282772023",
+        "created_at": "2025-11-04T13:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T14:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985707731282772023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1422093855235715076",
+              "start": 3,
+              "username": "bkyssj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985707731282772023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985140127149309963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @bkyssj: 请自残逼和健全逼互相屏蔽彼此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422093855235715076",
+        "conversation_id": "1985140127149309963",
+        "created_at": "2025-11-03T00:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T01:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985140127149309963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985140127149309963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 36589,
+          "like_count": 201,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "请自残逼和健全逼互相屏蔽彼此"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1063487741",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984288671084982272/YAIBzh2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 221,
+          "like_count": 40320,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 10985
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-02T07:16:23.000Z",
+        "description": "脾气不好，没有耐心，不是陪聊，不讨论政治相关问题，不收门槛，不接推广，不卖淫，不加任何联系方式。\n未经允许不得转载个人照片，盗图替我挡灾财运全部归我。请保持边界感。",
+        "id": "1422093855235715076",
+        "location": "不闲聊，不参与黄赌毒，不搞小团体，没你想要的，取关随意",
+        "name": "十三",
+        "pinned_tweet_id": "1830637968778039296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906614203173208064/c5rdpUdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17039,
+          "following_count": 282,
+          "like_count": 41764,
+          "listed_count": 54,
+          "media_count": 2255,
+          "tweet_count": 35195
+        },
+        "username": "bkyssj",
+        "verified": false
+      }
+    ]
+  }
+}

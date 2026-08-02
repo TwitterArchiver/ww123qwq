@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001632157173956608"
+      ],
+      "media_source_tweet_id": [
+        "2001632170599944348"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2002328778169856271",
+    "created_at": "2025-12-20T10:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T11:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002328778169856271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1959945774827220992",
+          "start": 3,
+          "username": "neruri_nn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sqeimu42rN",
+          "end": 38,
+          "expanded_url": "https://x.com/neruri_nn/status/2001632170599944348/photo/1",
+          "media_key": "3_2001632157173956608",
+          "start": 15,
+          "url": "https://t.co/Sqeimu42rN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002328778169856271",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 929
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001632170599944348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neruri_nn: https://t.co/Sqeimu42rN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_2001632157173956608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8c514NaQAAApO5.jpg",
+        "width": 4093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001632157173956608"
+          ],
+          "media_source_tweet_id": [
+            "2001632170599944348"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2002328778169856271",
+        "created_at": "2025-12-20T10:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002328778169856271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1959945774827220992",
+              "start": 3,
+              "username": "neruri_nn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sqeimu42rN",
+              "end": 38,
+              "expanded_url": "https://x.com/neruri_nn/status/2001632170599944348/photo/1",
+              "media_key": "3_2001632157173956608",
+              "start": 15,
+              "url": "https://t.co/Sqeimu42rN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002328778169856271",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 929
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001632170599944348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neruri_nn: https://t.co/Sqeimu42rN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001632157173956608"
+          ]
+        },
+        "author_id": "1959945774827220992",
+        "conversation_id": "2001632170599944348",
+        "created_at": "2025-12-18T12:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001632170599944348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sqeimu42rN",
+              "end": 23,
+              "expanded_url": "https://x.com/neruri_nn/status/2001632170599944348/photo/1",
+              "media_key": "3_2001632157173956608",
+              "start": 0,
+              "url": "https://t.co/Sqeimu42rN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001632170599944348",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 599,
+          "impression_count": 61793,
+          "like_count": 7548,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 929
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Sqeimu42rN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利/，也支持usdt。/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2000481810934108586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 266,
+          "like_count": 40896,
+          "listed_count": 5,
+          "media_count": 477,
+          "tweet_count": 11863
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T11:47:55.000Z",
+        "description": "現在ご依頼停止中￤ Skeb→ https://t.co/I8XOVNXX2w￤ff外通知オフ￤🎀作業中3件￤ツイ消し多いです",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@neruri_nn",
+                "end": 39,
+                "expanded_url": "https://skeb.jp/@neruri_nn",
+                "start": 16,
+                "url": "https://t.co/I8XOVNXX2w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/neru_r0",
+                "end": 23,
+                "expanded_url": "https://lit.link/neru_r0",
+                "start": 0,
+                "url": "https://t.co/L9kxctSHRv"
+              }
+            ]
+          }
+        },
+        "id": "1959945774827220992",
+        "location": "ご依頼について→",
+        "name": "ね る り",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996552852769316864/Tt69iiXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 21,
+          "like_count": 3454,
+          "listed_count": 5,
+          "media_count": 50,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/L9kxctSHRv",
+        "username": "neruri_nn",
+        "verified": false
+      }
+    ]
+  }
+}

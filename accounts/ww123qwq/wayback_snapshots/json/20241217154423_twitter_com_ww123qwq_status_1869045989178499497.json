@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1868831613217653058",
+    "created_at": "2024-12-17T15:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T16:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869045989178499497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1528798633168347137",
+          "start": 0,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869045989178499497",
+    "in_reply_to_user_id": "1528798633168347137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868831613217653058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomoriNao2022 做公家车投币用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1868831613217653058",
+        "created_at": "2024-12-17T15:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T16:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869045989178499497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869045989178499497",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868831613217653058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 做公家车投币用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868831607295295490"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "conversation_id": "1868831613217653058",
+        "created_at": "2024-12-17T01:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T02:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868831613217653058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIyJR4mFeW",
+              "end": 39,
+              "expanded_url": "https://x.com/TomoriNao2022/status/1868831613217653058/photo/1",
+              "media_key": "3_1868831607295295490",
+              "start": 16,
+              "url": "https://t.co/oIyJR4mFeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868831613217653058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18783,
+          "like_count": 187,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一円的硬币你们都是怎么处理的？ https://t.co/oIyJR4mFeW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 120,
+          "like_count": 39562,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 10077
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "もうどうだっていいや． 思人:@dongxuelianhaha 笨蛋妹妹：@Neko96650208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "dongxuelianhaha"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "Neko96650208"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "location": "東京",
+        "name": "友利 奈緒 Tomori Nao",
+        "pinned_tweet_id": "1856647542311911805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788577160338591745/Rz76kBBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13895,
+          "following_count": 544,
+          "like_count": 10710,
+          "listed_count": 45,
+          "media_count": 2045,
+          "tweet_count": 9188
+        },
+        "username": "TomoriNao2022",
+        "verified": false
+      }
+    ]
+  }
+}

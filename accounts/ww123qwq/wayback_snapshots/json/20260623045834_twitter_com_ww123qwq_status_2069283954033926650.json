@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2069283954033926650",
+    "created_at": "2026-06-23T04:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069283954033926650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NanaNana_os/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/NanaNana_os/status/2069120711302709432",
+          "start": 13,
+          "url": "https://t.co/XhqMCyKLBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069283954033926650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069120711302709432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你的意思是良子一片顶两片 https://t.co/XhqMCyKLBd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2069283954033926650",
+        "created_at": "2026-06-23T04:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069283954033926650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NanaNana_os/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/NanaNana_os/status/2069120711302709432",
+              "start": 13,
+              "url": "https://t.co/XhqMCyKLBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069283954033926650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069120711302709432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的意思是良子一片顶两片 https://t.co/XhqMCyKLBd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701474166392905729",
+        "conversation_id": "2069120711302709432",
+        "created_at": "2026-06-22T18:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069120711302709432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069120711302709432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1031,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "令人惊讶的是,服用等量唑吡坦(sns)的血药浓度，(传统)女性的血药浓度几乎是男性的1.45~1.75倍,但半衰期和达峰时间并无*显著差异, 但具体原因未知\n这也导致女性相对来说,梦游幻觉发生率更高，因此fda把美国的女性建议用药量-50%，但其他地区尚未跟进\n(有趣的是,动物实验中去势公鼠敏感度也同样增高)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 276,
+          "like_count": 43015,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 13016
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T05:54:01.000Z",
+        "description": "enby｜🎐@yuwilmeaning",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "yuwilmeaning"
+              }
+            ]
+          }
+        },
+        "id": "1701474166392905729",
+        "location": "Nowhere",
+        "name": "7Na7Na",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947780376044425216/KXTmmUpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 689,
+          "like_count": 28755,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 3597
+        },
+        "url": "",
+        "username": "NanaNana_os",
+        "verified": false
+      }
+    ]
+  }
+}

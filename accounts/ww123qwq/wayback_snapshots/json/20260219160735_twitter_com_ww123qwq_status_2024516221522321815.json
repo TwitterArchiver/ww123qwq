@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024516211107909634"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2024516221522321815",
+    "created_at": "2026-02-19T16:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024516221522321815"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 5,
+          "normalized_text": "昂丹司琼",
+          "probability": 0.3999,
+          "start": 2,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/prBF1YsPxN",
+          "end": 60,
+          "expanded_url": "https://x.com/ww123qwq/status/2024516221522321815/photo/1",
+          "media_key": "3_2024516211107909634",
+          "start": 37,
+          "url": "https://t.co/prBF1YsPxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024516221522321815",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1t昂丹司琼+36tDxm+1600普瑞巴林加1t+巴氯芬+1t伊曲康唑 https://t.co/prBF1YsPxN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_2024516211107909634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiGxIUbUAIP5Qe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024516211107909634"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2024516221522321815",
+        "created_at": "2026-02-19T16:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024516221522321815"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "昂丹司琼",
+              "probability": 0.3999,
+              "start": 2,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/prBF1YsPxN",
+              "end": 60,
+              "expanded_url": "https://x.com/ww123qwq/status/2024516221522321815/photo/1",
+              "media_key": "3_2024516211107909634",
+              "start": 37,
+              "url": "https://t.co/prBF1YsPxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024516221522321815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1t昂丹司琼+36tDxm+1600普瑞巴林加1t+巴氯芬+1t伊曲康唑 https://t.co/prBF1YsPxN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本，纸烟代购/电子烟代购",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 259,
+          "like_count": 41681,
+          "listed_count": 5,
+          "media_count": 617,
+          "tweet_count": 12372
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

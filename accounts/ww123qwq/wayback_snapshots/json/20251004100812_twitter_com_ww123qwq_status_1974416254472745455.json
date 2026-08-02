@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974066969155604480"
+      ],
+      "media_source_tweet_id": [
+        "1974066980794912871"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1974416254472745455",
+    "created_at": "2025-10-04T10:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T11:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974416254472745455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1298103112331231238",
+          "start": 3,
+          "username": "miuna_stella"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I7sPrjwZ4R",
+          "end": 54,
+          "expanded_url": "https://x.com/miuna_stella/status/1974066980794912871/photo/1",
+          "media_key": "3_1974066969155604480",
+          "start": 31,
+          "url": "https://t.co/I7sPrjwZ4R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974416254472745455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974066980794912871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miuna_stella: やだ！まだ寝てたいのっ😭 https://t.co/I7sPrjwZ4R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1980,
+        "media_key": "3_1974066969155604480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VLcwtaEAAkfiz.jpg",
+        "width": 1370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974066969155604480"
+          ],
+          "media_source_tweet_id": [
+            "1974066980794912871"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1974416254472745455",
+        "created_at": "2025-10-04T10:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T11:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974416254472745455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1298103112331231238",
+              "start": 3,
+              "username": "miuna_stella"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7sPrjwZ4R",
+              "end": 54,
+              "expanded_url": "https://x.com/miuna_stella/status/1974066980794912871/photo/1",
+              "media_key": "3_1974066969155604480",
+              "start": 31,
+              "url": "https://t.co/I7sPrjwZ4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974416254472745455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974066980794912871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miuna_stella: やだ！まだ寝てたいのっ😭 https://t.co/I7sPrjwZ4R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974066969155604480"
+          ]
+        },
+        "author_id": "1298103112331231238",
+        "conversation_id": "1974066980794912871",
+        "created_at": "2025-10-03T11:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974066980794912871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7sPrjwZ4R",
+              "end": 36,
+              "expanded_url": "https://x.com/miuna_stella/status/1974066980794912871/photo/1",
+              "media_key": "3_1974066969155604480",
+              "start": 13,
+              "url": "https://t.co/I7sPrjwZ4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974066980794912871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 23676,
+          "like_count": 1730,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "やだ！まだ寝てたいのっ😭 https://t.co/I7sPrjwZ4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 202,
+          "like_count": 39865,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 10670
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-25T03:42:00.000Z",
+        "description": "illustrator✧白髪･銀髪 太ももが好きな絵描き＊ ✦skeb 金額一時的に上げてます(https://t.co/dAioSopolU) ✦Instagram(https://t.co/ze4h9coWh4)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@miuna_stella",
+                "end": 71,
+                "expanded_url": "https://skeb.jp/@miuna_stella",
+                "start": 48,
+                "url": "https://t.co/dAioSopolU"
+              },
+              {
+                "display_url": "instagram.com/yukiboshimiuna",
+                "end": 107,
+                "expanded_url": "http://instagram.com/yukiboshimiuna",
+                "start": 84,
+                "url": "https://t.co/ze4h9coWh4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/43860034",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/43860034",
+                "start": 0,
+                "url": "https://t.co/Ego6J1qPd9"
+              }
+            ]
+          }
+        },
+        "id": "1298103112331231238",
+        "location": "無断使用*トレス*無断転載*AI学習等NG",
+        "name": "雪星みうな✧",
+        "pinned_tweet_id": "1974066980794912871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903008928243519488/JTkg9eY2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5759,
+          "following_count": 273,
+          "like_count": 14600,
+          "listed_count": 81,
+          "media_count": 209,
+          "tweet_count": 15339
+        },
+        "url": "https://t.co/Ego6J1qPd9",
+        "username": "miuna_stella",
+        "verified": false
+      }
+    ]
+  }
+}

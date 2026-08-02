@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2047337759669629392",
+    "created_at": "2026-04-24T03:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T04:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047523022026994026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556279645502427136",
+          "start": 0,
+          "username": "tianxiao0502"
+        },
+        {
+          "end": 25,
+          "id": "1987496594594496512",
+          "start": 14,
+          "username": "aldn126633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047523022026994026",
+    "in_reply_to_user_id": "1556279645502427136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047521517798596765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianxiao0502 @aldn126633 2mg氯硝安定大概60mg奥沙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2047337759669629392",
+        "created_at": "2026-04-24T03:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047523022026994026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556279645502427136",
+              "start": 0,
+              "username": "tianxiao0502"
+            },
+            {
+              "end": 25,
+              "id": "1987496594594496512",
+              "start": 14,
+              "username": "aldn126633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047523022026994026",
+        "in_reply_to_user_id": "1556279645502427136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047521517798596765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxiao0502 @aldn126633 2mg氯硝安定大概60mg奥沙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556279645502427136",
+        "conversation_id": "2047337759669629392",
+        "created_at": "2026-04-24T03:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047521517798596765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 21,
+              "id": "1987496594594496512",
+              "start": 10,
+              "username": "aldn126633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047521517798596765",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047357881562095878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq @aldn126633 氯硝比奥沙强不知道多少倍了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 278,
+          "like_count": 42285,
+          "listed_count": 4,
+          "media_count": 683,
+          "tweet_count": 12671
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "PsydrugsWiki编辑│叫我天晓│pdw官号@Psydrugswiki│里推@maimai_Prism_│🍐妈妈@Kikunashi30712│kr @KrvyScorpii│苦力怕@Akinoyo_desu│彻子@aokitetsu111│叶子@WinbornN94577 苦瓜大人@C4usT1c_03│",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "Psydrugswiki"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "maimai_Prism_"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "Kikunashi30712"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "KrvyScorpii"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "aokitetsu111"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "WinbornN94577"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "C4usT1c_03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "庄俞南路 1号",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2015445624033051032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041020314524815360/KxdTr0Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 184,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1028
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-09T12:25:06.000Z",
+        "description": "一键按下注销键",
+        "id": "1987496594594496512",
+        "name": "噩梦的最终场景",
+        "pinned_tweet_id": "2043346189853364636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037775897512820736/Wl9OoB4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 16,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 229
+        },
+        "username": "aldn126633",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1892259254175719703",
+    "created_at": "2025-02-20T05:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T06:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892442158558511140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1870442976377503744",
+          "start": 0,
+          "username": "misakixyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892442158558511140",
+    "in_reply_to_user_id": "1870442976377503744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892414683807920383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakixyg 好耶，xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1892259254175719703",
+        "created_at": "2025-02-20T05:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T06:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892442158558511140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870442976377503744",
+              "start": 0,
+              "username": "misakixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892442158558511140",
+        "in_reply_to_user_id": "1870442976377503744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892414683807920383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakixyg 好耶，xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870442976377503744",
+        "conversation_id": "1892259254175719703",
+        "created_at": "2025-02-20T03:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T04:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892414683807920383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892414683807920383",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892322389712667129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 其实药效不错，风评反转了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左转安",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 162,
+          "like_count": 39997,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 10498
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T12:15:41.000Z",
+        "description": "三崎在极度奔溃中创建的第三个账号，大半夜把自己笑活 @mio1738468这个也是我哦超级可爱的主人@hjs_2403_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "mio1738468"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "hjs_2403_0"
+              }
+            ]
+          }
+        },
+        "id": "1870442976377503744",
+        "name": "三崎三世（",
+        "pinned_tweet_id": "1872886111066046714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883156061550747648/iNlSdsvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 657,
+          "like_count": 4298,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 1416
+        },
+        "username": "misakixyg",
+        "verified": false
+      }
+    ]
+  }
+}

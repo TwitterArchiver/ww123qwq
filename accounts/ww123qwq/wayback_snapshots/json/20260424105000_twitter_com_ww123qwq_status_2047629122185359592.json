@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2047543072586928243",
+    "created_at": "2026-04-24T10:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T11:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047629122185359592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1706698122049765376",
+          "start": 0,
+          "username": "V_C_Wither"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047629122185359592",
+    "in_reply_to_user_id": "1706698122049765376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047618887160910290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@V_C_Wither N55的东西👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2047543072586928243",
+        "created_at": "2026-04-24T10:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047629122185359592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706698122049765376",
+              "start": 0,
+              "username": "V_C_Wither"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047629122185359592",
+        "in_reply_to_user_id": "1706698122049765376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047618887160910290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V_C_Wither N55的东西👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706698122049765376",
+        "conversation_id": "2047543072586928243",
+        "created_at": "2026-04-24T10:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047618887160910290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047618887160910290",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047543072586928243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 你在走私药品吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 279,
+          "like_count": 42292,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 12678
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T15:52:10.000Z",
+        "description": "✈已飞0国｜中中混血📍｜中国留学生｜华籍华人｜PDD/Tmall资深买手🏅｜luckin coffee评鉴师☕｜24年国奖♜｜🆔国家级身份证持有者｜雅思托福没考｜诺贝尔奖觊觎者｜🏄Internet冲浪达人\n✝️升天✝️成為神吧",
+        "id": "1706698122049765376",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "炒鸡好喝木瓜牛奶酱酱酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977989303444922368/zPn56Hgp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 170,
+          "like_count": 348,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 208
+        },
+        "username": "V_C_Wither",
+        "verified": false
+      }
+    ]
+  }
+}

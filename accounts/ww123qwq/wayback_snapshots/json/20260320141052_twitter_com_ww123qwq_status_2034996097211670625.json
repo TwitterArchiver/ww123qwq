@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034101728761741312",
+        "3_2034101728761860096"
+      ],
+      "media_source_tweet_id": [
+        "2034101738551267744",
+        "2034101738551267744"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1357820224876126209",
+          "name": "Hiroyuki Nishimura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357820224876126209",
+          "name": "Hiroyuki Nishimura"
+        }
+      }
+    ],
+    "conversation_id": "2034996097211670625",
+    "created_at": "2026-03-20T14:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034996097211670625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "87027640",
+          "start": 3,
+          "username": "hirox246"
+        }
+      ],
+      "urls": [
+        {
+          "description": "POPOPOサービス発表会",
+          "display_url": "x.com/i/broadcasts/1…",
+          "end": 106,
+          "expanded_url": "https://x.com/i/broadcasts/1qxvvkmYgeBxB",
+          "images": [
+            {
+              "height": 1080,
+              "url": "https://pbs.twimg.com/news_img/2034100813015212032/_TSEBFZt?format=jpg&name=orig",
+              "width": 608
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2034100813015212032/_TSEBFZt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 83,
+          "status": 200,
+          "title": "POPOPO",
+          "unwound_url": "https://twitter.com/i/broadcasts/1qxvvkmYgeBxB",
+          "url": "https://t.co/I1QKRl453N"
+        },
+        {
+          "display_url": "pic.x.com/uZK6KZaQRT",
+          "end": 130,
+          "expanded_url": "https://x.com/hirox246/status/2034101738551267744/photo/1",
+          "media_key": "3_2034101728761741312",
+          "start": 107,
+          "url": "https://t.co/uZK6KZaQRT"
+        },
+        {
+          "display_url": "pic.x.com/uZK6KZaQRT",
+          "end": 130,
+          "expanded_url": "https://x.com/hirox246/status/2034101738551267744/photo/1",
+          "media_key": "3_2034101728761860096",
+          "start": 107,
+          "url": "https://t.co/uZK6KZaQRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034996097211670625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034101738551267744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hirox246: POPOPOのサービス発表会なので、朝９時から銀行に行って、お金配りおじさん的な準備。\n見た目でいくらなのかはわからんもんだなぁ、、と。\nhttps://t.co/I1QKRl453N https://t.co/uZK6KZaQRT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2034101728761741312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDqUvsPaAAAjPFH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2034101728761860096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDqUvsPb0AA5QKH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034101728761741312",
+            "3_2034101728761860096"
+          ],
+          "media_source_tweet_id": [
+            "2034101738551267744",
+            "2034101738551267744"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1357820224876126209",
+              "name": "Hiroyuki Nishimura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357820224876126209",
+              "name": "Hiroyuki Nishimura"
+            }
+          }
+        ],
+        "conversation_id": "2034996097211670625",
+        "created_at": "2026-03-20T14:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034996097211670625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "87027640",
+              "start": 3,
+              "username": "hirox246"
+            }
+          ],
+          "urls": [
+            {
+              "description": "POPOPOサービス発表会",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 106,
+              "expanded_url": "https://x.com/i/broadcasts/1qxvvkmYgeBxB",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2034100813015212032/_TSEBFZt?format=jpg&name=orig",
+                  "width": 608
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2034100813015212032/_TSEBFZt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "POPOPO",
+              "unwound_url": "https://twitter.com/i/broadcasts/1qxvvkmYgeBxB",
+              "url": "https://t.co/I1QKRl453N"
+            },
+            {
+              "display_url": "pic.x.com/uZK6KZaQRT",
+              "end": 130,
+              "expanded_url": "https://x.com/hirox246/status/2034101738551267744/photo/1",
+              "media_key": "3_2034101728761741312",
+              "start": 107,
+              "url": "https://t.co/uZK6KZaQRT"
+            },
+            {
+              "display_url": "pic.x.com/uZK6KZaQRT",
+              "end": 130,
+              "expanded_url": "https://x.com/hirox246/status/2034101738551267744/photo/1",
+              "media_key": "3_2034101728761860096",
+              "start": 107,
+              "url": "https://t.co/uZK6KZaQRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034996097211670625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034101738551267744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hirox246: POPOPOのサービス発表会なので、朝９時から銀行に行って、お金配りおじさん的な準備。\n見た目でいくらなのかはわからんもんだなぁ、、と。\nhttps://t.co/I1QKRl453N https://t.co/uZK6KZaQRT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034101728761741312",
+            "3_2034101728761860096"
+          ]
+        },
+        "author_id": "87027640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1357820224876126209",
+              "name": "Hiroyuki Nishimura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357820224876126209",
+              "name": "Hiroyuki Nishimura"
+            }
+          }
+        ],
+        "conversation_id": "2034101738551267744",
+        "created_at": "2026-03-18T02:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T03:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034101738551267744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "POPOPOサービス発表会",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 92,
+              "expanded_url": "https://x.com/i/broadcasts/1qxvvkmYgeBxB",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2034100813015212032/_TSEBFZt?format=jpg&name=orig",
+                  "width": 608
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2034100813015212032/_TSEBFZt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "POPOPO",
+              "unwound_url": "https://twitter.com/i/broadcasts/1qxvvkmYgeBxB",
+              "url": "https://t.co/I1QKRl453N"
+            },
+            {
+              "display_url": "pic.x.com/uZK6KZaQRT",
+              "end": 116,
+              "expanded_url": "https://x.com/hirox246/status/2034101738551267744/photo/1",
+              "media_key": "3_2034101728761741312",
+              "start": 93,
+              "url": "https://t.co/uZK6KZaQRT"
+            },
+            {
+              "display_url": "pic.x.com/uZK6KZaQRT",
+              "end": 116,
+              "expanded_url": "https://x.com/hirox246/status/2034101738551267744/photo/1",
+              "media_key": "3_2034101728761860096",
+              "start": 93,
+              "url": "https://t.co/uZK6KZaQRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034101738551267744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1643,
+          "impression_count": 6529688,
+          "like_count": 19583,
+          "quote_count": 643,
+          "reply_count": 1282,
+          "retweet_count": 1109
+        },
+        "reply_settings": "everyone",
+        "text": "POPOPOのサービス発表会なので、朝９時から銀行に行って、お金配りおじさん的な準備。\n見た目でいくらなのかはわからんもんだなぁ、、と。\nhttps://t.co/I1QKRl453N https://t.co/uZK6KZaQRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图/药物咨询/支持usdt。/上海/日本/匿名提问https://t.co/yODqqgeu12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/yinai",
+                "end": 128,
+                "expanded_url": "https://miyu.link/yinai",
+                "start": 105,
+                "url": "https://t.co/yODqqgeu12"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 261,
+          "like_count": 41900,
+          "listed_count": 4,
+          "media_count": 649,
+          "tweet_count": 12463
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-02T21:03:15.000Z",
+        "description": "howdy?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hiro.asks.jp",
+                "end": 23,
+                "expanded_url": "http://hiro.asks.jp",
+                "start": 0,
+                "url": "https://t.co/PGUIMD1Wn7"
+              }
+            ]
+          }
+        },
+        "id": "87027640",
+        "location": "Somewhere in internet.",
+        "name": "ひろゆき",
+        "pinned_tweet_id": "2029497427837722949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/646595746905620480/oeKI14gB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714345,
+          "following_count": 1066,
+          "like_count": 719,
+          "listed_count": 13986,
+          "media_count": 1629,
+          "tweet_count": 18134
+        },
+        "url": "https://t.co/PGUIMD1Wn7",
+        "username": "hirox246",
+        "verified": true
+      }
+    ]
+  }
+}

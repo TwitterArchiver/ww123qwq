@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2019526964802117957",
+    "created_at": "2026-02-06T17:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T18:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019822949541507534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730458100703064064",
+          "start": 0,
+          "username": "AngffaBang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019822949541507534",
+    "in_reply_to_user_id": "1730458100703064064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019526964802117957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngffaBang 窝也想od🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2019526952760266752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAbNEEmaUAAAYcG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2019526964802117957",
+        "created_at": "2026-02-06T17:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019822949541507534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019822949541507534",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019526964802117957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 窝也想od🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019526952760266752"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2019526964802117957",
+        "created_at": "2026-02-05T21:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019526964802117957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYi8e6tX4n",
+              "end": 35,
+              "expanded_url": "https://x.com/AngffaBang/status/2019526964802117957/photo/1",
+              "media_key": "3_2019526952760266752",
+              "start": 12,
+              "url": "https://t.co/IYi8e6tX4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019526964802117957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3542,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在照样能买到普瑞巴林 https://t.co/IYi8e6tX4n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 262,
+          "like_count": 41326,
+          "listed_count": 5,
+          "media_count": 583,
+          "tweet_count": 12189
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7144,
+          "following_count": 608,
+          "like_count": 6188,
+          "listed_count": 5,
+          "media_count": 457,
+          "tweet_count": 2704
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

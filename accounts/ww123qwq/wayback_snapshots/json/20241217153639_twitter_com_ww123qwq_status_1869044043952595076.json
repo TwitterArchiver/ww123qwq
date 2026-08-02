@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868993616238243840"
+      ],
+      "media_source_tweet_id": [
+        "1868993622785642876"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1869044043952595076",
+    "created_at": "2024-12-17T15:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T16:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869044043952595076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814263478699626496",
+          "start": 3,
+          "username": "Pomelo_624"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rMWXCPPrMG",
+          "end": 52,
+          "expanded_url": "https://x.com/Pomelo_624/status/1868993622785642876/photo/1",
+          "media_key": "3_1868993616238243840",
+          "start": 29,
+          "url": "https://t.co/rMWXCPPrMG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869044043952595076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868993622785642876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pomelo_624: 拒绝幼态审美，从你做起！ https://t.co/rMWXCPPrMG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1868993616238243840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge__yqdacAAIpqW.jpg",
+        "width": 1379
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868993616238243840"
+          ],
+          "media_source_tweet_id": [
+            "1868993622785642876"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1869044043952595076",
+        "created_at": "2024-12-17T15:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T16:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869044043952595076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814263478699626496",
+              "start": 3,
+              "username": "Pomelo_624"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMWXCPPrMG",
+              "end": 52,
+              "expanded_url": "https://x.com/Pomelo_624/status/1868993622785642876/photo/1",
+              "media_key": "3_1868993616238243840",
+              "start": 29,
+              "url": "https://t.co/rMWXCPPrMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869044043952595076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868993622785642876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pomelo_624: 拒绝幼态审美，从你做起！ https://t.co/rMWXCPPrMG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868993616238243840"
+          ]
+        },
+        "author_id": "1814263478699626496",
+        "conversation_id": "1868993622785642876",
+        "created_at": "2024-12-17T12:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T13:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868993622785642876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMWXCPPrMG",
+              "end": 36,
+              "expanded_url": "https://x.com/Pomelo_624/status/1868993622785642876/photo/1",
+              "media_key": "3_1868993616238243840",
+              "start": 13,
+              "url": "https://t.co/rMWXCPPrMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868993622785642876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4168,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "拒绝幼态审美，从你做起！ https://t.co/rMWXCPPrMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 119,
+          "like_count": 39557,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 10069
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T11:38:39.000Z",
+        "description": "是一只含糖的小♂魅魔哦🍥 | 🚪88r＝vx好友位/专属tg群（图包+脸照+涩涩内容🍒），发口令&赞赏码↑ （会用来买好看的衣服，真的非常感谢🥺） | 线下全国可✈️过门槛咨询❗️| 最爱的姐姐❤️：@Vanilla_337",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "Vanilla_337"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hoshino3373",
+                "end": 23,
+                "expanded_url": "https://t.me/hoshino3373",
+                "start": 0,
+                "url": "https://t.co/bGwdBZ1tcJ"
+              }
+            ]
+          }
+        },
+        "id": "1814263478699626496",
+        "location": "常驻上海，全国可✈️",
+        "name": "柚子气泡水🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842194072158810112/fJl41rNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22230,
+          "following_count": 68,
+          "like_count": 844,
+          "listed_count": 42,
+          "media_count": 9,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/bGwdBZ1tcJ",
+        "username": "Pomelo_624",
+        "verified": false
+      }
+    ]
+  }
+}

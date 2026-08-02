@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1977724797472702740",
+    "created_at": "2025-10-13T13:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T14:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977724797472702740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936828090728218624",
+          "start": 3,
+          "username": "Auraw4SNOW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/yMbNx1M1",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/yMbNx1M1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977724797472702740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975831779170001195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Auraw4SNOW: 你好我是静静 郑州线下\n爸爸活纯绿300/h\n半绿600/h\n非绿800/h\n门槛金额越高解锁福利越多（入门福利神秘小视频+陪聊+朋友圈视奸+视频举牌定制+视频祝福+网调）转账备注微信号或者私聊我发截图 https://t.co/yMbNx1M1…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1977724797472702740].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1977724797472702740",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1977724797472702740"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1975831771993546755",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2uQhzmbIAMqWII.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975831772006158336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2uQhzpbkAAwVhx.jpg",
+        "width": 1032
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1975831771993534464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2uQhzma8AAi-AU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1975831771951591424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2uQhzca8AAhaHr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975831771993546755",
+            "3_1975831772006158336",
+            "3_1975831771993534464",
+            "3_1975831771951591424"
+          ]
+        },
+        "author_id": "1936828090728218624",
+        "conversation_id": "1975831779170001195",
+        "created_at": "2025-10-08T07:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T08:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975831779170001195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMbNx1M17f",
+              "end": 125,
+              "expanded_url": "https://x.com/Auraw4SNOW/status/1975831779170001195/photo/1",
+              "media_key": "3_1975831771993546755",
+              "start": 102,
+              "url": "https://t.co/yMbNx1M17f"
+            },
+            {
+              "display_url": "pic.x.com/yMbNx1M17f",
+              "end": 125,
+              "expanded_url": "https://x.com/Auraw4SNOW/status/1975831779170001195/photo/1",
+              "media_key": "3_1975831772006158336",
+              "start": 102,
+              "url": "https://t.co/yMbNx1M17f"
+            },
+            {
+              "display_url": "pic.x.com/yMbNx1M17f",
+              "end": 125,
+              "expanded_url": "https://x.com/Auraw4SNOW/status/1975831779170001195/photo/1",
+              "media_key": "3_1975831771993534464",
+              "start": 102,
+              "url": "https://t.co/yMbNx1M17f"
+            },
+            {
+              "display_url": "pic.x.com/yMbNx1M17f",
+              "end": 125,
+              "expanded_url": "https://x.com/Auraw4SNOW/status/1975831779170001195/photo/1",
+              "media_key": "3_1975831771951591424",
+              "start": 102,
+              "url": "https://t.co/yMbNx1M17f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975831779170001195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4233,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是静静 郑州线下\n爸爸活纯绿300/h\n半绿600/h\n非绿800/h\n门槛金额越高解锁福利越多（入门福利神秘小视频+陪聊+朋友圈视奸+视频举牌定制+视频祝福+网调）转账备注微信号或者私聊我发截图 https://t.co/yMbNx1M17f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 206,
+          "like_count": 39863,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 10689
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T16:46:23.000Z",
+        "description": "你好我是静静 148cm 45kg女哥布林/BDP/BD/ADHD/东亚精神病人/电波系/药物滥用戒断中/06/INTJ/水瓶座/中文/English/日本語/粤语（可以找我互fo互转喵）坐标郑州 线下在飞机简介有链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Yukino216",
+                "end": 23,
+                "expanded_url": "https://t.me/Yukino216",
+                "start": 0,
+                "url": "https://t.co/7TdOAQ1IJB"
+              }
+            ]
+          }
+        },
+        "id": "1936828090728218624",
+        "location": "Tokyo-to, Japan",
+        "name": "我也好想变成你喜欢的样子",
+        "pinned_tweet_id": "1975831779170001195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974550355833987073/ShuGHeoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 29,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/7TdOAQ1IJB",
+        "username": "Auraw4SNOW",
+        "verified": true
+      }
+    ]
+  }
+}

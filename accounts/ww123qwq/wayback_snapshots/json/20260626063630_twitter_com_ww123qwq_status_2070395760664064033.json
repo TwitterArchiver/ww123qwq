@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069813565507203072",
+        "3_2069813566849331200",
+        "3_2069813578316570625",
+        "3_2069814362311909376"
+      ],
+      "media_source_tweet_id": [
+        "2070099685801406808",
+        "2070099685801406808",
+        "2070099685801406808",
+        "2070099685801406808"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2070395760664064033",
+    "created_at": "2026-06-26T06:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070395760664064033"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 12,
+          "tag": "2026年自分が選ぶ今年上半期の4枚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2409117906",
+          "start": 3,
+          "username": "xfoopy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L1962HrBA0",
+          "end": 55,
+          "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+          "media_key": "3_2069813565507203072",
+          "start": 32,
+          "url": "https://t.co/L1962HrBA0"
+        },
+        {
+          "display_url": "pic.x.com/L1962HrBA0",
+          "end": 55,
+          "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+          "media_key": "3_2069813566849331200",
+          "start": 32,
+          "url": "https://t.co/L1962HrBA0"
+        },
+        {
+          "display_url": "pic.x.com/L1962HrBA0",
+          "end": 55,
+          "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+          "media_key": "3_2069813578316570625",
+          "start": 32,
+          "url": "https://t.co/L1962HrBA0"
+        },
+        {
+          "display_url": "pic.x.com/L1962HrBA0",
+          "end": 55,
+          "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+          "media_key": "3_2069814362311909376",
+          "start": 32,
+          "url": "https://t.co/L1962HrBA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070395760664064033",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070099685801406808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xfoopy: #2026年自分が選ぶ今年上半期の4枚 https://t.co/L1962HrBA0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2600,
+        "media_key": "3_2069813565507203072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl0eLNXcAA292q.jpg",
+        "width": 2300
+      },
+      {
+        "height": 2600,
+        "media_key": "3_2069813566849331200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl0eQNWsAAUN6B.jpg",
+        "width": 1950
+      },
+      {
+        "height": 2600,
+        "media_key": "3_2069813578316570625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl0e67W4AEsdgL.jpg",
+        "width": 2000
+      },
+      {
+        "height": 320,
+        "media_key": "3_2069814362311909376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLl1MjiaYAALZUI.png",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069813565507203072",
+            "3_2069813566849331200",
+            "3_2069813578316570625",
+            "3_2069814362311909376"
+          ],
+          "media_source_tweet_id": [
+            "2070099685801406808",
+            "2070099685801406808",
+            "2070099685801406808",
+            "2070099685801406808"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2070395760664064033",
+        "created_at": "2026-06-26T06:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070395760664064033"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 12,
+              "tag": "2026年自分が選ぶ今年上半期の4枚"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2409117906",
+              "start": 3,
+              "username": "xfoopy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1962HrBA0",
+              "end": 55,
+              "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+              "media_key": "3_2069813565507203072",
+              "start": 32,
+              "url": "https://t.co/L1962HrBA0"
+            },
+            {
+              "display_url": "pic.x.com/L1962HrBA0",
+              "end": 55,
+              "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+              "media_key": "3_2069813566849331200",
+              "start": 32,
+              "url": "https://t.co/L1962HrBA0"
+            },
+            {
+              "display_url": "pic.x.com/L1962HrBA0",
+              "end": 55,
+              "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+              "media_key": "3_2069813578316570625",
+              "start": 32,
+              "url": "https://t.co/L1962HrBA0"
+            },
+            {
+              "display_url": "pic.x.com/L1962HrBA0",
+              "end": 55,
+              "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+              "media_key": "3_2069814362311909376",
+              "start": 32,
+              "url": "https://t.co/L1962HrBA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070395760664064033",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070099685801406808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xfoopy: #2026年自分が選ぶ今年上半期の4枚 https://t.co/L1962HrBA0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069813565507203072",
+            "3_2069813566849331200",
+            "3_2069813578316570625",
+            "3_2069814362311909376"
+          ]
+        },
+        "author_id": "2409117906",
+        "conversation_id": "2070099685801406808",
+        "created_at": "2026-06-25T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070099685801406808"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "2026年自分が選ぶ今年上半期の4枚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1962HrBA0",
+              "end": 43,
+              "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+              "media_key": "3_2069813565507203072",
+              "start": 20,
+              "url": "https://t.co/L1962HrBA0"
+            },
+            {
+              "display_url": "pic.x.com/L1962HrBA0",
+              "end": 43,
+              "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+              "media_key": "3_2069813566849331200",
+              "start": 20,
+              "url": "https://t.co/L1962HrBA0"
+            },
+            {
+              "display_url": "pic.x.com/L1962HrBA0",
+              "end": 43,
+              "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+              "media_key": "3_2069813578316570625",
+              "start": 20,
+              "url": "https://t.co/L1962HrBA0"
+            },
+            {
+              "display_url": "pic.x.com/L1962HrBA0",
+              "end": 43,
+              "expanded_url": "https://x.com/xfoopy/status/2070099685801406808/photo/1",
+              "media_key": "3_2069814362311909376",
+              "start": 20,
+              "url": "https://t.co/L1962HrBA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070099685801406808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 29712,
+          "like_count": 1951,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "#2026年自分が選ぶ今年上半期の4枚 https://t.co/L1962HrBA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 278,
+          "like_count": 43078,
+          "listed_count": 4,
+          "media_count": 707,
+          "tweet_count": 13041
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-24T14:50:19.000Z",
+        "description": "✦ 絵描き 🎨 / ゲーム開発 🎮 \n✦ EN 🇦🇺 ◎ / CHT 🇭🇰 〇 / JPN 🇯🇵 △ \n✦ #エマヒロ \n✦ NO COMMISSION\n✦ https://t.co/bA8kf3pc7X",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "エマヒロ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/gu5j387g8wahirb",
+                "end": 102,
+                "expanded_url": "https://marshmallow-qa.com/gu5j387g8wahirb",
+                "start": 79,
+                "url": "https://t.co/bA8kf3pc7X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/foopy",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/foopy",
+                "start": 0,
+                "url": "https://t.co/2373S5bxml"
+              }
+            ]
+          }
+        },
+        "id": "2409117906",
+        "location": "巨人の肩の上",
+        "name": "フーピ@異ノ祭C-24",
+        "pinned_tweet_id": "2070099685801406808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014573292456439808/pwKem3XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6219,
+          "following_count": 69,
+          "like_count": 1640,
+          "listed_count": 30,
+          "media_count": 142,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/2373S5bxml",
+        "username": "xfoopy",
+        "verified": false
+      }
+    ]
+  }
+}

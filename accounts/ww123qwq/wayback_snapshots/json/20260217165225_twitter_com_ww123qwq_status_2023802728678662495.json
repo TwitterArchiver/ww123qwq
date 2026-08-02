@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023317768125480960"
+      ],
+      "media_source_tweet_id": [
+        "2023317871628259546"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023802728678662495",
+    "created_at": "2026-02-17T16:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T17:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023802728678662495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1069778842221330432",
+          "start": 3,
+          "username": "slimyslimemoko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DKtjh35uqz",
+          "end": 77,
+          "expanded_url": "https://x.com/slimyslimemoko/status/2023317871628259546/video/1",
+          "media_key": "13_2023317768125480960",
+          "start": 54,
+          "url": "https://t.co/DKtjh35uqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023802728678662495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023317871628259546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @slimyslimemoko: 2026年客片展示 \n出镜: 这里Arnal (bilibili) https://t.co/DKtjh35uqz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023802728678662495].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023802728678662495",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023802728678662495"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7366,
+        "height": 1920,
+        "media_key": "13_2023317768125480960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023317768125480960/img/3oRoPQzgZ8E2ok0t.jpg",
+        "public_metrics": {
+          "view_count": 9670
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023317768125480960/vid/avc1/320x568/pPkMpWaZIpzLf6DC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023317768125480960/vid/avc1/480x852/MaY8dXett0UDL-_J.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023317768125480960/vid/avc1/720x1280/0atav4vqcc7ahBWo.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023317768125480960/pl/OKrCNG2O0ZMncG9_.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023317768125480960"
+          ]
+        },
+        "author_id": "1069778842221330432",
+        "conversation_id": "2023317871628259546",
+        "created_at": "2026-02-16T08:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023317871628259546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DKtjh35uqz",
+              "end": 57,
+              "expanded_url": "https://x.com/slimyslimemoko/status/2023317871628259546/video/1",
+              "media_key": "13_2023317768125480960",
+              "start": 34,
+              "url": "https://t.co/DKtjh35uqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023317871628259546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 273,
+          "impression_count": 19318,
+          "like_count": 1067,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "2026年客片展示 \n出镜: 这里Arnal (bilibili) https://t.co/DKtjh35uqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本，纸烟代购/电子烟代购",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 259,
+          "like_count": 41667,
+          "listed_count": 5,
+          "media_count": 614,
+          "tweet_count": 12359
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T02:22:06.000Z",
+        "description": "爱做黑暗料理的牢白。\n拍摄 | 绳艺 | 互勉，随缘合作，不沾荤腥。\n★绝赞拘束淘宝小店推荐: 沫叶工坊\n☆https://t.co/dOqHWyVRUr\n★https://t.co/vsroPS23wr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@slimyslimemoko",
+                "end": 77,
+                "expanded_url": "https://www.youtube.com/@slimyslimemoko",
+                "start": 54,
+                "url": "https://t.co/dOqHWyVRUr"
+              },
+              {
+                "display_url": "patreon.com/c/yemomochan",
+                "end": 102,
+                "expanded_url": "https://www.patreon.com/c/yemomochan",
+                "start": 79,
+                "url": "https://t.co/vsroPS23wr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@slimyslimemoko",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@slimyslimemoko",
+                "start": 0,
+                "url": "https://t.co/dOqHWyVRUr"
+              }
+            ]
+          }
+        },
+        "id": "1069778842221330432",
+        "name": "黏乎乎的白墨涳",
+        "pinned_tweet_id": "2013996236576326115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011261504000315392/jbZ4X7zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153925,
+          "following_count": 412,
+          "like_count": 1389,
+          "listed_count": 465,
+          "media_count": 621,
+          "tweet_count": 4292
+        },
+        "url": "https://t.co/dOqHWyVRUr",
+        "username": "slimyslimemoko",
+        "verified": false
+      }
+    ]
+  }
+}

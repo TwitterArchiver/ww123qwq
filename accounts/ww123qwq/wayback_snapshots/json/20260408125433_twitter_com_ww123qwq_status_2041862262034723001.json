@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041862259639775235"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041862262034723001",
+    "created_at": "2026-04-08T12:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041862262034723001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lQ980PtwtS",
+          "end": 35,
+          "expanded_url": "https://x.com/ww123qwq/status/2041862262034723001/photo/1",
+          "media_key": "3_2041862259639775235",
+          "start": 12,
+          "url": "https://t.co/lQ980PtwtS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041862262034723001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好险，差点就看成清液了 https://t.co/lQ980PtwtS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2041862259639775235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYm6Coa8AMDSuv.jpg",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041862259639775235"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041862262034723001",
+        "created_at": "2026-04-08T12:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041862262034723001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQ980PtwtS",
+              "end": 35,
+              "expanded_url": "https://x.com/ww123qwq/status/2041862262034723001/photo/1",
+              "media_key": "3_2041862259639775235",
+              "start": 12,
+              "url": "https://t.co/lQ980PtwtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041862262034723001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好险，差点就看成清液了 https://t.co/lQ980PtwtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "策划药薄荷糖，彩虹糖，飘\n飘糖，模拟ald-52物质：rush，类\nGHB,DBT,MiPT,苄达明hrt药物：泰补，土色，日雌，推特私聊",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 271,
+          "like_count": 42089,
+          "listed_count": 4,
+          "media_count": 676,
+          "tweet_count": 12593
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

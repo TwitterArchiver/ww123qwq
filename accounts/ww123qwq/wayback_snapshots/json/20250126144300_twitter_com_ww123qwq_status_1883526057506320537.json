@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1883507685540159816",
+    "created_at": "2025-01-26T14:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T15:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883526057506320537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "59ryq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883526057506320537",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883507685540159816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@59ryq 被口角了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1883507685540159816",
+        "created_at": "2025-01-26T14:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T15:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883526057506320537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "59ryq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883526057506320537",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883507685540159816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@59ryq 被口角了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883342950857342976"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1883507685540159816",
+        "created_at": "2025-01-26T13:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T14:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883507685540159816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9RCMI6PcW",
+              "end": 39,
+              "expanded_url": "https://x.com/59ryq/status/1883507685540159816/photo/1",
+              "media_key": "3_1883342950857342976",
+              "start": 16,
+              "url": "https://t.co/g9RCMI6PcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883507685540159816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 564,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "柯南北美版 打码后反而更奇怪了 https://t.co/g9RCMI6PcW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，🚪88",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 147,
+          "like_count": 40020,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 10346
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "「故事要从这里开始说起」｜Cheers for the faith #BLGWin｜TJ Sports｜MtX🏳️‍⚧️🍥｜PUBGM Pro Player｜Esports Analyst｜Language:CN/EN/JP/KR｜❤️@xlj070423 @yizhikapaiqaq @iranon_lcf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "BLGWin"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "xlj070423"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 155,
+                "start": 144,
+                "username": "iranon_lcf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUeaH"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "水上公园",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16084,
+          "following_count": 4365,
+          "like_count": 167874,
+          "listed_count": 67,
+          "media_count": 4355,
+          "tweet_count": 20522
+        },
+        "url": "https://t.co/6W3mmCUeaH",
+        "username": "59ryq",
+        "verified": true
+      }
+    ]
+  }
+}

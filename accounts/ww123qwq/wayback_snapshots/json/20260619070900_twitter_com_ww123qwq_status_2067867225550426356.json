@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067867225550426356",
+    "created_at": "2026-06-19T07:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067867225550426356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055521229625262080",
+          "start": 3,
+          "username": "ynxxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067867225550426356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067658013863977462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ynxxx_jjkk: 抑郁症导致的执行功能瘫痪：\n有很多想做和需要做的事情，最后却只是焦虑地刷手机，一边焦虑一边连续不停歇的滑，脑子空空地享受廉价的多巴胺，大概就是这种感觉吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067867225550426356",
+        "created_at": "2026-06-19T07:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067867225550426356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055521229625262080",
+              "start": 3,
+              "username": "ynxxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067867225550426356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067658013863977462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ynxxx_jjkk: 抑郁症导致的执行功能瘫痪：\n有很多想做和需要做的事情，最后却只是焦虑地刷手机，一边焦虑一边连续不停歇的滑，脑子空空地享受廉价的多巴胺，大概就是这种感觉吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055521229625262080",
+        "conversation_id": "2067658013863977462",
+        "created_at": "2026-06-18T17:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067658013863977462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067658013863977462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2224,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁症导致的执行功能瘫痪：\n有很多想做和需要做的事情，最后却只是焦虑地刷手机，一边焦虑一边连续不停歇的滑，脑子空空地享受廉价的多巴胺，大概就是这种感觉吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 272,
+          "like_count": 42848,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12970
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T05:30:39.000Z",
+        "description": "我的随笔病历本。\n前两个号都被封了，这是我的3.0\n我还存在在@YNxxxjjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "YNxxxjjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/R72PhVmJRy"
+              }
+            ]
+          }
+        },
+        "id": "2055521229625262080",
+        "name": "旖旎3.0",
+        "pinned_tweet_id": "2062970664160809111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 224,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/R72PhVmJRy",
+        "username": "ynxxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

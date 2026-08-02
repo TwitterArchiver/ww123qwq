@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2012072830809358519",
+    "created_at": "2026-01-16T16:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T17:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012200439337381935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1960187829687885824",
+          "start": 0,
+          "username": "taikongjile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012200439337381935",
+    "in_reply_to_user_id": "1960187829687885824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012072830809358519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile 敌敌畏都o是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2012072830809358519",
+        "created_at": "2026-01-16T16:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012200439337381935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960187829687885824",
+              "start": 0,
+              "username": "taikongjile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012200439337381935",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012072830809358519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile 敌敌畏都o是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2012072830809358519",
+        "created_at": "2026-01-16T08:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T09:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012072830809358519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012072830809358519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2082,
+          "like_count": 38,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有一个古老的传说，在新年钟声响第十二声之前，吃下12片愈美片 12片感康 12个敌敌畏12片安眠药12片布洛芬12片舍曲林12片喹硫平12片碳酸锂12片阿立派唑12片劳拉西泮12片奥沙西泮 边吃边往手上划12个口子一年都会保持好运"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 267,
+          "like_count": 41027,
+          "listed_count": 5,
+          "media_count": 549,
+          "tweet_count": 12091
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQt63U"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9Jk8E"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwb28"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shangtaikong.com",
+                "end": 23,
+                "expanded_url": "http://www.shangtaikong.com/",
+                "start": 0,
+                "url": "https://t.co/i6JxOs4twU"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "太空极乐百科🍥",
+        "pinned_tweet_id": "2004064227003416995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5555,
+          "following_count": 1691,
+          "like_count": 1074,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/i6JxOs4twU",
+        "username": "taikongjile",
+        "verified": false
+      }
+    ]
+  }
+}

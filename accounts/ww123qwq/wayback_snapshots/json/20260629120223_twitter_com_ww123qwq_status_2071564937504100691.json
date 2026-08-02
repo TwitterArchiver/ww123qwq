@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071540259264032769"
+      ],
+      "media_source_tweet_id": [
+        "2071540281653260639"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071564937504100691",
+    "created_at": "2026-06-29T12:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071564937504100691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1266206715839606784",
+          "start": 3,
+          "username": "hanabitaminc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7NpTXNQppr",
+          "end": 45,
+          "expanded_url": "https://x.com/hanabitaminc/status/2071540281653260639/photo/1",
+          "media_key": "3_2071540259264032769",
+          "start": 22,
+          "url": "https://t.co/7NpTXNQppr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071564937504100691",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071540281653260639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanabitaminc: 吐き気 https://t.co/7NpTXNQppr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2544,
+        "media_key": "3_2071540259264032769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-W4-tacAEUZgq.jpg",
+        "width": 1227
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071540259264032769"
+          ],
+          "media_source_tweet_id": [
+            "2071540281653260639"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071564937504100691",
+        "created_at": "2026-06-29T12:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071564937504100691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1266206715839606784",
+              "start": 3,
+              "username": "hanabitaminc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NpTXNQppr",
+              "end": 45,
+              "expanded_url": "https://x.com/hanabitaminc/status/2071540281653260639/photo/1",
+              "media_key": "3_2071540259264032769",
+              "start": 22,
+              "url": "https://t.co/7NpTXNQppr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071564937504100691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071540281653260639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanabitaminc: 吐き気 https://t.co/7NpTXNQppr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071540259264032769"
+          ]
+        },
+        "author_id": "1266206715839606784",
+        "conversation_id": "2071540281653260639",
+        "created_at": "2026-06-29T10:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T11:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071540281653260639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NpTXNQppr",
+              "end": 27,
+              "expanded_url": "https://x.com/hanabitaminc/status/2071540281653260639/photo/1",
+              "media_key": "3_2071540259264032769",
+              "start": 4,
+              "url": "https://t.co/7NpTXNQppr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071540281653260639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 4811,
+          "like_count": 440,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "吐き気 https://t.co/7NpTXNQppr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 285,
+          "like_count": 43292,
+          "listed_count": 4,
+          "media_count": 714,
+          "tweet_count": 13149
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T03:17:22.000Z",
+        "description": "人間が好きです \n (現在、ご依頼とDMでのお返事できかねます)\n🐶→@hanabitaminb\nインスタ→ https://t.co/AmlunMW4by",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "hanabitaminb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hanabitaminc?i…",
+                "end": 78,
+                "expanded_url": "https://www.instagram.com/hanabitaminc?igsh=MWRicWF1YzZuMGN6MA%3D%3D&utm_source=qr",
+                "start": 55,
+                "url": "https://t.co/AmlunMW4by"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53144689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53144689",
+                "start": 0,
+                "url": "https://t.co/72PdX51Udv"
+              }
+            ]
+          }
+        },
+        "id": "1266206715839606784",
+        "location": "ぽかぽかホットカーペットランド",
+        "name": "花巻 花郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610904608439959553/GjAHGmmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131116,
+          "following_count": 143,
+          "like_count": 55888,
+          "listed_count": 799,
+          "media_count": 287,
+          "tweet_count": 39021
+        },
+        "url": "https://t.co/72PdX51Udv",
+        "username": "hanabitaminc",
+        "verified": false
+      }
+    ]
+  }
+}

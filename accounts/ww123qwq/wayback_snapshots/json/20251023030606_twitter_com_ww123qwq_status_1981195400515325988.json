@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1981149702419574784"
+      ],
+      "media_source_tweet_id": [
+        "1981149759156212099"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1981195400515325988",
+    "created_at": "2025-10-23T03:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T04:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981195400515325988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1854768126153703424",
+          "start": 3,
+          "username": "salt_183"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6B7EKCkD93",
+          "end": 37,
+          "expanded_url": "https://x.com/salt_183/status/1981149759156212099/video/1",
+          "media_key": "13_1981149702419574784",
+          "start": 14,
+          "url": "https://t.co/6B7EKCkD93"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981195400515325988",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981149759156212099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @salt_183: https://t.co/6B7EKCkD93"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981195400515325988].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981195400515325988",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981195400515325988"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6133,
+        "height": 1280,
+        "media_key": "13_1981149702419574784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981149702419574784/img/c8Xxn64NTb2qQ2JV.jpg",
+        "public_metrics": {
+          "view_count": 682
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981149702419574784/vid/avc1/320x568/oa1z1JiIYQ-sg1no.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981149702419574784/vid/avc1/480x852/SFc8pw5g7uETaA4m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981149702419574784/vid/avc1/720x1280/1zIHENTNx0SNBaDe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981149702419574784/pl/hCdxQyHh9HvM_alY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981149702419574784"
+          ]
+        },
+        "author_id": "1854768126153703424",
+        "conversation_id": "1981149759156212099",
+        "created_at": "2025-10-23T00:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T01:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981149759156212099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6B7EKCkD93",
+              "end": 23,
+              "expanded_url": "https://x.com/salt_183/status/1981149759156212099/video/1",
+              "media_key": "13_1981149702419574784",
+              "start": 0,
+              "url": "https://t.co/6B7EKCkD93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981149759156212099",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 1512,
+          "like_count": 218,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6B7EKCkD93"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 210,
+          "like_count": 39959,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 10710
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T06:09:24.000Z",
+        "description": "183cm║ 20代 ║ 絵師 ║  https://t.co/s9nECGSqVL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/84888201",
+                "end": 42,
+                "expanded_url": "https://www.pixiv.net/users/84888201",
+                "start": 19,
+                "url": "https://t.co/s9nECGSqVL"
+              }
+            ]
+          }
+        },
+        "id": "1854768126153703424",
+        "location": "Japan",
+        "name": "塩",
+        "pinned_tweet_id": "1977756008450576632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913604197024673792/9UiT54Ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11217,
+          "following_count": 225,
+          "like_count": 234,
+          "listed_count": 45,
+          "media_count": 49,
+          "tweet_count": 66
+        },
+        "username": "salt_183",
+        "verified": false
+      }
+    ]
+  }
+}

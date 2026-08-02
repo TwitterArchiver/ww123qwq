@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1982852271634559262",
+    "created_at": "2025-10-28T09:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T10:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983102857382654409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960389326258495492",
+          "start": 0,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983102857382654409",
+    "in_reply_to_user_id": "1960389326258495492",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982852271634559262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@looolzaozimin 泥们又o大了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24170,
+        "height": 950,
+        "media_key": "13_1982852091019190276",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982852091019190276/img/YFOkvQt7hFIduNxR.jpg",
+        "public_metrics": {
+          "view_count": 14172
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982852091019190276/vid/avc1/320x422/orD3lA_uMby-FKCT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982852091019190276/vid/avc1/480x632/r4rfF3fA8H2wp1Tz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982852091019190276/vid/avc1/720x950/1JNCrkc-pEs-U0ss.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982852091019190276/pl/aCuhZwrpdWL5SiQa.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1982852271634559262",
+        "created_at": "2025-10-28T09:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983102857382654409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960389326258495492",
+              "start": 0,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983102857382654409",
+        "in_reply_to_user_id": "1960389326258495492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982852271634559262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looolzaozimin 泥们又o大了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982852091019190276"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "1982852271634559262",
+        "created_at": "2025-10-27T16:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982852271634559262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGJSVh60hp",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/1982852271634559262/video/1",
+              "media_key": "13_1982852091019190276",
+              "start": 0,
+              "url": "https://t.co/JGJSVh60hp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982852271634559262",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 20704,
+          "like_count": 911,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JGJSVh60hp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 210,
+          "like_count": 40138,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 10785
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "",
+        "id": "1960389326258495492",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979667185812258816/DUbJWtJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17254,
+          "following_count": 14,
+          "like_count": 47,
+          "listed_count": 20,
+          "media_count": 41,
+          "tweet_count": 83
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

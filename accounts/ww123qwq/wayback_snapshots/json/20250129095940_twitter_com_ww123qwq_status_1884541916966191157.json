@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1884409355388473494",
+    "created_at": "2025-01-29T09:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T10:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884541916966191157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1075426628023578624",
+          "start": 0,
+          "username": "Eercnm"
+        },
+        {
+          "end": 16,
+          "id": "97209551",
+          "start": 8,
+          "username": "kiss486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884541916966191157",
+    "in_reply_to_user_id": "1075426628023578624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884524891157725458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eercnm @kiss486 好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1884409355388473494",
+        "created_at": "2025-01-29T09:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T10:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884541916966191157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1075426628023578624",
+              "start": 0,
+              "username": "Eercnm"
+            },
+            {
+              "end": 16,
+              "id": "97209551",
+              "start": 8,
+              "username": "kiss486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884541916966191157",
+        "in_reply_to_user_id": "1075426628023578624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884524891157725458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eercnm @kiss486 好玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1075426628023578624",
+        "conversation_id": "1884409355388473494",
+        "created_at": "2025-01-29T08:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T09:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884524891157725458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 18,
+              "id": "97209551",
+              "start": 10,
+              "username": "kiss486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884524891157725458",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884520835505152407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq @kiss486 招笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，左派转安那其",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 160,
+          "like_count": 40072,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 10382
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-19T16:24:23.000Z",
+        "description": "bounce",
+        "id": "1075426628023578624",
+        "name": "沈贪",
+        "pinned_tweet_id": "1222018732765016065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884114188592730112/IhCPlhxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 342,
+          "like_count": 2993,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 95
+        },
+        "username": "Eercnm",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-16T13:35:03.000Z",
+        "description": "歡迎追蹤我的推特，掌握全球最新動態！\nFollow my Twitter for the latest global updates!\n世界の最新情報は私のTwitterでチェックしてください！\n日台友善関係が永遠に続きますように",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC8jYJ…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC8jYJr7i4I9BJ3tsv2f8kgw",
+                "start": 0,
+                "url": "https://t.co/JDF4Fk0wC9"
+              }
+            ]
+          }
+        },
+        "id": "97209551",
+        "location": "台北",
+        "name": "MR.486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223396348466102272/qjVxXs8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114048,
+          "following_count": 3550,
+          "like_count": 41813,
+          "listed_count": 355,
+          "media_count": 8246,
+          "tweet_count": 48407
+        },
+        "url": "https://t.co/JDF4Fk0wC9",
+        "username": "kiss486",
+        "verified": true
+      }
+    ]
+  }
+}

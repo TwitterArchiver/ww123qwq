@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007154367691141122"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2006273301765922836",
+    "created_at": "2026-01-02T18:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T19:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007154384636129449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "791197",
+          "start": 0,
+          "username": "bbcchinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iWa4dqwu82",
+          "end": 45,
+          "expanded_url": "https://x.com/ww123qwq/status/2007154384636129449/photo/1",
+          "media_key": "3_2007154367691141122",
+          "start": 22,
+          "url": "https://t.co/iWa4dqwu82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007154384636129449",
+    "in_reply_to_user_id": "791197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006273301765922836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbcchinese 20.11剧烈变形 https://t.co/iWa4dqwu82"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2007154367691141122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9rYQ1easAI4vPb.jpg",
+        "width": 640
+      },
+      {
+        "duration_ms": 61312,
+        "height": 1920,
+        "media_key": "13_2006272798143246336",
+        "preview_image_url": "https://pbs.twimg.com/media/G9e3CMbbIAAZYWY.jpg",
+        "public_metrics": {
+          "view_count": 129708
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006272798143246336/vid/avc1/320x568/itX_6RnxvsxkAJyP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006272798143246336/vid/avc1/480x852/cifzRiv1T6D4gJIE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006272798143246336/vid/avc1/608x1080/4HEOW05ngW5VRjK3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006272798143246336/pl/XCIwdA7PRQPa1Apx.m3u8?v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007154367691141122"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2006273301765922836",
+        "created_at": "2026-01-02T18:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T19:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007154384636129449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWa4dqwu82",
+              "end": 45,
+              "expanded_url": "https://x.com/ww123qwq/status/2007154384636129449/photo/1",
+              "media_key": "3_2007154367691141122",
+              "start": 22,
+              "url": "https://t.co/iWa4dqwu82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007154384636129449",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006273301765922836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 20.11剧烈变形 https://t.co/iWa4dqwu82"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006272798143246336"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "2006273301765922836",
+        "created_at": "2025-12-31T07:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T08:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006273301765922836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsqnWBwL6c",
+              "end": 112,
+              "expanded_url": "https://x.com/bbcchinese/status/2006273301765922836/video/1",
+              "media_key": "13_2006272798143246336",
+              "start": 89,
+              "url": "https://t.co/hsqnWBwL6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006273301765922836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 218090,
+          "like_count": 307,
+          "quote_count": 20,
+          "reply_count": 74,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "在2025年即将结束之际，秘鲁的萨满们做出了他们对2026年的年度预测。每一年，他们都会在饮用由死藤水等本土植物制成的致幻混合饮品之后进行预测，尽管该团体的预测在外界褒贬不一。 https://t.co/hsqnWBwL6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 270,
+          "like_count": 40946,
+          "listed_count": 5,
+          "media_count": 520,
+          "tweet_count": 11969
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5163864,
+          "following_count": 73,
+          "like_count": 60,
+          "listed_count": 11876,
+          "media_count": 24280,
+          "tweet_count": 154689
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1995496926742220801",
+        "7_1995496967011741697",
+        "7_1995497018186457089"
+      ],
+      "media_source_tweet_id": [
+        "1995497060242706714",
+        "1995497060242706714",
+        "1995497060242706714"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1995513617329086697",
+    "created_at": "2025-12-01T15:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T16:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995513617329086697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yJt4IfQHGP",
+          "end": 79,
+          "expanded_url": "https://x.com/huaxuejilebaike/status/1995497060242706714/video/1",
+          "media_key": "7_1995496926742220801",
+          "start": 56,
+          "url": "https://t.co/yJt4IfQHGP"
+        },
+        {
+          "display_url": "pic.x.com/yJt4IfQHGP",
+          "end": 79,
+          "expanded_url": "https://x.com/huaxuejilebaike/status/1995497060242706714/video/1",
+          "media_key": "7_1995496967011741697",
+          "start": 56,
+          "url": "https://t.co/yJt4IfQHGP"
+        },
+        {
+          "display_url": "pic.x.com/yJt4IfQHGP",
+          "end": 79,
+          "expanded_url": "https://x.com/huaxuejilebaike/status/1995497060242706714/video/1",
+          "media_key": "7_1995497018186457089",
+          "start": 56,
+          "url": "https://t.co/yJt4IfQHGP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995513617329086697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995497060242706714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 为化学极乐多了把自己搞死的孩子们烧点普瑞巴林愿天堂和地狱都没有愈美片 https://t.co/yJt4IfQHGP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6442,
+        "height": 1280,
+        "media_key": "7_1995496926742220801",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995496926742220801/pu/img/difCtTI0A-Y8F0hS.jpg",
+        "public_metrics": {
+          "view_count": 118
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995496926742220801/pu/vid/avc1/320x568/3xoeqipyBchcK-MF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995496926742220801/pu/vid/avc1/480x852/tZS26bH0WUjRZPGR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995496926742220801/pu/vid/avc1/720x1280/cY9Q9t-I9_voK3PV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995496926742220801/pu/pl/tHp0z39qNbKK4KyC.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 8874,
+        "height": 1280,
+        "media_key": "7_1995496967011741697",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995496967011741697/pu/img/ds8Ze5AQmSHbADVo.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995496967011741697/pu/vid/avc1/320x568/HEnnvlwhp4M1yhVw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995496967011741697/pu/vid/avc1/480x852/uO12Iu4Pl2ab25g8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995496967011741697/pu/vid/avc1/720x1280/MqxB_UQiL7EwI3nD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995496967011741697/pu/pl/Ck5jjZ8nP3VPShnI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 19178,
+        "height": 1280,
+        "media_key": "7_1995497018186457089",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1995497018186457089/pu/img/SKDSUClTZGtfP2xa.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995497018186457089/pu/vid/avc1/320x568/FGeijTyVHGqlBDTP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995497018186457089/pu/vid/avc1/480x852/7MdDAbjKkHh3XGZY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1995497018186457089/pu/vid/avc1/720x1280/fpxvRNb5v6W9bLpM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1995497018186457089/pu/pl/xkYx8t6b6Ji7zdAB.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995496926742220801",
+            "7_1995496967011741697",
+            "7_1995497018186457089"
+          ],
+          "media_source_tweet_id": [
+            "1995497060242706714",
+            "1995497060242706714",
+            "1995497060242706714"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1995513617329086697",
+        "created_at": "2025-12-01T15:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T16:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995513617329086697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJt4IfQHGP",
+              "end": 79,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1995497060242706714/video/1",
+              "media_key": "7_1995496926742220801",
+              "start": 56,
+              "url": "https://t.co/yJt4IfQHGP"
+            },
+            {
+              "display_url": "pic.x.com/yJt4IfQHGP",
+              "end": 79,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1995497060242706714/video/1",
+              "media_key": "7_1995496967011741697",
+              "start": 56,
+              "url": "https://t.co/yJt4IfQHGP"
+            },
+            {
+              "display_url": "pic.x.com/yJt4IfQHGP",
+              "end": 79,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1995497060242706714/video/1",
+              "media_key": "7_1995497018186457089",
+              "start": 56,
+              "url": "https://t.co/yJt4IfQHGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995513617329086697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995497060242706714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 为化学极乐多了把自己搞死的孩子们烧点普瑞巴林愿天堂和地狱都没有愈美片 https://t.co/yJt4IfQHGP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1995496926742220801",
+            "7_1995496967011741697",
+            "7_1995497018186457089"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1995497060242706714",
+        "created_at": "2025-12-01T14:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995497060242706714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJt4IfQHGP",
+              "end": 58,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1995497060242706714/video/1",
+              "media_key": "7_1995496926742220801",
+              "start": 35,
+              "url": "https://t.co/yJt4IfQHGP"
+            },
+            {
+              "display_url": "pic.x.com/yJt4IfQHGP",
+              "end": 58,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1995497060242706714/video/1",
+              "media_key": "7_1995496967011741697",
+              "start": 35,
+              "url": "https://t.co/yJt4IfQHGP"
+            },
+            {
+              "display_url": "pic.x.com/yJt4IfQHGP",
+              "end": 58,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1995497060242706714/video/1",
+              "media_key": "7_1995497018186457089",
+              "start": 35,
+              "url": "https://t.co/yJt4IfQHGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995497060242706714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为化学极乐多了把自己搞死的孩子们烧点普瑞巴林愿天堂和地狱都没有愈美片 https://t.co/yJt4IfQHGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/🚪52/88/188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993430071936462848/v8gjxKCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 263,
+          "like_count": 40723,
+          "listed_count": 3,
+          "media_count": 393,
+          "tweet_count": 11626
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQtDTs\n交流群:https://t.co/FvFWw9JRYc\n社区:https://t.co/JwQ9mOUfK6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQtDTs"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9JRYc"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 83,
+                "expanded_url": "https://pr80.bid/",
+                "start": 60,
+                "url": "https://t.co/JwQ9mOUfK6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhL9V"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1989571076804989237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988121341233606656/UFOxlPsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3580,
+          "following_count": 1191,
+          "like_count": 624,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/DM4fmdhL9V",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

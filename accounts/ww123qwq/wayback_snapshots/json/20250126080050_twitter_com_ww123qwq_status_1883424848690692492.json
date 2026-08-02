@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1883424848690692492",
+    "created_at": "2025-01-26T08:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T09:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883424848690692492"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1883424848690692492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家都是机器人嘛？说话带括号，手上有条形码，昵称/头像的背景颜色和符号都差不多)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1883424848690692492",
+        "created_at": "2025-01-26T08:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T09:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883424848690692492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883424848690692492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都是机器人嘛？说话带括号，手上有条形码，昵称/头像的背景颜色和符号都差不多)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "随手点赞，日常推，希望和大家交朋友，同类互fo，友跨，🚪88",
+        "id": "1521553831775158273",
+        "location": " 沪",
+        "name": "伊奈🍥🌶️🍆🍡🍢",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 147,
+          "like_count": 40010,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 10339
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

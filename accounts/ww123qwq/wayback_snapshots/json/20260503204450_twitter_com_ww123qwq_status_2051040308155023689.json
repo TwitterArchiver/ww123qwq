@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051017405153902592"
+      ],
+      "media_source_tweet_id": [
+        "2051017438033031410"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2051040308155023689",
+    "created_at": "2026-05-03T20:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T21:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051040308155023689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820467609722040320",
+          "start": 3,
+          "username": "ametic2u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EXgBu2ttjH",
+          "end": 66,
+          "expanded_url": "https://x.com/ametic2u/status/2051017438033031410/photo/1",
+          "media_key": "3_2051017405153902592",
+          "start": 43,
+          "url": "https://t.co/EXgBu2ttjH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051040308155023689",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051017438033031410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ametic2u: me n the bad bitch i groomed https://t.co/EXgBu2ttjH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 487,
+        "media_key": "3_2051017405153902592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHatdpZXgAADZWI.png",
+        "width": 505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051017405153902592"
+          ],
+          "media_source_tweet_id": [
+            "2051017438033031410"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2051040308155023689",
+        "created_at": "2026-05-03T20:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T21:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051040308155023689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820467609722040320",
+              "start": 3,
+              "username": "ametic2u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EXgBu2ttjH",
+              "end": 66,
+              "expanded_url": "https://x.com/ametic2u/status/2051017438033031410/photo/1",
+              "media_key": "3_2051017405153902592",
+              "start": 43,
+              "url": "https://t.co/EXgBu2ttjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051040308155023689",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051017438033031410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ametic2u: me n the bad bitch i groomed https://t.co/EXgBu2ttjH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051017405153902592"
+          ]
+        },
+        "author_id": "1820467609722040320",
+        "conversation_id": "2051017438033031410",
+        "created_at": "2026-05-03T19:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T20:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051017438033031410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EXgBu2ttjH",
+              "end": 52,
+              "expanded_url": "https://x.com/ametic2u/status/2051017438033031410/photo/1",
+              "media_key": "3_2051017405153902592",
+              "start": 29,
+              "url": "https://t.co/EXgBu2ttjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051017438033031410",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 1947,
+          "like_count": 283,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "me n the bad bitch i groomed https://t.co/EXgBu2ttjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 275,
+          "like_count": 42469,
+          "listed_count": 4,
+          "media_count": 686,
+          "tweet_count": 12724
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T14:31:33.000Z",
+        "description": "⋅˚₊‧ ₊˚ ⋅࣭ ⭑trauma bonded with many flaws⋅˚₊‧  ‧₊˚ ⋅ ๋ ࣭  ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ametic2u.straw.page",
+                "end": 23,
+                "expanded_url": "https://ametic2u.straw.page",
+                "start": 0,
+                "url": "https://t.co/RftrdCCzzy"
+              }
+            ]
+          }
+        },
+        "id": "1820467609722040320",
+        "location": "i ♡ my fp",
+        "name": "⋆˙⟡˚₊‧꒰ა໒꒱ ‧₊˚ ୨୧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927459394570067969/lDsicexL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2665,
+          "following_count": 17,
+          "like_count": 3683,
+          "listed_count": 2,
+          "media_count": 415,
+          "tweet_count": 1202
+        },
+        "url": "https://t.co/RftrdCCzzy",
+        "username": "ametic2u",
+        "verified": false
+      }
+    ]
+  }
+}

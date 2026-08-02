@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973331531172290565"
+      ],
+      "media_source_tweet_id": [
+        "1973331537522466841"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1973598339280359479",
+    "created_at": "2025-10-02T03:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T04:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973598339280359479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1601599920276140033",
+          "start": 3,
+          "username": "ayanamirei_may"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oMmFBh95mw",
+          "end": 43,
+          "expanded_url": "https://x.com/ayanamirei_may/status/1973331537522466841/photo/1",
+          "media_key": "3_1973331531172290565",
+          "start": 20,
+          "url": "https://t.co/oMmFBh95mw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973598339280359479",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973331537522466841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayanamirei_may: https://t.co/oMmFBh95mw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973331531172290565",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2KukouaIAUyR22.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973331531172290565"
+          ],
+          "media_source_tweet_id": [
+            "1973331537522466841"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1973598339280359479",
+        "created_at": "2025-10-02T03:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T04:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973598339280359479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1601599920276140033",
+              "start": 3,
+              "username": "ayanamirei_may"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMmFBh95mw",
+              "end": 43,
+              "expanded_url": "https://x.com/ayanamirei_may/status/1973331537522466841/photo/1",
+              "media_key": "3_1973331531172290565",
+              "start": 20,
+              "url": "https://t.co/oMmFBh95mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973598339280359479",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973331537522466841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayanamirei_may: https://t.co/oMmFBh95mw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973331531172290565"
+          ]
+        },
+        "author_id": "1601599920276140033",
+        "conversation_id": "1973331537522466841",
+        "created_at": "2025-10-01T10:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T11:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973331537522466841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMmFBh95mw",
+              "end": 23,
+              "expanded_url": "https://x.com/ayanamirei_may/status/1973331537522466841/photo/1",
+              "media_key": "3_1973331531172290565",
+              "start": 0,
+              "url": "https://t.co/oMmFBh95mw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973331537522466841",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 13207,
+          "like_count": 1555,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oMmFBh95mw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 200,
+          "like_count": 39820,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 10652
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T15:29:25.000Z",
+        "description": "生きて",
+        "id": "1601599920276140033",
+        "name": "鳴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905053921191788544/4AMTqEhW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25982,
+          "following_count": 172,
+          "like_count": 1157,
+          "listed_count": 53,
+          "media_count": 199,
+          "tweet_count": 2002
+        },
+        "username": "ayanamirei_may",
+        "verified": false
+      }
+    ]
+  }
+}

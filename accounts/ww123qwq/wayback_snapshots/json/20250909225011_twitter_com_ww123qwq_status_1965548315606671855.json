@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965267341434126338"
+      ],
+      "media_source_tweet_id": [
+        "1965267365794586966"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1965548315606671855",
+    "created_at": "2025-09-09T22:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T23:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965548315606671855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1527922242734239745",
+          "start": 3,
+          "username": "Elysia__Mei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BM9EWsbo7H",
+          "end": 48,
+          "expanded_url": "https://x.com/Elysia__Mei/status/1965267365794586966/photo/1",
+          "media_key": "3_1965267341434126338",
+          "start": 25,
+          "url": "https://t.co/BM9EWsbo7H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965548315606671855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1009
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965267365794586966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Elysia__Mei: マダム・ヘルタ https://t.co/BM9EWsbo7H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965267341434126338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YIPA7bgAIX4aY.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965267341434126338"
+          ],
+          "media_source_tweet_id": [
+            "1965267365794586966"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1965548315606671855",
+        "created_at": "2025-09-09T22:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T23:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965548315606671855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1527922242734239745",
+              "start": 3,
+              "username": "Elysia__Mei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BM9EWsbo7H",
+              "end": 48,
+              "expanded_url": "https://x.com/Elysia__Mei/status/1965267365794586966/photo/1",
+              "media_key": "3_1965267341434126338",
+              "start": 25,
+              "url": "https://t.co/BM9EWsbo7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965548315606671855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1009
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965267365794586966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Elysia__Mei: マダム・ヘルタ https://t.co/BM9EWsbo7H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965267341434126338"
+          ]
+        },
+        "author_id": "1527922242734239745",
+        "conversation_id": "1965267365794586966",
+        "created_at": "2025-09-09T04:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T05:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965267365794586966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BM9EWsbo7H",
+              "end": 31,
+              "expanded_url": "https://x.com/Elysia__Mei/status/1965267365794586966/photo/1",
+              "media_key": "3_1965267341434126338",
+              "start": 8,
+              "url": "https://t.co/BM9EWsbo7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965267365794586966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2776,
+          "impression_count": 223382,
+          "like_count": 17845,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 1009
+        },
+        "reply_settings": "everyone",
+        "text": "マダム・ヘルタ https://t.co/BM9EWsbo7H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 190,
+          "like_count": 39785,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 10626
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T08:00:41.000Z",
+        "description": "Love anime waifus. Create character pictures from the honkai_(series) and WutheringWaves. Pixiv：https://t.co/hMTUAr2JEn Patreon↓↓↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/17696303",
+                "end": 119,
+                "expanded_url": "https://www.pixiv.net/users/17696303",
+                "start": 96,
+                "url": "https://t.co/hMTUAr2JEn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/user?u=65274153",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/user?u=65274153",
+                "start": 0,
+                "url": "https://t.co/SDx2NRFfe5"
+              }
+            ]
+          }
+        },
+        "id": "1527922242734239745",
+        "name": "八重嘤嘤桜",
+        "pinned_tweet_id": "1960191950881186054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875328788785197058/QI8qWO_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187810,
+          "following_count": 16,
+          "like_count": 1666,
+          "listed_count": 773,
+          "media_count": 347,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/SDx2NRFfe5",
+        "username": "Elysia__Mei",
+        "verified": true
+      }
+    ]
+  }
+}

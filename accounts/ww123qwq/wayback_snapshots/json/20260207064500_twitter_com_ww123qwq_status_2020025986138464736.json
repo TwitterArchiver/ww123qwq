@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2019840738146808065",
+    "created_at": "2026-02-07T06:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020025986138464736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1622592119700623361",
+          "start": 0,
+          "username": "Kusutobi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020025986138464736",
+    "in_reply_to_user_id": "1622592119700623361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019840738146808065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusutobi 能出一期剧烈变形教程吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2019840738146808065",
+        "created_at": "2026-02-07T06:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020025986138464736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1622592119700623361",
+              "start": 0,
+              "username": "Kusutobi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020025986138464736",
+        "in_reply_to_user_id": "1622592119700623361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019840738146808065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi 能出一期剧烈变形教程吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622592119700623361",
+        "conversation_id": "2019840738146808065",
+        "created_at": "2026-02-06T18:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T19:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019840738146808065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019840738146808065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 976,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚点出一期如何制作适合中国人的死藤水教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2016079697281745183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 263,
+          "like_count": 41396,
+          "listed_count": 5,
+          "media_count": 585,
+          "tweet_count": 12213
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:44:50.000Z",
+        "description": "Kusutobi个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/只发发日常或者有关NY化学的内容/可咨询药物或者产品问题/NY化学@NY_Kusutobi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "NY_Kusutobi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/cZPJ1V4JG9"
+              }
+            ]
+          }
+        },
+        "id": "1622592119700623361",
+        "name": "Kusutobi",
+        "pinned_tweet_id": "2016490186662613366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836678158843592704/68oNNMoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 101,
+          "like_count": 759,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/cZPJ1V4JG9",
+        "username": "Kusutobi",
+        "verified": false
+      }
+    ]
+  }
+}

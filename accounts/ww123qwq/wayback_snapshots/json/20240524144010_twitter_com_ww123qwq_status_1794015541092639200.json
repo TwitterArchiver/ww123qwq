@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1793297277836243259",
+    "created_at": "2024-05-24T14:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T15:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794015541092639200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1705414209432064000",
+          "start": 0,
+          "username": "hung1623120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794015541092639200",
+    "in_reply_to_user_id": "1705414209432064000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793297277836243259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hung1623120 天上的太阳红彤彤（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1793297277836243259",
+        "created_at": "2024-05-24T14:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T15:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794015541092639200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1705414209432064000",
+              "start": 0,
+              "username": "hung1623120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794015541092639200",
+        "in_reply_to_user_id": "1705414209432064000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793297277836243259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hung1623120 天上的太阳红彤彤（）"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793297275365818368"
+          ]
+        },
+        "author_id": "1705414209432064000",
+        "conversation_id": "1793297277836243259",
+        "created_at": "2024-05-22T15:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T16:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793297277836243259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Sabq346Ef9",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hung1623120/status/1793297277836243259/photo/1",
+              "media_key": "3_1793297275365818368",
+              "start": 19,
+              "url": "https://t.co/Sabq346Ef9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793297277836243259",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 81535,
+          "like_count": 547,
+          "quote_count": 44,
+          "reply_count": 389,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "文笔接力|我杀死了太阳，_____。 https://t.co/Sabq346Ef9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775825619340689408/yGyXtAtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 101,
+          "like_count": 40927,
+          "listed_count": 0,
+          "tweet_count": 10264
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T02:50:29.000Z",
+        "description": "本人王洪文，1935年出生在长春，早年参加过朝鲜战争，1951年入党，战争结束后在国棉十七厂保卫科担任科事部，1966年成立工总司并担任总司令，1973年在中共十大当选为副主席，在随后的几年里成功当选为主席",
+        "id": "1705414209432064000",
+        "location": "中南海",
+        "name": "王洪文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763214483579916288/AOfFqC95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 225,
+          "like_count": 2879,
+          "listed_count": 14,
+          "tweet_count": 4368
+        },
+        "username": "hung1623120",
+        "verified": false
+      }
+    ]
+  }
+}

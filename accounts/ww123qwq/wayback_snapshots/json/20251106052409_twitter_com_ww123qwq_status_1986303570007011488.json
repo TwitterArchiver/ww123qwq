@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986114840113684481"
+      ],
+      "media_source_tweet_id": [
+        "1986114859269034105"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1986303570007011488",
+    "created_at": "2025-11-06T05:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T06:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986303570007011488"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 33,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 52,
+          "start": 43,
+          "tag": "dollmask"
+        },
+        {
+          "end": 60,
+          "start": 53,
+          "tag": "doller"
+        },
+        {
+          "end": 66,
+          "start": 61,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1303713418629668867",
+          "start": 3,
+          "username": "meko_kig"
+        },
+        {
+          "end": 32,
+          "id": "1978357064608145408",
+          "start": 21,
+          "username": "RubberRisa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IzCyvDY1g7",
+          "end": 90,
+          "expanded_url": "https://x.com/meko_kig/status/1986114859269034105/photo/1",
+          "media_key": "3_1986114840113684481",
+          "start": 67,
+          "url": "https://t.co/IzCyvDY1g7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986303570007011488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986114859269034105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meko_kig: Risa火起来@RubberRisa\n#kigurumi #dollmask #doller #着ぐるみ https://t.co/IzCyvDY1g7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1986114840113684481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AY7JgboAETXwJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986114840113684481"
+          ],
+          "media_source_tweet_id": [
+            "1986114859269034105"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1986303570007011488",
+        "created_at": "2025-11-06T05:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986303570007011488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 52,
+              "start": 43,
+              "tag": "dollmask"
+            },
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "doller"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1303713418629668867",
+              "start": 3,
+              "username": "meko_kig"
+            },
+            {
+              "end": 32,
+              "id": "1978357064608145408",
+              "start": 21,
+              "username": "RubberRisa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzCyvDY1g7",
+              "end": 90,
+              "expanded_url": "https://x.com/meko_kig/status/1986114859269034105/photo/1",
+              "media_key": "3_1986114840113684481",
+              "start": 67,
+              "url": "https://t.co/IzCyvDY1g7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986303570007011488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986114859269034105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meko_kig: Risa火起来@RubberRisa\n#kigurumi #dollmask #doller #着ぐるみ https://t.co/IzCyvDY1g7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986114840113684481"
+          ]
+        },
+        "author_id": "1303713418629668867",
+        "conversation_id": "1986114859269034105",
+        "created_at": "2025-11-05T16:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T17:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986114859269034105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 19,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "dollmask"
+            },
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "doller"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1978357064608145408",
+              "start": 7,
+              "username": "RubberRisa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzCyvDY1g7",
+              "end": 76,
+              "expanded_url": "https://x.com/meko_kig/status/1986114859269034105/photo/1",
+              "media_key": "3_1986114840113684481",
+              "start": 53,
+              "url": "https://t.co/IzCyvDY1g7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986114859269034105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 9419,
+          "like_count": 331,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Risa火起来@RubberRisa\n#kigurumi #dollmask #doller #着ぐるみ https://t.co/IzCyvDY1g7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w唯一电报  https://t.co/7z9W9wVbK1，注意防骗\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1048726302置顶非本人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "kirifuji00"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ww123qwq6",
+                "end": 72,
+                "expanded_url": "http://t.me/ww123qwq6",
+                "start": 49,
+                "url": "https://t.co/7z9W9wVbK1"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986097091161280725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 223,
+          "like_count": 40427,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 11117
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-09T15:14:57.000Z",
+        "description": "中国🇨🇳kigurumi爱好者 ♀\n欢迎交流(๑˙ー˙๑)合作私信\n想提前看图片动态请前往盒岛APP哦！\nhttps://t.co/dpLY3jkdE3\nhttps://t.co/MxXEcO7Wou\nhttps://t.co/amBCyYDA7C",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/5925K",
+                "end": 76,
+                "expanded_url": "http://www.hedaoapp.com/5925K",
+                "start": 53,
+                "url": "https://t.co/dpLY3jkdE3"
+              },
+              {
+                "display_url": "youtube.com/@meko_kig",
+                "end": 100,
+                "expanded_url": "http://www.youtube.com/@meko_kig",
+                "start": 77,
+                "url": "https://t.co/MxXEcO7Wou"
+              },
+              {
+                "display_url": "instagram.com/meko_kigurumi",
+                "end": 124,
+                "expanded_url": "http://www.instagram.com/meko_kigurumi",
+                "start": 101,
+                "url": "https://t.co/amBCyYDA7C"
+              }
+            ]
+          }
+        },
+        "id": "1303713418629668867",
+        "location": "🇨🇳",
+        "name": "冥冥子",
+        "pinned_tweet_id": "1977456695304749158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1399753025820966922/R7cJsYnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17119,
+          "following_count": 771,
+          "like_count": 5957,
+          "listed_count": 70,
+          "media_count": 748,
+          "tweet_count": 2538
+        },
+        "username": "meko_kig",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-15T07:07:55.000Z",
+        "description": "Mold your inner Risa. 关于理莎的胶中世界    \n淘宝商店：RubberRisa   微信：RubberRisa   \nQQ：3244854762",
+        "id": "1978357064608145408",
+        "location": "Hong Kong",
+        "name": "RubberRisa",
+        "pinned_tweet_id": "1982723467918069845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978357150280994816/RRnWQdFT_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 12
+        },
+        "username": "RubberRisa",
+        "verified": true
+      }
+    ]
+  }
+}

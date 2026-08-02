@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070507939618754560"
+      ],
+      "media_source_tweet_id": [
+        "2070507944181915779"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2070575807391567933",
+    "created_at": "2026-06-26T18:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070575807391567933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3250610916",
+          "start": 3,
+          "username": "sgkg108"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Vnw7tnrHF",
+          "end": 45,
+          "expanded_url": "https://x.com/sgkg108/status/2070507944181915779/photo/1",
+          "media_key": "3_2070507939618754560",
+          "start": 22,
+          "url": "https://t.co/1Vnw7tnrHF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070575807391567933",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 552
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070507944181915779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sgkg108: cartheft https://t.co/1Vnw7tnrHF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070507939618754560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvsAEWaEAAXqik.jpg",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070507939618754560"
+          ],
+          "media_source_tweet_id": [
+            "2070507944181915779"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2070575807391567933",
+        "created_at": "2026-06-26T18:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070575807391567933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3250610916",
+              "start": 3,
+              "username": "sgkg108"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Vnw7tnrHF",
+              "end": 45,
+              "expanded_url": "https://x.com/sgkg108/status/2070507944181915779/photo/1",
+              "media_key": "3_2070507939618754560",
+              "start": 22,
+              "url": "https://t.co/1Vnw7tnrHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070575807391567933",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 552
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070507944181915779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sgkg108: cartheft https://t.co/1Vnw7tnrHF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070507939618754560"
+          ]
+        },
+        "author_id": "3250610916",
+        "conversation_id": "2070507944181915779",
+        "created_at": "2026-06-26T14:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070507944181915779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Vnw7tnrHF",
+              "end": 32,
+              "expanded_url": "https://x.com/sgkg108/status/2070507944181915779/photo/1",
+              "media_key": "3_2070507939618754560",
+              "start": 9,
+              "url": "https://t.co/1Vnw7tnrHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070507944181915779",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 453,
+          "impression_count": 28801,
+          "like_count": 4118,
+          "quote_count": 18,
+          "reply_count": 23,
+          "retweet_count": 552
+        },
+        "reply_settings": "everyone",
+        "text": "cartheft https://t.co/1Vnw7tnrHF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 279,
+          "like_count": 43099,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 13063
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-20T12:45:02.000Z",
+        "description": "Fanart/OC/🎨爬墙很快，什么都想画/转载请标注原主页，🚫商用禁止❌🚫AI禁止❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sgkg_3?igsh=MX…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/sgkg_3?igsh=MXZ1bHNhdmNpOWFkYg==",
+                "start": 0,
+                "url": "https://t.co/pPXKWiV6ml"
+              }
+            ]
+          }
+        },
+        "id": "3250610916",
+        "location": "深海大菠萝",
+        "name": "🦂—SGKG—🦂",
+        "pinned_tweet_id": "1739648581953564830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471035495002132480/xU-Azr96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139289,
+          "following_count": 531,
+          "like_count": 24638,
+          "listed_count": 598,
+          "media_count": 1544,
+          "tweet_count": 7366
+        },
+        "url": "https://t.co/pPXKWiV6ml",
+        "username": "sgkg108",
+        "verified": false
+      }
+    ]
+  }
+}

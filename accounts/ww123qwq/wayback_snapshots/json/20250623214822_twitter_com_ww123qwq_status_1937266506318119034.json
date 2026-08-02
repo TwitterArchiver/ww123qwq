@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1936665108991590400"
+      ],
+      "media_source_tweet_id": [
+        "1936665179665862704"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1937266506318119034",
+    "created_at": "2025-06-23T21:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T22:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937266506318119034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905496747637702659",
+          "start": 3,
+          "username": "linx012138"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ap61je1TG",
+          "end": 47,
+          "expanded_url": "https://x.com/60eh7tDNid71084/status/1936665179665862704/video/1",
+          "media_key": "13_1936665108991590400",
+          "start": 24,
+          "url": "https://t.co/4ap61je1TG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937266506318119034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936665179665862704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linx012138: 我成天使了✝️ https://t.co/4ap61je1TG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 960,
+        "media_key": "13_1936665108991590400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936665108991590400/img/raaAJc1h_Jxw2PMZ.jpg",
+        "public_metrics": {
+          "view_count": 20187
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936665108991590400/vid/avc1/320x426/OLKGsFoilqAwKnhL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936665108991590400/vid/avc1/480x640/VuztNhVAZt3Qn6T9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936665108991590400/vid/avc1/720x960/EpR-pae0foDMl-fu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936665108991590400/pl/Ow8MFyrKlD6aCKHy.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936665108991590400"
+          ],
+          "media_source_tweet_id": [
+            "1936665179665862704"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1937266506318119034",
+        "created_at": "2025-06-23T21:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T22:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937266506318119034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905496747637702659",
+              "start": 3,
+              "username": "linx012138"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ap61je1TG",
+              "end": 47,
+              "expanded_url": "https://x.com/60eh7tDNid71084/status/1936665179665862704/video/1",
+              "media_key": "13_1936665108991590400",
+              "start": 24,
+              "url": "https://t.co/4ap61je1TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937266506318119034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936665179665862704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linx012138: 我成天使了✝️ https://t.co/4ap61je1TG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936665108991590400"
+          ]
+        },
+        "author_id": "1905496747637702659",
+        "conversation_id": "1936665179665862704",
+        "created_at": "2025-06-22T05:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T06:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936665179665862704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ap61je1TG",
+              "end": 31,
+              "expanded_url": "https://x.com/60eh7tDNid71084/status/1936665179665862704/video/1",
+              "media_key": "13_1936665108991590400",
+              "start": 8,
+              "url": "https://t.co/4ap61je1TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936665179665862704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 51101,
+          "like_count": 246,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我成天使了✝️ https://t.co/4ap61je1TG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 188,
+          "like_count": 39922,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 10614
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T05:46:54.000Z",
+        "description": "霖｜性感女主播（每晚b站直播/上舰有福利给私联）｜自由艺术创作者｜双向情感障碍｜日留美术生｜电子宠物｜ 🇨🇳🇯🇵🇰🇷ok｜ 🏳️‍⚧️🏳️‍🌈友好｜ENTP ｜💉 🌡️ 💊🧪🔪｜虚无主义｜QQ：136376981",
+        "id": "1905496747637702659",
+        "name": "霖",
+        "pinned_tweet_id": "1936670809227206914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913979353697787905/pUpuNmK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 410,
+          "like_count": 1625,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 349
+        },
+        "username": "linx012138",
+        "verified": false
+      }
+    ]
+  }
+}

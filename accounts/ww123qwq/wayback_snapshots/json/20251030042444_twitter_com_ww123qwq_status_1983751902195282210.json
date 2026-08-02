@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983751902195282210",
+    "created_at": "2025-10-30T04:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983751902195282210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "576074543",
+          "start": 3,
+          "username": "IneedsomeDMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983751902195282210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983014952161132978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IneedsomeDMT: 不知道你们为什么不磕阿普唑仑，这个东西滥用价值很高，在欧美很流行，每天整两片，晕晕的幸福，做什么都要开心一点，不过很难戒就对了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983751902195282210",
+        "created_at": "2025-10-30T04:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983751902195282210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "576074543",
+              "start": 3,
+              "username": "IneedsomeDMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983751902195282210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983014952161132978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IneedsomeDMT: 不知道你们为什么不磕阿普唑仑，这个东西滥用价值很高，在欧美很流行，每天整两片，晕晕的幸福，做什么都要开心一点，不过很难戒就对了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "576074543",
+        "conversation_id": "1983014952161132978",
+        "created_at": "2025-10-28T03:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983014952161132978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983014952161132978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 25947,
+          "like_count": 204,
+          "quote_count": 9,
+          "reply_count": 43,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "不知道你们为什么不磕阿普唑仑，这个东西滥用价值很高，在欧美很流行，每天整两片，晕晕的幸福，做什么都要开心一点，不过很难戒就对了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 213,
+          "like_count": 40194,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 10830
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-10T08:56:28.000Z",
+        "description": "想了解我的过去吗，往前翻翻吧，早安🍂🍂。 提供药物咨询",
+        "id": "576074543",
+        "location": "Baobao University",
+        "name": "右美沙芬",
+        "pinned_tweet_id": "1717211823777382444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613440066768220161/zVJFKm8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 412,
+          "like_count": 6862,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 2761
+        },
+        "username": "IneedsomeDMT",
+        "verified": false
+      }
+    ]
+  }
+}

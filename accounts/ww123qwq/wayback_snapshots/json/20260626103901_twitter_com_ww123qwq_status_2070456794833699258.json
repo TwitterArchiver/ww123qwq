@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1823346231520735232"
+      ],
+      "media_source_tweet_id": [
+        "1823346264919998741"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2070456794833699258",
+    "created_at": "2026-06-26T10:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070456794833699258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1678541722026901504",
+          "start": 3,
+          "username": "mofoAlternaria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ALmgyrFNAG",
+          "end": 123,
+          "expanded_url": "https://x.com/parpzx/status/1823346264919998741/video/1",
+          "media_key": "7_1823346231520735232",
+          "start": 100,
+          "url": "https://t.co/ALmgyrFNAG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070456794833699258",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069581911094128934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mofoAlternaria: infelizmente eu amo beber fumar e transar nunca vou me libertar dessas amarras  https://t.co/ALmgyrFNAG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19666,
+        "height": 480,
+        "media_key": "7_1823346231520735232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1823346231520735232/pu/img/dpU0_PQuZIeUbkKp.jpg",
+        "public_metrics": {
+          "view_count": 2736865
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823346231520735232/pu/vid/avc1/360x270/rIlVYTi57nzX6SGT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823346231520735232/pu/vid/avc1/480x360/B_M4fawUs8akLpTW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1823346231520735232/pu/vid/avc1/640x480/a93IszNKp2U9ELMx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1823346231520735232/pu/pl/2ho2eRlQ4Sz0PPW9.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1823346231520735232"
+          ],
+          "media_source_tweet_id": [
+            "1823346264919998741"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2070456794833699258",
+        "created_at": "2026-06-26T10:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070456794833699258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1678541722026901504",
+              "start": 3,
+              "username": "mofoAlternaria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALmgyrFNAG",
+              "end": 123,
+              "expanded_url": "https://x.com/parpzx/status/1823346264919998741/video/1",
+              "media_key": "7_1823346231520735232",
+              "start": 100,
+              "url": "https://t.co/ALmgyrFNAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070456794833699258",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069581911094128934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mofoAlternaria: infelizmente eu amo beber fumar e transar nunca vou me libertar dessas amarras  https://t.co/ALmgyrFNAG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1823346231520735232"
+          ],
+          "media_source_tweet_id": [
+            "1823346264919998741"
+          ]
+        },
+        "author_id": "1678541722026901504",
+        "conversation_id": "2069581911094128934",
+        "created_at": "2026-06-24T00:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069581911094128934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALmgyrFNAG",
+              "end": 103,
+              "expanded_url": "https://x.com/parpzx/status/1823346264919998741/video/1",
+              "media_key": "7_1823346231520735232",
+              "start": 80,
+              "url": "https://t.co/ALmgyrFNAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069581911094128934",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2381,
+          "impression_count": 753318,
+          "like_count": 47579,
+          "quote_count": 367,
+          "reply_count": 120,
+          "retweet_count": 13235
+        },
+        "reply_settings": "everyone",
+        "text": "infelizmente eu amo beber fumar e transar nunca vou me libertar dessas amarras  https://t.co/ALmgyrFNAG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 279,
+          "like_count": 43087,
+          "listed_count": 4,
+          "media_count": 707,
+          "tweet_count": 13046
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T23:08:36.000Z",
+        "description": "sou humor piada hipocrisia egoísmo insignificância burrice saudades Carlão",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/xxw.jey?igsh=Y…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/xxw.jey?igsh=Y3ZrYm90dGdxZnFs",
+                "start": 0,
+                "url": "https://t.co/OX0w2cXG3x"
+              }
+            ]
+          }
+        },
+        "id": "1678541722026901504",
+        "location": "São Paulo ",
+        "name": "Mofo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053680440230187008/vIyDJc4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5498,
+          "following_count": 776,
+          "like_count": 42185,
+          "listed_count": 1,
+          "media_count": 2386,
+          "tweet_count": 47239
+        },
+        "url": "https://t.co/OX0w2cXG3x",
+        "username": "mofoAlternaria",
+        "verified": false
+      }
+    ]
+  }
+}

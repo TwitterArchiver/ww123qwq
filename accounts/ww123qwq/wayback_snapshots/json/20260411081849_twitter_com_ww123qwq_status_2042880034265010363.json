@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2042251943750561932",
+    "created_at": "2026-04-11T08:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042880034265010363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016164715295354880",
+          "start": 0,
+          "username": "Waterlolita"
+        },
+        {
+          "end": 29,
+          "id": "1970857021588262912",
+          "start": 13,
+          "username": "RainEngine_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042880034265010363",
+    "in_reply_to_user_id": "2016164715295354880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042876248968561108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Waterlolita @RainEngine_2024 喜欢你呀😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2042251943750561932",
+        "created_at": "2026-04-11T08:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042880034265010363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016164715295354880",
+              "start": 0,
+              "username": "Waterlolita"
+            },
+            {
+              "end": 29,
+              "id": "1970857021588262912",
+              "start": 13,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042880034265010363",
+        "in_reply_to_user_id": "2016164715295354880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042876248968561108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Waterlolita @RainEngine_2024 喜欢你呀😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016164715295354880",
+        "conversation_id": "2042251943750561932",
+        "created_at": "2026-04-11T08:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042876248968561108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            },
+            {
+              "end": 26,
+              "id": "1970857021588262912",
+              "start": 10,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042876248968561108",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042251943750561932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq @RainEngine_2024 我喜欢你qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 274,
+          "like_count": 42147,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 12617
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T15:01:52.000Z",
+        "description": "唔，是一只可可爱爱的水萝莉呢~",
+        "id": "2016164715295354880",
+        "name": "水洛喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016172048138305540/Sdp0Ht5U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 138,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "username": "Waterlolita",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "含糖友跨|探索中? 或许是MtX?|Hrt🍥01.28.2026，无证含糖|不知道什么党，炸柜:03.12|od💊pr|11.13.2011🎂出厂|161cm52kg75A41码|INFP-T，重度社恐|初二牲，成绩倒数，想要休学😭|同类互fo喵～|TG:https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 151,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 128,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "name": "𝑼𝒏𝒌~🍥",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 1313,
+          "like_count": 14140,
+          "listed_count": 2,
+          "media_count": 457,
+          "tweet_count": 2209
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "RainEngine_2024",
+        "verified": false
+      }
+    ]
+  }
+}

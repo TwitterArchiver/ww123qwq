@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1913565031574520071",
+    "created_at": "2025-04-20T06:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T07:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913847992207233200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1658343220089323521",
+          "start": 0,
+          "username": "zzz924959497051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913847992207233200",
+    "in_reply_to_user_id": "1658343220089323521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913829050902261852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzz924959497051 抽血"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1913565031574520071",
+        "created_at": "2025-04-20T06:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T07:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913847992207233200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1658343220089323521",
+              "start": 0,
+              "username": "zzz924959497051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913847992207233200",
+        "in_reply_to_user_id": "1658343220089323521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913829050902261852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzz924959497051 抽血"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658343220089323521",
+        "conversation_id": "1913565031574520071",
+        "created_at": "2025-04-20T05:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T06:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913829050902261852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913829050902261852",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913565031574520071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 这是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 188,
+          "like_count": 40125,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 10607
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T05:26:58.000Z",
+        "description": "噔噔噔噔！本大王闪亮登场！看见了还不关注，🚪166喜欢有礼貌的宝宝，（私信只回复口令）",
+        "id": "1658343220089323521",
+        "location": "河南",
+        "name": "木木的婴儿肥",
+        "pinned_tweet_id": "1882067500386672839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909823359782932480/bO6A6-YT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3798,
+          "following_count": 9,
+          "like_count": 247,
+          "listed_count": 15,
+          "media_count": 77,
+          "tweet_count": 137
+        },
+        "username": "zzz924959497051",
+        "verified": false
+      }
+    ]
+  }
+}

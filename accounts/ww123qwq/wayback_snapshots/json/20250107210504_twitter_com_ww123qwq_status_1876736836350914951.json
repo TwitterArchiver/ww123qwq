@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876589676603355136"
+      ],
+      "media_source_tweet_id": [
+        "1876589690167713973"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1876736836350914951",
+    "created_at": "2025-01-07T21:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T22:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876736836350914951"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "男娘"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "男の娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1707980350004346880",
+          "start": 3,
+          "username": "yingyueyue12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SN37CQZ951",
+          "end": 66,
+          "expanded_url": "https://x.com/yingyueyue12/status/1876589690167713973/photo/1",
+          "media_key": "3_1876589676603355136",
+          "start": 43,
+          "url": "https://t.co/SN37CQZ951"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876736836350914951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876589690167713973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yingyueyue12: 欧欧的耶，这衣服自己滑下去的嗷\n#男娘 #男の娘 https://t.co/SN37CQZ951"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876589676603355136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ggr8XkcbsAANkWa.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876589676603355136"
+          ],
+          "media_source_tweet_id": [
+            "1876589690167713973"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1876736836350914951",
+        "created_at": "2025-01-07T21:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T22:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876736836350914951"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "男娘"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "男の娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1707980350004346880",
+              "start": 3,
+              "username": "yingyueyue12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SN37CQZ951",
+              "end": 66,
+              "expanded_url": "https://x.com/yingyueyue12/status/1876589690167713973/photo/1",
+              "media_key": "3_1876589676603355136",
+              "start": 43,
+              "url": "https://t.co/SN37CQZ951"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876736836350914951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876589690167713973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yingyueyue12: 欧欧的耶，这衣服自己滑下去的嗷\n#男娘 #男の娘 https://t.co/SN37CQZ951"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876589676603355136"
+          ]
+        },
+        "author_id": "1707980350004346880",
+        "conversation_id": "1876589690167713973",
+        "created_at": "2025-01-07T11:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T12:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876589690167713973"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SN37CQZ951",
+              "end": 48,
+              "expanded_url": "https://x.com/yingyueyue12/status/1876589690167713973/photo/1",
+              "media_key": "3_1876589676603355136",
+              "start": 25,
+              "url": "https://t.co/SN37CQZ951"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876589690167713973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4933,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "欧欧的耶，这衣服自己滑下去的嗷\n#男娘 #男の娘 https://t.co/SN37CQZ951"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 124,
+          "like_count": 39631,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 10178
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T04:47:13.000Z",
+        "description": "请不要说一些不尊重人的话，谢谢你",
+        "id": "1707980350004346880",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802745686091563008/kzgf-QSE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 31,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 122
+        },
+        "username": "yingyueyue12",
+        "verified": false
+      }
+    ]
+  }
+}

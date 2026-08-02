@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1983742511085756646",
+    "created_at": "2025-10-30T06:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T07:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983777868745494783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983777868745494783",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983742511085756646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 羡慕电子烟，羡慕对象🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983742498909646849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4erSt1a8AE27vh.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1983742511085756646",
+        "created_at": "2025-10-30T06:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T07:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983777868745494783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983777868745494783",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983742511085756646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 羡慕电子烟，羡慕对象🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983742498909646849"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1983742511085756646",
+        "created_at": "2025-10-30T03:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T04:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983742511085756646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zRMB9lWkD",
+              "end": 40,
+              "expanded_url": "https://x.com/amecandy_x/status/1983742511085756646/photo/1",
+              "media_key": "3_1983742498909646849",
+              "start": 17,
+              "url": "https://t.co/3zRMB9lWkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983742511085756646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽一口电子烟，然后用嘴喂给对象🥰 https://t.co/3zRMB9lWkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 215,
+          "like_count": 40202,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 10837
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "小雨不乖，请你抱紧。🌧Transfem·HRT since2022🍥CS→Fullstack/LLM🌐双相情感障碍💔blogger✒️旅游✈历史📚政治🕴️暴论📢 #odtwt #お薬もぐもぐ #藥物濫用 #shtwt #drugtwt #メンヘラ #病み垢さんと繋がりたい ❤🩵@wawoqu2772",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "odtwt"
+              },
+              {
+                "end": 95,
+                "start": 88,
+                "tag": "お薬もぐもぐ"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "藥物濫用"
+              },
+              {
+                "end": 108,
+                "start": 102,
+                "tag": "shtwt"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "メンヘラ"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 150,
+                "start": 139,
+                "username": "wawoqu2772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "1981300758495842461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4260,
+          "following_count": 1505,
+          "like_count": 21349,
+          "listed_count": 12,
+          "media_count": 770,
+          "tweet_count": 7066
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

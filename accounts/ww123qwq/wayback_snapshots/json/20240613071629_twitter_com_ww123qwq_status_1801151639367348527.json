@@ -1,0 +1,253 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1800878400162385920"
+      ],
+      "media_source_tweet_id": [
+        "1800878404365164973"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1801151639367348527",
+    "created_at": "2024-06-13T07:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T08:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801151639367348527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1266206715839606784",
+          "start": 3,
+          "username": "hanabitaminc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/UL7KWhJvL8",
+          "end": 48,
+          "expanded_url": "https://twitter.com/hanabitaminc/status/1800878404365164973/photo/1",
+          "media_key": "3_1800878400162385920",
+          "start": 25,
+          "url": "https://t.co/UL7KWhJvL8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801151639367348527",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 520
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800878404365164973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanabitaminc: 一緒にいこう https://t.co/UL7KWhJvL8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2088,
+        "media_key": "3_1800878400162385920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GP4BXQ1aUAAb2U_.jpg",
+        "width": 2484
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800878400162385920"
+          ],
+          "media_source_tweet_id": [
+            "1800878404365164973"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1801151639367348527",
+        "created_at": "2024-06-13T07:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T08:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801151639367348527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1266206715839606784",
+              "start": 3,
+              "username": "hanabitaminc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UL7KWhJvL8",
+              "end": 48,
+              "expanded_url": "https://twitter.com/hanabitaminc/status/1800878404365164973/photo/1",
+              "media_key": "3_1800878400162385920",
+              "start": 25,
+              "url": "https://t.co/UL7KWhJvL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801151639367348527",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 520
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800878404365164973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanabitaminc: 一緒にいこう https://t.co/UL7KWhJvL8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800878400162385920"
+          ]
+        },
+        "author_id": "1266206715839606784",
+        "conversation_id": "1800878404365164973",
+        "created_at": "2024-06-12T13:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T14:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800878404365164973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UL7KWhJvL8",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hanabitaminc/status/1800878404365164973/photo/1",
+              "media_key": "3_1800878400162385920",
+              "start": 7,
+              "url": "https://t.co/UL7KWhJvL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800878404365164973",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 473,
+          "impression_count": 114603,
+          "like_count": 7107,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 520
+        },
+        "reply_settings": "everyone",
+        "text": "一緒にいこう https://t.co/UL7KWhJvL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 107,
+          "like_count": 40243,
+          "listed_count": 0,
+          "tweet_count": 10283
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T03:17:22.000Z",
+        "description": "人間が好きです　@hanabitaminb (現在、ご依頼とDMでのお返事できかねます🙇‍♂️)インスタ→ https://t.co/AmlunMW4by",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "hanabitaminb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hanabitaminc?i…",
+                "end": 77,
+                "expanded_url": "https://www.instagram.com/hanabitaminc?igsh=MWRicWF1YzZuMGN6MA%3D%3D&utm_source=qr",
+                "start": 54,
+                "url": "https://t.co/AmlunMW4by"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53144689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53144689",
+                "start": 0,
+                "url": "https://t.co/72PdX51Udv"
+              }
+            ]
+          }
+        },
+        "id": "1266206715839606784",
+        "location": "五億円欲しいです",
+        "name": "花巻 花郎",
+        "pinned_tweet_id": "1799053261275893866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610904608439959553/GjAHGmmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80286,
+          "following_count": 129,
+          "like_count": 50366,
+          "listed_count": 632,
+          "tweet_count": 36282
+        },
+        "url": "https://t.co/72PdX51Udv",
+        "username": "hanabitaminc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1984255495679717745",
+    "created_at": "2025-10-31T14:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T15:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984263166323487009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960389326258495492",
+          "start": 0,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984263166323487009",
+    "in_reply_to_user_id": "1960389326258495492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984255495679717745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@looolzaozimin 假发吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_1984255485382705152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4l92dXbQAAF6J8.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1984255495679717745",
+        "created_at": "2025-10-31T14:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984263166323487009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960389326258495492",
+              "start": 0,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984263166323487009",
+        "in_reply_to_user_id": "1960389326258495492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984255495679717745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looolzaozimin 假发吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984255485382705152"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "1984255495679717745",
+        "created_at": "2025-10-31T13:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984255495679717745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZvqBTjU6b",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/1984255495679717745/photo/1",
+              "media_key": "3_1984255485382705152",
+              "start": 0,
+              "url": "https://t.co/gZvqBTjU6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984255495679717745",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gZvqBTjU6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/地雷系/欢迎扩列加好友w\n@kirifuji00🚪50，个人群欢迎来玩1060531885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1984079800487854576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 216,
+          "like_count": 40233,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 10880
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "",
+        "id": "1960389326258495492",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979667185812258816/DUbJWtJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17830,
+          "following_count": 15,
+          "like_count": 47,
+          "listed_count": 21,
+          "media_count": 42,
+          "tweet_count": 85
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067536699249627136"
+      ],
+      "media_source_tweet_id": [
+        "2067536703288733908"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067868700339003485",
+    "created_at": "2026-06-19T07:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067868700339003485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963893384202039296",
+          "start": 3,
+          "username": "ika000603"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cnVWqhgqpi",
+          "end": 38,
+          "expanded_url": "https://x.com/ika000603/status/2067536703288733908/photo/1",
+          "media_key": "3_2067536699249627136",
+          "start": 15,
+          "url": "https://t.co/cnVWqhgqpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067868700339003485",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 592
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067536703288733908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ika000603: https://t.co/cnVWqhgqpi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1316,
+        "media_key": "3_2067536699249627136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFdrHbbkAAvEGG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067536699249627136"
+          ],
+          "media_source_tweet_id": [
+            "2067536703288733908"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067868700339003485",
+        "created_at": "2026-06-19T07:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067868700339003485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963893384202039296",
+              "start": 3,
+              "username": "ika000603"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnVWqhgqpi",
+              "end": 38,
+              "expanded_url": "https://x.com/ika000603/status/2067536703288733908/photo/1",
+              "media_key": "3_2067536699249627136",
+              "start": 15,
+              "url": "https://t.co/cnVWqhgqpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067868700339003485",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 592
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067536703288733908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ika000603: https://t.co/cnVWqhgqpi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067536699249627136"
+          ]
+        },
+        "author_id": "1963893384202039296",
+        "conversation_id": "2067536703288733908",
+        "created_at": "2026-06-18T09:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067536703288733908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnVWqhgqpi",
+              "end": 23,
+              "expanded_url": "https://x.com/ika000603/status/2067536703288733908/photo/1",
+              "media_key": "3_2067536699249627136",
+              "start": 0,
+              "url": "https://t.co/cnVWqhgqpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067536703288733908",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1175,
+          "impression_count": 111352,
+          "like_count": 8521,
+          "quote_count": 36,
+          "reply_count": 11,
+          "retweet_count": 592
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cnVWqhgqpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 272,
+          "like_count": 42853,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12972
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T09:14:41.000Z",
+        "description": "🌙右固定🔄❌",
+        "id": "1963893384202039296",
+        "location": "🎐🦋🌙、🦉🌙",
+        "name": "🦑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064417127470395393/aJpQhQ0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 21,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "ika000603",
+        "verified": false
+      }
+    ]
+  }
+}

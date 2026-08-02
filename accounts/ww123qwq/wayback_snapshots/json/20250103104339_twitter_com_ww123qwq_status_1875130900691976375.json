@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1874774345178075449",
+    "created_at": "2025-01-03T10:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T11:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875130900691976375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239352911596941312",
+          "start": 0,
+          "username": "asahisuki0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875130900691976375",
+    "in_reply_to_user_id": "1239352911596941312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874774345178075449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahisuki0 看看男娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1874774345178075449",
+        "created_at": "2025-01-03T10:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T11:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875130900691976375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239352911596941312",
+              "start": 0,
+              "username": "asahisuki0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875130900691976375",
+        "in_reply_to_user_id": "1239352911596941312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874774345178075449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahisuki0 看看男娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1239352911596941312",
+        "conversation_id": "1874774345178075449",
+        "created_at": "2025-01-02T11:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T12:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874774345178075449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874774345178075449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9316,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无可爱男娘一起贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 122,
+          "like_count": 39583,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 10104
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T00:49:05.000Z",
+        "description": "在过去徘徊的人\n好亲友 @Flowers8964 @hikawarinaOvO\n@FolkFortunate\n猫猫 @nekodoby_\n世界上另一个我 @milktea_ch51900\n姐姐@Haoleibot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "hikawarinaOvO"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "FolkFortunate"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "nekodoby_"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "milktea_ch51900"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "Haoleibot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asahisuki",
+                "end": 23,
+                "expanded_url": "https://t.me/asahisuki",
+                "start": 0,
+                "url": "https://t.co/FUoUI9O1aO"
+              }
+            ]
+          }
+        },
+        "id": "1239352911596941312",
+        "location": "mo•殿堂",
+        "name": "mona",
+        "pinned_tweet_id": "1851952791037841496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873403351502897152/7pZZfSxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 958,
+          "like_count": 197890,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 13554
+        },
+        "url": "https://t.co/FUoUI9O1aO",
+        "username": "asahisuki0",
+        "verified": false
+      }
+    ]
+  }
+}

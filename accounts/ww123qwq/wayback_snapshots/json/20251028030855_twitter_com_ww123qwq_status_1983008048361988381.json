@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1982281036571513326",
+    "created_at": "2025-10-28T03:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T04:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983008048361988381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1651772428161536002",
+          "start": 0,
+          "username": "wngy176013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983008048361988381",
+    "in_reply_to_user_id": "1651772428161536002",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982976580457771162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy176013 8t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1982281036571513326",
+        "created_at": "2025-10-28T03:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983008048361988381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1651772428161536002",
+              "start": 0,
+              "username": "wngy176013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983008048361988381",
+        "in_reply_to_user_id": "1651772428161536002",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982976580457771162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy176013 8t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651772428161536002",
+        "conversation_id": "1982281036571513326",
+        "created_at": "2025-10-28T01:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T02:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982976580457771162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982976580457771162",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982281036571513326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 一次吃几粒呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家里半不管党/欢迎扩列加好友w\n@kirifuji00🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1982501466054316051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966566311619948551/fEqtGDl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 210,
+          "like_count": 40122,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 10774
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T02:16:58.000Z",
+        "description": "收情侣M,夫妻M，另外出原味，同城可接受面交，也可视频验证、单男M不友情 单女可友情，私信自我介绍+照片 口嗨勿扰",
+        "id": "1651772428161536002",
+        "location": "苏州",
+        "name": "苏州夫妻主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896034515556188164/OvsrECRh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3700,
+          "following_count": 271,
+          "like_count": 24,
+          "listed_count": 3,
+          "media_count": 11,
+          "tweet_count": 91
+        },
+        "username": "wngy176013",
+        "verified": false
+      }
+    ]
+  }
+}

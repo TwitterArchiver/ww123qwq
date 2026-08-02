@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2006974988264554586",
+    "created_at": "2026-01-02T17:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T18:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007135707236810893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999795510341935105",
+          "start": 0,
+          "username": "jamesniko0302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007135707236810893",
+    "in_reply_to_user_id": "1999795510341935105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006974988264554586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jamesniko0302 pr80接着爽！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2006974883167916032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9o1Bdha0AAsl7o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2006974988264554586",
+        "created_at": "2026-01-02T17:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T18:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007135707236810893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999795510341935105",
+              "start": 0,
+              "username": "jamesniko0302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007135707236810893",
+        "in_reply_to_user_id": "1999795510341935105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006974988264554586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jamesniko0302 pr80接着爽！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006974883167916032"
+          ]
+        },
+        "author_id": "1999795510341935105",
+        "conversation_id": "2006974988264554586",
+        "created_at": "2026-01-02T06:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006974988264554586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RclGCZOr44",
+              "end": 51,
+              "expanded_url": "https://x.com/jamesniko0302/status/2006974988264554586/photo/1",
+              "media_key": "3_2006974883167916032",
+              "start": 28,
+              "url": "https://t.co/RclGCZOr44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006974988264554586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3589,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在不od挑战中取得了24h的好成绩，你也来试试看吧！ https://t.co/RclGCZOr44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 268,
+          "like_count": 40943,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 11965
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T10:56:29.000Z",
+        "description": "08/MTX（f?/ENTP-T/分离障碍（精分？/双相/ADHD/ASD/BPD/断续含糖/小证：2025-11-14/坐标上海/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（私信过门之后加QQ234559943 同类免费）/便宜糖商推荐QQ：3518541175/请大家记住我现在的样子谢谢！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/xb0u8Vpp8T"
+              }
+            ]
+          }
+        },
+        "id": "1999795510341935105",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（四代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004170988389650432/4OWBPHXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 79,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/xb0u8Vpp8T",
+        "username": "jamesniko0302",
+        "verified": false
+      }
+    ]
+  }
+}

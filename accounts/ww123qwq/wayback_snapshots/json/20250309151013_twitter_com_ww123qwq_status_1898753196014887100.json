@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896827177343066112"
+      ],
+      "media_source_tweet_id": [
+        "1896827188416282911"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1898753196014887100",
+    "created_at": "2025-03-09T15:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T16:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898753196014887100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "991568730785103872",
+          "start": 3,
+          "username": "C1_S2_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FaxGZrdQs4",
+          "end": 42,
+          "expanded_url": "https://x.com/C1_S2_/status/1896827188416282911/photo/1",
+          "media_key": "3_1896827177343066112",
+          "start": 19,
+          "url": "https://t.co/FaxGZrdQs4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898753196014887100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3001
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896827188416282911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @C1_S2_: ばれたくない https://t.co/FaxGZrdQs4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2300,
+        "media_key": "3_1896827177343066112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlLiRJnXIAAz8eM.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896827177343066112"
+          ],
+          "media_source_tweet_id": [
+            "1896827188416282911"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1898753196014887100",
+        "created_at": "2025-03-09T15:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T16:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898753196014887100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "991568730785103872",
+              "start": 3,
+              "username": "C1_S2_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FaxGZrdQs4",
+              "end": 42,
+              "expanded_url": "https://x.com/C1_S2_/status/1896827188416282911/photo/1",
+              "media_key": "3_1896827177343066112",
+              "start": 19,
+              "url": "https://t.co/FaxGZrdQs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898753196014887100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3001
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896827188416282911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @C1_S2_: ばれたくない https://t.co/FaxGZrdQs4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896827177343066112"
+          ]
+        },
+        "author_id": "991568730785103872",
+        "conversation_id": "1896827188416282911",
+        "created_at": "2025-03-04T07:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T08:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896827188416282911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FaxGZrdQs4",
+              "end": 30,
+              "expanded_url": "https://x.com/C1_S2_/status/1896827188416282911/photo/1",
+              "media_key": "3_1896827177343066112",
+              "start": 7,
+              "url": "https://t.co/FaxGZrdQs4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896827188416282911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2573,
+          "impression_count": 502028,
+          "like_count": 29140,
+          "quote_count": 155,
+          "reply_count": 1,
+          "retweet_count": 3001
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "ばれたくない https://t.co/FaxGZrdQs4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "重度抑郁/中度焦虑/日常/碎碎念/社恐/欧迪/欢迎扩列/家暴",
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🍎🍧🍓🍔💊🍕",
+        "pinned_tweet_id": "1880947661689569368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 173,
+          "like_count": 40009,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 10557
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-02T06:43:02.000Z",
+        "description": "あなたの一生の後悔として添い遂げるよ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/C1_S2_",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/C1_S2_",
+                "start": 0,
+                "url": "https://t.co/qGmtTVs42t"
+              }
+            ]
+          }
+        },
+        "id": "991568730785103872",
+        "name": "ね",
+        "pinned_tweet_id": "1828342634840293802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893518822201499648/JXfANFS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71909,
+          "following_count": 99,
+          "like_count": 13487,
+          "listed_count": 274,
+          "media_count": 278,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/qGmtTVs42t",
+        "username": "C1_S2_",
+        "verified": true
+      }
+    ]
+  }
+}

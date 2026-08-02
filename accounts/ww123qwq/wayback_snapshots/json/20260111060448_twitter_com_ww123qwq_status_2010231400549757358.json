@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2010231400549757358",
+    "created_at": "2026-01-11T06:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T07:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010231400549757358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WinbornN94577/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/WinbornN94577/status/2010071286266114077",
+          "start": 19,
+          "url": "https://t.co/WIuWeghY8s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010231400549757358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 785,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010071286266114077",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发现我吸两公斤甲基苯丙胺我就会死。 https://t.co/WIuWeghY8s"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2010231400549757358",
+        "created_at": "2026-01-11T06:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T07:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010231400549757358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WinbornN94577/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/WinbornN94577/status/2010071286266114077",
+              "start": 19,
+              "url": "https://t.co/WIuWeghY8s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010231400549757358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010071286266114077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现我吸两公斤甲基苯丙胺我就会死。 https://t.co/WIuWeghY8s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976224313339777024",
+        "conversation_id": "2010071286266114077",
+        "created_at": "2026-01-10T19:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T20:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010071286266114077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CABR_Lies/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/CABR_Lies/status/2009281771343319238",
+              "start": 16,
+              "url": "https://t.co/FdjpqK266p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010071286266114077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1091,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009281771343319238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现我吸两公斤冰毒我就会死。 https://t.co/FdjpqK266p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 267,
+          "like_count": 41007,
+          "listed_count": 5,
+          "media_count": 538,
+          "tweet_count": 12044
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "这里是Tulipalin Tu屠荼徒堍兎 🚪52",
+        "id": "1976224313339777024",
+        "location": "肉屠🐇",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2008877366739931524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 48,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 518
+        },
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

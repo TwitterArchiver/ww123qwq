@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988639521341353984"
+      ],
+      "media_source_tweet_id": [
+        "1988639532804125091"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "1988650816702673035",
+    "created_at": "2025-11-12T16:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988650816702673035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1521553831775158273",
+          "start": 3,
+          "username": "ww123qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jw098fMT0o",
+          "end": 41,
+          "expanded_url": "https://x.com/ww123qwq/status/1988639532804125091/photo/1",
+          "media_key": "3_1988639521341353984",
+          "start": 18,
+          "url": "https://t.co/jw098fMT0o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988650816702673035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988639532804125091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ww123qwq: 来一根 https://t.co/jw098fMT0o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988639521341353984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kRG7_asAA7YWO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988639521341353984"
+          ],
+          "media_source_tweet_id": [
+            "1988639532804125091"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1988650816702673035",
+        "created_at": "2025-11-12T16:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988650816702673035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1521553831775158273",
+              "start": 3,
+              "username": "ww123qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jw098fMT0o",
+              "end": 41,
+              "expanded_url": "https://x.com/ww123qwq/status/1988639532804125091/photo/1",
+              "media_key": "3_1988639521341353984",
+              "start": 18,
+              "url": "https://t.co/jw098fMT0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988650816702673035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988639532804125091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ww123qwq: 来一根 https://t.co/jw098fMT0o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988639521341353984"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "1988639532804125091",
+        "created_at": "2025-11-12T16:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988639532804125091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jw098fMT0o",
+              "end": 27,
+              "expanded_url": "https://x.com/ww123qwq/status/1988639532804125091/photo/1",
+              "media_key": "3_1988639521341353984",
+              "start": 4,
+              "url": "https://t.co/jw098fMT0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988639532804125091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来一根 https://t.co/jw098fMT0o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/双向情感障碍/焦虑/日常/碎碎念/社恐/od/家暴休学圆角攒钱中/地雷系/欢迎扩列加好友w唯一电报  非本，注意防骗\n@kirifuji00🚪52/188/520/1314，个人群欢迎来玩1051287723置顶tg非本人推广自辨，出原味私信，接线下上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "kirifuji00"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1986849623697465580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985948258502586368/nY2BkvLD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 231,
+          "like_count": 40595,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 11341
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

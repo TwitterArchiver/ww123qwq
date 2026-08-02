@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2036152150003462487",
+    "created_at": "2026-03-26T06:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T07:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037060129305354245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826990923466653696",
+          "start": 0,
+          "username": "Nellie_Yuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037060129305354245",
+    "in_reply_to_user_id": "1826990923466653696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036532191677526167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nellie_Yuyu 没剪）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2036152150003462487",
+        "created_at": "2026-03-26T06:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037060129305354245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826990923466653696",
+              "start": 0,
+              "username": "Nellie_Yuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037060129305354245",
+        "in_reply_to_user_id": "1826990923466653696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036532191677526167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nellie_Yuyu 没剪）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826990923466653696",
+        "conversation_id": "2036152150003462487",
+        "created_at": "2026-03-24T19:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T20:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036532191677526167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036532191677526167",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036152150003462487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 你指甲好他妈恶心🤢这就是跨子的平均卫生水平吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图/药物咨询/支持usdt。/上海/日本/匿名提问https://t.co/yODqqgeu12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/yinai",
+                "end": 128,
+                "expanded_url": "https://miyu.link/yinai",
+                "start": 105,
+                "url": "https://t.co/yODqqgeu12"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 264,
+          "like_count": 42036,
+          "listed_count": 4,
+          "media_count": 659,
+          "tweet_count": 12531
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:32:54.000Z",
+        "description": "",
+        "id": "1826990923466653696",
+        "location": "London, England",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906518911933153283/xEvCQLVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 3,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 56
+        },
+        "username": "Nellie_Yuyu",
+        "verified": false
+      }
+    ]
+  }
+}

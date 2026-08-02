@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2055108763171111237",
+    "created_at": "2026-05-15T10:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055239417410019491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356940397956620288",
+          "start": 0,
+          "username": "NyaCookieNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055239417410019491",
+    "in_reply_to_user_id": "1356940397956620288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055108763171111237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCookieNeko 对比利他林效果如何"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055108753637421056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIU2heNasAAs1S1.jpg",
+        "width": 698
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2055108753629065216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIU2heLbMAA_ZMJ.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2055108753624834048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIU2heKaoAAwI4p.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2055108763171111237",
+        "created_at": "2026-05-15T10:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055239417410019491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356940397956620288",
+              "start": 0,
+              "username": "NyaCookieNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055239417410019491",
+        "in_reply_to_user_id": "1356940397956620288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055108763171111237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCookieNeko 对比利他林效果如何"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055108753637421056",
+            "3_2055108753629065216",
+            "3_2055108753624834048"
+          ]
+        },
+        "author_id": "1356940397956620288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055108763171111237",
+        "created_at": "2026-05-15T02:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055108763171111237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SBgbLDTR4",
+              "end": 175,
+              "expanded_url": "https://x.com/NyaCookieNeko/status/2055108763171111237/photo/1",
+              "media_key": "3_2055108753637421056",
+              "start": 152,
+              "url": "https://t.co/6SBgbLDTR4"
+            },
+            {
+              "display_url": "pic.x.com/6SBgbLDTR4",
+              "end": 175,
+              "expanded_url": "https://x.com/NyaCookieNeko/status/2055108763171111237/photo/1",
+              "media_key": "3_2055108753629065216",
+              "start": 152,
+              "url": "https://t.co/6SBgbLDTR4"
+            },
+            {
+              "display_url": "pic.x.com/6SBgbLDTR4",
+              "end": 175,
+              "expanded_url": "https://x.com/NyaCookieNeko/status/2055108763171111237/photo/1",
+              "media_key": "3_2055108753624834048",
+              "start": 152,
+              "url": "https://t.co/6SBgbLDTR4"
+            },
+            {
+              "display_url": "x.com/nyacookieneko/…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/nyacookieneko/status/2054843026628080009",
+              "start": 176,
+              "url": "https://t.co/4EbippX0c7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055108763171111237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2978,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054843026628080009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今早8:20用药10mg，来点简单汇报\n\n首先药效上仅针对我个人体质而言，它比18mg原研专的效果还要好一点，我在高铁上面对完全不感兴趣的学科时仍然能专注学习\n\n然后对我而言最重要的副作用，我服用原研专心率过速的这个大问题，完全没有出现，没感觉到任何不适\n\n开于上海精卫，单盒127.5元，一次最多4盒 https://t.co/6SBgbLDTR4 https://t.co/4EbippX0c7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 51,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 28,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 280,
+          "like_count": 42747,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 12833
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T12:19:48.000Z",
+        "description": "🛒🍪🐱｜入睡困难｜阴间作息｜社恐但不完全社恐｜性别是饼干｜有两只小黑猫，一只叫多多，一只叫@MeowCatherina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "MeowCatherina"
+              }
+            ]
+          }
+        },
+        "id": "1356940397956620288",
+        "location": "Shijiazhuang/Beijing/Suzhou",
+        "name": "手推饼干猫🛒🍪🐱",
+        "pinned_tweet_id": "2042983254421340219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018637275614363648/vW4y4RPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9296,
+          "following_count": 2890,
+          "like_count": 17363,
+          "listed_count": 17,
+          "media_count": 950,
+          "tweet_count": 9668
+        },
+        "username": "NyaCookieNeko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2047309237471388012",
+    "created_at": "2026-04-24T05:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047544620033478803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047544620033478803",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047309237471388012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 干这种事的，大脑被注射氢氟酸了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1258,
+        "media_key": "3_2047309214348099584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmA4iKaQAANAW2.jpg",
+        "width": 954
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2047309235265130496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmA5wFa0AANHk_.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2047309237471388012",
+        "created_at": "2026-04-24T05:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047544620033478803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047544620033478803",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047309237471388012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 干这种事的，大脑被注射氢氟酸了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047309214348099584",
+            "3_2047309235265130496"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "2047309237471388012",
+        "created_at": "2026-04-23T13:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047309237471388012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9av4hRxXjt",
+              "end": 63,
+              "expanded_url": "https://x.com/overdose_six/status/2047309237471388012/photo/1",
+              "media_key": "3_2047309214348099584",
+              "start": 40,
+              "url": "https://t.co/9av4hRxXjt"
+            },
+            {
+              "display_url": "pic.x.com/9av4hRxXjt",
+              "end": 63,
+              "expanded_url": "https://x.com/overdose_six/status/2047309237471388012/photo/1",
+              "media_key": "3_2047309235265130496",
+              "start": 40,
+              "url": "https://t.co/9av4hRxXjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047309237471388012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14627,
+          "like_count": 128,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿 目前1688平台上的普瑞巴林原粉已经被全面下架了 到底是谁在通风报信 https://t.co/9av4hRxXjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 278,
+          "like_count": 42285,
+          "listed_count": 4,
+          "media_count": 684,
+          "tweet_count": 12673
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "提问箱：https://t.co/b5c8bbntR6 | 接受药物报告及相关投稿 | 里账号:@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 27,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 4,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 99,
+          "like_count": 11539,
+          "listed_count": 8,
+          "media_count": 688,
+          "tweet_count": 4157
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

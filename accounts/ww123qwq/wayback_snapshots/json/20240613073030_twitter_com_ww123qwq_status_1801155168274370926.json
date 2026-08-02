@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1800569438678417485",
+    "created_at": "2024-06-13T07:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T08:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801155168274370926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677252589182943232",
+          "start": 0,
+          "username": "Hikari2304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801155168274370926",
+    "in_reply_to_user_id": "1677252589182943232",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800569438678417485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hikari2304 好像是爱人TV🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1800569438678417485",
+        "created_at": "2024-06-13T07:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T08:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801155168274370926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677252589182943232",
+              "start": 0,
+              "username": "Hikari2304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801155168274370926",
+        "in_reply_to_user_id": "1677252589182943232",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800569438678417485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hikari2304 好像是爱人TV🤣"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800569429954318337"
+          ]
+        },
+        "author_id": "1677252589182943232",
+        "conversation_id": "1800569438678417485",
+        "created_at": "2024-06-11T16:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T17:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800569438678417485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Ie81F8h30V",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Hikari2304/status/1800569438678417485/photo/1",
+              "media_key": "3_1800569429954318337",
+              "start": 6,
+              "url": "https://t.co/Ie81F8h30V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800569438678417485",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 13618,
+          "like_count": 175,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "枪太重要了 https://t.co/Ie81F8h30V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 107,
+          "like_count": 40255,
+          "listed_count": 0,
+          "tweet_count": 10285
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:46:02.000Z",
+        "description": "一个飞舞",
+        "id": "1677252589182943232",
+        "name": ".",
+        "pinned_tweet_id": "1788856385775849606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787009372402642944/UMAFm3QY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 605,
+          "like_count": 22957,
+          "listed_count": 6,
+          "tweet_count": 5447
+        },
+        "username": "Hikari2304",
+        "verified": false
+      }
+    ]
+  }
+}

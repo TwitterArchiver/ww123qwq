@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070550754406883328"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2070550770156781875",
+    "created_at": "2026-06-26T16:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070550770156781875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GUrmYbZwvH",
+          "end": 49,
+          "expanded_url": "https://x.com/ww123qwq/status/2070550770156781875/photo/1",
+          "media_key": "3_2070550754406883328",
+          "start": 26,
+          "url": "https://t.co/GUrmYbZwvH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070550770156781875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用了氯硝安定4mg第二天用唑吡坦感觉没有用了啥原因 https://t.co/GUrmYbZwvH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_2070550754406883328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwS8N3W4AALaGv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070550754406883328"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2070550770156781875",
+        "created_at": "2026-06-26T16:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070550770156781875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUrmYbZwvH",
+              "end": 49,
+              "expanded_url": "https://x.com/ww123qwq/status/2070550770156781875/photo/1",
+              "media_key": "3_2070550754406883328",
+              "start": 26,
+              "url": "https://t.co/GUrmYbZwvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070550770156781875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用了氯硝安定4mg第二天用唑吡坦感觉没有用了啥原因 https://t.co/GUrmYbZwvH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 279,
+          "like_count": 43077,
+          "listed_count": 4,
+          "media_count": 708,
+          "tweet_count": 13054
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

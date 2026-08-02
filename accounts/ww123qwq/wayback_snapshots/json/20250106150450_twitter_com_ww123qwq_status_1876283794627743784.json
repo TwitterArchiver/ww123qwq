@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1876209210742223068",
+    "created_at": "2025-01-06T15:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T16:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876283794627743784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1589203507852152832",
+          "start": 0,
+          "username": "JianLv117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876283794627743784",
+    "in_reply_to_user_id": "1589203507852152832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876209210742223068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JianLv117 中国巴西牛排多😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1876209210742223068",
+        "created_at": "2025-01-06T15:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876283794627743784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589203507852152832",
+              "start": 0,
+              "username": "JianLv117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876283794627743784",
+        "in_reply_to_user_id": "1589203507852152832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876209210742223068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianLv117 中国巴西牛排多😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876209201284005890"
+          ]
+        },
+        "author_id": "1589203507852152832",
+        "conversation_id": "1876209210742223068",
+        "created_at": "2025-01-06T10:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T11:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876209210742223068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUoukBPutd",
+              "end": 35,
+              "expanded_url": "https://x.com/JianLv117/status/1876209210742223068/photo/1",
+              "media_key": "3_1876209201284005890",
+              "start": 12,
+              "url": "https://t.co/iUoukBPutd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876209210742223068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2877,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "降维打击，为什么啊？😦 https://t.co/iUoukBPutd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 122,
+          "like_count": 39592,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 10128
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T10:30:25.000Z",
+        "description": "一个奇怪的人，人物志评分创始人 INTJ\n二次元 热爱于与大家讨论政史 汴京❌\n 🇺🇸🇩🇪🇫🇷🇦🇺🇬🇧🇮🇹🇪🇸🇯🇵\n可互关(私信)\n逃生舱：@lyngxu3  \n搭档：@KawawaDiana8964\n死党: @HANABIRIKAJIANG\n伙伴：@RealColidora3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "lyngxu3"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "RealColidora3"
+              }
+            ]
+          }
+        },
+        "id": "1589203507852152832",
+        "location": "新西兰（转推多为广告哈❛˓◞˂̵✧）",
+        "name": "简律",
+        "pinned_tweet_id": "1875836292719956316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873689474133274624/7nI7UtsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11931,
+          "following_count": 807,
+          "like_count": 42018,
+          "listed_count": 48,
+          "media_count": 1914,
+          "tweet_count": 5145
+        },
+        "username": "JianLv117",
+        "verified": true
+      }
+    ]
+  }
+}

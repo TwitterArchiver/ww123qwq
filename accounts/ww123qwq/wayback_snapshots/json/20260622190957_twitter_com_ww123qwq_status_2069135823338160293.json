@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068586758812446720"
+      ],
+      "media_source_tweet_id": [
+        "2068586761421226445"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2069135823338160293",
+    "created_at": "2026-06-22T19:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T20:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069135823338160293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1587099221013864448",
+          "start": 3,
+          "username": "PickledChocola"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VQlMUzxP3y",
+          "end": 65,
+          "expanded_url": "https://x.com/PickledChocola/status/2068586761421226445/photo/1",
+          "media_key": "3_2068586758812446720",
+          "start": 42,
+          "url": "https://t.co/VQlMUzxP3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069135823338160293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068586761421226445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PickledChocola: 想展示长腿可却连地板都够不着......🐖 https://t.co/VQlMUzxP3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068586758812446720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUYsoIXsAAtbw1.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068586758812446720"
+          ],
+          "media_source_tweet_id": [
+            "2068586761421226445"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2069135823338160293",
+        "created_at": "2026-06-22T19:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T20:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069135823338160293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1587099221013864448",
+              "start": 3,
+              "username": "PickledChocola"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQlMUzxP3y",
+              "end": 65,
+              "expanded_url": "https://x.com/PickledChocola/status/2068586761421226445/photo/1",
+              "media_key": "3_2068586758812446720",
+              "start": 42,
+              "url": "https://t.co/VQlMUzxP3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069135823338160293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068586761421226445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PickledChocola: 想展示长腿可却连地板都够不着......🐖 https://t.co/VQlMUzxP3y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068586758812446720"
+          ]
+        },
+        "author_id": "1587099221013864448",
+        "conversation_id": "2068586761421226445",
+        "created_at": "2026-06-21T06:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068586761421226445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQlMUzxP3y",
+              "end": 45,
+              "expanded_url": "https://x.com/PickledChocola/status/2068586761421226445/photo/1",
+              "media_key": "3_2068586758812446720",
+              "start": 22,
+              "url": "https://t.co/VQlMUzxP3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068586761421226445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5565,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想展示长腿可却连地板都够不着......🐖 https://t.co/VQlMUzxP3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 277,
+          "like_count": 42994,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 13008
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T15:08:51.000Z",
+        "description": "紧实娃娃假正经，正经娃娃咸湿精",
+        "id": "1587099221013864448",
+        "location": "古里梧岛",
+        "name": "梅菜朱古力",
+        "pinned_tweet_id": "1961489726596325873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929515359012364288/RTWojvb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 1152,
+          "like_count": 7078,
+          "listed_count": 20,
+          "media_count": 93,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "PickledChocola",
+        "verified": false
+      }
+    ]
+  }
+}

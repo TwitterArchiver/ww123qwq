@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1999722892398120960"
+      ],
+      "media_source_tweet_id": [
+        "1999722925021364717"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2000184006982483970",
+    "created_at": "2025-12-14T12:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T13:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000184006982483970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471310644347498498",
+          "start": 3,
+          "username": "wn54321"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ch6UN0YchD",
+          "end": 56,
+          "expanded_url": "https://x.com/wn54321/status/1999722925021364717/video/1",
+          "media_key": "7_1999722892398120960",
+          "start": 33,
+          "url": "https://t.co/Ch6UN0YchD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000184006982483970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999722925021364717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wn54321: 被这样玩弄的话\n我一定一定会很开心的！ https://t.co/Ch6UN0YchD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000184006982483970].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000184006982483970",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000184006982483970"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17322,
+        "height": 853,
+        "media_key": "7_1999722892398120960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1999722892398120960/pu/img/9Cbo9n_KnC3zksIg.jpg",
+        "public_metrics": {
+          "view_count": 22418
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999722892398120960/pu/vid/avc1/320x568/qxS6prPWt0PynnTD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999722892398120960/pu/vid/avc1/480x852/k5ghN4bUeu4J_rs5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1999722892398120960/pu/pl/iMJYLdSYAWEof4Yo.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1999722892398120960"
+          ]
+        },
+        "author_id": "1471310644347498498",
+        "conversation_id": "1999722925021364717",
+        "created_at": "2025-12-13T06:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999722925021364717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ch6UN0YchD",
+              "end": 43,
+              "expanded_url": "https://x.com/wn54321/status/1999722925021364717/video/1",
+              "media_key": "7_1999722892398120960",
+              "start": 20,
+              "url": "https://t.co/Ch6UN0YchD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999722925021364717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 577,
+          "impression_count": 36841,
+          "like_count": 1517,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "被这样玩弄的话\n我一定一定会很开心的！ https://t.co/Ch6UN0YchD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿@QwqQwe88396逃生仓/od/生活费乞讨，赞助支付宝口令红包52/188/过门有福利/，也支持usdt。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "QwqQwe88396"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "1999793385163673730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997626189197012992/FxPH_ET5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 262,
+          "like_count": 40824,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 11795
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T02:46:24.000Z",
+        "description": "这是一个带各位lsp欣赏美好肉体和美人的直男账号！收集发送的各位老师的照片视频都不会用于欺骗或者损害形象的行为，如果哪位老师看见介意的话，请务必找我，我会立刻马上就删。\nhttps://t.co/XsnMM7zBnS，自用蜂鸟VPN加速器，",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 108,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=Qed0r7e2",
+                "start": 85,
+                "url": "https://t.co/XsnMM7zBnS"
+              }
+            ]
+          }
+        },
+        "id": "1471310644347498498",
+        "location": "在你身后～哎嘿～",
+        "name": "骆萌萌",
+        "pinned_tweet_id": "1997544141216186692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471311028881223684/2JdzeTvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76592,
+          "following_count": 650,
+          "like_count": 5673,
+          "listed_count": 368,
+          "media_count": 1601,
+          "tweet_count": 7727
+        },
+        "username": "wn54321",
+        "verified": false
+      }
+    ]
+  }
+}

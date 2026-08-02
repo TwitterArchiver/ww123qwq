@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1624925732722864129",
+          "name": "Temu"
+        }
+      }
+    ],
+    "conversation_id": "1800555475697897554",
+    "created_at": "2024-06-11T16:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T17:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800563057808253163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764820595387305984",
+          "start": 0,
+          "username": "miaoning000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800563057808253163",
+    "in_reply_to_user_id": "1764820595387305984",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800555475697897554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaoning000 你上temu买不就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1624925732722864129",
+              "name": "Temu"
+            }
+          }
+        ],
+        "conversation_id": "1800555475697897554",
+        "created_at": "2024-06-11T16:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T17:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800563057808253163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764820595387305984",
+              "start": 0,
+              "username": "miaoning000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800563057808253163",
+        "in_reply_to_user_id": "1764820595387305984",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800555475697897554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoning000 你上temu买不就好了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800555472757637120"
+          ]
+        },
+        "author_id": "1764820595387305984",
+        "conversation_id": "1800555475697897554",
+        "created_at": "2024-06-11T15:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T16:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800555475697897554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/l6hJvkI9re",
+              "end": 144,
+              "expanded_url": "https://twitter.com/miaoning000/status/1800555475697897554/photo/1",
+              "media_key": "3_1800555472757637120",
+              "start": 121,
+              "url": "https://t.co/l6hJvkI9re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800555475697897554",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的快递被家长控制，买了几瓶甘草片能直接被莫名取走。\n之前也拿过我的刀片，然后在那里说你怎么能伤害自己！\n明天又要去医院测脑电波，血清素还是别的什么，然后让医生再开点没有任何b用的药😇😇\n配图是抱群友的，本人亲历吃这么久五件套不如od管用💊 https://t.co/l6hJvkI9re"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "奈月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798913527064989696/UNDytWSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 107,
+          "like_count": 41059,
+          "listed_count": 0,
+          "tweet_count": 10302
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 文案配图还不成熟│07年/休学ing/双相/酷儿含糖ing🏳‍⚧️/割手？/偶尔涩涩/互fo/ overdose💊/负能⚠️/请多指教～\n门槛🚪30￥可接定制\n愿神明保佑世人✙",
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁♡🏳‍⚧（互fo）",
+        "pinned_tweet_id": "1796002220149768218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1544,
+          "like_count": 10779,
+          "listed_count": 5,
+          "tweet_count": 3782
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

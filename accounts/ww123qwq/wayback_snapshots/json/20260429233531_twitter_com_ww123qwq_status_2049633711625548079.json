@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049187980774924288"
+      ],
+      "media_source_tweet_id": [
+        "2049188047774740730"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2049633711625548079",
+    "created_at": "2026-04-29T23:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049633711625548079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "833781774278864896",
+          "start": 3,
+          "username": "lynasdf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/79uT00Z0uR",
+          "end": 47,
+          "expanded_url": "https://x.com/lynasdf/status/2049188047774740730/photo/1",
+          "media_key": "3_2049187980774924288",
+          "start": 24,
+          "url": "https://t.co/79uT00Z0uR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049633711625548079",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 393
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049188047774740730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lynasdf: Pregabalin https://t.co/79uT00Z0uR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1475,
+        "media_key": "3_2049187980774924288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAtnIgW4AATQ5w.png",
+        "width": 1441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049187980774924288"
+          ],
+          "media_source_tweet_id": [
+            "2049188047774740730"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2049633711625548079",
+        "created_at": "2026-04-29T23:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049633711625548079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "833781774278864896",
+              "start": 3,
+              "username": "lynasdf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/79uT00Z0uR",
+              "end": 47,
+              "expanded_url": "https://x.com/lynasdf/status/2049188047774740730/photo/1",
+              "media_key": "3_2049187980774924288",
+              "start": 24,
+              "url": "https://t.co/79uT00Z0uR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049633711625548079",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049188047774740730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lynasdf: Pregabalin https://t.co/79uT00Z0uR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049187980774924288"
+          ]
+        },
+        "author_id": "833781774278864896",
+        "conversation_id": "2049188047774740730",
+        "created_at": "2026-04-28T18:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T19:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049188047774740730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/79uT00Z0uR",
+              "end": 34,
+              "expanded_url": "https://x.com/lynasdf/status/2049188047774740730/photo/1",
+              "media_key": "3_2049187980774924288",
+              "start": 11,
+              "url": "https://t.co/79uT00Z0uR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049188047774740730",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 510,
+          "impression_count": 51962,
+          "like_count": 2888,
+          "quote_count": 34,
+          "reply_count": 52,
+          "retweet_count": 393
+        },
+        "reply_settings": "everyone",
+        "text": "Pregabalin https://t.co/79uT00Z0uR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "🍥友好/互fo/药理学可以问我/🚪52/od/",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 275,
+          "like_count": 42260,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 12706
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-20T20:54:00.000Z",
+        "description": "im lyn\n\nartist ☆ glaceon ☆ musicer\n\nwhat\n\n24 years old. elderly\n\nautistic transgender plural lesbian furry kinnie who likes digicore and touhou\n\nweird freak",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lynzone.neocities.org",
+                "end": 23,
+                "expanded_url": "https://lynzone.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/KT6uyKzz6s"
+              }
+            ]
+          }
+        },
+        "id": "833781774278864896",
+        "location": "she/her city",
+        "name": "lyndaisy ☆",
+        "pinned_tweet_id": "1944116978429440281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862670144280870912/k6ghQpGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7933,
+          "following_count": 401,
+          "like_count": 54453,
+          "listed_count": 18,
+          "media_count": 918,
+          "tweet_count": 9473
+        },
+        "url": "https://t.co/KT6uyKzz6s",
+        "username": "lynasdf",
+        "verified": false
+      }
+    ]
+  }
+}

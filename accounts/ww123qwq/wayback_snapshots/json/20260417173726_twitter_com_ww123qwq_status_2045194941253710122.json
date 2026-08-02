@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045048473205313537"
+      ],
+      "media_source_tweet_id": [
+        "2045048508777148886"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2045194941253710122",
+    "created_at": "2026-04-17T17:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045194941253710122"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "962426690419871744",
+          "start": 3,
+          "username": "TogisuAka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fcb3XIkICY",
+          "end": 56,
+          "expanded_url": "https://x.com/TogisuAka/status/2045048508777148886/photo/1",
+          "media_key": "3_2045048473205313537",
+          "start": 33,
+          "url": "https://t.co/fcb3XIkICY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045194941253710122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 585
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045048508777148886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TogisuAka: 🐏夏目アンアン\n#まのさば二次創作 https://t.co/fcb3XIkICY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3507,
+        "media_key": "3_2045048473205313537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGF4wFHbkAE69mP.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045048473205313537"
+          ],
+          "media_source_tweet_id": [
+            "2045048508777148886"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2045194941253710122",
+        "created_at": "2026-04-17T17:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045194941253710122"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "962426690419871744",
+              "start": 3,
+              "username": "TogisuAka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcb3XIkICY",
+              "end": 56,
+              "expanded_url": "https://x.com/TogisuAka/status/2045048508777148886/photo/1",
+              "media_key": "3_2045048473205313537",
+              "start": 33,
+              "url": "https://t.co/fcb3XIkICY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045194941253710122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 585
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045048508777148886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TogisuAka: 🐏夏目アンアン\n#まのさば二次創作 https://t.co/fcb3XIkICY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045048473205313537"
+          ]
+        },
+        "author_id": "962426690419871744",
+        "conversation_id": "2045048508777148886",
+        "created_at": "2026-04-17T07:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045048508777148886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcb3XIkICY",
+              "end": 41,
+              "expanded_url": "https://x.com/TogisuAka/status/2045048508777148886/photo/1",
+              "media_key": "3_2045048473205313537",
+              "start": 18,
+              "url": "https://t.co/fcb3XIkICY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045048508777148886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 30818,
+          "like_count": 3701,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 585
+        },
+        "reply_settings": "everyone",
+        "text": "🐏夏目アンアン\n#まのさば二次創作 https://t.co/fcb3XIkICY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "",
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2037934134107296102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 273,
+          "like_count": 42156,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 12626
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-10T20:42:58.000Z",
+        "description": "低浮上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=100021758086073",
+                "start": 0,
+                "url": "https://t.co/6ngxdAGAIj"
+              }
+            ]
+          }
+        },
+        "id": "962426690419871744",
+        "location": "togizu3320@gmail.com",
+        "name": "研澄です",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1394326815431282689/dw-ZAvXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 984,
+          "like_count": 1157,
+          "listed_count": 23,
+          "media_count": 120,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/6ngxdAGAIj",
+        "username": "TogisuAka",
+        "verified": false
+      }
+    ]
+  }
+}

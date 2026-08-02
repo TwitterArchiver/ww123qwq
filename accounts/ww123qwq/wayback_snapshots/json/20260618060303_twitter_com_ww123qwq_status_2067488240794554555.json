@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067441801422905344"
+      ],
+      "media_source_tweet_id": [
+        "2067441806296719786"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2067488240794554555",
+    "created_at": "2026-06-18T06:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067488240794554555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516058815652777989",
+          "start": 3,
+          "username": "PaulKochakin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0RPw6DgIvt",
+          "end": 67,
+          "expanded_url": "https://x.com/PaulKochakin/status/2067441806296719786/photo/1",
+          "media_key": "3_2067441801422905344",
+          "start": 44,
+          "url": "https://t.co/0RPw6DgIvt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067488240794554555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067441806296719786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PaulKochakin: 家门口就有个卖外烟的也是抽象\n早日戒烟Awwwww https://t.co/0RPw6DgIvt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067441801422905344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEHXVebIAATp37.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067441801422905344"
+          ],
+          "media_source_tweet_id": [
+            "2067441806296719786"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2067488240794554555",
+        "created_at": "2026-06-18T06:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067488240794554555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516058815652777989",
+              "start": 3,
+              "username": "PaulKochakin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RPw6DgIvt",
+              "end": 67,
+              "expanded_url": "https://x.com/PaulKochakin/status/2067441806296719786/photo/1",
+              "media_key": "3_2067441801422905344",
+              "start": 44,
+              "url": "https://t.co/0RPw6DgIvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067488240794554555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067441806296719786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PaulKochakin: 家门口就有个卖外烟的也是抽象\n早日戒烟Awwwww https://t.co/0RPw6DgIvt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067441801422905344"
+          ]
+        },
+        "author_id": "1516058815652777989",
+        "conversation_id": "2067441806296719786",
+        "created_at": "2026-06-18T02:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067441806296719786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0RPw6DgIvt",
+              "end": 49,
+              "expanded_url": "https://x.com/PaulKochakin/status/2067441806296719786/photo/1",
+              "media_key": "3_2067441801422905344",
+              "start": 26,
+              "url": "https://t.co/0RPw6DgIvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067441806296719786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "家门口就有个卖外烟的也是抽象\n早日戒烟Awwwww https://t.co/0RPw6DgIvt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 271,
+          "like_count": 42795,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 12951
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T14:19:37.000Z",
+        "description": "你好啊，很高兴认识你，交个朋友什么的｜光荣在于平淡，艰巨在于漫长｜C(化学)B(生物)R(放射性物质)N(核)N(麻醉物)E(爆炸物) |NATO Rd40 40mm |SCBA/PAPR/APR |摄影/NVG微光管 |LGBBQ+/WTF |整点薯条先 |Gas Mask爱好者，Military enthusias",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "militarykit.com",
+                "end": 23,
+                "expanded_url": "https://www.militarykit.com/",
+                "start": 0,
+                "url": "https://t.co/NGAYH5taxB"
+              }
+            ]
+          }
+        },
+        "id": "1516058815652777989",
+        "location": "「向日葵花開滿的地方」",
+        "name": "超级神奇白皮书书 #​9-12A",
+        "pinned_tweet_id": "2039093717408399478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861784087079587840/IS606ZqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 1359,
+          "like_count": 47250,
+          "listed_count": 5,
+          "media_count": 2164,
+          "tweet_count": 12441
+        },
+        "url": "https://t.co/NGAYH5taxB",
+        "username": "PaulKochakin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2011536877069971601",
+    "created_at": "2026-01-16T13:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T14:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012150412158366203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007068022750814208",
+          "start": 0,
+          "username": "futi78999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012150412158366203",
+    "in_reply_to_user_id": "2007068022750814208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011536877069971601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@futi78999 我觉得挺爽的，相较于裸盖菇更好玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1733,
+        "height": 720,
+        "media_key": "13_2011536825639206913",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011536825639206913/img/iK4i2vfx5w3pNpq0.jpg",
+        "public_metrics": {
+          "view_count": 149
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011536825639206913/vid/avc1/480x270/3eyUraknfrFIG2R0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011536825639206913/vid/avc1/640x360/4VzThkTlM__7BF2A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011536825639206913/vid/avc1/1280x720/mEWW9X3rFBJJyjCc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011536825639206913/pl/ydsLfgfhWdtkxS8e.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2011536877069971601",
+        "created_at": "2026-01-16T13:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T14:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012150412158366203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007068022750814208",
+              "start": 0,
+              "username": "futi78999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012150412158366203",
+        "in_reply_to_user_id": "2007068022750814208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011536877069971601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi78999 我觉得挺爽的，相较于裸盖菇更好玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011536825639206913"
+          ]
+        },
+        "author_id": "2007068022750814208",
+        "conversation_id": "2011536877069971601",
+        "created_at": "2026-01-14T20:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T21:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011536877069971601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGKQsCcHxC",
+              "end": 41,
+              "expanded_url": "https://x.com/futi78999/status/2011536877069971601/video/1",
+              "media_key": "13_2011536825639206913",
+              "start": 18,
+              "url": "https://t.co/vGKQsCcHxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011536877069971601",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4:29 21mg4-ho-met https://t.co/vGKQsCcHxC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2010427671222837494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 267,
+          "like_count": 41025,
+          "listed_count": 5,
+          "media_count": 546,
+          "tweet_count": 12086
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:34:56.000Z",
+        "description": "我是扶梯 我存在中重度精分发散中 色胺宇宙的精灵 所有展示的药品均为化学研究 欢迎互fo lgbt全友好",
+        "id": "2007068022750814208",
+        "name": "扶梯（二世）",
+        "pinned_tweet_id": "2007078563661623386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011531755535126529/e8ihfW9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 254,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 220
+        },
+        "username": "futi78999",
+        "verified": false
+      }
+    ]
+  }
+}

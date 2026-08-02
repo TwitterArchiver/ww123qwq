@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071504952405766193",
+    "created_at": "2026-06-29T12:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071566112693895203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        },
+        {
+          "end": 25,
+          "id": "2057552254463291393",
+          "start": 16,
+          "username": "6De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071566112693895203",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071504952405766193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korewoizontoyo @6De_dian 噢噢噢哦哦哦哦哦哦齁齁齁齁齁齁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1503,
+        "media_key": "3_2071504941739581440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL92xOraoAAeeEH.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071504952405766193",
+        "created_at": "2026-06-29T12:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071566112693895203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            },
+            {
+              "end": 25,
+              "id": "2057552254463291393",
+              "start": 16,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071566112693895203",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071504952405766193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo @6De_dian 噢噢噢哦哦哦哦哦哦齁齁齁齁齁齁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071504941739581440"
+          ]
+        },
+        "author_id": "1755664020944941056",
+        "conversation_id": "2071504952405766193",
+        "created_at": "2026-06-29T08:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071504952405766193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057552254463291393",
+              "start": 4,
+              "username": "6De_dian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJh0LNGsrq",
+              "end": 37,
+              "expanded_url": "https://x.com/Korewoizontoyo/status/2071504952405766193/photo/1",
+              "media_key": "3_2071504941739581440",
+              "start": 14,
+              "url": "https://t.co/KJh0LNGsrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071504952405766193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 878,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干啥呢？@6De_dian https://t.co/KJh0LNGsrq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 285,
+          "like_count": 43297,
+          "listed_count": 4,
+          "media_count": 714,
+          "tweet_count": 13152
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。我会查成分回关。\n只是一个互联网神人而已，你拉黑我的话我就死了。            \n                                                                       \n我最重要最爱的女孩@6De_dian 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "6De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2067641877361541426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070782217593470976/S5lpuKhn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 474,
+          "like_count": 2832,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 847
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 300,
+          "like_count": 5647,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 948
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1521553831775158273",
+    "conversation_id": "1875948520735392133",
+    "created_at": "2025-01-06T15:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T16:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876286912455114767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793636329299066880",
+          "start": 0,
+          "username": "cuichuna7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876286912455114767",
+    "in_reply_to_user_id": "1793636329299066880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875948520735392133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichuna7 羡慕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521553831775158273",
+        "conversation_id": "1875948520735392133",
+        "created_at": "2025-01-06T15:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876286912455114767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793636329299066880",
+              "start": 0,
+              "username": "cuichuna7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876286912455114767",
+        "in_reply_to_user_id": "1793636329299066880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875948520735392133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichuna7 羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793636329299066880",
+        "conversation_id": "1875948520735392133",
+        "created_at": "2025-01-05T16:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T17:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875948520735392133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875948520735392133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 686,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天o了1.2g右美沙芬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "点赞，日常推，希望和大家交朋友，同类互fo，友跨",
+        "id": "1521553831775158273",
+        "location": " ",
+        "name": "🍥伊奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875130660249374720/8xx7zm5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 123,
+          "like_count": 39592,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 10132
+        },
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的小猫娘/identityV/抑郁症患者😞//欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jmopm8964",
+                "end": 23,
+                "expanded_url": "https://t.me/jmopm8964",
+                "start": 0,
+                "url": "https://t.co/fQZ05MzgoT"
+              }
+            ]
+          }
+        },
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "graee.time☃︎",
+        "pinned_tweet_id": "1868290454615474348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 962,
+          "like_count": 1244,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/fQZ05MzgoT",
+        "username": "cuichuna7",
+        "verified": true
+      }
+    ]
+  }
+}

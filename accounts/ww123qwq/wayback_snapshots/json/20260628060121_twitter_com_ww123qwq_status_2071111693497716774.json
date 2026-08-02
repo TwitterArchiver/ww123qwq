@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069912738902745088"
+      ],
+      "media_source_tweet_id": [
+        "2069912746725179548"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071111693497716774",
+    "created_at": "2026-06-28T06:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071111693497716774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1479730386431545346",
+          "start": 3,
+          "username": "YuKi520OwO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o6UAN1WCAz",
+          "end": 131,
+          "expanded_url": "https://x.com/YuKi520OwO/status/2069912746725179548/photo/1",
+          "media_key": "3_2069912738902745088",
+          "start": 108,
+          "url": "https://t.co/o6UAN1WCAz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071111693497716774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069912746725179548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuKi520OwO: n55在吃了68mg氯硝死活睡不着然后又打了两小时羽毛球和5pc紫超上导致一晚没睡差点致敬张雪峰老师，目前在急诊\n千雪刚从看守所出来被剪了头发正在重新留头发\n于是两人决定官宣情侣关系 https://t.co/o6UAN1WCAz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069912738902745088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnOq05aoAAzQRw.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069912738902745088"
+          ],
+          "media_source_tweet_id": [
+            "2069912746725179548"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071111693497716774",
+        "created_at": "2026-06-28T06:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071111693497716774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479730386431545346",
+              "start": 3,
+              "username": "YuKi520OwO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6UAN1WCAz",
+              "end": 131,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2069912746725179548/photo/1",
+              "media_key": "3_2069912738902745088",
+              "start": 108,
+              "url": "https://t.co/o6UAN1WCAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071111693497716774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069912746725179548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuKi520OwO: n55在吃了68mg氯硝死活睡不着然后又打了两小时羽毛球和5pc紫超上导致一晚没睡差点致敬张雪峰老师，目前在急诊\n千雪刚从看守所出来被剪了头发正在重新留头发\n于是两人决定官宣情侣关系 https://t.co/o6UAN1WCAz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069912738902745088"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "2069912746725179548",
+        "created_at": "2026-06-24T22:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069912746725179548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6UAN1WCAz",
+              "end": 115,
+              "expanded_url": "https://x.com/YuKi520OwO/status/2069912746725179548/photo/1",
+              "media_key": "3_2069912738902745088",
+              "start": 92,
+              "url": "https://t.co/o6UAN1WCAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069912746725179548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2684,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "n55在吃了68mg氯硝死活睡不着然后又打了两小时羽毛球和5pc紫超上导致一晚没睡差点致敬张雪峰老师，目前在急诊\n千雪刚从看守所出来被剪了头发正在重新留头发\n于是两人决定官宣情侣关系 https://t.co/o6UAN1WCAz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /备用号@www123qwq关注防走丢/不建政/上海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "www123qwq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 279,
+          "like_count": 43126,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 13076
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/用一生补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国（及港澳台）/日本/泰国等",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2065363151705837568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8692,
+          "following_count": 1150,
+          "like_count": 16265,
+          "listed_count": 18,
+          "media_count": 339,
+          "tweet_count": 2428
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

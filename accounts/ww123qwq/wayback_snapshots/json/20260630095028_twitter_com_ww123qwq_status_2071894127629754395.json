@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071625102475870208"
+      ],
+      "media_source_tweet_id": [
+        "2071625117545767140"
+      ]
+    },
+    "author_id": "1521553831775158273",
+    "conversation_id": "2071894127629754395",
+    "created_at": "2026-06-30T09:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071894127629754395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1521553831775158273",
+          "start": 3,
+          "username": "ww123qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZVkZj0eNQY",
+          "end": 47,
+          "expanded_url": "https://x.com/ww123qwq/status/2071625117545767140/photo/1",
+          "media_key": "3_2071625102475870208",
+          "start": 24,
+          "url": "https://t.co/ZVkZj0eNQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071894127629754395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071625117545767140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ww123qwq: 和ill逛陆家嘴喵 https://t.co/ZVkZj0eNQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071625102475870208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_kDgTbQAAM00I.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071625102475870208"
+          ],
+          "media_source_tweet_id": [
+            "2071625117545767140"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071894127629754395",
+        "created_at": "2026-06-30T09:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071894127629754395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1521553831775158273",
+              "start": 3,
+              "username": "ww123qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZVkZj0eNQY",
+              "end": 47,
+              "expanded_url": "https://x.com/ww123qwq/status/2071625117545767140/photo/1",
+              "media_key": "3_2071625102475870208",
+              "start": 24,
+              "url": "https://t.co/ZVkZj0eNQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071894127629754395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071625117545767140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ww123qwq: 和ill逛陆家嘴喵 https://t.co/ZVkZj0eNQY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071625102475870208"
+          ]
+        },
+        "author_id": "1521553831775158273",
+        "conversation_id": "2071625117545767140",
+        "created_at": "2026-06-29T16:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071625117545767140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZVkZj0eNQY",
+              "end": 33,
+              "expanded_url": "https://x.com/ww123qwq/status/2071625117545767140/photo/1",
+              "media_key": "3_2071625102475870208",
+              "start": 10,
+              "url": "https://t.co/ZVkZj0eNQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071625117545767140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "和ill逛陆家嘴喵 https://t.co/ZVkZj0eNQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "/雪兔/🍥友好/互fo/药理学可以问我/🚪52/od/匿名提问：https://t.co/z7JUvmJ0BL /不建政/上海",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww123qwq1",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ww123qwq1",
+                "start": 32,
+                "url": "https://t.co/z7JUvmJ0BL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.54KM",
+        "name": "伊奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2066408908491800787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059558364125040641/2iICrx7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 285,
+          "like_count": 43352,
+          "listed_count": 4,
+          "media_count": 720,
+          "tweet_count": 13177
+        },
+        "url": "",
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}
